@@ -1,0 +1,24 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "net.barchin/mcp",
+  "description": "Web scraping and Iranian-web data tools for AI agents: JS rendering, rotating Iranian proxies, Markdown output, screenshots, Torob and other actors.",
+  "repository": {
+    "url": "https://github.com/barchin-net/barchin-mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://barchin.net/mcp",
+      "headers": [
+        {
+          "name": "Authorization",
+          "description": "Bearer <Barchin API key from https://barchin.net/dashboard/api-keys>",
+          "isRequired": true,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "barchin": {
+      "url": "https://barchin.net/mcp",
+      "headers": {
+        "Authorization": "Bearer bk_live_XXXX"
+      }
+    }
+  }
+}
