@@ -2,8 +2,6 @@
 
 Barchin gives AI agents a single MCP tool belt for reading the live web: JavaScript rendering, rotating Iranian residential and datacenter proxies, anti-bot handling, and clean Markdown output — including Iranian sites that foreign scraping services cannot reach at all.
 
-> Status: the endpoint goes live with the next Barchin deploy (October 2026).
-
 ## Endpoint
 
 ```
@@ -11,6 +9,15 @@ https://barchin.net/mcp
 ```
 
 MCP **Streamable HTTP** transport. Remote only — nothing to install.
+
+Try it — anonymous discovery works with no key:
+
+```bash
+curl -s -X POST https://barchin.net/mcp \
+  -H "Content-Type: application/json" \
+  -H "Accept: application/json, text/event-stream" \
+  -d '{"jsonrpc":"2.0","id":1,"method":"tools/list","params":{}}'
+```
 
 ## Auth
 
@@ -25,9 +32,11 @@ MCP **Streamable HTTP** transport. Remote only — nothing to install.
 |---|---|
 | `scrape_url(url, render_js=true, proxy=auto\|datacenter\|residential\|unblocker, country?, format=markdown\|text\|html, max_chars=40000, wait_for?)` | Fetches a URL and returns `{request_id, status, final_url, http_status, content, format, truncated, credits_used, credits_remaining}`. Waits up to 85 s, then returns `status: "processing"` if the page is still not ready. |
 | `get_scrape(request_id, format, max_chars)` | Polls/retrieves the result of a previously started scrape. |
-| `get_screenshot(url, full_page=false, format=png\|pdf)` | Captures a screenshot or PDF of a page. |
-| `list_actors()` | Lists available actors (site-specific scrapers). |
-| `actor_<slug>(...)` | One tool per active actor, e.g. `actor_torob-product-sellers`. |
+| `get_screenshot(url, full_page=false, format=png\|pdf)` | Captures a screenshot or PDF of a page. Long renders return `status: "processing"` with a `run_id` instead. |
+| `list_actors()` | Lists all 82 active actors (site-specific scrapers) and each one's input schema. |
+| `run_actor(slug, input)` | Runs any active actor by slug — the generic way to call all 82 actors, not just the curated ones below. |
+| `get_actor_run(run_id)` | Polls/retrieves the result of a long actor run or screenshot that came back `status: "processing"` with a `run_id`. |
+| `actor_<slug>(...)` | Direct tools for a curated set of popular Iranian-web actors, e.g. `actor_torob-product-sellers`. Every other actor is reached via `list_actors` + `run_actor`. |
 | `get_balance()` | Returns remaining credits. |
 
 ## Connect
@@ -93,8 +102,6 @@ MIT
 
 برچین یک مجموعه ابزار MCP یکپارچه برای خواندن وب زنده در اختیار ایجنت‌های هوش مصنوعی قرار می‌دهد: رندر جاوااسکریپت، پراکسی‌های رزیدنشیال و دیتاسنتر ایرانی چرخشی، مقابله با anti-bot، و خروجی Markdown تمیز؛ حتی برای سایت‌های ایرانی که سرویس‌های اسکرپینگ خارجی اصلاً به آن‌ها دسترسی ندارند.
 
-> وضعیت: این endpoint با دیپلوی بعدی برچین (مهر ۱۴۰۵ / اکتبر ۲۰۲۶) فعال می‌شود.
-
 ## آدرس سرویس (Endpoint)
 
 ```
@@ -102,6 +109,8 @@ https://barchin.net/mcp
 ```
 
 ترنسپورت **MCP Streamable HTTP**. فقط به‌صورت ریموت — نیازی به نصب چیزی نیست.
+
+امتحانش کنید — کشف ابزارها بدون کلید هم کار می‌کند: `curl -s -X POST https://barchin.net/mcp -H "Content-Type: application/json" -H "Accept: application/json, text/event-stream" -d '{"jsonrpc":"2.0","id":1,"method":"tools/list","params":{}}'`
 
 ## احراز هویت
 
@@ -116,9 +125,11 @@ https://barchin.net/mcp
 |---|---|
 | `scrape_url(url, render_js=true, proxy=auto\|datacenter\|residential\|unblocker, country?, format=markdown\|text\|html, max_chars=40000, wait_for?)` | یک URL را واکشی می‌کند و خروجی `{request_id, status, final_url, http_status, content, format, truncated, credits_used, credits_remaining}` برمی‌گرداند. حداکثر ۸۵ ثانیه منتظر می‌ماند و در صورت آماده نبودن صفحه، `status: "processing"` برمی‌گرداند. |
 | `get_scrape(request_id, format, max_chars)` | نتیجه یک درخواست اسکرپ قبلی را واکشی یا استعلام می‌کند. |
-| `get_screenshot(url, full_page=false, format=png\|pdf)` | از صفحه، اسکرین‌شات یا PDF می‌گیرد. |
-| `list_actors()` | فهرست اکتورهای فعال (اسکرپرهای مخصوص سایت) را برمی‌گرداند. |
-| `actor_<slug>(...)` | به ازای هر اکتور فعال یک ابزار، مثلاً `actor_torob-product-sellers`. |
+| `get_screenshot(url, full_page=false, format=png\|pdf)` | از صفحه، اسکرین‌شات یا PDF می‌گیرد. رندر طولانی به‌جای آن `status: "processing"` با یک `run_id` برمی‌گرداند. |
+| `list_actors()` | فهرست همه‌ی ۸۲ اکتور فعال (اسکرپرهای مخصوص سایت) و شِمای ورودی هرکدام را برمی‌گرداند. |
+| `run_actor(slug, input)` | هر اکتور فعال را با slug اجرا می‌کند؛ راه عمومی برای صدا کردن همه‌ی ۸۲ اکتور، نه‌فقط آن‌هایی که در جدول زیر ابزار مستقیم دارند. |
+| `get_actor_run(run_id)` | نتیجه‌ی یک اجرای طولانی اکتور یا اسکرین‌شات را که با `status: "processing"` و یک `run_id` برگشته بود، واکشی یا استعلام می‌کند. |
+| `actor_<slug>(...)` | ابزارهای مستقیم برای مجموعه‌ای منتخب از اکتورهای پرکاربرد وب ایران، مثلاً `actor_torob-product-sellers`. هر اکتور دیگری از طریق `list_actors` و `run_actor` در دسترس است. |
 | `get_balance()` | اعتبار باقی‌مانده را برمی‌گرداند. |
 
 ## اتصال
