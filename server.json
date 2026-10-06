@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "net.barchin/mcp",
-  "description": "Web scraping and Iranian-web data tools for AI agents: JS rendering, rotating Iranian proxies, Markdown output, screenshots, Torob and other actors.",
+  "description": "Web scraping and Iranian-web data tools for AI agents: JS rendering, proxies, Markdown output.",
   "repository": {
     "url": "https://github.com/barchin-net/barchin-mcp",
     "source": "github"
