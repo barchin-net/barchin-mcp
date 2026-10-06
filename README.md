@@ -1,6 +1,12 @@
 # Barchin MCP — web access for AI agents on the Iranian web
 
-Barchin gives AI agents a single MCP tool belt for reading the live web: JavaScript rendering, rotating Iranian residential and datacenter proxies, anti-bot handling, and clean Markdown output — including Iranian sites that foreign scraping services cannot reach at all.
+Barchin gives AI agents a single MCP tool belt for reading the live web, built around an Iranian residential and datacenter proxy pool — IPs inside Iran that Iranian sites don't meet with the CAPTCHAs and blocks they throw at foreign ones — plus JavaScript rendering, anti-bot handling, and clean Markdown output, including Iranian sites that foreign scraping services cannot reach at all.
+
+## Why Barchin for Iranian sites
+
+- **An Iranian IP pool.** No foreign scraping API offers IPs inside Iran. Iranian sites are highly sensitive to foreign IPs — requests through non-Iranian proxies often trigger CAPTCHAs or get blocked outright, forcing retries that burn solver costs and credits. Iranian IPs mean fewer blocks, fewer retries, and a lower real cost per successful page.
+- **Pay in Toman.** No USD card, no currency-exchange intermediary and its fees, no sanctions friction.
+- **Priced at or below foreign alternatives.** Per-request pricing is equal to or lower than foreign scraping APIs — even before counting the extra fees Iranian users pay to make a dollar payment through an intermediary.
 
 ## Endpoint
 
@@ -100,7 +106,13 @@ MIT
 
 # برچین برای ایجنت‌های هوش مصنوعی
 
-برچین یک مجموعه ابزار MCP یکپارچه برای خواندن وب زنده در اختیار ایجنت‌های هوش مصنوعی قرار می‌دهد: رندر جاوااسکریپت، پراکسی‌های رزیدنشیال و دیتاسنتر ایرانی چرخشی، مقابله با anti-bot، و خروجی Markdown تمیز؛ حتی برای سایت‌های ایرانی که سرویس‌های اسکرپینگ خارجی اصلاً به آن‌ها دسترسی ندارند.
+برچین یک مجموعه ابزار MCP یکپارچه برای خواندن وب زنده در اختیار ایجنت‌های هوش مصنوعی قرار می‌دهد، بر پایه‌ی استخر پراکسی رزیدنشیال و دیتاسنتر ایرانی — IPهایی داخل ایران که سایت‌های ایرانی آن‌ها را با کپچا یا مسدودسازی مثل IPهای خارجی رد نمی‌کنند — به‌علاوه‌ی رندر جاوااسکریپت، مقابله با anti-bot و خروجی Markdown تمیز؛ حتی برای سایت‌های ایرانی که سرویس‌های اسکرپینگ خارجی اصلاً به آن‌ها دسترسی ندارند.
+
+## چرا برچین برای سایت‌های ایرانی
+
+- **استخر IP ایرانی.** هیچ API اسکرپینگ خارجی‌ای IP داخل ایران ندارد. سایت‌های ایرانی نسبت به IP خارجی بسیار حساس‌اند — درخواست از پروکسی غیرایرانی غالباً با کپچا یا مسدودسازی مواجه می‌شود، یعنی تلاش دوباره، هزینه‌ی حل کپچا و کردیت هدررفته. IP ایرانی یعنی مسدودسازی کمتر، تلاش دوباره کمتر و هزینه‌ی واقعی هر صفحه‌ی موفق پایین‌تر.
+- **پرداخت به تومان.** بدون کارت دلاری، بدون واسطه‌ی تبادل ارز و کارمزدش، بدون دردسر تحریم.
+- **قیمتی برابر یا پایین‌تر از جایگزین‌های خارجی.** هزینه‌ی هر درخواست با API‌های اسکرپینگ خارجی برابر یا کمتر است، آن هم پیش از کارمزدهایی که کاربر ایرانی برای پرداخت دلاری از طریق واسطه می‌پردازد.
 
 ## آدرس سرویس (Endpoint)
 
