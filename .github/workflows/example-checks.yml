@@ -1,0 +1,27 @@
+name: Example checks
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  examples:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
+      - name: Syntax and credential scan
+        run: |
+          python3 -m py_compile examples/actors/*.py tests/test_examples.py
+          node --check examples/actors/actor-node.mjs
+          node --check examples/actors/mcp-discover.mjs
+          php -l examples/actors/actor-php.php
+          php -r 'exit(extension_loaded("curl") ? 0 : 1);'
+          python3 examples/actors/check-secrets.py
+      - name: REST and MCP mocks on loopback
+        run: python3 tests/test_examples.py
