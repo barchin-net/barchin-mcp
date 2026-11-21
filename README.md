@@ -39,8 +39,8 @@ curl -s -X POST https://barchin.net/mcp \
 | `scrape_url(url, render_js=true, proxy=auto\|datacenter\|residential\|unblocker, country?, format=markdown\|text\|html, max_chars=40000, wait_for?)` | Fetches a URL and returns `{request_id, status, final_url, http_status, content, format, truncated, credits_used, credits_remaining}`. Waits up to 85 s, then returns `status: "processing"` if the page is still not ready. |
 | `get_scrape(request_id, format, max_chars)` | Polls/retrieves the result of a previously started scrape. |
 | `get_screenshot(url, full_page=false, format=png\|pdf)` | Captures a screenshot or PDF of a page. Long renders return `status: "processing"` with a `run_id` instead. |
-| `list_actors()` | Lists all 82 active actors (site-specific scrapers) and each one's input schema. |
-| `run_actor(slug, input)` | Runs any active actor by slug — the generic way to call all 82 actors, not just the curated ones below. |
+| `list_actors()` | Lists active actors (site-specific scrapers) and each one's input schema. |
+| `run_actor(slug, input)` | Runs any active actor by slug — the generic way to call the current Actor catalog, not just the curated ones below. |
 | `get_actor_run(run_id)` | Polls/retrieves the result of a long actor run or screenshot that came back `status: "processing"` with a `run_id`. |
 | `actor_<slug>(...)` | Direct tools for a curated set of popular Iranian-web actors, e.g. `actor_torob-product-sellers`. Every other actor is reached via `list_actors` + `run_actor`. |
 | `get_balance()` | Returns remaining credits. |
@@ -64,7 +64,7 @@ claude mcp add --transport http barchin https://barchin.net/mcp --header "Author
 ### OpenAI Responses API (Python)
 
 ```python
-tools=[{"type":"mcp","server_label":"barchin","server_url":"https://barchin.net/mcp","headers":{"Authorization":"Bearer bk_live_XXXX"},"require_approval":"never"}]
+tools=[{"type":"mcp","server_label":"barchin","server_url":"https://barchin.net/mcp","headers":{"Authorization":"Bearer bk_live_XXXX"},"require_approval":"always"}]
 ```
 
 ### Claude Desktop
@@ -74,6 +74,10 @@ Claude Desktop does not speak Streamable HTTP natively yet — bridge it with `m
 ```bash
 npx mcp-remote https://barchin.net/mcp --header "Authorization: Bearer bk_live_XXXX"
 ```
+
+## Actor REST examples
+
+[Estimate credits, submit once, and resume an Actor run](examples/actors/README.md) with Python, Node.js, or PHP. [API reference](https://barchin.net/docs#actor-estimate) · [Public OpenAPI](https://barchin.net/openapi.json)
 
 ## Credits
 
@@ -138,8 +142,8 @@ https://barchin.net/mcp
 | `scrape_url(url, render_js=true, proxy=auto\|datacenter\|residential\|unblocker, country?, format=markdown\|text\|html, max_chars=40000, wait_for?)` | یک URL را واکشی می‌کند و خروجی `{request_id, status, final_url, http_status, content, format, truncated, credits_used, credits_remaining}` برمی‌گرداند. حداکثر ۸۵ ثانیه منتظر می‌ماند و در صورت آماده نبودن صفحه، `status: "processing"` برمی‌گرداند. |
 | `get_scrape(request_id, format, max_chars)` | نتیجه یک درخواست اسکرپ قبلی را واکشی یا استعلام می‌کند. |
 | `get_screenshot(url, full_page=false, format=png\|pdf)` | از صفحه، اسکرین‌شات یا PDF می‌گیرد. رندر طولانی به‌جای آن `status: "processing"` با یک `run_id` برمی‌گرداند. |
-| `list_actors()` | فهرست همه‌ی ۸۲ اکتور فعال (اسکرپرهای مخصوص سایت) و شِمای ورودی هرکدام را برمی‌گرداند. |
-| `run_actor(slug, input)` | هر اکتور فعال را با slug اجرا می‌کند؛ راه عمومی برای صدا کردن همه‌ی ۸۲ اکتور، نه‌فقط آن‌هایی که در جدول زیر ابزار مستقیم دارند. |
+| `list_actors()` | فهرست اکتورهای فعال (اسکرپرهای مخصوص سایت) و شِمای ورودی هرکدام را برمی‌گرداند. |
+| `run_actor(slug, input)` | هر اکتور فعال را با slug اجرا می‌کند؛ راه عمومی برای صدا کردن همهٔ اکتورهای فعال، نه‌فقط آن‌هایی که در جدول زیر ابزار مستقیم دارند. |
 | `get_actor_run(run_id)` | نتیجه‌ی یک اجرای طولانی اکتور یا اسکرین‌شات را که با `status: "processing"` و یک `run_id` برگشته بود، واکشی یا استعلام می‌کند. |
 | `actor_<slug>(...)` | ابزارهای مستقیم برای مجموعه‌ای منتخب از اکتورهای پرکاربرد وب ایران، مثلاً `actor_torob-product-sellers`. هر اکتور دیگری از طریق `list_actors` و `run_actor` در دسترس است. |
 | `get_balance()` | اعتبار باقی‌مانده را برمی‌گرداند. |
@@ -163,7 +167,7 @@ claude mcp add --transport http barchin https://barchin.net/mcp --header "Author
 ### OpenAI Responses API (پایتون)
 
 ```python
-tools=[{"type":"mcp","server_label":"barchin","server_url":"https://barchin.net/mcp","headers":{"Authorization":"Bearer bk_live_XXXX"},"require_approval":"never"}]
+tools=[{"type":"mcp","server_label":"barchin","server_url":"https://barchin.net/mcp","headers":{"Authorization":"Bearer bk_live_XXXX"},"require_approval":"always"}]
 ```
 
 ### Claude Desktop
@@ -173,6 +177,10 @@ Claude Desktop هنوز به‌صورت مستقیم از Streamable HTTP پشت
 ```bash
 npx mcp-remote https://barchin.net/mcp --header "Authorization: Bearer bk_live_XXXX"
 ```
+
+## نمونه‌های REST اکتور
+
+[راهنمای اجرا و برآورد با Python، Node.js و PHP](examples/actors/README.md) · [مستندات API](https://barchin.net/docs#actor-estimate)
 
 ## اعتبارها (Credits)
 
