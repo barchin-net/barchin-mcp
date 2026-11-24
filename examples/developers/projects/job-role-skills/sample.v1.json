@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "provenance": "سه آگهی فرانت‌اند مستقیماً از صفحات عمومی جاب‌ویژن در 2026-11-24T21:37+00:00 بررسی شدند. ردیف‌های دیگر از نمونه‌های مستند برچین‌اند. تاریخ تهیهٔ بسته با تاریخ انتشار آگهی تفاوت دارد.",
-  "time": "2026-11-24T21:37+00:00",
+  "provenance": "مهارت‌ها از شرح یا فهرست نرم‌افزارهای آگهی‌های واقعی جاب‌ویژن استخراج شدند. تعداد آگهی هر نقش کنار شواهد آن دیده می‌شود.",
+  "time": "2026-11-24T22:08:06+00:00",
   "rows": [
     {
       "role": "توسعهٔ وب",
@@ -14,7 +14,8 @@
         "React",
         "Git"
       ],
-      "link": "https://www.jobvision.ir/jobs/1584337"
+      "link": "https://www.jobvision.ir/jobs/1584337",
+      "observed": "2026-11-24T21:37+00:00"
     },
     {
       "role": "توسعهٔ وب",
@@ -24,7 +25,8 @@
         "Git",
         "Angular"
       ],
-      "link": "https://www.jobvision.ir/jobs/1550909"
+      "link": "https://www.jobvision.ir/jobs/1550909",
+      "observed": "2026-11-24T21:37+00:00"
     },
     {
       "role": "توسعهٔ وب",
@@ -34,16 +36,18 @@
         "React",
         "Git"
       ],
-      "link": "https://www.jobvision.ir/jobs/1545586"
+      "link": "https://www.jobvision.ir/jobs/1545586",
+      "observed": "2026-11-24T21:37+00:00"
     },
     {
       "role": "رسانه",
       "title": "خبرنگار - خانم",
       "skills": [
-        "Adobe Indesign",
+        "Adobe InDesign",
         "Adobe Photoshop"
       ],
-      "link": "https://www.jobvision.ir/jobs/1506033"
+      "link": "https://www.jobvision.ir/jobs/1506033",
+      "observed": "2026-11-24T22:08:06+00:00"
     },
     {
       "role": "توسعهٔ وب",
@@ -57,7 +61,8 @@
         "SQL",
         "C#"
       ],
-      "link": "https://www.jobvision.ir/jobs/1479989"
+      "link": "https://www.jobvision.ir/jobs/1479989",
+      "observed": "2026-09-27"
     }
   ]
 }

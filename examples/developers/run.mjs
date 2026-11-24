@@ -8,7 +8,15 @@ import {capUrl,deep,demo,esc,prompt} from './presentation.mjs';
 const here=path.dirname(fileURLToPath(import.meta.url));
 const read=f=>fs.readFileSync(path.join(here,f),'utf8');
 export const catalog=JSON.parse(read('catalog.json'));
-export const sample=p=>JSON.parse(read('projects/'+p.slug+'/sample.v1.json'));
+export function sample(p){
+ const data=JSON.parse(read('projects/'+p.slug+'/sample.v1.json'));
+ assert(data.provenance?.trim() && !Number.isNaN(Date.parse(data.time)) && data.rows.length,p.slug+' needs a dated source description and records');
+ for(const row of data.rows){
+  const source=new URL(row.link);
+  assert(source.protocol==='https:' && !/\.(example|invalid|test)$/.test(source.hostname) && !Number.isNaN(Date.parse(row.observed)),p.slug+' record needs a public source and observation date');
+ }
+ return data;
+}
 const scriptJSON=x=>JSON.stringify(x).replaceAll('<','\\u003c');
 export function documentOf(title,desc,canonical,body,js='',chrome={}){
  return '<!doctype html><html lang="fa" dir="rtl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>'+esc(title)+' | توسعه‌دهندگان برچین</title><meta name="description" content="'+esc(desc)+'"><meta property="og:title" content="'+esc(title)+'"><meta property="og:description" content="'+esc(desc)+'"><link rel="canonical" href="https://barchin.net'+canonical+'">'+(chrome.styles||'')+'<style>body{margin:0;'+(chrome.styles?'':'font-family:system-ui,sans-serif')+'}'+read('style.css')+'</style></head><body'+(chrome.staticHeader?' data-local-tool':'')+'>'+(chrome.header||'')+'<main class="dev" id="main">'+body+'</main>'+(chrome.footer||'')+'<script>'+js+'</script>'+(chrome.scripts||'')+'</body></html>';

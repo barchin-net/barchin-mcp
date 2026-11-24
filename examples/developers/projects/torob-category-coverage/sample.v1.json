@@ -1,37 +1,31 @@
 {
   "version": 1,
-  "provenance": "نمونهٔ آموزشی تألیفی برچین؛ نام‌ها، اعداد و زمان‌ها برای نمایش رفتار برنامه ساخته شده‌اند.",
-  "time": "2026-11-24T21:28+00:00",
+  "time": "2026-11-24T22:02:07+00:00",
+  "provenance": "سه کارت واقعی از پاسخ عمومی ترب برای دستهٔ ۲۱۹۳ در آرشیو ۴ اکتبر ۲۰۲۶. تعداد غرفه‌ها از عبارت خود ترب و کف قیمت به تومان است.",
   "rows": [
     {
-      "category": "قهوه",
-      "product": "آسیاب دستی",
-      "sellers": 8,
-      "floorPrice": 850000
-    },
-    {
-      "category": "قهوه",
-      "product": "موکاپات",
-      "sellers": 4,
-      "floorPrice": 690000
-    },
-    {
-      "category": "قهوه",
-      "product": "فیلتر کاغذی",
-      "sellers": 2,
-      "floorPrice": 180000
-    },
-    {
-      "category": "چراغ",
-      "product": "چراغ رومیزی",
-      "sellers": 6,
-      "floorPrice": 970000
-    },
-    {
-      "category": "چراغ",
-      "product": "چراغ شارژی",
+      "category": "اره موتوری و زنجیری",
+      "product": "اره موتوری توکیو ۵۲ سی سی سایز ۵۰ سانت بنزینی",
       "sellers": 3,
-      "floorPrice": 620000
+      "floorPrice": 14700000,
+      "link": "https://torob.com/p/3f48860b-8236-4733-a9f0-0b5d5e6a37a2/%D8%A7%D8%B1%D9%87-%D9%85%D9%88%D8%AA%D9%88%D8%B1%DB%8C-%D8%AA%D9%88%DA%A9%DB%8C%D9%88-52-%D8%B3%DB%8C-%D8%B3%DB%8C-%D8%B3%D8%A7%DB%8C%D8%B2-50-%D8%B3%D8%A7%D9%86%D8%AA-%D8%A8%D9%86%D8%B2%DB%8C%D9%86%DB%8C/",
+      "observed": "2026-10-04"
+    },
+    {
+      "category": "اره موتوری و زنجیری",
+      "product": "اره برقی اینتیمکس مدل 0602 سایز ۳۰ سانت",
+      "sellers": 5,
+      "floorPrice": 8220000,
+      "link": "https://torob.com/p/deb6819b-8dc9-448c-94b7-0f6cd0544455/%D8%A7%D8%B1%D9%87-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A7%DB%8C%D9%86%D8%AA%DB%8C%D9%85%DA%A9%D8%B3-%D9%85%D8%AF%D9%84-0602-%D8%B3%D8%A7%DB%8C%D8%B2-30-%D8%B3%D8%A7%D9%86%D8%AA/",
+      "observed": "2026-10-04"
+    },
+    {
+      "category": "اره موتوری و زنجیری",
+      "product": "اره زنجیری برقی ادون مدل ECS405-KA40 سایز ۴۰ سانت",
+      "sellers": 15,
+      "floorPrice": 8358000,
+      "link": "https://torob.com/p/58e16181-ac9d-4521-b94a-a0c249bbc0d0/%D8%A7%D8%B1%D9%87-%D8%B2%D9%86%D8%AC%DB%8C%D8%B1%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A7%D8%AF%D9%88%D9%86-%D9%85%D8%AF%D9%84-ecs405-ka40-%D8%B3%D8%A7%DB%8C%D8%B2-40-%D8%B3%D8%A7%D9%86%D8%AA/",
+      "observed": "2026-10-04"
     }
   ]
 }

@@ -1,91 +1,133 @@
 {
   "version": 1,
-  "provenance": "نمونهٔ آموزشی تألیفی برچین؛ نام‌ها، اعداد و زمان‌ها برای نمایش رفتار برنامه ساخته شده‌اند.",
-  "time": "2026-11-24T21:28+00:00",
+  "time": "2026-11-24T22:02:07+00:00",
+  "provenance": "دو برداشت مستقل از هفت آگهی اول نمایشگاه ۲۸۱۷ در باما. مقایسه بر اساس شناسهٔ ثابت آگهی است.",
   "rows": [
     {
-      "dealer": "نمایشگاه سرو",
-      "date": "2026-11-20",
-      "id": "A",
-      "title": "نمایشگاه سرو · مدل یک",
-      "price": 630000000
+      "id": "ezg3xiyi",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T21:51:35+00:00",
+      "title": "بنز، کلاس S",
+      "price": 26900000000,
+      "observed": "2026-11-24T21:51:35+00:00",
+      "link": "https://bama.ir/car/detail-ezg3xiyi-mercedesbenz-sclass-s500-2011"
     },
     {
-      "dealer": "نمایشگاه سرو",
-      "date": "2026-11-20",
-      "id": "B",
-      "title": "نمایشگاه سرو · مدل دو",
-      "price": 525000000
+      "id": "zhellmk0",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T21:51:35+00:00",
+      "title": "ب ام و، سری 5 سدان",
+      "price": 35900000000,
+      "observed": "2026-11-24T21:51:35+00:00",
+      "link": "https://bama.ir/car/detail-zhellmk0-bmw-5seriessedan-530i-2018"
     },
     {
-      "dealer": "نمایشگاه سرو",
-      "date": "2026-11-22",
-      "id": "A",
-      "title": "نمایشگاه سرو · مدل یک",
-      "price": 658000000
+      "id": "ju4sozud",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T21:51:35+00:00",
+      "title": "هیوندای، النترا",
+      "price": 6990000000,
+      "observed": "2026-11-24T21:51:35+00:00",
+      "link": "https://bama.ir/car/detail-ju4sozud-hyundai-elantra-1.6l-2023"
     },
     {
-      "dealer": "نمایشگاه سرو",
-      "date": "2026-11-22",
-      "id": "C",
-      "title": "نمایشگاه سرو · مدل سه",
-      "price": 574000000
+      "id": "avx1t0ia",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T21:51:35+00:00",
+      "title": "تانک، 500HEV",
+      "price": 23990000000,
+      "observed": "2026-11-24T21:51:35+00:00",
+      "link": "https://bama.ir/car/detail-avx1t0ia-tank-500hev-2.0literturbo-2026"
     },
     {
-      "dealer": "نمایشگاه سرو",
-      "date": "2026-11-24",
-      "id": "C",
-      "title": "نمایشگاه سرو · مدل سه",
-      "price": 553000000
+      "id": "tknqlpnt",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T21:51:35+00:00",
+      "title": "تانک، 700",
+      "price": 33980000000,
+      "observed": "2026-11-24T21:51:35+00:00",
+      "link": "https://bama.ir/car/detail-tknqlpnt-tank-700-3.0literturbo-2026"
     },
     {
-      "dealer": "نمایشگاه سرو",
-      "date": "2026-11-24",
-      "id": "D",
-      "title": "نمایشگاه سرو · مدل چهار",
-      "price": 665000000
+      "id": "vqxdlnpd",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T21:51:35+00:00",
+      "title": "وویا، فری",
+      "price": 17690000000,
+      "observed": "2026-11-24T21:51:35+00:00",
+      "link": "https://bama.ir/car/detail-vqxdlnpd-Voyah-free-1.5liter-2026"
     },
     {
-      "dealer": "نمایشگاه سپید",
-      "date": "2026-11-20",
-      "id": "A",
-      "title": "نمایشگاه سپید · مدل یک",
-      "price": 630000000
+      "id": "p5agifyz",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T21:51:35+00:00",
+      "title": "تویوتا، پرادو چهار در",
+      "price": 47500000000,
+      "observed": "2026-11-24T21:51:35+00:00",
+      "link": "https://bama.ir/car/detail-p5agifyz-toyota-prado4doors-2.4literturbo-2025"
     },
     {
-      "dealer": "نمایشگاه سپید",
-      "date": "2026-11-20",
-      "id": "B",
-      "title": "نمایشگاه سپید · مدل دو",
-      "price": 525000000
+      "id": "ezg3xiyi",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T21:53:37+00:00",
+      "title": "بنز، کلاس S",
+      "price": 26900000000,
+      "observed": "2026-11-24T21:53:37+00:00",
+      "link": "https://bama.ir/car/detail-ezg3xiyi-mercedesbenz-sclass-s500-2011"
     },
     {
-      "dealer": "نمایشگاه سپید",
-      "date": "2026-11-22",
-      "id": "A",
-      "title": "نمایشگاه سپید · مدل یک",
-      "price": 658000000
+      "id": "zhellmk0",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T21:53:37+00:00",
+      "title": "ب ام و، سری 5 سدان",
+      "price": 35900000000,
+      "observed": "2026-11-24T21:53:37+00:00",
+      "link": "https://bama.ir/car/detail-zhellmk0-bmw-5seriessedan-530i-2018"
     },
     {
-      "dealer": "نمایشگاه سپید",
-      "date": "2026-11-22",
-      "id": "C",
-      "title": "نمایشگاه سپید · مدل سه",
-      "price": 574000000
+      "id": "ju4sozud",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T21:53:37+00:00",
+      "title": "هیوندای، النترا",
+      "price": 6990000000,
+      "observed": "2026-11-24T21:53:37+00:00",
+      "link": "https://bama.ir/car/detail-ju4sozud-hyundai-elantra-1.6l-2023"
     },
     {
-      "dealer": "نمایشگاه سپید",
-      "date": "2026-11-24",
-      "id": "C",
-      "title": "نمایشگاه سپید · مدل سه",
-      "price": 553000000
+      "id": "avx1t0ia",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T21:53:37+00:00",
+      "title": "تانک، 500HEV",
+      "price": 23990000000,
+      "observed": "2026-11-24T21:53:37+00:00",
+      "link": "https://bama.ir/car/detail-avx1t0ia-tank-500hev-2.0literturbo-2026"
     },
     {
-      "dealer": "نمایشگاه سپید",
-      "date": "2026-11-24",
-      "id": "D",
-      "title": "نمایشگاه سپید · مدل چهار",
-      "price": 665000000
+      "id": "tknqlpnt",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T21:53:37+00:00",
+      "title": "تانک، 700",
+      "price": 33980000000,
+      "observed": "2026-11-24T21:53:37+00:00",
+      "link": "https://bama.ir/car/detail-tknqlpnt-tank-700-3.0literturbo-2026"
+    },
+    {
+      "id": "vqxdlnpd",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T21:53:37+00:00",
+      "title": "وویا، فری",
+      "price": 17690000000,
+      "observed": "2026-11-24T21:53:37+00:00",
+      "link": "https://bama.ir/car/detail-vqxdlnpd-Voyah-free-1.5liter-2026"
+    },
+    {
+      "id": "p5agifyz",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T21:53:37+00:00",
+      "title": "تویوتا، پرادو چهار در",
+      "price": 47500000000,
+      "observed": "2026-11-24T21:53:37+00:00",
+      "link": "https://bama.ir/car/detail-p5agifyz-toyota-prado4doors-2.4literturbo-2025"
     }
   ]
 }

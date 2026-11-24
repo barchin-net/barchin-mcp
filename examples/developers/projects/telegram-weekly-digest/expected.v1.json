@@ -5,7 +5,8 @@
     "story",
     "summary",
     "published",
-    "link"
+    "link",
+    "observed"
   ],
   "rows": [
     {
@@ -13,32 +14,36 @@
       "week": "2026-06-15",
       "story": "سیاست‌گذاری پلتفرم",
       "summary": "نویسنده دربارهٔ محدودیت سنی شبکه‌های اجتماعی در بریتانیا موضع گرفته است.",
-      "published": "2026-06-15T18:58:13Z",
-      "link": "https://t.me/durov/528"
+      "published": "2026-06-15T18:58:13+00:00",
+      "link": "https://t.me/durov/528",
+      "observed": "2026-11-24T22:07:54+00:00"
     },
     {
       "channel": "durov",
       "week": "2026-06-15",
       "story": "سیاست‌گذاری پلتفرم",
       "summary": "پست دیگری به محدودیت موقت دسترسی به تلگرام در هند پرداخته است.",
-      "published": "2026-06-16T15:05:29Z",
-      "link": "https://t.me/durov/529"
+      "published": "2026-06-16T15:05:29+00:00",
+      "link": "https://t.me/durov/529",
+      "observed": "2026-11-24T22:08:07+00:00"
     },
     {
       "channel": "durov",
       "week": "2026-07-13",
       "story": "به‌روزرسانی محصول",
       "summary": "تلگرام امکانات ویرایشگر متن جدید را معرفی کرده است.",
-      "published": "2026-07-16T20:45:25Z",
-      "link": "https://t.me/durov/531"
+      "published": "2026-07-16T20:45:25+00:00",
+      "link": "https://t.me/durov/531",
+      "observed": "2026-11-24T22:07:54+00:00"
     },
     {
       "channel": "varzesh3",
       "week": "2026-09-28",
       "story": "فوتبال",
       "summary": "ورزش سه برخورد یک شوت به تیر در دقیقهٔ دوازدهم مسابقه را گزارش کرد.",
-      "published": "2026-09-28T19:20:19Z",
-      "link": "https://t.me/varzesh3/303003"
+      "published": "2026-09-28T19:20:19+00:00",
+      "link": "https://t.me/varzesh3/303003",
+      "observed": "2026-11-24T22:07:55+00:00"
     }
   ],
   "groups": [

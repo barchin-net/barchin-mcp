@@ -1,63 +1,169 @@
 {
   "version": 1,
-  "provenance": "نمونهٔ آموزشی تألیفی برچین؛ نام‌ها، اعداد و زمان‌ها برای نمایش رفتار برنامه ساخته شده‌اند.",
-  "time": "2026-11-24T21:28+00:00",
+  "time": "2026-11-24T22:02:07+00:00",
+  "provenance": "آگهی‌های پژو از دیوار و باما با نام مدل، سال شمسی و کیلومتر ثبت‌شده مقایسه می‌شوند. تیپ و وضعیت بدنه می‌تواند متفاوت باشد.",
   "rows": [
     {
-      "model": "پژو ۲۰۶",
-      "year": 1399,
-      "km": 82000,
+      "model": "پژو 207",
+      "year": 1405,
+      "km": 1800,
       "source": "دیوار",
-      "price": 405000000
+      "price": 3430000000,
+      "observed": "2026-11-24T21:56:22+00:00",
+      "link": "https://divar.ir/v/waF4fsrW"
     },
     {
-      "model": "پژو ۲۰۶",
-      "year": 1400,
-      "km": 54000,
-      "source": "باما",
-      "price": 460000000
-    },
-    {
-      "model": "پژو ۲۰۶",
-      "year": 1400,
-      "km": 72000,
+      "model": "پژو 207",
+      "year": 1404,
+      "km": 5,
       "source": "دیوار",
-      "price": 435000000
+      "price": 3450000000,
+      "observed": "2026-11-24T21:56:22+00:00",
+      "link": "https://divar.ir/v/waF8PQOJ"
     },
     {
-      "model": "پژو ۲۰۶",
-      "year": 1399,
-      "km": 91000,
-      "source": "باما",
-      "price": 400000000
-    },
-    {
-      "model": "کوییک",
-      "year": 1399,
-      "km": 82000,
+      "model": "پژو 207",
+      "year": 1405,
+      "km": 0,
       "source": "دیوار",
-      "price": 465000000
+      "price": 2000000000,
+      "observed": "2026-11-24T21:56:22+00:00",
+      "link": "https://divar.ir/v/gaf741v3"
     },
     {
-      "model": "کوییک",
-      "year": 1400,
-      "km": 54000,
-      "source": "باما",
-      "price": 520000000
-    },
-    {
-      "model": "کوییک",
-      "year": 1400,
-      "km": 72000,
+      "model": "پژو 207",
+      "year": 1402,
+      "km": 68000,
       "source": "دیوار",
-      "price": 495000000
+      "price": 2900000000,
+      "observed": "2026-11-24T21:56:22+00:00",
+      "link": "https://divar.ir/v/waF8eJEi"
     },
     {
-      "model": "کوییک",
-      "year": 1399,
-      "km": 91000,
+      "model": "پژو 207",
+      "year": 1403,
+      "km": 30000,
+      "source": "دیوار",
+      "price": 3050000000,
+      "observed": "2026-11-24T21:56:22+00:00",
+      "link": "https://divar.ir/v/waFs-b-q"
+    },
+    {
+      "model": "پژو 207",
+      "year": 1405,
+      "km": 0,
+      "source": "دیوار",
+      "price": 3600000000,
+      "observed": "2026-11-24T21:56:22+00:00",
+      "link": "https://divar.ir/v/waFc-pdP"
+    },
+    {
+      "model": "پژو 207",
+      "year": 1404,
+      "km": 30000,
       "source": "باما",
-      "price": 460000000
+      "price": 2700000000,
+      "observed": "2026-11-24T21:51:35+00:00",
+      "link": "https://bama.ir/car/detail-ydusitun-peugeot-207-manualtu5p-1404"
+    },
+    {
+      "model": "پژو 207",
+      "year": 1397,
+      "km": 45000,
+      "source": "باما",
+      "price": 2850000000,
+      "observed": "2026-11-24T21:51:35+00:00",
+      "link": "https://bama.ir/car/detail-lb8cvbgi-peugeot-207-at-1397"
+    },
+    {
+      "model": "پژو 207",
+      "year": 1403,
+      "km": 1000,
+      "source": "باما",
+      "price": 4150000000,
+      "observed": "2026-11-24T21:51:35+00:00",
+      "link": "https://bama.ir/car/detail-oagwrtug-peugeot-207-automaticpanoramatu5p-1403"
+    },
+    {
+      "model": "پژو 207",
+      "year": 1403,
+      "km": 75000,
+      "source": "باما",
+      "price": 3099000000,
+      "observed": "2026-11-24T21:51:35+00:00",
+      "link": "https://bama.ir/car/detail-c1wk5gbr-peugeot-207-manualpanorama-1403"
+    },
+    {
+      "model": "پژو 206",
+      "year": 1388,
+      "km": 208000,
+      "source": "دیوار",
+      "price": 990000000,
+      "observed": "2026-11-24T21:51:36+00:00",
+      "link": "https://divar.ir/v/waGUgf9o"
+    },
+    {
+      "model": "پژو 206",
+      "year": 1382,
+      "km": 300000,
+      "source": "دیوار",
+      "price": 610000000,
+      "observed": "2026-11-24T21:51:36+00:00",
+      "link": "https://divar.ir/v/waGUwXOK"
+    },
+    {
+      "model": "پژو 206",
+      "year": 1401,
+      "km": 22000,
+      "source": "دیوار",
+      "price": 2550000000,
+      "observed": "2026-11-24T21:51:36+00:00",
+      "link": "https://divar.ir/v/waGUQS58"
+    },
+    {
+      "model": "پژو 206",
+      "year": 1397,
+      "km": 145000,
+      "source": "دیوار",
+      "price": 2100000000,
+      "observed": "2026-11-24T21:51:36+00:00",
+      "link": "https://divar.ir/v/waGIwtOB"
+    },
+    {
+      "model": "پژو 206",
+      "year": 1395,
+      "km": 141000,
+      "source": "دیوار",
+      "price": 1385000000,
+      "observed": "2026-11-24T21:51:36+00:00",
+      "link": "https://divar.ir/v/waFsvuFm"
+    },
+    {
+      "model": "پژو 206",
+      "year": 1380,
+      "km": 500000,
+      "source": "دیوار",
+      "price": 680000000,
+      "observed": "2026-11-24T21:51:36+00:00",
+      "link": "https://divar.ir/v/waFgPY4k"
+    },
+    {
+      "model": "پژو 206",
+      "year": 1383,
+      "km": 410000,
+      "source": "دیوار",
+      "price": 870000000,
+      "observed": "2026-11-24T21:51:36+00:00",
+      "link": "https://divar.ir/v/ga3edFIj"
+    },
+    {
+      "model": "پژو 206",
+      "year": 1396,
+      "km": 150000,
+      "source": "دیوار",
+      "price": 1560000000,
+      "observed": "2026-11-24T21:51:36+00:00",
+      "link": "https://divar.ir/v/waFUOxpO"
     }
   ]
 }

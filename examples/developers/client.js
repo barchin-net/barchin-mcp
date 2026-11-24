@@ -1,5 +1,5 @@
 const state=initial(project,sample),root=document.getElementById('results'),filters=document.getElementById('filters');
-const storageKey='barchin-dev-v1-'+project.slug;
+const storageKey='barchin-dev-recorded-v1-'+project.slug;
 let memory={saved:{},answers:{}};
 try{memory=JSON.parse(localStorage.getItem(storageKey))||memory}catch{}
 const persist=()=>{try{localStorage.setItem(storageKey,JSON.stringify(memory))}catch{}};
@@ -7,11 +7,15 @@ function update(){root.innerHTML=result(project,view(project,sample,state),memor
 filters.addEventListener('input',e=>{
  const input=e.target,c=input.dataset.c;if(!c)return;
  state[c]=input.type==='checkbox'?[...filters.elements].filter(i=>i.dataset.c===c&&i.checked).map(i=>i.value):input.value;
- if(project.tree&&c==='one:branch'){
-  const category=filters.querySelector('[data-c="one:category"]');
-  const values=unique(sample.rows.filter(r=>r.branch===input.value).map(r=>r.category));
-  category.replaceChildren(...values.map(v=>new Option(v,v)));
-  state['one:category']=category.value;
+ if(c.startsWith('one:')){
+  for(const child of project.controls.slice(project.controls.indexOf(c)+1)){
+   const field=[...filters.elements].find(el=>el.dataset.c===child);
+   if(field?.tagName!=='SELECT'||!(parents[child]||child==='base:date'||child==='next:date'))continue;
+   const values=choices(project,sample,child,state);
+   const selected=values.includes(state[child])?state[child]:child==='next:date'?values.at(-1):values[0];
+   field.replaceChildren(...values.map(v=>new Option(fmt(v),v,false,v===selected)));
+   state[child]=selected;
+  }
  }
  update();
 });

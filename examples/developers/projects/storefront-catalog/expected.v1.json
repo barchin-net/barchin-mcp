@@ -5,32 +5,70 @@
     "amount",
     "currency",
     "stock",
-    "attributes"
+    "attributes",
+    "observed",
+    "link"
   ],
   "rows": [
     {
-      "url": "https://shop.example/catalog/cup",
-      "product": "فنجان لعابی",
-      "amount": 290000,
-      "currency": "تومان",
-      "stock": "موجود",
-      "attributes": "جنس لعاب‌دار، ۲۵۰ میلی‌لیتر"
+      "product": "عینک آفتابی ریبن 3931 طلایی Rayban - ceecee",
+      "url": "https://ceecee.ir/product/%D8%B9%DB%8C%D9%86%DA%A9-%D8%A2%D9%81%D8%AA%D8%A7%D8%A8%DB%8C-%D8%B1%DB%8C%D8%A8%D9%86-28755-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-rayban-2/",
+      "amount": 79000000,
+      "currency": "IRR",
+      "stock": "InStock",
+      "attributes": "برند ریبن/Rayban، جنس-فریم فلزی (تیتانیوم)، رنگ-عدسی مشکی، رنگ-فریم طلایی، سایز کوچک (S)، محافظت یووی400",
+      "link": "https://ceecee.ir/product/%D8%B9%DB%8C%D9%86%DA%A9-%D8%A2%D9%81%D8%AA%D8%A7%D8%A8%DB%8C-%D8%B1%DB%8C%D8%A8%D9%86-28755-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-rayban-2/",
+      "observed": "2026-11-15T06:04:18+00:00"
     },
     {
-      "url": "https://shop.example/catalog/lamp",
-      "product": "چراغ مطالعه",
-      "amount": 7800000,
-      "currency": "ریال",
-      "stock": "موجود",
-      "attributes": "رنگ سبز، ۹ وات"
+      "product": "سرخ کن کریسپی نینجا Ninja Crispi Pro XL - آلپوشاپ",
+      "url": "https://alposhop.ir/product/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%DA%A9%D8%B1%DB%8C%D8%B3%D9%BE%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-ninja-crispi-pro-xl/",
+      "amount": 980000000,
+      "currency": "IRR",
+      "stock": "InStock",
+      "attributes": "برند ninja، مدل Crispi Pro XL، تعداد-برنامه 7 برنامه Air Fry (سرخ‌ کردن با هوای داغ) Max Crisp ( حداکثری تردی) Bake (پخت) Prove (عمل‌آوری و تخمیر خمیر) roast ( کبابی کردن ) dehydrate ( خشک کردن میوه ) Re-crisp (ترد کردن مجدد)، توان-دستگاه 1800وات، حجم-مخزن-غذا مناسب برای 6 نفر، دمای-قابل-تنظیم بله",
+      "link": "https://alposhop.ir/product/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%DA%A9%D8%B1%DB%8C%D8%B3%D9%BE%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-ninja-crispi-pro-xl/",
+      "observed": "2026-11-11T19:42:42+00:00"
     },
     {
-      "url": "https://shop.example/catalog/bag",
-      "product": "کیف پارچه‌ای",
-      "amount": null,
-      "currency": "تومان",
-      "stock": "نامشخص",
-      "attributes": "پنبه، بند بلند"
+      "product": "گردنبند گوی ابری",
+      "url": "https://loolooshop.ir/product/Category-Neckless-bb936",
+      "amount": 500000,
+      "currency": "IRR",
+      "stock": null,
+      "attributes": "رنگ نارنجی",
+      "link": "https://loolooshop.ir/product/Category-Neckless-bb936",
+      "observed": "2026-11-12T09:49:26+00:00"
+    },
+    {
+      "product": "مودم روتر دی-لینک مدل DSL-124 New Version 2022 - مرکز اینترنت پارسیان",
+      "url": "https://parsian-nc.ir/product/%D9%85%D9%88%D8%AF%D9%85-%D8%B1%D9%88%D8%AA%D8%B1-%D8%AF%DB%8C-%D9%84%DB%8C%D9%86%DA%A9-%D9%85%D8%AF%D9%84-dsl-124-new-version-2022/",
+      "amount": 23000000,
+      "currency": "IRR",
+      "stock": "InStock",
+      "attributes": null,
+      "link": "https://parsian-nc.ir/product/%D9%85%D9%88%D8%AF%D9%85-%D8%B1%D9%88%D8%AA%D8%B1-%D8%AF%DB%8C-%D9%84%DB%8C%D9%86%DA%A9-%D9%85%D8%AF%D9%84-dsl-124-new-version-2022/",
+      "observed": "2026-11-18T07:41:42+00:00"
+    },
+    {
+      "product": "لامپ ال ای دی (LED) 30 وات استوانه برندPGT",
+      "url": "https://parsianafroz.ir/product/%D9%84%D8%A7%D9%85%D9%BE-%D8%A7%D9%84-%D8%A7%DB%8C-%D8%AF%DB%8C-led-30-%D9%88%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D9%88%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D9%86%D8%AFpgt/",
+      "amount": 7068000,
+      "currency": "IRR",
+      "stock": null,
+      "attributes": null,
+      "link": "https://parsianafroz.ir/product/%D9%84%D8%A7%D9%85%D9%BE-%D8%A7%D9%84-%D8%A7%DB%8C-%D8%AF%DB%8C-led-30-%D9%88%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D9%88%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D9%86%D8%AFpgt/",
+      "observed": "2026-11-06T16:54:48+00:00"
+    },
+    {
+      "product": "کیسه جاروبرقی عرشیا - خاک انداز",
+      "url": "https://www.khakandazz.ir/product/%DA%A9%DB%8C%D8%B3%D9%87-%D8%AC%D8%A7%D8%B1%D9%88%D8%A8%D8%B1%D9%82%DB%8C-%D8%B9%D8%B1%D8%B4%DB%8C%D8%A7/",
+      "amount": 3900000,
+      "currency": "IRR",
+      "stock": "InStock",
+      "attributes": null,
+      "link": "https://www.khakandazz.ir/product/%DA%A9%DB%8C%D8%B3%D9%87-%D8%AC%D8%A7%D8%B1%D9%88%D8%A8%D8%B1%D9%82%DB%8C-%D8%B9%D8%B1%D8%B4%DB%8C%D8%A7/",
+      "observed": "2026-11-11T18:41:29+00:00"
     }
   ],
   "groups": [],

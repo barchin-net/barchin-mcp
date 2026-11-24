@@ -5,40 +5,40 @@
     "question",
     "evidence",
     "count",
-    "answer"
+    "answer",
+    "observed",
+    "link"
   ],
   "rows": [
     {
-      "id": "F1",
-      "topic": "ارسال",
-      "question": "ارسال چند روز طول می‌کشد؟",
+      "id": "DezlNmyAFeu-1",
+      "topic": "زیستگاه",
+      "question": "آیا پانگولین هنوز در اندونزی زندگی می‌کند؟",
       "evidence": [
-        "چند روزه می‌رسه؟",
-        "زمان ارسال چقدره؟"
-      ],
-      "count": 2,
-      "answer": "زمان تحویل را بر اساس شهر مقصد مشخص کنید."
-    },
-    {
-      "id": "F2",
-      "topic": "مرجوعی",
-      "question": "چطور درخواست مرجوعی بدهم؟",
-      "evidence": [
-        "برای برگشت کالا کجا پیام بدم؟",
-        "روش ثبت مرجوعی چیه؟"
-      ],
-      "count": 2,
-      "answer": "مسیر ثبت درخواست و شرایط مرجوعی فروشگاه را وارد کنید."
-    },
-    {
-      "id": "F3",
-      "topic": "پرداخت",
-      "question": "پرداخت در محل دارید؟",
-      "evidence": [
-        "پرداخت موقع تحویل ممکنه؟"
+        {
+          "text": "پست اصلی نشنال جئوگرافیک",
+          "href": "https://www.instagram.com/p/DezlNmyAFeu/"
+        }
       ],
       "count": 1,
-      "answer": "روش‌های پرداخت فعال را اینجا بنویسید."
+      "answer": "",
+      "observed": "2026-10-23T20:00:02.229175Z",
+      "link": "https://www.instagram.com/p/DezlNmyAFeu/"
+    },
+    {
+      "id": "DezlNmyAFeu-2",
+      "topic": "تکامل",
+      "question": "فلس‌های پانگولین چگونه تکامل یافته‌اند؟",
+      "evidence": [
+        {
+          "text": "پست اصلی نشنال جئوگرافیک",
+          "href": "https://www.instagram.com/p/DezlNmyAFeu/"
+        }
+      ],
+      "count": 1,
+      "answer": "",
+      "observed": "2026-10-23T20:00:02.229175Z",
+      "link": "https://www.instagram.com/p/DezlNmyAFeu/"
     }
   ],
   "groups": [],

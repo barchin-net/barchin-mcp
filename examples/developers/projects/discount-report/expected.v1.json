@@ -4,36 +4,64 @@
     "product",
     "original",
     "discounted",
+    "observed",
+    "link",
     "percent"
   ],
   "rows": [
     {
-      "url": "https://shop.example/p/cup",
-      "product": "ماگ",
-      "original": 500000,
-      "discounted": 400000,
-      "percent": 20
+      "url": "https://www.digikala.com/product/dkp-9113418/",
+      "link": "https://www.digikala.com/product/dkp-9113418/",
+      "product": "کتاب نازنین اثر فیودور داستایوسکی نشر چشمه | گارانتی اصالت و سلامت فیزیکی کالا",
+      "original": 350000,
+      "discounted": 228900,
+      "observed": "2026-11-24T21:54:55+00:00",
+      "percent": 34.6
     },
     {
-      "url": "https://shop.example/p/box",
-      "product": "جعبه",
-      "original": 250000,
-      "discounted": 230000,
-      "percent": 8
+      "url": "https://www.digikala.com/product/dkp-20109389/",
+      "link": "https://www.digikala.com/product/dkp-20109389/",
+      "product": "گوشی موبایل سامسونگ مدل Galaxy A07 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت | سبز | گارانتی 18 ماهه شرکتی",
+      "original": 43298900,
+      "discounted": 42000000,
+      "observed": "2026-11-24T21:54:55+00:00",
+      "percent": 3
     },
     {
-      "url": "https://shop.example/p/pen",
-      "product": "خودنویس",
-      "original": null,
-      "discounted": 320000,
-      "percent": null
+      "url": "https://www.digikala.com/product/dkp-5449423/",
+      "link": "https://www.digikala.com/product/dkp-5449423/",
+      "product": "کتاب انتخاب جلد یک اثر کایرا کاس نشر باژ  | گارانتی اصالت و سلامت فیزیکی کالا",
+      "original": 1219000,
+      "discounted": 1188590,
+      "observed": "2026-11-24T21:54:55+00:00",
+      "percent": 2.5
     },
     {
-      "url": "https://shop.example/p/lamp",
-      "product": "چراغ",
-      "original": 680000,
-      "discounted": null,
-      "percent": null
+      "url": "https://www.digikala.com/product/dkp-20490694/",
+      "link": "https://www.digikala.com/product/dkp-20490694/",
+      "product": "گوشی موبایل سامسونگ مدل Galaxy A17 4G دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت - ویتنام | خاکستری | گارانتی 18 ماهه هماهنگ (داریا همراه)",
+      "original": 61493200,
+      "discounted": 61493200,
+      "observed": "2026-11-24T21:54:55+00:00",
+      "percent": 0
+    },
+    {
+      "url": "https://www.digikala.com/product/dkp-20490714/",
+      "link": "https://www.digikala.com/product/dkp-20490714/",
+      "product": "گوشی موبایل سامسونگ مدل Galaxy A17 4G دو سیم کارت ظرفیت 128 گیگابایت و رم 6 گیگابایت - ویتنام | مشکی | گارانتی 18 ماهه هماهنگ (داریا همراه)",
+      "original": 75900000,
+      "discounted": 75900000,
+      "observed": "2026-11-24T21:54:55+00:00",
+      "percent": 0
+    },
+    {
+      "url": "https://www.digikala.com/product/dkp-137612/",
+      "link": "https://www.digikala.com/product/dkp-137612/",
+      "product": "کتاب بامداد خمار اثر فتانه حاج سید جوادی | گارانتی اصالت و سلامت فیزیکی کالا",
+      "original": 780000,
+      "discounted": 780000,
+      "observed": "2026-11-24T21:54:55+00:00",
+      "percent": 0
     }
   ],
   "groups": [],

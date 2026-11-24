@@ -1,49 +1,61 @@
 {
   "version": 1,
-  "provenance": "نمونهٔ آموزشی تألیفی برچین؛ نام‌ها، اعداد و زمان‌ها برای نمایش رفتار برنامه ساخته شده‌اند.",
-  "time": "2026-11-24T21:28+00:00",
+  "time": "2026-11-24T22:02:07+00:00",
+  "provenance": "شش پیشنهادِ گروه ثبت‌شدهٔ فیلیپس NA230 دوباره از صفحهٔ عمومی هر فروشگاه در باسلام خوانده شد. امتیاز ثبت‌شده مربوط به محصول همان غرفه است.",
   "rows": [
     {
-      "product": "عسل ۵۰۰ گرمی",
-      "seller": "غرفهٔ کاج",
-      "city": "رشت",
-      "price": 220000,
-      "rating": 4.6
+      "product": "سرخ کن بدون روغن فیلیپس Philips مدل Na230/00",
+      "seller": "جهیزیه سرای آرین",
+      "city": "قزوین",
+      "price": 17104000,
+      "rating": 4,
+      "link": "https://basalam.com/arianshop-qazvin/product/47427002",
+      "observed": "2026-11-24T21:57:49+00:00"
     },
     {
-      "product": "عسل ۵۰۰ گرمی",
-      "seller": "غرفهٔ برگ",
-      "city": "لاهیجان",
-      "price": 240000,
-      "rating": null
+      "product": "سرخ کن بدون روغن فیلیپس Philips مدل Na230/00",
+      "seller": "دیجیتال ایرانی(اول گفتگوبا ما بعدخرید تالغو نشه)",
+      "city": "تهران",
+      "price": 18046000,
+      "rating": 4,
+      "link": "https://basalam.com/tirmmd2/product/36205236",
+      "observed": "2026-11-24T21:57:49+00:00"
     },
     {
-      "product": "عسل ۵۰۰ گرمی",
-      "seller": "غرفهٔ سبز",
-      "city": "رشت",
-      "price": 232000,
-      "rating": 4.8
+      "product": "سرخ کن بدون روغن فیلیپس Philips مدل Na230/00",
+      "seller": "گناوه استور1",
+      "city": "بندرگناوه",
+      "price": 20500000,
+      "rating": 5,
+      "link": "https://basalam.com/genave-stor/product/35105882",
+      "observed": "2026-11-24T21:57:49+00:00"
     },
     {
-      "product": "چای ۳۰۰ گرمی",
-      "seller": "غرفهٔ کاج",
-      "city": "رشت",
-      "price": 310000,
-      "rating": 4.6
+      "product": "سرخ کن بدون روغن فیلیپس Philips مدل Na230/00",
+      "seller": "لوازم خانگی شاهان",
+      "city": "ایلام",
+      "price": 19800000,
+      "rating": 4,
+      "link": "https://basalam.com/lavazem_khaneghi_shahan/product/43829736",
+      "observed": "2026-11-24T21:57:49+00:00"
     },
     {
-      "product": "چای ۳۰۰ گرمی",
-      "seller": "غرفهٔ برگ",
-      "city": "لاهیجان",
-      "price": 330000,
-      "rating": null
+      "product": "سرخ کن بدون روغن فیلیپس Philips مدل Na230/00",
+      "seller": "خونگی کالا",
+      "city": "تهران",
+      "price": 22000000,
+      "rating": 4,
+      "link": "https://basalam.com/khonegi_kala/product/16400470",
+      "observed": "2026-11-24T21:57:49+00:00"
     },
     {
-      "product": "چای ۳۰۰ گرمی",
-      "seller": "غرفهٔ سبز",
-      "city": "رشت",
-      "price": 322000,
-      "rating": 4.8
+      "product": "سرخ کن بدون روغن فیلیپس Philips مدل Na230/00",
+      "seller": "لوازم خانگی قم جهیزیه",
+      "city": "قم",
+      "price": 24900000,
+      "rating": 4,
+      "link": "https://basalam.com/qom_jahizie/product/45651645",
+      "observed": "2026-11-24T21:57:49+00:00"
     }
   ]
 }

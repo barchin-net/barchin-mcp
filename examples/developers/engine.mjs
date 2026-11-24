@@ -1,21 +1,25 @@
 // A shared, deterministic view model for the CLI, static HTML and browser demo.
 export const labels = {
- product:'کالا',seller:'فروشنده',date:'تاریخ',price:'قیمت (تومان)',stock:'وضعیت موجودی',url:'نشانی نمونه',amount:'مقدار',currency:'واحد',attributes:'ویژگی‌ها',
+ record:'شاهد انتشار',
+ product:'کالا',seller:'فروشنده',date:'تاریخ',price:'قیمت (تومان)',stock:'وضعیت موجودی',url:'نشانی کالا',amount:'مقدار',currency:'واحد',attributes:'ویژگی‌ها',
  topic:'موضوع',story:'گروه پوشش',summary:'خلاصه',source:'منبع',published:'زمان انتشار',observed:'زمان مشاهده',link:'پیوند منبع',original:'قیمت اصلی (تومان)',discounted:'قیمت نهایی (تومان)',percent:'تخفیف (درصد)',
  category:'دسته',brand:'برند',rating:'امتیاز',city:'شهر',count:'تعداد',sellers:'تعداد فروشنده',floorPrice:'کمترین قیمت (تومان)',title:'عنوان',model:'مدل',year:'سال ساخت',km:'کارکرد (کیلومتر)',market:'بازار (تومان)',dealerPrice:'نمایندگی (تومان)',dealer:'نمایشگاه',id:'شناسه',area:'محله',size:'متراژ',deposit:'ودیعه (تومان)',rent:'اجارهٔ ماهانه (تومان)',unitPrice:'قیمت هر متر (تومان)',role:'نقش شغلی',work:'شیوهٔ همکاری',skills:'مهارت‌ها',skill:'مهارت',item:'قلم',time:'زمان مشاهده',route:'مسیر',travelDate:'تاریخ سفر',cabin:'کلاس',airline:'ایرلاین',hotel:'هتل',stars:'ستاره',window:'بازهٔ جست‌وجو',night:'قیمت اقامت (تومان)',amenities:'امکانات',stay:'اقامتگاه',status:'وضعیت',name:'نام',lat:'عرض جغرافیایی',lon:'طول جغرافیایی',match:'نتیجهٔ تطبیق',format:'قالب',views:'بازدید',likes:'پسند',comments:'نظر',question:'پرسش',answer:'پاسخ پیشنهادی',channel:'کانال',week:'هفته از',before:'قیمت پیشین (تومان)',after:'قیمت جدید (تومان)',from:'از تاریخ',to:'تا تاریخ',base:'تصویر اولیه',next:'تصویر مقایسه',evidence:'شواهد',min:'کمینه',median:'میانه',max:'بیشینه',total:'اندازهٔ نمونه',group:'گروه',branch:'شاخه',change:'تغییر',dates:'تأیید تاریخ'
 };
 export const unique = values => [...new Set(values.filter(v=>v!=null))];
-export function choices(p,data,control){
+const parents={'one:seller':['product'],'one:travelDate':['route'],'one:category':['branch']};
+export function choices(p,data,control,state={}){
+ const scoped=(parents[control] || ((control==='base:date'||control==='next:date')?(p.tree?['branch','category']:['dealer']):[]));
+ const candidates=data.rows.filter(r=>scoped.every(k=>!state['one:'+k]||r[k]===state['one:'+k]));
  const [mode,key]=control.split(':');
  if(mode==='columns')return p.columns;
  if(mode==='sort')return key.split(',');
- if(mode==='base'||mode==='next')return unique(data.rows.map(r=>r.date)).sort();
- return unique(data.rows.flatMap(r=>r[key]??[]));
+ if(mode==='base'||mode==='next')return unique(candidates.map(r=>r.date)).sort();
+ return unique(candidates.flatMap(r=>r[key]??[]));
 }
 export function initial(p,data) {
  const state={};
  for(const c of p.controls){
-  const [mode]=c.split(':'), vals=choices(p,data,c);
+  const [mode]=c.split(':'), vals=choices(p,data,c,state);
   state[c]=mode==='columns'||mode==='multi'?vals:mode==='base'||mode==='one'||mode==='sort'?vals[0]:mode==='next'?vals.at(-1):'';
  }
  return state;
@@ -42,9 +46,9 @@ export function view(p,data,state){
   const left=new Map(rows.filter(r=>r.date===a).map(r=>[r.id,r])),right=new Map(rows.filter(r=>r.date===b).map(r=>[r.id,r]));
   rows=unique([...left.keys(),...right.keys()]).map(id=>{
    const l=left.get(id),r=right.get(id);
-   return {id,title:(r||l).title,before:l?.price??null,after:r?.price??null,change:!l?'اضافه شده':!r?'حذف از نمونه':l.price==null||r.price==null?'نامشخص':l.price!==r.price?'تغییر قیمت':'بدون تغییر'};
+   return {id,title:(r||l).title,link:(r||l).link,observed:(r||l).observed,before:l?.price??null,after:r?.price??null,change:!l?'اضافه شده':!r?'حذف از نمونه':l.price==null||r.price==null?'نامشخص':l.price!==r.price?'تغییر قیمت':'بدون تغییر'};
   });
-  columns=['id','title','before','after','change'];
+  columns=['id','title','before','after','change','link'];
   if(a>=b){rows=[];note='تاریخ مقایسه باید بعد از تاریخ اولیه باشد.';}
  }
  if(p.kind==='distribution'){
@@ -65,9 +69,10 @@ export function view(p,data,state){
   groups=unique(rows.map(r=>r.story)).map(name=>({name,text:rows.filter(r=>r.story===name).map(r=>r.summary).join(' ')}));
  }
  if(p.kind==='match'){
+  const nameKey=r=>r.name.normalize('NFKC').replace(/[يى]/g,'ی').replace(/ك/g,'ک').replace(/[‌\s]+/g,' ').trim().replace(/^کافی شاپ /,'کافه ')+'|'+r.area+'|'+r.category;
   const keyed=new Map();
-  for(const r of rows){const key=r.name.trim()+'|'+r.area+'|'+r.category;const list=keyed.get(key)||[];list.push(r);keyed.set(key,list);}
-  rows=rows.map(r=>{const list=keyed.get(r.name.trim()+'|'+r.area+'|'+r.category);const other=list.filter(x=>x.source!==r.source);
+  for(const r of rows){const key=nameKey(r);const list=keyed.get(key)||[];list.push(r);keyed.set(key,list);}
+  rows=rows.map(r=>{const list=keyed.get(nameKey(r));const other=list.filter(x=>x.source!==r.source);
    const close=other.filter(x=>Math.hypot((r.lat-x.lat)*111000,(r.lon-x.lon)*91000)<=150);
    const match=!other.length?'فقط '+r.source:close.length===1&&list.length===2?'تطبیق یافته':'مبهم';
    return {...r,match};});columns.push('match');

@@ -1,43 +1,199 @@
 {
   "version": 1,
-  "provenance": "نمونهٔ آموزشی تألیفی برچین؛ نام‌ها، اعداد و زمان‌ها برای نمایش رفتار برنامه ساخته شده‌اند.",
-  "time": "2026-11-24T21:28+00:00",
+  "time": "2026-11-24T22:02:07+00:00",
+  "provenance": "دو برداشت مستقل از صفحهٔ قیمت باما در یک روز. تیپ و سال خودرو در نام آن آمده‌اند. زمان هر برداشت جداگانه ثبت شده است.",
   "rows": [
     {
-      "model": "شاهین",
-      "date": "2026-11-20",
-      "market": 720000000,
-      "dealerPrice": 660000000
-    },
-    {
-      "model": "شاهین",
-      "date": "2026-11-22",
-      "market": 730000000,
-      "dealerPrice": null
-    },
-    {
-      "model": "شاهین",
+      "model": "آرتابان (ای ام جی) توکا پلاس 1405",
       "date": "2026-11-24",
-      "market": 728000000,
-      "dealerPrice": 660000000
+      "market": 7400000000,
+      "dealerPrice": null,
+      "observed": "2026-11-24T21:51:34+00:00",
+      "link": "https://bama.ir/price"
     },
     {
-      "model": "تارا",
-      "date": "2026-11-20",
-      "market": 840000000,
-      "dealerPrice": 780000000
-    },
-    {
-      "model": "تارا",
-      "date": "2026-11-22",
-      "market": 850000000,
-      "dealerPrice": null
-    },
-    {
-      "model": "تارا",
+      "model": "آرتابان (ای ام جی) توکا ساده 1405",
       "date": "2026-11-24",
-      "market": 848000000,
-      "dealerPrice": 780000000
+      "market": 7100000000,
+      "dealerPrice": null,
+      "observed": "2026-11-24T21:51:34+00:00",
+      "link": "https://bama.ir/price"
+    },
+    {
+      "model": "آریسان 2 1405",
+      "date": "2026-11-24",
+      "market": 2220000000,
+      "dealerPrice": 2050000000,
+      "observed": "2026-11-24T21:51:34+00:00",
+      "link": "https://bama.ir/price"
+    },
+    {
+      "model": "آریسان 2 1404",
+      "date": "2026-11-24",
+      "market": 2070000000,
+      "dealerPrice": null,
+      "observed": "2026-11-24T21:51:34+00:00",
+      "link": "https://bama.ir/price"
+    },
+    {
+      "model": "آی ام موتورز LS7 لاکچری 1404",
+      "date": "2026-11-24",
+      "market": 19500000000,
+      "dealerPrice": null,
+      "observed": "2026-11-24T21:51:34+00:00",
+      "link": "https://bama.ir/price"
+    },
+    {
+      "model": "آئودی A3 اسپرت بک 1.5 لیتر توربو 1404",
+      "date": "2026-11-24",
+      "market": 14000000000,
+      "dealerPrice": null,
+      "observed": "2026-11-24T21:51:34+00:00",
+      "link": "https://bama.ir/price"
+    },
+    {
+      "model": "آئودی A3L 1.5 لیتر توربو 1404",
+      "date": "2026-11-24",
+      "market": 13500000000,
+      "dealerPrice": null,
+      "observed": "2026-11-24T21:51:34+00:00",
+      "link": "https://bama.ir/price"
+    },
+    {
+      "model": "آئودی E5 فلگشیپ 1405",
+      "date": "2026-11-24",
+      "market": null,
+      "dealerPrice": 18700000000,
+      "observed": "2026-11-24T21:51:34+00:00",
+      "link": "https://bama.ir/price"
+    },
+    {
+      "model": "آئودی E7X پایونیر 1405",
+      "date": "2026-11-24",
+      "market": null,
+      "dealerPrice": 20200000000,
+      "observed": "2026-11-24T21:51:34+00:00",
+      "link": "https://bama.ir/price"
+    },
+    {
+      "model": "آئودی Q4 e-tron 40 1404",
+      "date": "2026-11-24",
+      "market": 15900000000,
+      "dealerPrice": 12681000000,
+      "observed": "2026-11-24T21:51:34+00:00",
+      "link": "https://bama.ir/price"
+    },
+    {
+      "model": "آئودی Q4 e-tron 40 1405",
+      "date": "2026-11-24",
+      "market": null,
+      "dealerPrice": 12800000000,
+      "observed": "2026-11-24T21:51:34+00:00",
+      "link": "https://bama.ir/price"
+    },
+    {
+      "model": "آئودی Q5 e-tron 40 1403",
+      "date": "2026-11-24",
+      "market": 18500000000,
+      "dealerPrice": null,
+      "observed": "2026-11-24T21:51:34+00:00",
+      "link": "https://bama.ir/price"
+    },
+    {
+      "model": "آرتابان (ای ام جی) توکا پلاس 1405",
+      "date": "2026-11-24",
+      "market": 7400000000,
+      "dealerPrice": null,
+      "observed": "2026-11-24T21:53:36+00:00",
+      "link": "https://bama.ir/price"
+    },
+    {
+      "model": "آرتابان (ای ام جی) توکا ساده 1405",
+      "date": "2026-11-24",
+      "market": 7100000000,
+      "dealerPrice": null,
+      "observed": "2026-11-24T21:53:36+00:00",
+      "link": "https://bama.ir/price"
+    },
+    {
+      "model": "آریسان 2 1405",
+      "date": "2026-11-24",
+      "market": 2220000000,
+      "dealerPrice": 2050000000,
+      "observed": "2026-11-24T21:53:36+00:00",
+      "link": "https://bama.ir/price"
+    },
+    {
+      "model": "آریسان 2 1404",
+      "date": "2026-11-24",
+      "market": 2070000000,
+      "dealerPrice": null,
+      "observed": "2026-11-24T21:53:36+00:00",
+      "link": "https://bama.ir/price"
+    },
+    {
+      "model": "آی ام موتورز LS7 لاکچری 1404",
+      "date": "2026-11-24",
+      "market": 19500000000,
+      "dealerPrice": null,
+      "observed": "2026-11-24T21:53:36+00:00",
+      "link": "https://bama.ir/price"
+    },
+    {
+      "model": "آئودی A3 اسپرت بک 1.5 لیتر توربو 1404",
+      "date": "2026-11-24",
+      "market": 14000000000,
+      "dealerPrice": null,
+      "observed": "2026-11-24T21:53:36+00:00",
+      "link": "https://bama.ir/price"
+    },
+    {
+      "model": "آئودی A3L 1.5 لیتر توربو 1404",
+      "date": "2026-11-24",
+      "market": 13500000000,
+      "dealerPrice": null,
+      "observed": "2026-11-24T21:53:36+00:00",
+      "link": "https://bama.ir/price"
+    },
+    {
+      "model": "آئودی E5 فلگشیپ 1405",
+      "date": "2026-11-24",
+      "market": null,
+      "dealerPrice": 18700000000,
+      "observed": "2026-11-24T21:53:36+00:00",
+      "link": "https://bama.ir/price"
+    },
+    {
+      "model": "آئودی E7X پایونیر 1405",
+      "date": "2026-11-24",
+      "market": null,
+      "dealerPrice": 20200000000,
+      "observed": "2026-11-24T21:53:36+00:00",
+      "link": "https://bama.ir/price"
+    },
+    {
+      "model": "آئودی Q4 e-tron 40 1404",
+      "date": "2026-11-24",
+      "market": 15900000000,
+      "dealerPrice": 12681000000,
+      "observed": "2026-11-24T21:53:36+00:00",
+      "link": "https://bama.ir/price"
+    },
+    {
+      "model": "آئودی Q4 e-tron 40 1405",
+      "date": "2026-11-24",
+      "market": null,
+      "dealerPrice": 12800000000,
+      "observed": "2026-11-24T21:53:36+00:00",
+      "link": "https://bama.ir/price"
+    },
+    {
+      "model": "آئودی Q5 e-tron 40 1403",
+      "date": "2026-11-24",
+      "market": 18500000000,
+      "dealerPrice": null,
+      "observed": "2026-11-24T21:53:36+00:00",
+      "link": "https://bama.ir/price"
     }
   ]
 }

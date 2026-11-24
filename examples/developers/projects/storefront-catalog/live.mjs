@@ -26,6 +26,6 @@ if(process.argv.includes('--run')){
  let run;
  for(let i=0;i<45;i++){await wait(2000);run=await request('/runs/'+id);if(!['queued','processing'].includes(run.status))break;}
  if(run?.status!=='succeeded')throw Error('Inspect run '+id+' before resubmitting.');
- const rows=(run.dataset||[]).map(r=>({url:r.url,product:r.name,amount:r.offers?.price??null,currency:r.offers?.currency??null,stock:r.offers?.availability??null,attributes:r.additionalProperties?.map(a=>a.name+' '+a.value).join('، ')||null}));
+ const rows=(run.dataset||[]).map(r=>({url:r.url,link:r.url,observed:r.scrapedAt??new Date().toISOString(),product:r.name,amount:r.offers?.price??null,currency:r.offers?.currency??null,stock:r.offers?.availability??null,attributes:r.additionalProperties?.map(a=>a.name+' '+a.value).join('، ')||null}));
  stdout.write(JSON.stringify({version:1,time:new Date().toISOString(),provenance:'اجرای زندهٔ تأییدشده توسط کاربر',rows},null,2)+'\n');
 }

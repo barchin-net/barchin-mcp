@@ -9,8 +9,8 @@ export function prompt(p){
 }
 export function controls(p,d,s){
  return p.controls.map(c=>{
-  const [m,k]=c.split(':'),v=s[c],vals=p.tree&&k==='category'?unique(d.rows.filter(r=>r.branch===s['one:branch']).map(r=>r.category)):choices(p,d,c),label=m==='columns'?'ستون‌های خروجی':m==='sort'?'مرتب‌سازی':m==='base'||m==='next'?labels[m]:( {min:'حداقل ',max:'حداکثر ',from:'از ',to:'تا ',text:'جست‌وجوی '}[m]||'')+(labels[k]||k);
-  if(m==='multi'||m==='columns')return '<fieldset><legend>'+esc(label)+'</legend>'+vals.map(a=>'<label><input type="checkbox" data-c="'+esc(c)+'" value="'+esc(a)+'" '+(v.includes(a)?'checked':'')+'> '+esc(m==='columns'?labels[a]:a)+'</label>').join('')+'</fieldset>';
+  const [m,k]=c.split(':'),v=s[c],vals=choices(p,d,c,s),label=m==='columns'?'ستون‌های خروجی':m==='sort'?'مرتب‌سازی':m==='base'||m==='next'?labels[m]:( {min:'حداقل ',max:'حداکثر ',from:'از ',to:'تا ',text:'جست‌وجوی '}[m]||'')+(labels[k]||k);
+  if(m==='multi'||m==='columns')return '<fieldset><legend>'+esc(label)+'</legend>'+vals.map(a=>'<label><input type="checkbox" data-c="'+esc(c)+'" value="'+esc(a)+'" '+(v.includes(a)?'checked':'')+'> '+esc(m==='columns'?labels[a]:k==='url'?(d.rows.find(r=>r.url===a)?.product||a):a)+'</label>').join('')+'</fieldset>';
   if(['text','from','to','min','max'].includes(m))return '<label>'+esc(label)+'<input data-c="'+esc(c)+'" type="'+(m==='text'?'search':m==='min'||m==='max'?'number':'date')+'" value="'+esc(v)+'"></label>';
   return '<label>'+esc(label)+'<select data-c="'+esc(c)+'">'+(['pick','has'].includes(m)?'<option value="">همه</option>':'')+vals.map(a=>'<option value="'+esc(a)+'" '+(String(a)===String(v)?'selected':'')+'>'+esc(m==='sort'?(labels[a.replace(/^-/,'')]||a)+(a.startsWith('-')?'، بیشترین':'، کمترین'):fmt(a))+'</option>').join('')+'</select></label>';
  }).join('');
@@ -19,6 +19,8 @@ const external=(url,t)=>/^https:\/\//.test(url)?'<a href="'+esc(url)+'" rel="nor
 export function result(p,v,saved={},answers={}){
  const {columns,rows,groups,note}=v;
  const cell=(r,k)=>{
+  if(k==='url')return external(r.url,'صفحهٔ کالا');
+  if(k==='record')return r.record?external(r.record,'اطلاعیهٔ ناشر'):'—';
   if(k==='link')return r.link?external(r.link,'باز کردن منبع'):'نامشخص';
   if(k==='evidence')return r.evidence.map(e=>typeof e==='string'?esc(e):external(e.href,e.text)).join(' · ');
   if(k==='answer')return '<input data-answer="'+esc(r.id)+'" aria-label="پاسخ '+esc(r.question)+'" value="'+esc(answers[r.id]??r.answer)+'">';

@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "provenance": "گزیدهٔ ثبت‌شده از خوراک عمومی زومیت و دیجیاتو؛ تاریخ انتشار از RSS و خلاصه‌ها تألیف برچین‌اند.",
-  "time": "2026-11-24T21:28+00:00",
+  "provenance": "گزیدهٔ ثبت‌شده از خوراک عمومی زومیت و دیجیاتو؛ تاریخ انتشار از RSS و خلاصه‌ها تألیف برچین‌اند. صفحهٔ اصلی هر مورد دوباره بررسی شده است.",
+  "time": "2026-11-24T22:08:44+00:00",
   "rows": [
     {
       "topic": "فناوری",
@@ -9,17 +9,19 @@
       "story": "اقتصاد دیجیتال",
       "summary": "زومیت مقررات پیشنهادی تبلیغات آنلاین را مرور کرده است.",
       "source": "زومیت",
-      "published": "2026-10-04T10:18:39+00:00",
-      "link": "https://www.zoomit.ir/iran-news/468463-iran-online-advertising-regulations/"
+      "published": "2026-10-04T13:48:39+03:30",
+      "link": "https://www.zoomit.ir/iran-news/468463-iran-online-advertising-regulations/",
+      "observed": "2026-11-24T22:08:40+00:00"
     },
     {
       "topic": "فناوری",
       "date": "2026-10-04",
       "story": "زیرساخت",
-      "summary": "دیجیاتو دربارهٔ تأمین برق آنتن‌های موبایل گزارش داده است.",
+      "summary": "دیجیاتو هشدار سندیکای صنعت برق دربارهٔ تأمین برق در زمستان را گزارش کرده است.",
       "source": "دیجیاتو",
       "published": "2026-10-04T10:14:56+00:00",
-      "link": "https://digiato.com/iran-technology-news/the-problem-of-power-supply-for-bts-antennas"
+      "link": "https://digiato.com/iran-technology-news/the-problem-of-power-supply-for-bts-antennas",
+      "observed": "2026-11-24T22:08:41+00:00"
     },
     {
       "topic": "فناوری",
@@ -28,7 +30,8 @@
       "summary": "گزارش دیگری به اثر زیست‌محیطی احداث مرکز داده در فنلاند می‌پردازد.",
       "source": "دیجیاتو",
       "published": "2026-10-04T10:38:07+00:00",
-      "link": "https://digiato.com/artificial-intelligence/google-accused-clearing-forest-finland-data-center"
+      "link": "https://digiato.com/artificial-intelligence/google-accused-clearing-forest-finland-data-center",
+      "observed": "2026-11-24T22:08:44+00:00"
     },
     {
       "topic": "علم",
@@ -36,8 +39,9 @@
       "story": "زیست‌شناسی",
       "summary": "این گزارش الگوهای غیرتصادفی در مسیر تکامل را بررسی می‌کند.",
       "source": "زومیت",
-      "published": "2026-10-04T10:10:00+00:00",
-      "link": "https://www.zoomit.ir/biology/467203-evolution-not-random-study-findings/"
+      "published": "2026-10-04T13:40:00+03:30",
+      "link": "https://www.zoomit.ir/biology/467203-evolution-not-random-study-findings/",
+      "observed": "2026-11-24T22:08:40+00:00"
     },
     {
       "topic": "فناوری",
@@ -46,7 +50,8 @@
       "summary": "دیجیاتو روش‌های مدیریت مصرف اینترنت در رایانه و موبایل را توضیح داده است.",
       "source": "دیجیاتو",
       "published": "2026-05-08T09:55:01+00:00",
-      "link": "https://digiato.com/web-internet/reduce-internet-data-usage-guide"
+      "link": "https://digiato.com/web-internet/reduce-internet-data-usage-guide",
+      "observed": "2026-11-24T22:08:42+00:00"
     }
   ]
 }

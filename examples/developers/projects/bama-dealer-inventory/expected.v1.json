@@ -4,36 +4,72 @@
     "title",
     "before",
     "after",
-    "change"
+    "change",
+    "link"
   ],
   "rows": [
     {
-      "id": "A",
-      "title": "نمایشگاه سرو · مدل یک",
-      "before": 630000000,
-      "after": null,
-      "change": "حذف از نمونه"
+      "id": "ezg3xiyi",
+      "title": "بنز، کلاس S",
+      "link": "https://bama.ir/car/detail-ezg3xiyi-mercedesbenz-sclass-s500-2011",
+      "observed": "2026-11-24T21:53:37+00:00",
+      "before": 26900000000,
+      "after": 26900000000,
+      "change": "بدون تغییر"
     },
     {
-      "id": "B",
-      "title": "نمایشگاه سرو · مدل دو",
-      "before": 525000000,
-      "after": null,
-      "change": "حذف از نمونه"
+      "id": "zhellmk0",
+      "title": "ب ام و، سری 5 سدان",
+      "link": "https://bama.ir/car/detail-zhellmk0-bmw-5seriessedan-530i-2018",
+      "observed": "2026-11-24T21:53:37+00:00",
+      "before": 35900000000,
+      "after": 35900000000,
+      "change": "بدون تغییر"
     },
     {
-      "id": "C",
-      "title": "نمایشگاه سرو · مدل سه",
-      "before": null,
-      "after": 553000000,
-      "change": "اضافه شده"
+      "id": "ju4sozud",
+      "title": "هیوندای، النترا",
+      "link": "https://bama.ir/car/detail-ju4sozud-hyundai-elantra-1.6l-2023",
+      "observed": "2026-11-24T21:53:37+00:00",
+      "before": 6990000000,
+      "after": 6990000000,
+      "change": "بدون تغییر"
     },
     {
-      "id": "D",
-      "title": "نمایشگاه سرو · مدل چهار",
-      "before": null,
-      "after": 665000000,
-      "change": "اضافه شده"
+      "id": "avx1t0ia",
+      "title": "تانک، 500HEV",
+      "link": "https://bama.ir/car/detail-avx1t0ia-tank-500hev-2.0literturbo-2026",
+      "observed": "2026-11-24T21:53:37+00:00",
+      "before": 23990000000,
+      "after": 23990000000,
+      "change": "بدون تغییر"
+    },
+    {
+      "id": "tknqlpnt",
+      "title": "تانک، 700",
+      "link": "https://bama.ir/car/detail-tknqlpnt-tank-700-3.0literturbo-2026",
+      "observed": "2026-11-24T21:53:37+00:00",
+      "before": 33980000000,
+      "after": 33980000000,
+      "change": "بدون تغییر"
+    },
+    {
+      "id": "vqxdlnpd",
+      "title": "وویا، فری",
+      "link": "https://bama.ir/car/detail-vqxdlnpd-Voyah-free-1.5liter-2026",
+      "observed": "2026-11-24T21:53:37+00:00",
+      "before": 17690000000,
+      "after": 17690000000,
+      "change": "بدون تغییر"
+    },
+    {
+      "id": "p5agifyz",
+      "title": "تویوتا، پرادو چهار در",
+      "link": "https://bama.ir/car/detail-p5agifyz-toyota-prado4doors-2.4literturbo-2025",
+      "observed": "2026-11-24T21:53:37+00:00",
+      "before": 47500000000,
+      "after": 47500000000,
+      "change": "بدون تغییر"
     }
   ],
   "groups": [],

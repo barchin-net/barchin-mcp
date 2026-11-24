@@ -1,103 +1,277 @@
 {
   "version": 1,
-  "provenance": "نمونهٔ آموزشی تألیفی برچین؛ نام‌ها، اعداد و زمان‌ها برای نمایش رفتار برنامه ساخته شده‌اند.",
-  "time": "2026-11-24T21:28+00:00",
+  "time": "2026-11-24T22:02:07+00:00",
+  "provenance": "برداشت ثبت‌شدهٔ اکتور پرواز علی‌بابا. روز سفر از زمان پرواز می‌آید. قیمت پیشنهادی بلیت در لحظهٔ برداشت از ریال به تومان تبدیل شده است.",
   "rows": [
     {
       "route": "تهران ← مشهد",
-      "travelDate": "2026-12-01",
+      "travelDate": "2026-10-26",
       "cabin": "اکونومی",
-      "airline": "ناقل الف",
-      "time": "2026-11-20T10:00:00+03:30",
-      "price": 2700000
+      "airline": "فلای پرشیا",
+      "time": "2026-10-25T10:28:17.667414Z",
+      "price": 5379500.0,
+      "observed": "2026-10-25T10:28:17.667414Z",
+      "link": "https://www.alibaba.ir/flights/THR-MHD?departing=2026-10-26"
     },
     {
       "route": "تهران ← مشهد",
-      "travelDate": "2026-12-01",
+      "travelDate": "2026-10-26",
       "cabin": "اکونومی",
-      "airline": "ناقل ب",
-      "time": "2026-11-20T10:00:00+03:30",
-      "price": 2950000
+      "airline": "آوا ایر",
+      "time": "2026-10-25T10:28:17.667597Z",
+      "price": 5497200.0,
+      "observed": "2026-10-25T10:28:17.667597Z",
+      "link": "https://www.alibaba.ir/flights/THR-MHD?departing=2026-10-26"
     },
     {
       "route": "تهران ← مشهد",
-      "travelDate": "2026-12-01",
+      "travelDate": "2026-10-26",
       "cabin": "اکونومی",
-      "airline": "ناقل الف",
-      "time": "2026-11-22T10:00:00+03:30",
-      "price": 2820000
+      "airline": "هواپیمایی مهر",
+      "time": "2026-10-25T10:28:17.667778Z",
+      "price": 5500000.0,
+      "observed": "2026-10-25T10:28:17.667778Z",
+      "link": "https://www.alibaba.ir/flights/THR-MHD?departing=2026-10-26"
     },
     {
       "route": "تهران ← مشهد",
-      "travelDate": "2026-12-03",
+      "travelDate": "2026-10-26",
       "cabin": "اکونومی",
-      "airline": "ناقل الف",
-      "time": "2026-11-20T10:00:00+03:30",
-      "price": 2700000
+      "airline": "کارون",
+      "time": "2026-10-25T10:28:17.667946Z",
+      "price": 5582500.0,
+      "observed": "2026-10-25T10:28:17.667946Z",
+      "link": "https://www.alibaba.ir/flights/THR-MHD?departing=2026-10-26"
     },
     {
       "route": "تهران ← مشهد",
-      "travelDate": "2026-12-03",
+      "travelDate": "2026-10-26",
       "cabin": "اکونومی",
-      "airline": "ناقل ب",
-      "time": "2026-11-20T10:00:00+03:30",
-      "price": 2950000
+      "airline": "جی اسکای",
+      "time": "2026-10-25T10:28:17.668224Z",
+      "price": 5650000.0,
+      "observed": "2026-10-25T10:28:17.668224Z",
+      "link": "https://www.alibaba.ir/flights/THR-MHD?departing=2026-10-26"
     },
     {
       "route": "تهران ← مشهد",
-      "travelDate": "2026-12-03",
+      "travelDate": "2026-10-26",
       "cabin": "اکونومی",
-      "airline": "ناقل الف",
-      "time": "2026-11-22T10:00:00+03:30",
-      "price": 2820000
+      "airline": "نسیم ایر",
+      "time": "2026-10-25T10:28:17.668370Z",
+      "price": 5684000.0,
+      "observed": "2026-10-25T10:28:17.668370Z",
+      "link": "https://www.alibaba.ir/flights/THR-MHD?departing=2026-10-26"
     },
     {
-      "route": "شیراز ← تهران",
-      "travelDate": "2026-12-01",
+      "route": "تهران ← مشهد",
+      "travelDate": "2026-10-26",
       "cabin": "اکونومی",
-      "airline": "ناقل الف",
-      "time": "2026-11-20T10:00:00+03:30",
-      "price": 2900000
+      "airline": "آسمان",
+      "time": "2026-10-25T10:28:17.669584Z",
+      "price": 6028400.0,
+      "observed": "2026-10-25T10:28:17.669584Z",
+      "link": "https://www.alibaba.ir/flights/THR-MHD?departing=2026-10-26"
     },
     {
-      "route": "شیراز ← تهران",
-      "travelDate": "2026-12-01",
+      "route": "تهران ← مشهد",
+      "travelDate": "2026-10-26",
       "cabin": "اکونومی",
-      "airline": "ناقل ب",
-      "time": "2026-11-20T10:00:00+03:30",
-      "price": 3150000
+      "airline": "زاگرس",
+      "time": "2026-10-25T10:28:17.669736Z",
+      "price": 6028200.0,
+      "observed": "2026-10-25T10:28:17.669736Z",
+      "link": "https://www.alibaba.ir/flights/THR-MHD?departing=2026-10-26"
     },
     {
-      "route": "شیراز ← تهران",
-      "travelDate": "2026-12-01",
+      "route": "تهران ← مشهد",
+      "travelDate": "2026-10-26",
       "cabin": "اکونومی",
-      "airline": "ناقل الف",
-      "time": "2026-11-22T10:00:00+03:30",
-      "price": 3020000
+      "airline": "کاسپین",
+      "time": "2026-10-25T10:28:17.669948Z",
+      "price": 6182800.0,
+      "observed": "2026-10-25T10:28:17.669948Z",
+      "link": "https://www.alibaba.ir/flights/THR-MHD?departing=2026-10-26"
     },
     {
-      "route": "شیراز ← تهران",
-      "travelDate": "2026-12-03",
+      "route": "تهران ← مشهد",
+      "travelDate": "2026-10-26",
       "cabin": "اکونومی",
-      "airline": "ناقل الف",
-      "time": "2026-11-20T10:00:00+03:30",
-      "price": 2900000
+      "airline": "ماهان",
+      "time": "2026-10-25T10:28:17.671976Z",
+      "price": 7852500.0,
+      "observed": "2026-10-25T10:28:17.671976Z",
+      "link": "https://www.alibaba.ir/flights/THR-MHD?departing=2026-10-26"
     },
     {
-      "route": "شیراز ← تهران",
-      "travelDate": "2026-12-03",
+      "route": "تهران ← مشهد",
+      "travelDate": "2026-10-26",
       "cabin": "اکونومی",
-      "airline": "ناقل ب",
-      "time": "2026-11-20T10:00:00+03:30",
-      "price": 3150000
+      "airline": "فلای کیش",
+      "time": "2026-10-25T10:28:17.672200Z",
+      "price": 8000000.0,
+      "observed": "2026-10-25T10:28:17.672200Z",
+      "link": "https://www.alibaba.ir/flights/THR-MHD?departing=2026-10-26"
     },
     {
-      "route": "شیراز ← تهران",
-      "travelDate": "2026-12-03",
+      "route": "تهران ← مشهد",
+      "travelDate": "2026-10-26",
       "cabin": "اکونومی",
-      "airline": "ناقل الف",
-      "time": "2026-11-22T10:00:00+03:30",
-      "price": 3020000
+      "airline": "سپهران",
+      "time": "2026-10-25T10:28:17.672416Z",
+      "price": 8000000.0,
+      "observed": "2026-10-25T10:28:17.672416Z",
+      "link": "https://www.alibaba.ir/flights/THR-MHD?departing=2026-10-26"
+    },
+    {
+      "route": "تهران ← مشهد",
+      "travelDate": "2026-10-26",
+      "cabin": "اکونومی",
+      "airline": "ایران ایرتور",
+      "time": "2026-10-25T10:28:17.672643Z",
+      "price": 8020100.0,
+      "observed": "2026-10-25T10:28:17.672643Z",
+      "link": "https://www.alibaba.ir/flights/THR-MHD?departing=2026-10-26"
+    },
+    {
+      "route": "تهران ← مشهد",
+      "travelDate": "2026-10-26",
+      "cabin": "اکونومی",
+      "airline": "ایران ایر",
+      "time": "2026-10-25T10:28:17.673090Z",
+      "price": 8222000.0,
+      "observed": "2026-10-25T10:28:17.673090Z",
+      "link": "https://www.alibaba.ir/flights/THR-MHD?departing=2026-10-26"
+    },
+    {
+      "route": "تهران ← مشهد",
+      "travelDate": "2026-10-26",
+      "cabin": "اکونومی",
+      "airline": "وارش",
+      "time": "2026-10-25T10:28:17.673514Z",
+      "price": 8463200.0,
+      "observed": "2026-10-25T10:28:17.673514Z",
+      "link": "https://www.alibaba.ir/flights/THR-MHD?departing=2026-10-26"
+    },
+    {
+      "route": "تهران ← مشهد",
+      "travelDate": "2026-10-26",
+      "cabin": "اکونومی",
+      "airline": "تابان",
+      "time": "2026-10-25T10:28:17.675650Z",
+      "price": 10000000.0,
+      "observed": "2026-10-25T10:28:17.675650Z",
+      "link": "https://www.alibaba.ir/flights/THR-MHD?departing=2026-10-26"
+    },
+    {
+      "route": "تهران ← مشهد",
+      "travelDate": "2026-10-26",
+      "cabin": "اکونومی",
+      "airline": "آتا",
+      "time": "2026-10-25T10:28:17.675774Z",
+      "price": 10000000.0,
+      "observed": "2026-10-25T10:28:17.675774Z",
+      "link": "https://www.alibaba.ir/flights/THR-MHD?departing=2026-10-26"
+    },
+    {
+      "route": "تهران ← شیراز",
+      "travelDate": "2026-10-26",
+      "cabin": "اکونومی",
+      "airline": "رایمون",
+      "time": "2026-10-25T10:28:31.767414Z",
+      "price": 8040000.0,
+      "observed": "2026-10-25T10:28:31.767414Z",
+      "link": "https://www.alibaba.ir/flights/THR-SYZ?departing=2026-10-26"
+    },
+    {
+      "route": "تهران ← شیراز",
+      "travelDate": "2026-10-26",
+      "cabin": "اکونومی",
+      "airline": "پارس ایر",
+      "time": "2026-10-25T10:28:31.771168Z",
+      "price": 11818000.0,
+      "observed": "2026-10-25T10:28:31.771168Z",
+      "link": "https://www.alibaba.ir/flights/THR-SYZ?departing=2026-10-26"
+    },
+    {
+      "route": "کیش ← تهران",
+      "travelDate": "2026-10-26",
+      "cabin": "اکونومی",
+      "airline": "آساجت",
+      "time": "2026-10-25T10:28:33.160853Z",
+      "price": 10000000.0,
+      "observed": "2026-10-25T10:28:33.160853Z",
+      "link": "https://www.alibaba.ir/flights/KIH-THR?departing=2026-10-26"
+    },
+    {
+      "route": "تهران ← تبریز",
+      "travelDate": "2026-10-26",
+      "cabin": "اکونومی",
+      "airline": "پویا",
+      "time": "2026-10-25T10:28:37.083693Z",
+      "price": 10304800.0,
+      "observed": "2026-10-25T10:28:37.083693Z",
+      "link": "https://www.alibaba.ir/flights/THR-TBZ?departing=2026-10-26"
+    },
+    {
+      "route": "تهران ← اهواز",
+      "travelDate": "2026-10-26",
+      "cabin": "اکونومی",
+      "airline": "قشم ایر",
+      "time": "2026-10-25T10:28:38.366641Z",
+      "price": 8337000.0,
+      "observed": "2026-10-25T10:28:38.366641Z",
+      "link": "https://www.alibaba.ir/flights/THR-AWZ?departing=2026-10-26"
+    },
+    {
+      "route": "اهواز ← تهران",
+      "travelDate": "2026-10-26",
+      "cabin": "اکونومی",
+      "airline": "ساها",
+      "time": "2026-10-25T10:28:38.846063Z",
+      "price": 8059500.0,
+      "observed": "2026-10-25T10:28:38.846063Z",
+      "link": "https://www.alibaba.ir/flights/AWZ-THR?departing=2026-10-26"
+    },
+    {
+      "route": "مشهد ← تهران",
+      "travelDate": "2026-10-27",
+      "cabin": "اکونومی",
+      "airline": "معراج",
+      "time": "2026-10-25T10:28:48.081055Z",
+      "price": 8079800.0,
+      "observed": "2026-10-25T10:28:48.081055Z",
+      "link": "https://www.alibaba.ir/flights/MHD-THR?departing=2026-10-27"
+    },
+    {
+      "route": "تهران ← شیراز",
+      "travelDate": "2026-10-27",
+      "cabin": "اکونومی",
+      "airline": "کیش ایر",
+      "time": "2026-10-25T10:28:53.494175Z",
+      "price": 6986500.0,
+      "observed": "2026-10-25T10:28:53.494175Z",
+      "link": "https://www.alibaba.ir/flights/THR-SYZ?departing=2026-10-27"
+    },
+    {
+      "route": "کیش ← مشهد",
+      "travelDate": "2026-10-27",
+      "cabin": "اکونومی",
+      "airline": "یزدایر",
+      "time": "2026-10-25T10:29:04.765434Z",
+      "price": 7275000.0,
+      "observed": "2026-10-25T10:29:04.765434Z",
+      "link": "https://www.alibaba.ir/flights/KIH-MHD?departing=2026-10-27"
+    },
+    {
+      "route": "تهران ← مشهد",
+      "travelDate": "2026-10-26",
+      "cabin": "اکونومی",
+      "airline": "تابان",
+      "time": "2026-10-25T10:28:27.397798Z",
+      "price": 10000000.0,
+      "observed": "2026-10-25T10:28:27.397798Z",
+      "link": "https://www.alibaba.ir/flights/THR-MHD?departing=2026-10-26"
     }
   ]
 }
