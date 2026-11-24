@@ -1,37 +1,196 @@
 {
   "version": 1,
-  "time": "2026-11-24T22:02:07+00:00",
-  "provenance": "از ۱۰۰ نظر ثبت‌شده زیر پست عمومی نشنال جئوگرافیک دربارهٔ پانگولین، دو پرسش مرتبط با خود جانور استخراج و به فارسی بازنویسی شد. هر کدام یک بار دیده شد. پاسخ را می‌توانید خودتان بنویسید و صادر کنید.",
+  "time": "2026-11-24T22:21:31+00:00",
+  "provenance": "از شش پست عمومی فروشگاه پوشاک مشکات دیزاین (@meshkatdesign)، ۴۲۹ کامنت یکتا در ۲۵ نوامبر ۲۰۲۶ به وقت تهران بررسی شد. سقف برداشت برای هر پست ۱۲۰ کامنت بود. جدول، درخواست‌هایی را نشان می‌دهد که دست‌کم در دو کامنت آمده‌اند. زمان تحویل فقط یک بار پرسیده شد.",
   "rows": [
     {
-      "id": "DezlNmyAFeu-1",
-      "topic": "زیستگاه",
-      "question": "آیا پانگولین هنوز در اندونزی زندگی می‌کند؟",
+      "id": "meshkat-price",
+      "topic": "قیمت",
+      "question": "قیمت این مدل چقدر است؟",
+      "count": 369,
       "evidence": [
         {
-          "text": "پست اصلی نشنال جئوگرافیک",
-          "href": "https://www.instagram.com/p/DezlNmyAFeu/"
+          "text": "دو کت فوتر مشکی (۱۱۳ نظر)",
+          "href": "https://www.instagram.com/p/DgGAWhWlBSE/",
+          "count": 113
+        },
+        {
+          "text": "کت مخمل کوبلن (۲۹ نظر)",
+          "href": "https://www.instagram.com/p/Df7vPxgESBV/",
+          "count": 29
+        },
+        {
+          "text": "ریل کت مخمل کوبلن (۸۶ نظر)",
+          "href": "https://www.instagram.com/p/Df2jpl8zB16/",
+          "count": 86
+        },
+        {
+          "text": "کت شانل و فوتر (۱۲ نظر)",
+          "href": "https://www.instagram.com/p/Dfxa7IEG-lp/",
+          "count": 12
+        },
+        {
+          "text": "کت طرح یاقوت (۲۸ نظر)",
+          "href": "https://www.instagram.com/p/DfpuOajkf_r/",
+          "count": 28
+        },
+        {
+          "text": "پالتوی چهارخانه (۱۰۱ نظر)",
+          "href": "https://www.instagram.com/p/DfVJkyMlEbS/",
+          "count": 101
         }
       ],
-      "count": 1,
-      "answer": "",
-      "observed": "2026-10-23T20:00:02.229175Z",
-      "link": "https://www.instagram.com/p/DezlNmyAFeu/"
+      "answer": "قیمت به مدل و قد انتخابی بستگی دارد. برای مثال در پست دو کت فوتر مشکی، فروشگاه برای دو مدل قیمت جداگانه نوشته و برای قد بلندتر افزایش قیمت اعلام کرده است.",
+      "observed": "2026-11-24T22:21:31+00:00",
+      "link": "https://www.instagram.com/p/DgGAWhWlBSE/"
     },
     {
-      "id": "DezlNmyAFeu-2",
-      "topic": "تکامل",
-      "question": "فلس‌های پانگولین چگونه تکامل یافته‌اند؟",
+      "id": "meshkat-size",
+      "topic": "سایز",
+      "question": "چه سایزهایی قابل سفارش است؟",
+      "count": 13,
       "evidence": [
         {
-          "text": "پست اصلی نشنال جئوگرافیک",
-          "href": "https://www.instagram.com/p/DezlNmyAFeu/"
+          "text": "کت مخمل کوبلن (۱ نظر)",
+          "href": "https://www.instagram.com/p/Df7vPxgESBV/",
+          "count": 1
+        },
+        {
+          "text": "ریل کت مخمل کوبلن (۱۱ نظر)",
+          "href": "https://www.instagram.com/p/Df2jpl8zB16/",
+          "count": 11
+        },
+        {
+          "text": "پالتوی چهارخانه (۱ نظر)",
+          "href": "https://www.instagram.com/p/DfVJkyMlEbS/",
+          "count": 1
         }
       ],
-      "count": 1,
+      "answer": "در پست کت مخمل کوبلن، سه بازهٔ ۳۸–۴۰، ۴۲–۴۴ و ۴۶–۴۸ آمده است. فروشگاه برای اندازه‌های دقیق‌ترِ هر سایز، دایرکت را معرفی کرده است.",
+      "observed": "2026-11-24T22:21:31+00:00",
+      "link": "https://www.instagram.com/p/Df7vPxgESBV/"
+    },
+    {
+      "id": "meshkat-in-store",
+      "topic": "خرید حضوری",
+      "question": "امکان خرید حضوری هم هست؟",
+      "count": 5,
+      "evidence": [
+        {
+          "text": "دو کت فوتر مشکی (۲ نظر)",
+          "href": "https://www.instagram.com/p/DgGAWhWlBSE/",
+          "count": 2
+        },
+        {
+          "text": "پالتوی چهارخانه (۳ نظر)",
+          "href": "https://www.instagram.com/p/DfVJkyMlEbS/",
+          "count": 3
+        }
+      ],
       "answer": "",
-      "observed": "2026-10-23T20:00:02.229175Z",
-      "link": "https://www.instagram.com/p/DezlNmyAFeu/"
+      "observed": "2026-11-24T22:21:31+00:00",
+      "link": "https://www.instagram.com/p/DgGAWhWlBSE/"
+    },
+    {
+      "id": "meshkat-order",
+      "topic": "ثبت سفارش",
+      "question": "چطور سفارش بدهم؟",
+      "count": 3,
+      "evidence": [
+        {
+          "text": "کت طرح یاقوت (۱ نظر)",
+          "href": "https://www.instagram.com/p/DfpuOajkf_r/",
+          "count": 1
+        },
+        {
+          "text": "پالتوی چهارخانه (۲ نظر)",
+          "href": "https://www.instagram.com/p/DfVJkyMlEbS/",
+          "count": 2
+        }
+      ],
+      "answer": "فروشگاه در کپشن‌ها دایرکت و لینک پیام‌رسان‌های بالای پیج را برای ارتباط معرفی کرده است.",
+      "observed": "2026-11-24T22:21:31+00:00",
+      "link": "https://www.instagram.com/p/DfpuOajkf_r/"
+    },
+    {
+      "id": "meshkat-trousers",
+      "topic": "اقلام همراه",
+      "question": "این مدل همراه شلوار است؟",
+      "count": 3,
+      "evidence": [
+        {
+          "text": "دو کت فوتر مشکی (۱ نظر)",
+          "href": "https://www.instagram.com/p/DgGAWhWlBSE/",
+          "count": 1
+        },
+        {
+          "text": "کت طرح یاقوت (۱ نظر)",
+          "href": "https://www.instagram.com/p/DfpuOajkf_r/",
+          "count": 1
+        },
+        {
+          "text": "پالتوی چهارخانه (۱ نظر)",
+          "href": "https://www.instagram.com/p/DfVJkyMlEbS/",
+          "count": 1
+        }
+      ],
+      "answer": "اقلام همراه را برای همان مدل بررسی کنید. مثلاً در پست کت طرح یاقوت، فروشگاه قیمت کت و شلوار را جداگانه درج کرده است.",
+      "observed": "2026-11-24T22:21:31+00:00",
+      "link": "https://www.instagram.com/p/DgGAWhWlBSE/"
+    },
+    {
+      "id": "meshkat-snappay",
+      "topic": "پرداخت",
+      "question": "امکان پرداخت با اسنپ‌پی هست؟",
+      "count": 2,
+      "evidence": [
+        {
+          "text": "پالتوی چهارخانه (۲ نظر)",
+          "href": "https://www.instagram.com/p/DfVJkyMlEbS/",
+          "count": 2
+        }
+      ],
+      "answer": "",
+      "observed": "2026-11-24T22:21:31+00:00",
+      "link": "https://www.instagram.com/p/DfVJkyMlEbS/"
+    }
+  ],
+  "observations": [
+    {
+      "post": "دو کت فوتر مشکی",
+      "link": "https://www.instagram.com/p/DgGAWhWlBSE/",
+      "observed": "2026-11-24T22:21:14+00:00",
+      "comments": 120
+    },
+    {
+      "post": "کت مخمل کوبلن",
+      "link": "https://www.instagram.com/p/Df7vPxgESBV/",
+      "observed": "2026-11-24T22:21:16+00:00",
+      "comments": 38
+    },
+    {
+      "post": "ریل کت مخمل کوبلن",
+      "link": "https://www.instagram.com/p/Df2jpl8zB16/",
+      "observed": "2026-11-24T22:21:21+00:00",
+      "comments": 104
+    },
+    {
+      "post": "کت شانل و فوتر",
+      "link": "https://www.instagram.com/p/Dfxa7IEG-lp/",
+      "observed": "2026-11-24T22:21:23+00:00",
+      "comments": 16
+    },
+    {
+      "post": "کت طرح یاقوت",
+      "link": "https://www.instagram.com/p/DfpuOajkf_r/",
+      "observed": "2026-11-24T22:21:25+00:00",
+      "comments": 31
+    },
+    {
+      "post": "پالتوی چهارخانه",
+      "link": "https://www.instagram.com/p/DfVJkyMlEbS/",
+      "observed": "2026-11-24T22:21:31+00:00",
+      "comments": 120
     }
   ]
 }
