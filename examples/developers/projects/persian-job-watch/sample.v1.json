@@ -1,42 +1,70 @@
 {
   "version": 1,
-  "provenance": "گزیدهٔ دادهٔ عمومی آگهی‌ها از نمونه‌های ثبت‌شدهٔ اکتورهای برچین؛ فقط عنوان، فیلدهای لازم و لینک اصلی حفظ شده‌اند. آگهی ممکن است منقضی شود.",
-  "time": "2026-11-24T21:28+00:00",
+  "provenance": "سه آگهی فرانت‌اند مستقیماً از صفحات عمومی جاب‌ویژن در 2026-11-24T21:37+00:00 بررسی شدند. ردیف‌های دیگر از نمونه‌های مستند برچین‌اند. تاریخ تهیهٔ بسته با تاریخ انتشار آگهی تفاوت دارد.",
+  "time": "2026-11-24T21:37+00:00",
   "rows": [
     {
       "title": "خبرنگار - خانم",
       "city": "تهران",
       "work": "دورکاری",
       "source": "جاب‌ویژن",
-      "link": "https://www.jobvision.ir/jobs/1506033"
+      "link": "https://www.jobvision.ir/jobs/1506033",
+      "observed": "2026-09-26T12:10:00Z",
+      "published": "2026-09-25T13:53:48Z"
     },
     {
       "title": "برنامه‌نویس (Python (Django",
       "city": "تهران",
       "work": "حضوری",
       "source": "جابینجا",
-      "link": "https://jobinja.ir/companies/ariana-1/jobs/tNOi/استخدام-برنامه-نویس"
+      "link": "https://jobinja.ir/companies/ariana-1/jobs/tNOi/استخدام-برنامه-نویس",
+      "observed": null,
+      "published": "2026-09-20T00:00:00Z"
     },
     {
       "title": "نیروی حفاظت - آقا",
       "city": "کاشان",
       "work": "حضوری",
       "source": "جاب‌ویژن",
-      "link": "https://www.jobvision.ir/jobs/1541562"
+      "link": "https://www.jobvision.ir/jobs/1541562",
+      "observed": "2026-09-27",
+      "published": null
     },
     {
       "title": "کارآموز برنامه‌نویسی · 1479989",
-      "city": null,
+      "city": "پردیس",
       "work": "نامشخص",
       "source": "جاب‌ویژن",
-      "link": "https://www.jobvision.ir/jobs/1479989"
+      "link": "https://www.jobvision.ir/jobs/1479989",
+      "observed": "2026-09-27",
+      "published": null
     },
     {
-      "title": "کارآموز برنامه‌نویسی · 1530650",
-      "city": null,
-      "work": "نامشخص",
+      "title": "Front-End Developer",
+      "city": "تهران",
+      "work": "حضوری",
       "source": "جاب‌ویژن",
-      "link": "https://www.jobvision.ir/jobs/1530650"
+      "link": "https://www.jobvision.ir/jobs/1545586",
+      "published": "2026-09-29T16:09:52Z",
+      "observed": "2026-11-24T21:37+00:00"
+    },
+    {
+      "title": "برنامه نویس فرانت اند",
+      "city": "تهران",
+      "work": "حضوری",
+      "source": "جاب‌ویژن",
+      "link": "https://www.jobvision.ir/jobs/1550909",
+      "published": "2026-10-04T12:26:13",
+      "observed": "2026-11-24T21:37+00:00"
+    },
+    {
+      "title": "Front End Developer",
+      "city": "تهران",
+      "work": "حضوری",
+      "source": "جاب‌ویژن",
+      "link": "https://www.jobvision.ir/jobs/1584337",
+      "published": "2026-10-26T19:28:48Z",
+      "observed": "2026-11-24T21:37+00:00"
     }
   ]
 }

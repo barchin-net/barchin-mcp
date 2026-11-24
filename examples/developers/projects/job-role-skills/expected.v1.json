@@ -7,24 +7,141 @@
   ],
   "rows": [
     {
-      "skill": "Adobe Indesign",
-      "count": 1,
-      "total": 1,
+      "skill": "TypeScript",
+      "count": 4,
+      "total": 4,
       "evidence": [
         {
-          "text": "خبرنگار - خانم",
-          "href": "https://www.jobvision.ir/jobs/1506033"
+          "text": "Front End Developer · 1584337",
+          "href": "https://www.jobvision.ir/jobs/1584337"
+        },
+        {
+          "text": "برنامه نویس فرانت اند · 1550909",
+          "href": "https://www.jobvision.ir/jobs/1550909"
+        },
+        {
+          "text": "Front-End Developer · 1545586",
+          "href": "https://www.jobvision.ir/jobs/1545586"
+        },
+        {
+          "text": "کارآموز برنامه‌نویسی · 1479989",
+          "href": "https://www.jobvision.ir/jobs/1479989"
         }
       ]
     },
     {
-      "skill": "Adobe Photoshop",
-      "count": 1,
-      "total": 1,
+      "skill": "Git",
+      "count": 3,
+      "total": 4,
       "evidence": [
         {
-          "text": "خبرنگار - خانم",
-          "href": "https://www.jobvision.ir/jobs/1506033"
+          "text": "Front End Developer · 1584337",
+          "href": "https://www.jobvision.ir/jobs/1584337"
+        },
+        {
+          "text": "برنامه نویس فرانت اند · 1550909",
+          "href": "https://www.jobvision.ir/jobs/1550909"
+        },
+        {
+          "text": "Front-End Developer · 1545586",
+          "href": "https://www.jobvision.ir/jobs/1545586"
+        }
+      ]
+    },
+    {
+      "skill": "JavaScript",
+      "count": 2,
+      "total": 4,
+      "evidence": [
+        {
+          "text": "Front End Developer · 1584337",
+          "href": "https://www.jobvision.ir/jobs/1584337"
+        },
+        {
+          "text": "کارآموز برنامه‌نویسی · 1479989",
+          "href": "https://www.jobvision.ir/jobs/1479989"
+        }
+      ]
+    },
+    {
+      "skill": "HTML",
+      "count": 2,
+      "total": 4,
+      "evidence": [
+        {
+          "text": "Front End Developer · 1584337",
+          "href": "https://www.jobvision.ir/jobs/1584337"
+        },
+        {
+          "text": "کارآموز برنامه‌نویسی · 1479989",
+          "href": "https://www.jobvision.ir/jobs/1479989"
+        }
+      ]
+    },
+    {
+      "skill": "CSS",
+      "count": 2,
+      "total": 4,
+      "evidence": [
+        {
+          "text": "Front End Developer · 1584337",
+          "href": "https://www.jobvision.ir/jobs/1584337"
+        },
+        {
+          "text": "کارآموز برنامه‌نویسی · 1479989",
+          "href": "https://www.jobvision.ir/jobs/1479989"
+        }
+      ]
+    },
+    {
+      "skill": "React",
+      "count": 2,
+      "total": 4,
+      "evidence": [
+        {
+          "text": "Front End Developer · 1584337",
+          "href": "https://www.jobvision.ir/jobs/1584337"
+        },
+        {
+          "text": "Front-End Developer · 1545586",
+          "href": "https://www.jobvision.ir/jobs/1545586"
+        }
+      ]
+    },
+    {
+      "skill": "Angular",
+      "count": 2,
+      "total": 4,
+      "evidence": [
+        {
+          "text": "برنامه نویس فرانت اند · 1550909",
+          "href": "https://www.jobvision.ir/jobs/1550909"
+        },
+        {
+          "text": "کارآموز برنامه‌نویسی · 1479989",
+          "href": "https://www.jobvision.ir/jobs/1479989"
+        }
+      ]
+    },
+    {
+      "skill": "SQL",
+      "count": 1,
+      "total": 4,
+      "evidence": [
+        {
+          "text": "کارآموز برنامه‌نویسی · 1479989",
+          "href": "https://www.jobvision.ir/jobs/1479989"
+        }
+      ]
+    },
+    {
+      "skill": "C#",
+      "count": 1,
+      "total": 4,
+      "evidence": [
+        {
+          "text": "کارآموز برنامه‌نویسی · 1479989",
+          "href": "https://www.jobvision.ir/jobs/1479989"
         }
       ]
     }
