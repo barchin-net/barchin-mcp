@@ -1,0 +1,737 @@
+[
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958568081.17/warc/CC-MAIN-20261115083134-20261115113134-00387.warc.gz",
+    "offset": 491397735,
+    "length": 30129,
+    "digest": "GIX2HQJUV7TJALFMZOEMBSYQQQOID45F",
+    "captureUrl": "https://torob.com/p/007d9772-6389-4216-9079-0725c561cb24/%D8%B1%D9%86%DA%AF-%D9%85%D9%88%DB%8C-%D9%85%D8%A7%D8%B1%D8%A7%D9%84-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-754-%D9%87%D8%A7%D9%88%D8%A7%D9%86%D8%A7-%D8%AD%D8%AC%D9%85-100-%D9%85%DB%8C%D9%84%DB%8C-%D9%84%DB%8C%D8%AA%D8%B1/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958568860.18/warc/CC-MAIN-20261116060859-20261116090859-00880.warc.gz",
+    "offset": 458174343,
+    "length": 24903,
+    "digest": "CO7DM5MULW6AXEIU3V5LFDBWUJ6EUYV3",
+    "captureUrl": "https://torob.com/p/0246d5bf-802a-4d2b-8f3f-2ee670ecb783/%DA%A9%D8%B1%D9%85-%D8%AA%D8%B3%DA%A9%DB%8C%D9%86-%D8%AF%D8%B1%D8%AF-%D9%81%D9%88%D8%B1%DB%8C-%D9%85%D9%88%D9%81-%D8%AD%D8%AC%D9%85-50-%DA%AF%D8%B1%D9%85/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958567606.45/warc/CC-MAIN-20261112093621-20261112123621-00808.warc.gz",
+    "offset": 491306621,
+    "length": 32320,
+    "digest": "CQ4LSN5EMV7ECEH7RHZV3SL52KYZO6P6",
+    "captureUrl": "https://torob.com/p/02e78123-a511-467a-91e4-81cb3084272e/%D9%BE%D9%85%D8%A7%D8%AF-%DA%A9%D8%A7%D9%84%D8%A7%D9%86%D8%AF%D9%88%D9%84%D8%A7-%D8%AF%DB%8C%D9%86%D9%87-%D9%88%D8%B2%D9%86-30-%DA%AF%D8%B1%D9%85/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958566979.14/warc/CC-MAIN-20261107003343-20261107033343-00361.warc.gz",
+    "offset": 499932406,
+    "length": 20591,
+    "digest": "ZY2X73BPIZSDMUXP4YMHVV5EX5BUHOEZ",
+    "captureUrl": "https://torob.com/p/0571d093-509f-42b5-91d7-903d57961d81/%D8%AF%D8%B3%D8%AA%DA%A9%D8%B4-%D8%A8%D9%88%DA%A9%D8%B3-%D9%88%D8%B3%DB%8C%D9%86%DA%AF-%D9%85%D8%AF%D9%84-fiter-2026-%DA%86%D8%B1%D9%85%DB%8C-1/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958567598.69/warc/CC-MAIN-20261112032309-20261112062309-00282.warc.gz",
+    "offset": 481132529,
+    "length": 20736,
+    "digest": "2J6UODWD2CQXXFOOO3BMHX2AD2HJOEKJ",
+    "captureUrl": "https://torob.com/p/073a198e-e5db-4fcc-86a3-e1746e15fa33/%D8%B1%D9%88%D9%84-%D8%A8%D8%B1%DA%86%D8%B3%D8%A8-%DA%A9%D8%A7%D8%A8%DB%8C%D9%86%D8%AA-%D9%BE%DB%8C-%D9%88%DB%8C-%D8%B3%DB%8C-%D9%85%D8%AF%D9%84-m9/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958566747.35/warc/CC-MAIN-20261106121738-20261106151738-00209.warc.gz",
+    "offset": 494482467,
+    "length": 28047,
+    "digest": "FSR5I2XR5I5JVSVWQP4PFHR376DVL6RY",
+    "captureUrl": "https://torob.com/p/0782ed71-0b07-4bfd-bf34-39218b4ffb56/%D9%87%DB%8C%D8%AA%D8%B1-%D9%88-%D9%87%D9%88%DB%8C%D9%87-%DA%AF%D8%B1%D8%AF%D8%A7%DA%A9-%D9%85%D8%AF%D9%84-gordak-952-%D8%AF%D9%85%D8%A7-480-%D8%AF%D8%B1%D8%AC%D9%87/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958568081.17/warc/CC-MAIN-20261115083134-20261115113134-00058.warc.gz",
+    "offset": 480787764,
+    "length": 19875,
+    "digest": "H5GYQQQJWZQ2EWAWHATZ7GDVCCSXMMEQ",
+    "captureUrl": "https://torob.com/p/0851885d-a42b-4cd9-97e3-e9730163bdaf/%D8%B3%D9%84%D9%81%D9%88%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%A8%D9%86%D8%AF%DB%8C-%DA%86%D8%B3%D8%A8-%D8%AF%D8%A7%D8%B1-50-%D8%B9%D8%AF%D8%AF%DB%8C/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958863536.81/warc/CC-MAIN-20261118102712-20261118132712-00486.warc.gz",
+    "offset": 494827193,
+    "length": 24775,
+    "digest": "OMLF2VTKNAXVVT5EMCE6QJHEQR4VU2NT",
+    "captureUrl": "https://torob.com/p/09ceea40-dae6-4e95-9183-122fc41298ee/%D8%AF%D9%88%D8%B1%D8%A8%DB%8C%D9%86-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-apeman-seeker-one-4k-%D8%A8%D8%A7-%D8%AF%D9%88-%D8%B5%D9%81%D8%AD%D9%87-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-%D9%88-%D9%81%DB%8C%D9%84%D9%85-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-60fps/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958568081.17/warc/CC-MAIN-20261115083134-20261115113134-00475.warc.gz",
+    "offset": 514594908,
+    "length": 28924,
+    "digest": "T5F7AJZAHHFZMQJLA6Y2NSG32X5YGDOV",
+    "captureUrl": "https://torob.com/p/0da16e36-ec6b-4945-b935-a61ef7691818/%D8%B9%D8%B7%D8%B1-%D8%A7%D8%AF%D9%88%D9%BE%D8%B1%D9%81%DB%8C%D9%88%D9%85-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87-%D8%A7%D8%B3%DA%A9%D9%84%D8%A7%D8%B1%D9%87-%D9%85%D8%AF%D9%84-silver-scent-%D8%B1%D8%A7%DB%8C%D8%AD%D9%87-%D8%AA%D9%86%D8%AF/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958567913.36/warc/CC-MAIN-20261114105316-20261114135316-00017.warc.gz",
+    "offset": 517838857,
+    "length": 28381,
+    "digest": "QBGUSC4X2ICAMEXL32M3NWYTEACZ7NBK",
+    "captureUrl": "https://torob.com/p/10a21971-373e-4448-b730-03b7114798dc/%D8%B3%D9%88%DB%8C%DB%8C%DA%86-%D8%AA%DB%8C-%D9%BE%DB%8C-%D9%84%DB%8C%D9%86%DA%A9-%D9%85%D8%AF%D9%84-tl-sf1008d/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958567841.1/warc/CC-MAIN-20261113223554-20261114013554-00654.warc.gz",
+    "offset": 474240621,
+    "length": 25949,
+    "digest": "HDIOPVAZLORGRGJEKXYWYKRMK5YNY7YO",
+    "captureUrl": "https://torob.com/p/114f01b1-b4f1-4df5-9ed6-cc4565205d41/%D8%AE%D9%85%DB%8C%D8%B1-%D9%82%D9%84%D8%B9-%D8%B3%D8%B1%D9%86%DA%AF%DB%8C-%D8%B1%DB%8C%D9%84%D8%A7%DB%8C%D9%81-%D9%85%D8%AF%D9%84-rl404s-138-%D8%AF%D8%B1%D8%AC%D9%87/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958566979.14/warc/CC-MAIN-20261107003343-20261107033343-00375.warc.gz",
+    "offset": 486500540,
+    "length": 17056,
+    "digest": "CEJFUMKK4OT4KXKIFQFUCXYQC3IPGJAW",
+    "captureUrl": "https://torob.com/p/11f52328-0625-4a1d-9b98-2e00d0a3065e/%D8%B3%DB%8C%D9%86%DA%A9-2%D9%85%D8%B1%D8%AD%D9%84%D9%87/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958567364.76/warc/CC-MAIN-20261110020654-20261110050654-00816.warc.gz",
+    "offset": 498989528,
+    "length": 29898,
+    "digest": "GRU65YMTBJEQSJBTLQUSBZUEPCCWE76R",
+    "captureUrl": "https://torob.com/p/131c6c81-02bf-4d6f-8ad4-8571a130bfd7/%D8%B3%D8%AA-%D8%A7%D8%AF%D8%A7%D9%BE%D8%AA%D9%88%D8%B1-%D8%B4%D8%A7%D8%B1%DA%98-45-%D9%88%D8%A7%D8%AA-%D9%88-%DA%A9%D8%A7%D8%A8%D9%84-%D8%A7%D9%BE%DB%8C%D9%85%DA%A9%D8%B3-ea-176/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958568081.17/warc/CC-MAIN-20261115083134-20261115113134-00387.warc.gz",
+    "offset": 491428971,
+    "length": 16598,
+    "digest": "A7RVBFCJUQGN6MBPDINRZTMMUJ6PACWB",
+    "captureUrl": "https://torob.com/p/143c7b85-48f7-44cc-bce5-2117dcd7a738/%DA%86%D8%B3%D8%A8-%D8%AF%D8%B1%D8%B2%DA%AF%DB%8C%D8%B1-%DA%A9%D8%A7%D8%BA%D8%B0-%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%DB%8C-%D8%A7%DB%8C%D8%B3%D8%AA%D8%B1-%D9%85%D8%AF%D9%84-%D9%BE%DB%8C%D9%88%D8%A7%DA%A9%D8%B3-%D8%AD%D8%AC%D9%85-30-%D9%85%DB%8C%D9%84%DB%8C-%D9%84%DB%8C%D8%AA%D8%B1/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958567598.69/warc/CC-MAIN-20261112032309-20261112062309-00066.warc.gz",
+    "offset": 488877591,
+    "length": 17584,
+    "digest": "K2DSKGRGACVZREQ2BT2X45GYYWTCSEC5",
+    "captureUrl": "https://torob.com/p/155992c4-16e8-4a64-bbf3-2be513d22974/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%84%D9%88%D8%B3%D8%AA%D8%B1-%D9%85%D8%AF%D8%B1%D9%86-%D9%BE%D8%B1%D9%88%D8%A7%D9%86%D9%87-%D8%A7%DB%8C-l1615-60-%D8%A7%D9%88%DB%8C%D8%B2-%D9%BE%D8%B1%D9%88%D8%A7%D9%86%D9%87-%D8%A7%DB%8C-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%DB%8C-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958568081.17/warc/CC-MAIN-20261115083134-20261115113134-00192.warc.gz",
+    "offset": 492209517,
+    "length": 22081,
+    "digest": "565DFGJAXE72TS7OLHNTICC5RH2WLEGW",
+    "captureUrl": "https://torob.com/p/155ff2db-57d7-4769-ab06-e5d230b3f0a0/%D8%B3%D9%84%D9%81%D9%88%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%A8%D9%86%D8%AF%DB%8C-%D9%85%D8%A8%D9%84/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958567364.76/warc/CC-MAIN-20261110020654-20261110050654-00128.warc.gz",
+    "offset": 491124042,
+    "length": 21270,
+    "digest": "FVNLN753ZSM3TLUXTZYZ3EXY65GUCDGE",
+    "captureUrl": "https://torob.com/p/15d926b1-a6bc-43be-abae-033a4e83d0b1/%DA%A9%DB%8C%D8%AA-%DA%A9%D9%84%D8%A7%DA%86-%D9%BE%DA%98%D9%88-%D9%BE%D8%A7%D8%B1%D8%B3-tu5-%DA%A9%D8%AF-0670301199/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958567717.34/warc/CC-MAIN-20261113010025-20261113040025-00493.warc.gz",
+    "offset": 516022977,
+    "length": 28096,
+    "digest": "GHPLDMBU3TONXXVWAJLXHBFHSLKAUS47",
+    "captureUrl": "https://torob.com/p/15e15b3f-f7a5-4ab0-84fc-b7c205a08bbf/%D9%86%D9%88%D8%A7%D8%B1-%D8%AA%D8%B3%D8%AA-%D9%82%D9%86%D8%AF-%D8%AE%D9%88%D9%86-%D9%81%D8%B1%DB%8C-%D8%B3%D9%86%D8%B3-%D9%85%D8%AF%D9%84-fs-ts50-%D8%A8%D8%B3%D8%AA%D9%87-50-%D8%B9%D8%AF%D8%AF%DB%8C/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958567499.60/warc/CC-MAIN-20261111055107-20261111085107-00371.warc.gz",
+    "offset": 483190836,
+    "length": 36908,
+    "digest": "CHMJ6D4GNVTSLFWM5GSJAFFFDLFXHMPW",
+    "captureUrl": "https://torob.com/p/15f38f8b-e7be-4fb8-965e-862f0740d561/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%A7%D9%84-%D8%AC%DB%8C-ut8000-%D8%B3%D8%A7%DB%8C%D8%B2-65-%D8%A7%DB%8C%D9%86%DA%86-led-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1-ultra-hd-4k/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958566979.14/warc/CC-MAIN-20261107003343-20261107033343-00188.warc.gz",
+    "offset": 548839149,
+    "length": 30949,
+    "digest": "WBKIP7KRZOWM3SI6Z3LSJL3LAOMOQSSY",
+    "captureUrl": "https://torob.com/p/1bdcc93e-a77f-42e4-a23e-464fbd212202/%D9%85%D8%B3%D9%88%D8%A7%DA%A9-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A7%D9%88%D8%B1%D8%A7%D9%84-%D8%A8%DB%8C-pro-series-1/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958567364.76/warc/CC-MAIN-20261110020654-20261110050654-00897.warc.gz",
+    "offset": 511470048,
+    "length": 16600,
+    "digest": "6GKN6OZ3XYWLFB7FDAL2VM54Q44KMGWF",
+    "captureUrl": "https://torob.com/p/1cf49e8d-f548-46d4-b6cb-174da4c36920/%DA%A9%D8%A7%D8%A8%D9%84-%D8%AA%D8%A7%DB%8C%D9%BE-%D8%B3%DB%8C-%D8%B1%D9%82%D8%B5-%D9%86%D9%88%D8%B1-%D8%B1%D8%A7%DA%A9-rock-r6-type-c-cable-1m-rcb0761/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958567401.0/warc/CC-MAIN-20261110081408-20261110111408-00493.warc.gz",
+    "offset": 498673253,
+    "length": 30228,
+    "digest": "2GM5KHKSAFOWEV522BHNXZES4WA5CRSC",
+    "captureUrl": "https://torob.com/p/1dba4d2a-3ad6-4d22-bf4b-251f75ed669d/%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A91757013%DB%8C%D8%B2%D8%AF-%D8%AA%D8%A7%DB%8C%D8%B1-%DA%AF%D9%84-venos/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958566979.14/warc/CC-MAIN-20261107003343-20261107033343-00610.warc.gz",
+    "offset": 523499079,
+    "length": 17636,
+    "digest": "YATTOEOKMVHINGYVK6HEFVIBOETOWJHM",
+    "captureUrl": "https://torob.com/p/1e051772-44b9-4313-a6bd-3acb56ceed38/%D9%BE%D9%85%D9%BE-%DA%AF%D8%A7%D8%B2%D9%88%DB%8C%DB%8C%D9%84-%DA%A9%D8%B4-%D9%88-%D8%B1%D9%88%D8%BA%D9%86-%DA%A9%D8%B4-%D9%88-%D8%A7%D8%A8-%D8%A8%D8%A7-%D8%B3%DB%8C%D9%85-%DA%A9%D8%B4%DB%8C-%D9%85%D8%B3/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958567134.31/warc/CC-MAIN-20261107215957-20261108005957-00720.warc.gz",
+    "offset": 504387635,
+    "length": 28467,
+    "digest": "GUL4JUDUQIPGUOTERBNY27YVUT2WGWHX",
+    "captureUrl": "https://torob.com/p/1e20aa4c-83bd-4827-8f8a-99d061878127/%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%A7%D8%AE%D9%88%D8%A7%D9%86-%D9%85%D8%AF%D9%84-%DA%AF%DB%8C%D8%AA%D8%A7-gi13-%D8%B3%DB%8C%D9%84%D9%88%D8%B1/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958567364.76/warc/CC-MAIN-20261110020654-20261110050654-00754.warc.gz",
+    "offset": 511472650,
+    "length": 27799,
+    "digest": "OG2YM4PVRI6VGOV5GAGPBFALGLYARN6Q",
+    "captureUrl": "https://torob.com/p/1e42cfb1-46b1-42a0-ad33-176b91bc3d55/%D9%BE%D8%A7%D9%84%D8%AA-%D8%B3%D8%A7%DB%8C%D9%87-%D8%A7%D8%A8%D8%B1%D9%88-%D8%A7%DA%A9%D9%88%D8%A7-%D9%85%D8%A7%D8%B3%DA%A9%D8%A7%D8%AA-6-%D8%B1%D9%86%DA%AF/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958566979.14/warc/CC-MAIN-20261107003343-20261107033343-00117.warc.gz",
+    "offset": 488427659,
+    "length": 29047,
+    "digest": "KZSJSGYX3WUXGYGCGGOS4XLWRQSG57IM",
+    "captureUrl": "https://torob.com/p/1e7bb573-c812-44fb-a6f1-e745828379c8/%D8%A7%D9%86%DA%AF%D8%B4%D8%AA%D8%B1-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87-%D9%86%D9%82%D8%B1%D9%87-%D8%B9%D9%82%DB%8C%D9%82-%D9%85%D8%B4%DA%A9%DB%8C-925-%D8%B9%DB%8C%D8%A7%D8%B1/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958567598.69/warc/CC-MAIN-20261112032309-20261112062309-00488.warc.gz",
+    "offset": 487466444,
+    "length": 29550,
+    "digest": "VNPOFUHQS6VKXLYUGFZ4BLBSTEYKHZPB",
+    "captureUrl": "https://torob.com/p/24370bf3-a859-46f1-a175-6d13074be5b0/%D9%86%D8%B1%D8%AF%D8%A8%D8%A7%D9%86-5-%D9%BE%D9%84%D9%87-%D8%A7%D8%B3%D9%85%D8%A7%D9%86-%D8%AA%D8%A7%D8%B4%D9%88-%D8%A8%D8%A7-%D8%AC%D8%A7%DB%8C-%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958567841.1/warc/CC-MAIN-20261113223554-20261114013554-00886.warc.gz",
+    "offset": 495848701,
+    "length": 27176,
+    "digest": "XPILO3AY6HOJLC6ZVCTBEVLGY7XIOSLL",
+    "captureUrl": "https://torob.com/p/246cfaf2-1f0d-4792-8201-0e27e143faf1/%D8%B3%D9%88%DB%8C%DB%8C%DA%86-%D8%AF%DB%8C-%D9%84%DB%8C%D9%86%DA%A9-%D9%85%D8%AF%D9%84-dgs-1016d-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-16-%D9%BE%D9%88%D8%B1%D8%AA/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958568860.18/warc/CC-MAIN-20261116060859-20261116090859-00946.warc.gz",
+    "offset": 492168549,
+    "length": 29226,
+    "digest": "37ZH33UIAV7AF53HQ3MGGF5VMBM4Y5QM",
+    "captureUrl": "https://torob.com/p/25db7510-61b4-43e2-97e1-e5919ea91629/%D9%BE%D9%88%D8%AF%D8%B1-%D9%BE%D8%B1%D9%88%D8%AA%DB%8C%DB%8C%D9%86-%D9%BE%DA%AF%D8%A7%D9%87-%D8%A7%D9%85-%D9%BE%DB%8C-%D8%B3%DB%8C-65-%D8%AF%D8%B1%D8%B5%D8%AF-%D9%88%D8%B2%D9%86-1000-%DA%AF%D8%B1%D9%85/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958566747.35/warc/CC-MAIN-20261106121738-20261106151738-00808.warc.gz",
+    "offset": 496182315,
+    "length": 27074,
+    "digest": "4XCN4CUEA2NWDSGVJXBOSYZDVL4MSCGW",
+    "captureUrl": "https://torob.com/p/25e9e0a0-30ee-42a3-b622-3ed9fbffdeb9/%D8%A7%DA%86-%D8%A7%D9%85-%D8%A7%DB%8C-%D8%AF%D9%84%D8%AA%D8%A7-%D9%85%D8%AF%D9%84-dop-107cv-%D8%B5%D9%81%D8%AD%D9%87-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-7-%D8%A7%DB%8C%D9%86%DA%86/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958568081.17/warc/CC-MAIN-20261115083134-20261115113134-00191.warc.gz",
+    "offset": 507972476,
+    "length": 28872,
+    "digest": "VN6QWSYCQJ3AGQMD5RVVMVF5B23URPL5",
+    "captureUrl": "https://torob.com/p/26b1df7c-dd43-4965-ae86-2f790eea2525/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-%DA%86%D8%B1%D8%AE%D8%B4%DB%8C-%D8%B1%D9%85%DB%8C%D9%86%DA%AF%D8%AA%D9%88%D9%86-%D9%85%D8%AF%D9%84-as8606-%D8%A8%D8%A7-%D8%A8%D8%A7%D8%AF-%D8%B3%D8%B1%D8%AF-%D9%88-%D9%85%D8%AA%D9%85%D8%B1%DA%A9%D8%B2%DA%A9%D9%86%D9%86%D8%AF%D9%87/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958567598.69/warc/CC-MAIN-20261112032309-20261112062309-00172.warc.gz",
+    "offset": 468886448,
+    "length": 18895,
+    "digest": "4LTLMG75MSZ2WCNKM4NO4U7NYE6XMEWS",
+    "captureUrl": "https://torob.com/p/26c2432b-0bbf-4292-820a-c6d405abbadc/%D9%BE%D8%B1%DB%8C%D9%86%D8%AA%D8%B1-%D8%AC%D9%88%D9%87%D8%B1%D8%A7%D9%81%D8%B4%D8%A7%D9%86-%DA%A9%D9%86%D9%88%D9%86-%D9%85%D8%AF%D9%84-1411/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958566747.35/warc/CC-MAIN-20261106121738-20261106151738-00955.warc.gz",
+    "offset": 492274847,
+    "length": 28011,
+    "digest": "VUP4S7RFCC6CZVRBRD62JLXDET46QMHD",
+    "captureUrl": "https://torob.com/p/26ca8b3f-473c-469d-8efb-f9b22fb0db18/%D8%B5%D8%A7%D8%A8%D9%88%D9%86-%DA%A9%D9%BE%D8%B3%D9%88%D9%84%DB%8C-%D9%88%DB%8C%D8%AA%D8%A7%D9%85%DB%8C%D9%86-%D8%B3%DB%8C-%D9%81%DB%8C%D9%84-%D8%A7%D8%B3%DA%A9%DB%8C%D9%86/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958566979.14/warc/CC-MAIN-20261107003343-20261107033343-00776.warc.gz",
+    "offset": 525583201,
+    "length": 28490,
+    "digest": "K5VJ3QDO3Y5XOHULXDT77EE6YB456JVL",
+    "captureUrl": "https://torob.com/p/283affb1-835f-4911-842a-4db067151c5b/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D9%84%D9%86%D9%88%D9%88-%D8%A7%D8%B3%D8%AA%D9%88%DA%A9-t480-8gb-ram-256gb-ssd-core-i5-8350u/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958567717.34/warc/CC-MAIN-20261113010025-20261113040025-00324.warc.gz",
+    "offset": 504041625,
+    "length": 29646,
+    "digest": "5KD7OYXETAU7LF4OCDEWVHSOUU5NOHZL",
+    "captureUrl": "https://torob.com/p/288f37ad-fe3d-46ec-b817-b50ccd79ee63/%D9%86%D9%88%D8%A7%D8%B1-%D8%AA%D8%B3%D8%AA-%D9%82%D9%86%D8%AF-%D8%AF%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-50%D8%B9%D8%AF%D8%AF%DB%8C/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958567134.31/warc/CC-MAIN-20261107215957-20261108005957-00923.warc.gz",
+    "offset": 513229999,
+    "length": 29873,
+    "digest": "DR2WONMZBCFNMIAFCNXX2WADWUCBX7Z4",
+    "captureUrl": "https://torob.com/p/29dfba63-93f7-49d1-96ff-f5dafabc08c9/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3-%D9%85%D8%AF%D9%84-bhd272-%D8%A8%D8%A7-%D8%AA%D9%88%D8%A7%D9%86-2100-%D9%88%D8%A7%D8%AA-%D9%88-%D8%A8%D8%A7%D8%AF-%D8%B3%D8%B1%D8%AF/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958863536.81/warc/CC-MAIN-20261118102712-20261118132712-00846.warc.gz",
+    "offset": 500326975,
+    "length": 19637,
+    "digest": "OZ4VFRPSNQGDLTBLUQQ4YKZNPNPL2TYR",
+    "captureUrl": "https://torob.com/p/2c04aff4-38ff-4ad9-8e16-9c72a63bb370/%D8%B2%D9%88%D8%AF%D9%BE%D8%B2-%D8%B1%D9%88%DB%8C%D8%A7%D9%84-%D9%85%D8%AF%D9%84-rosha-1600-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-7-%D9%84%DB%8C%D8%AA%D8%B1/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958566747.35/warc/CC-MAIN-20261106121738-20261106151738-00590.warc.gz",
+    "offset": 539632193,
+    "length": 20253,
+    "digest": "WLIR3IQUPMGVBPGBO2GPTAZVBD3ARZ7H",
+    "captureUrl": "https://torob.com/p/2c4a5744-9902-4427-89a5-c1aa7c196ca5/%D9%85%DA%A9%D8%B9%D8%A8-%D8%A7%D8%AD%D8%B3%D8%A7%D8%B3%D8%A7%D8%AA-%D8%A7%D9%85%D9%88%D8%B2%D8%B4-%D8%A7%D8%AD%D8%B3%D8%A7%D8%B3%D8%A7%D8%AA-%D8%A8%D8%A7-%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958567841.1/warc/CC-MAIN-20261113223554-20261114013554-00327.warc.gz",
+    "offset": 486815611,
+    "length": 22861,
+    "digest": "MB3ZKNUHWWRYIMVWOPRNB652O4ADKD4I",
+    "captureUrl": "https://torob.com/p/2d26554e-b9a5-4346-b359-147b1e1b9fdd/%D9%85%D8%B1%D8%BA%DA%A9-%DA%AF%D8%B1%D8%AF%D8%A7%D9%86-%D8%AA%D8%B1%D8%A7%D8%B4%DA%A9%D8%A7%D8%B1%DB%8C-%D9%88%D8%B1%D8%AA%DA%A9%D8%B3-%D8%AA%DB%8C%D9%BE-a-%D9%85%D8%AF%D9%84-vlc/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958566747.35/warc/CC-MAIN-20261106121738-20261106151738-00919.warc.gz",
+    "offset": 524648514,
+    "length": 29631,
+    "digest": "7224CUSZCLKW5IDGZEPHHMUD7YRK55RU",
+    "captureUrl": "https://torob.com/p/2e41d51a-1a39-4a6b-9e88-56da691cf867/%D9%81%D8%B4%D8%A7%D8%B1%D8%B3%D9%86%D8%AC-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84%DB%8C-%D8%A8%D8%A7%D8%B2%D9%88%DB%8C%DB%8C-%D8%A7%D8%B1%D9%85-%D8%A7%D8%B3%D8%AA%D8%A7%DB%8C%D9%84-%D8%BA%DB%8C%D8%B1-%D8%B3%D8%AE%D9%86%DA%AF%D9%88/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958567364.76/warc/CC-MAIN-20261110020654-20261110050654-00810.warc.gz",
+    "offset": 483191384,
+    "length": 28198,
+    "digest": "5OFL3UR47KBHER47UFVPFMY6U44X7NGU",
+    "captureUrl": "https://torob.com/p/2f19e936-7f99-4d16-8e82-df3dffe5e1df/%D9%87%D9%88%D8%AF-%D9%85%D9%88%D8%B1%D8%A8-%D8%A7%D9%84%D8%AA%D9%88%D9%86-%D9%85%D8%AF%D9%84-h316-%D8%B3%D8%A7%DB%8C%D8%B2-90-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%D9%85%D8%AA%D8%B1/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958567499.60/warc/CC-MAIN-20261111055107-20261111085107-00352.warc.gz",
+    "offset": 503439209,
+    "length": 30025,
+    "digest": "LPCIAVSQGZ4G7356D2P7XL3JJOIAMFOW",
+    "captureUrl": "https://torob.com/p/300aa7ad-9e52-42de-a1c2-cbfef1cbb994/%D9%81%D8%B1-%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%D8%A7%D9%84%D8%AA%D9%88%D9%86-%D9%85%D8%AF%D9%84-v905-b-%D9%85%D8%B4%DA%A9%DB%8C/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958567841.1/warc/CC-MAIN-20261113223554-20261114013554-00133.warc.gz",
+    "offset": 501324431,
+    "length": 30885,
+    "digest": "XSEMLTGX3HWKRRQT5G4MKXGFKK2NDRHS",
+    "captureUrl": "https://torob.com/p/30bebd39-187b-4f63-98be-d51006965abe/%DB%8C%D8%AE%DA%86%D8%A7%D9%84-%D9%81%D8%B1%DB%8C%D8%B2%D8%B1-%D8%B3%D8%A7%DB%8C%D8%AF-%D8%A8%D8%A7%DB%8C-%D8%B3%D8%A7%DB%8C%D8%AF-%D8%A7%D9%84-%D8%AC%DB%8C-%D9%85%D8%AF%D9%84-j267-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-30-%D9%81%D9%88%D8%AA-%D8%A8%D8%A7-%D8%A8%D8%A7%D8%B1-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D9%88-%DB%8C%D8%AE%D8%B3%D8%A7%D8%B2-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958568081.17/warc/CC-MAIN-20261115083134-20261115113134-00452.warc.gz",
+    "offset": 526372947,
+    "length": 16610,
+    "digest": "ZMWPZGT2CWE2YDNBNH6DEVJLHLBRUNVB",
+    "captureUrl": "https://torob.com/p/32a52418-9b4d-4e62-adfb-bc4c8d046c93/%DA%86%D8%B3%D8%A8-%DA%A9%D8%A7%D8%BA%D8%B0-%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%DB%8C-%DA%AF%DB%8C%D8%A7%D9%87%DB%8C-%D9%87%D9%84/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958568081.17/warc/CC-MAIN-20261115083134-20261115113134-00911.warc.gz",
+    "offset": 548328995,
+    "length": 30980,
+    "digest": "N3WXJCJQHFZF7J2PD4JX3EFLLE3Q3VCA",
+    "captureUrl": "https://torob.com/p/347448ba-ffe5-4f43-8625-6bda7d7563a9/%D8%B1%D9%86%DA%AF-%D9%85%D9%88%DB%8C-%D9%85%D8%A7%D8%B1%D8%A7%D9%84-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-125-%D8%AD%D8%AC%D9%85-100-%D9%85%DB%8C%D9%84%DB%8C-%D9%84%DB%8C%D8%AA%D8%B1-%D8%A8%D9%84%D9%88%D9%86%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D8%AE%DB%8C%D9%84%DB%8C-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B1%D9%88%D8%B4%D9%86/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958567598.69/warc/CC-MAIN-20261112032309-20261112062309-00749.warc.gz",
+    "offset": 505423532,
+    "length": 16989,
+    "digest": "GYXDLMLSIWL4NAK75UAVDZOLXOS62WFH",
+    "captureUrl": "https://torob.com/p/34b090af-eb43-4d9e-96a3-bbeea95b06d3/%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%DA%A9%D9%88%D8%A8-d1143-1tz-%D9%84%D9%88%D8%B3%D8%AA%D8%B1%D8%B3%D8%A7%D8%B2%D8%A7%D9%86/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958568081.17/warc/CC-MAIN-20261115083134-20261115113134-00102.warc.gz",
+    "offset": 501537318,
+    "length": 27240,
+    "digest": "EOXALD434CH257BIIU2BY63HAE233M4H",
+    "captureUrl": "https://torob.com/p/35bc6e73-eea2-4186-b6a9-b5a699aea484/%DA%A9%DB%8C%D8%AA-%D8%AA%D9%85%DB%8C%D8%B2-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%88%D9%86%D8%AF%D8%A7-%D9%85%D8%AF%D9%84-cleaner-new-%D8%AD%D8%AC%D9%85-250-%D9%85%DB%8C%D9%84%DB%8C-%D9%84%DB%8C%D8%AA%D8%B1/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958567134.31/warc/CC-MAIN-20261107215957-20261108005957-00271.warc.gz",
+    "offset": 461634768,
+    "length": 30194,
+    "digest": "GKRFYNAY7MV73ARV4TTSJPVVLWBJ2BJH",
+    "captureUrl": "https://torob.com/p/373466d4-c182-484e-bd57-29481e30c5ae/%D8%A7%D8%AC%D8%A7%D9%82-%DA%AF%D8%A7%D8%B2-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%A7%D9%84%D8%A8%D8%B1%D8%B2-%D9%85%D8%AF%D9%84-s-5959-%D8%B3%DB%8C%D9%84%D9%88%D8%B1/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958567606.45/warc/CC-MAIN-20261112093621-20261112123621-00203.warc.gz",
+    "offset": 511065832,
+    "length": 22915,
+    "digest": "UMTAOCQCWIUANNWJA5AU5HGDB7CZDW6K",
+    "captureUrl": "https://torob.com/p/37decc69-1c6e-4a67-b237-bcb4c1fb5004/%D9%BE%D8%B1%DB%8C%D9%86%D8%AA%D8%B1-%D8%AC%D9%88%D9%87%D8%B1-%D8%A7%D9%81%D8%B4%D8%A7%D9%86-%D8%A7%D9%BE%D8%B3%D9%88%D9%86-%D9%85%D8%AF%D9%84-et-m1140-%D8%AA%DA%A9-%DA%A9%D8%A7%D8%B1%D9%87/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958568081.17/warc/CC-MAIN-20261115083134-20261115113134-00578.warc.gz",
+    "offset": 510294304,
+    "length": 17823,
+    "digest": "QZYFSRN5OMDBMXAZE5MESX5754SKVE2O",
+    "captureUrl": "https://torob.com/p/3bc52bf3-e595-445c-8023-1fc76cc7a35d/%D8%AA%D8%B1%D8%A7%D8%B2%D9%88-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-%D8%A7%DA%A9%DB%8C%D9%88%D9%85%D8%AF-%D9%85%D8%AF%D9%84-bs-1204/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958567408.73/warc/CC-MAIN-20261110112238-20261110142238-00056.warc.gz",
+    "offset": 480970932,
+    "length": 31465,
+    "digest": "W7SG5J4VIJYHAKFVTPMQYRL5RKAIHHAZ",
+    "captureUrl": "https://torob.com/p/3bc68df7-4c76-4095-a5e4-3cc8eac748b0/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%A7%D9%84-%D8%AC%DB%8C-dfc435fw/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958566979.14/warc/CC-MAIN-20261107003343-20261107033343-00835.warc.gz",
+    "offset": 511112093,
+    "length": 19253,
+    "digest": "3E2EOMDJOH7A2BFHSO5KRS4JSHGA4Y3D",
+    "captureUrl": "https://torob.com/p/3c018a96-4979-4bae-b7c5-a71b682367e8/%D8%B3%DB%8C%D9%86%DA%A9-%D9%BE%D9%84%DB%8C%D9%85%D8%B1%DB%8C-30x30-%D8%A7%D8%B2%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87%DB%8C-%D8%B3%DB%8C%D9%86%DA%A9-%D8%B1%D8%B2%DB%8C%D9%86-%D8%A7%D9%BE%D9%88%DA%A9%D8%B3%DB%8C/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958567606.45/warc/CC-MAIN-20261112093621-20261112123621-00908.warc.gz",
+    "offset": 493347753,
+    "length": 22032,
+    "digest": "VWT6PDHG2JMHSOUFPC3H5QK66TSPJ6OW",
+    "captureUrl": "https://torob.com/p/3e102330-6e4b-4f7e-805a-94fdea83a753/%D8%B4%D9%85%D8%B4-%D8%B7%D9%84%D8%A7-20-%DA%AF%D8%B1%D9%85%DB%8C-%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C%D8%B3-%D8%B9%DB%8C%D8%A7%D8%B1-24/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958566747.35/warc/CC-MAIN-20261106121738-20261106151738-00314.warc.gz",
+    "offset": 502259589,
+    "length": 26381,
+    "digest": "WNP23R6JMR3F6T3IJOXKLLAVFSCVNP24",
+    "captureUrl": "https://torob.com/p/3e393ca8-6fa2-49bb-80f1-7b733794fcc6/plc-%D8%AF%D9%84%D8%AA%D8%A7-%D9%85%D8%AF%D9%84-dvp20sx211/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958568081.17/warc/CC-MAIN-20261115083134-20261115113134-00664.warc.gz",
+    "offset": 551209218,
+    "length": 25174,
+    "digest": "HWTBG4ZT7LT3NL5PW4DRX7OIARQPB4SR",
+    "captureUrl": "https://torob.com/p/418351d2-6aef-4c87-9c9e-ba74ac974f37/%D8%AA%D8%B1%D8%A7%D8%B2%D9%88-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-%D8%A7%DA%A9%DB%8C%D9%88%D9%85%D8%AF-%D9%85%D8%AF%D9%84-sc9960-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-180-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-47/segments/1793958567841.1/warc/CC-MAIN-20261113223554-20261114013554-00001.warc.gz",
+    "offset": 516546805,
+    "length": 18351,
+    "digest": "3LUAKVCOZYMT7ACCTTDF3IPCSBY5JNO5",
+    "captureUrl": "https://torob.com/p/419b9724-392d-419b-8a03-ec05bc6ff789/%D8%A7%D9%88%D8%AA%DB%8C-%D8%AC%DB%8C-%D8%A7%D9%86%D8%AF%D8%B1%D9%88%DB%8C%D8%AF-%DA%A9%D8%A7%D8%A8%D9%84%DB%8C/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170054328.81/warc/CC-MAIN-20261008213359-20261009003359-00175.warc.gz",
+    "offset": 505538419,
+    "length": 24985,
+    "digest": "2ZHGOVA4K4JMUPOJXQZ7TRUIKI7IO3HX",
+    "captureUrl": "https://torob.com/p/013c24ca-3d22-4883-ab83-f3c0b2a753d9/%DA%A9%D8%AA%D8%A7%D8%A8-%DA%AF%D8%B2%DB%8C%D8%AF%D9%87-%D8%BA%D8%B2%D9%84%DB%8C%D8%A7%D8%AA-%D8%B4%D9%85%D8%B3-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2%DB%8C-%D9%88%D8%B2%DB%8C%D8%B1%DB%8C-%DA%86%D8%B1%D9%85-%D9%88-%D9%85%D8%B3/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170347171.62/warc/CC-MAIN-20261016134423-20261016164423-00066.warc.gz",
+    "offset": 475069412,
+    "length": 21728,
+    "digest": "RFRGOMX423EJFCMIHGRRYKGZ6XMLUM6N",
+    "captureUrl": "https://torob.com/p/01b3a0f1-ab90-4b11-913d-ab70aef594f3/%DA%A9%D8%A7%D9%86%D8%AA%D9%88%D8%B1-%D8%AA%DB%8C%D8%B1%D9%87-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B1%D8%AA-%D8%A7%D8%B3%DA%A9%DB%8C%D9%86-%D9%85%D8%AF%D9%84-stay-all-day/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170346800.88/warc/CC-MAIN-20261016104051-20261016134051-00434.warc.gz",
+    "offset": 520718093,
+    "length": 19660,
+    "digest": "KJU4RVDMRJ5HSWPCVNRUWG4WII6DVJWI",
+    "captureUrl": "https://torob.com/p/02d4acee-48c5-4d51-81a3-02d874af3a58/%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B1%D9%88%D9%81-%DA%AF%D8%A7%D8%B1%D8%AF%D9%86-%D9%85%D8%AD%D9%88%D8%B7%D9%87/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170055358.49/warc/CC-MAIN-20261014215206-20261015005206-00091.warc.gz",
+    "offset": 527850907,
+    "length": 17845,
+    "digest": "C3RINJP2H5O5JAV6ULLNLEHCQM4O5CKT",
+    "captureUrl": "https://torob.com/p/037edac7-ee9f-42aa-9ec7-a2d4a7581908/%D8%B3%D8%B7%D9%84-%D8%B3%D8%A7%D9%84%D9%86%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-30-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C-ce3100-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%AC%D8%A7%D8%B3%DB%8C%DA%AF%D8%A7%D8%B1%DB%8C/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170349621.94/warc/CC-MAIN-20261017111501-20261017141501-00672.warc.gz",
+    "offset": 498275597,
+    "length": 20791,
+    "digest": "SB76FJDITQXYSXFAEZKYL72I36WHK3X7",
+    "captureUrl": "https://torob.com/p/046ed979-8944-4557-8bb3-25347bc47856/%DA%A9%DB%8C%D8%AA-%DA%A9%D9%84%D8%A7%DA%86-%D9%BE%DA%98%D9%88-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%AC%D8%AF%DB%8C%D8%AF-%D9%81%D8%A7%D8%A8%D8%B1%DB%8C%DA%A9%DB%8C-%D8%A8%D8%A7-%D9%85%D9%88%D8%AA%D9%88%D8%B1-xu7p/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170344035.85/warc/CC-MAIN-20261015222031-20261016012031-00581.warc.gz",
+    "offset": 524153898,
+    "length": 27586,
+    "digest": "QYRQPGS2K5BZ633ZYJPDKJ65X6OEYYQO",
+    "captureUrl": "https://torob.com/p/059cb50f-2f78-42df-aa95-b652e49b7916/%D9%85%D8%A7%DA%98%D9%88%D9%84-%D9%BE%D8%A7%D9%88%D8%B1-%D8%A8%D8%A7%D9%86%DA%A9-5-%D9%88%D9%84%D8%AA-2-%D8%A7%D9%85%D9%BE%D8%B1-%D8%A8%D8%A7-%D9%88%D8%B1%D9%88%D8%AF%DB%8C-%D8%AA%D8%A7%DB%8C%D9%BE-c/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170054600.65/warc/CC-MAIN-20261011135327-20261011165327-00398.warc.gz",
+    "offset": 486843345,
+    "length": 28477,
+    "digest": "CYBJ3AH4K3YUBH6QBRQ6OBB5VUE35DVZ",
+    "captureUrl": "https://torob.com/p/0626aef2-ba66-4bc5-b26b-9352d3f8ff3a/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%BE%D8%A7%DA%A9%D8%B4%D9%88%D9%85%D8%A7-%D9%85%D8%AF%D9%84-f54-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-15-%D9%86%D9%81%D8%B1%D9%87/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170344035.85/warc/CC-MAIN-20261015222031-20261016012031-00625.warc.gz",
+    "offset": 510123757,
+    "length": 19029,
+    "digest": "V6PCOLLALL6XDNXBZEGQQNO56X3RWXPX",
+    "captureUrl": "https://torob.com/p/0752a606-f42a-4606-8cc7-116640ef942e/%D9%81%D9%88%D9%85-%D9%84%DA%A9%D9%87-%D8%A8%D8%B1-%D9%81%D8%B1%D8%B4-%D9%88-%D9%85%D8%A8%D9%84%D9%85%D8%A7%D9%86-%D8%B1%D8%A7%D9%BE%DB%8C%D8%AF%D9%88-%D8%AD%D8%AC%D9%85-500-%D9%85%DB%8C%D9%84%DB%8C-%D9%84%DB%8C%D8%AA%D8%B1/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170349621.94/warc/CC-MAIN-20261017111501-20261017141501-00241.warc.gz",
+    "offset": 481648151,
+    "length": 19664,
+    "digest": "ZQ4QVZICQ26HLNROLWIYABX5QTBTOIVD",
+    "captureUrl": "https://torob.com/p/07de8bd0-f86a-433c-ab94-abcd2abed8ef/%D9%BE%D9%85%D9%BE-%D9%87%DB%8C%D8%AF%D8%B1%D9%88%D9%84%DB%8C%DA%A9-%D9%81%D8%B1%D9%85%D8%A7%D9%86-%D9%BE%DA%98%D9%88-206-%D8%A8%D8%B1%D9%86%D8%AF-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170350233.72/warc/CC-MAIN-20261017172509-20261017202509-00596.warc.gz",
+    "offset": 538558941,
+    "length": 30287,
+    "digest": "3OL7QU2X7SMHQXA374NONELKGHG5HPDO",
+    "captureUrl": "https://torob.com/p/084118c8-8183-407a-81c8-20edbde5730e/%D8%B5%D9%86%D8%AF%D9%84%DB%8C-%D8%AA%D8%A7%D8%B4%D9%88-%D9%BE%D8%B1%D8%B3%D8%AA%DB%8C%DA%98-%D9%85%D8%AF%D9%84-%D8%A7%D8%AF%D9%88%D9%86%DA%86%D8%B1/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170347171.62/warc/CC-MAIN-20261016134423-20261016164423-00689.warc.gz",
+    "offset": 472593984,
+    "length": 29185,
+    "digest": "5UA6UECPJT2KBUEMZFTLFLQ3HT5GFBWU",
+    "captureUrl": "https://torob.com/p/094b4c2a-660d-4eb1-abbe-b3dd57e89e0b/%D8%B3%D9%88%D8%AA-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%86%D8%A7%DB%8C%DA%A9-%D9%85%D8%AF%D9%84-pro-neck/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170350233.72/warc/CC-MAIN-20261017172509-20261017202509-00025.warc.gz",
+    "offset": 484873426,
+    "length": 34982,
+    "digest": "CUEAH5DCOZ7U5MD4A5BYZVRUTFGC3X7Z",
+    "captureUrl": "https://torob.com/p/0adc4606-021c-4fe9-87c8-3c8802ba2849/%DA%AF%D9%88%D8%B4%DB%8C-%D8%B4%DB%8C%D8%A7%DB%8C%D9%88%D9%85%DB%8C-redmi-note-14s-%D8%AD%D8%A7%D9%81%D8%B8%D9%87-256-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170349621.94/warc/CC-MAIN-20261017111501-20261017141501-00301.warc.gz",
+    "offset": 454024358,
+    "length": 28417,
+    "digest": "2UJPAUGRFUG376Z3TIZC2NOVH3BNUYFP",
+    "captureUrl": "https://torob.com/p/0add8644-f073-48c7-bf22-03d406e69d6d/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D9%BE%D8%A7%DA%A9%D8%B4%D9%88%D9%85%D8%A7-%D9%85%D8%AF%D9%84-j52-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-15-%D9%86%D9%81%D8%B1/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170346800.88/warc/CC-MAIN-20261016104051-20261016134051-00651.warc.gz",
+    "offset": 495666355,
+    "length": 27745,
+    "digest": "P4DVVCDOMOIIFQX22HOZWJE6RMMZS5IM",
+    "captureUrl": "https://torob.com/p/0b9dcd74-9a6e-4e4f-9930-419798f90020/%DA%86%D8%B3%D8%A8-%D9%BE%D9%88%D8%AF%D8%B1%DB%8C-%D8%B4%DB%8C%D9%85%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86-%D9%85%D8%AF%D9%84-bk2f-%D9%88%D8%B2%D9%86-20-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170054600.65/warc/CC-MAIN-20261011135327-20261011165327-00717.warc.gz",
+    "offset": 511451788,
+    "length": 25759,
+    "digest": "GLMTI4JIGPX2N2PL7P6HNCKLCEL7DZXG",
+    "captureUrl": "https://torob.com/p/10afea9c-9a64-475d-befe-ce245fd225d8/%D8%B4%D8%A7%D9%85%D9%BE%D9%88-%D8%B1%D9%86%DA%AF-%D9%85%D9%88-%D8%AA%D9%88%D9%86%DB%8C%DA%A9%D8%A7-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-46-%D8%B1%D9%86%DA%AF-%D9%82%D8%B1%D9%85%D8%B2-%DB%8C%D8%A7%D9%82%D9%88%D8%AA%DB%8C-%D8%AD%D8%AC%D9%85-150-%D9%85%DB%8C%D9%84%DB%8C-%D9%84%DB%8C%D8%AA%D8%B1/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170054600.65/warc/CC-MAIN-20261011135327-20261011165327-00851.warc.gz",
+    "offset": 485355073,
+    "length": 28621,
+    "digest": "NTXUUDEG2LUSVBMUXUJOWHZ7GC2QU6N6",
+    "captureUrl": "https://torob.com/p/10f2528c-9888-489d-868e-bada076048e6/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D8%B3%D8%B1-%D9%88-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88%DB%8C-%D8%AC%DB%8C-%D8%A7%D8%B1-%D9%85%D8%AF%D9%84-v-001-edition/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170054822.47/warc/CC-MAIN-20261013181109-20261013211109-00711.warc.gz",
+    "offset": 472422279,
+    "length": 27732,
+    "digest": "JQ527BR35ZH3YLQBA2Y4DTICLWGWXDKY",
+    "captureUrl": "https://torob.com/p/1362a05d-404c-4541-af47-259a129fbab4/%DA%A9%D9%86%D8%B3%D9%88%D9%84-%D8%A8%D8%A7%D8%B2%DB%8C-%D8%B3%D9%88%D9%86%DB%8C-%D8%A7%D8%B3%D8%AA%D9%88%DA%A9-ps4-slim-%D8%AD%D8%A7%D9%81%D8%B8%D9%87-1-%D8%AA%D8%B1%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%2B-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A7%D8%B6%D8%A7%D9%81%D9%87/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170347171.62/warc/CC-MAIN-20261016134423-20261016164423-00041.warc.gz",
+    "offset": 478400991,
+    "length": 30938,
+    "digest": "GDDPCZVENWFVNGDNWFP2ADESPSGUBEUN",
+    "captureUrl": "https://torob.com/p/13dacb30-a020-4ad4-8275-e943455692cf/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%AF%D9%88%D9%88-%D9%85%D8%AF%D9%84-dsl-50ms3000u-%D8%B3%D8%A7%DB%8C%D8%B2-50-%D8%A7%DB%8C%D9%86%DA%86/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170350233.72/warc/CC-MAIN-20261017172509-20261017202509-00418.warc.gz",
+    "offset": 464085310,
+    "length": 15710,
+    "digest": "C63NSCRYKAWZGQB2XEC6SNVJXZDXOIIQ",
+    "captureUrl": "https://torob.com/p/142e334d-bf33-4295-b01e-491754a5645f/%D8%B7%D8%B1%D8%AD-%D8%AE%D8%A7%D9%85-%D8%AD%DA%A9%D9%85-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170346800.88/warc/CC-MAIN-20261016104051-20261016134051-00948.warc.gz",
+    "offset": 497380998,
+    "length": 25905,
+    "digest": "4T2U3VRPQHAMAWZQ75XSE4SG6C5VAKFN",
+    "captureUrl": "https://torob.com/p/14f983e4-f998-4adc-afdd-ffea375f3d7a/%DA%A9%D9%84%DB%8C%D8%AF-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%DA%86%D9%87%D8%A7%D8%B1-%D9%BE%D9%84-%D8%B2%DB%8C%DA%AF%D8%A8%DB%8C-%D9%85%D8%AF%D9%84-f3-pro-%D8%A8%D8%A7-%D8%B5%D9%81%D8%AD%D9%87-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-%D9%84%D9%85%D8%B3%DB%8C/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170350334.91/warc/CC-MAIN-20261017233113-20261018023113-00120.warc.gz",
+    "offset": 501401959,
+    "length": 29631,
+    "digest": "CPB7T3VHLEE7RE7WMCJIOWJB6WYROQGW",
+    "captureUrl": "https://torob.com/p/1552720a-3d80-4366-ae78-f50e22e790a2/%D9%85%DB%8C%D8%B2-%D8%AA%D8%A7%D8%B4%D9%88-%D8%A7%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85%DB%8C-2-%D9%86%D9%81%D8%B1%D9%87-%D9%BE%D8%B1%D8%B3%D8%AA%DB%8C%DA%98/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170054600.65/warc/CC-MAIN-20261011135327-20261011165327-00577.warc.gz",
+    "offset": 510200446,
+    "length": 22819,
+    "digest": "TKPKY33OCGOFNAUXWM7BHYHWR7GPY4QX",
+    "captureUrl": "https://torob.com/p/17110ac2-e06e-45f5-a145-22a5bd70b05c/%D8%B1%D9%88%D8%BA%D9%86-%D9%85%D9%88%D8%AA%D9%88%D8%B1-%D8%A8%D9%87%D8%B1%D8%A7%D9%86-%D8%B3%D9%88%D9%BE%D8%B1-%D9%BE%DB%8C%D8%B4%D8%AA%D8%A7%D8%B2-4-%D9%84%DB%8C%D8%AA%D8%B1-sl-20w50/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170350233.72/warc/CC-MAIN-20261017172509-20261017202509-00209.warc.gz",
+    "offset": 467567519,
+    "length": 27487,
+    "digest": "2DB7Q5WMCNPNOCR54E4UR4OOBK5BENW5",
+    "captureUrl": "https://torob.com/p/17ff7034-a944-4971-8a8f-43ee57a749f8/%D9%82%D8%A7%D9%84%D8%A8-%D9%85%D8%A7%D9%81%DB%8C%D9%86-%DA%A9%D8%B1%DA%A9%D9%85%D8%A7%D8%B2-%D9%85%D8%AF%D9%84-%D8%AA%D9%88%D8%B1%D8%AA%D8%A7-6-%D8%B9%D8%AF%D8%AF%DB%8C-%D8%AA%D9%81%D9%84%D9%88%D9%86/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170344035.85/warc/CC-MAIN-20261015222031-20261016012031-00514.warc.gz",
+    "offset": 483684371,
+    "length": 22387,
+    "digest": "SGHLTDZXNLFKCGHXSH5X6CLUTCB5H7X5",
+    "captureUrl": "https://torob.com/p/1ae1e980-0778-4d7a-bb75-229428218771/%D8%B4%D8%A7%D8%B1%DA%98%D8%B1-%D9%81%D9%86%D8%AF%DA%A9%DB%8C-38-%D9%88%D8%A7%D8%AA-%DA%A9%DB%8C%D9%86%DA%AF-%D9%BE%D9%84%D8%A7%D8%B3-%D9%85%D8%AF%D9%84-hk-59/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170054600.65/warc/CC-MAIN-20261011135327-20261011165327-00395.warc.gz",
+    "offset": 482948969,
+    "length": 29577,
+    "digest": "CWUGNQR2UQTPC2VJSXWQFFNN5YHAI4DA",
+    "captureUrl": "https://torob.com/p/1c591a2b-4afe-41e4-ac27-81dfbe44c2d4/%D9%BE%D8%B1%DB%8C%D9%86%D8%AA%D8%B1-%DA%86%D9%86%D8%AF%DA%A9%D8%A7%D8%B1%D9%87-%D8%AC%D9%88%D9%87%D8%B1%D8%A7%D9%81%D8%B4%D8%A7%D9%86-%D8%A7%D9%BE%D8%B3%D9%88%D9%86-%D9%85%D8%AF%D9%84-l3210/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170054454.46/warc/CC-MAIN-20261010102017-20261010132017-00955.warc.gz",
+    "offset": 483204820,
+    "length": 22361,
+    "digest": "SGSGAVGCOLN7PJ3RQ45XEMTBVNJSSYWW",
+    "captureUrl": "https://torob.com/p/1dad9a31-5ac9-4151-a694-40fe3e1a8227/%D9%82%D8%A7%D8%A8-%DA%A9%D8%A7%D9%85%D9%84-%D9%BE%D9%84%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D8%B4%D9%86-4-%D8%A7%D8%B3%D9%84%DB%8C%D9%85/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170350233.72/warc/CC-MAIN-20261017172509-20261017202509-00706.warc.gz",
+    "offset": 499915438,
+    "length": 19294,
+    "digest": "5DUKBFAT6S5DJG6VMWTJEKVIJZS6ZOUI",
+    "captureUrl": "https://torob.com/p/205c0269-f9b0-47a5-8532-637906fec6c3/%D8%B7%D9%84%D9%82-%D9%BE%D9%84%DA%A9%D8%B3%DB%8C-%D8%B4%D9%81%D8%A7%D9%81-4-%D9%85%DB%8C%D9%84-%D8%B3%D8%A7%DB%8C%D8%B2-180-%D8%AF%D8%B1-120/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170054822.47/warc/CC-MAIN-20261013181109-20261013211109-00283.warc.gz",
+    "offset": 523933911,
+    "length": 23514,
+    "digest": "TSNII7CPCODUJ4XBJ2BNIBPTZNTJZQRZ",
+    "captureUrl": "https://torob.com/p/216cf9d2-0014-4058-bb1c-24fd1562d70f/%DA%A9%D8%AA-%D8%AC%DB%8C%D9%86-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87-%D9%82%D9%88%D8%A7%D8%B1%D9%87-%D8%A8%D8%A7%DA%A9%D8%B3%DB%8C-%D8%B1%D9%86%DA%AF-%D8%B0%D8%BA%D8%A7%D9%84%DB%8C/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170054454.46/warc/CC-MAIN-20261010102017-20261010132017-00170.warc.gz",
+    "offset": 484058391,
+    "length": 29952,
+    "digest": "3AZCIM7GDQQXCRS5RABHEXO5YWGRFVDF",
+    "captureUrl": "https://torob.com/p/21a31d29-cf53-4b46-94cc-7480ba1e4158/%D8%AF%D9%88%D8%B1%D8%A8%DB%8C%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%A7%DB%8C%D9%86%D9%87-%D8%B3%D9%88%D9%86%DB%8C-%D9%85%D8%AF%D9%84-a7c-ii-body/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170054319.37/warc/CC-MAIN-20261008182931-20261008212931-00912.warc.gz",
+    "offset": 528113651,
+    "length": 30270,
+    "digest": "2YYBZOKLFVGMRD3GO5LQ5QXEGSDYB7E4",
+    "captureUrl": "https://torob.com/p/23135d01-ac5d-40b2-804c-bb584e99569c/%DA%A9%D8%B1%D9%85-%D8%B6%D8%AF-%D8%A7%D9%81%D8%AA%D8%A7%D8%A8-%D8%A8%DB%8C-%D8%B1%D9%86%DA%AF-%D8%A7%D8%B3%DA%A9%DB%8C%D9%86-1004-%D8%B3%D9%86%D8%AA%D9%84%D8%A7-%D9%85%D8%AF%D9%84-%D9%85%D8%A7%D8%AF%D8%A7%DA%AF%D8%A7%D8%B3%DA%A9%D8%A7%D8%B1-spf50-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D9%BE%D9%88%D8%B3%D8%AA-%D8%AD%D8%AC%D9%85-50-%D9%85%DB%8C%D9%84%DB%8C-%D9%84%DB%8C%D8%AA%D8%B1/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170054822.47/warc/CC-MAIN-20261013181109-20261013211109-00603.warc.gz",
+    "offset": 491312559,
+    "length": 28307,
+    "digest": "FF27PVCNCLJTQ7MD2ZCOOXVKF3F5PL7T",
+    "captureUrl": "https://torob.com/p/233d126f-5596-4e33-97dd-689d5b4662f0/%D8%AD%D8%A7%D9%84%D8%AA-%D8%AF%D9%87%D9%86%D8%AF%D9%87-%D9%85%D9%88-%D8%B3%D8%B4%D9%88%D8%A7%D8%B1-%D9%BE%D9%86%D8%AC-%DA%A9%D8%A7%D8%B1%D9%87-%D9%85%D9%88-%D8%B7%D8%B1%D8%AD-%D8%AF%D8%A7%DB%8C%D8%B3%D9%88%D9%86-%D9%85%D8%AF%D9%84-tp-5%2B1-%DA%A9%D8%AF-yx-818-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%A7%D9%87-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-%D8%AF%D8%B1-%D8%AE%D8%A7%D9%86%D9%87/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170054454.46/warc/CC-MAIN-20261010102017-20261010132017-00716.warc.gz",
+    "offset": 485074680,
+    "length": 29676,
+    "digest": "A4MYFBJFZZBCUAZHC56KMXGZJKBEIBWI",
+    "captureUrl": "https://torob.com/p/2491d59e-b077-4ed5-b04e-1fbd99b41e23/%D8%AF%D9%88%D8%B1%D8%A8%DB%8C%D9%86-%D8%B9%DA%A9%D8%A7%D8%B3%DB%8C-%DA%A9%D8%A7%D9%86%D9%86-%D9%85%D8%AF%D9%84-eos-90d-ef-s-18-135mm-is-usm/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170054822.47/warc/CC-MAIN-20261013181109-20261013211109-00100.warc.gz",
+    "offset": 519095048,
+    "length": 19822,
+    "digest": "PSBI4ZFV3NFODKWOOC2B3GUKRHTYOTPU",
+    "captureUrl": "https://torob.com/p/25926fa1-cad1-47bd-a792-1d5479cd08ca/%D9%82%D8%A7%D9%84%D8%A8-%DA%A9%DB%8C%DA%A9-%D9%85%D9%88%D8%AC-%D9%85%D8%AF%D9%84-%D9%85%D8%B3%D8%AA%D8%B7%DB%8C%D9%84-%D8%B3%D8%A7%DB%8C%D8%B2-30-40-%D9%84%D8%A8%D9%87-%D8%A8%D9%84%D9%86%D8%AF/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170054603.53/warc/CC-MAIN-20261011165953-20261011195953-00752.warc.gz",
+    "offset": 487364713,
+    "length": 33868,
+    "digest": "CDALJ634TVZUQ3H72GBKCDS2E5ZGTESG",
+    "captureUrl": "https://torob.com/p/27e6632b-9a91-4ce4-9d42-a1a3d076e45a/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%A7%D9%84-%D8%AC%DB%8C-%D9%85%D8%AF%D9%84-ut8000-%D8%B3%D8%A7%DB%8C%D8%B2-75-%D8%A7%DB%8C%D9%86%DA%86-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1-ultra-hd-4k-%D9%86%D9%88%D8%B9-%D8%B5%D9%81%D8%AD%D9%87-led/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170054454.46/warc/CC-MAIN-20261010102017-20261010132017-00387.warc.gz",
+    "offset": 505873549,
+    "length": 27805,
+    "digest": "G4E36VZJVNFGQ6CET53HFZH64NE5SDO3",
+    "captureUrl": "https://torob.com/p/299c2c21-432b-47e1-bc1b-0c7e2248f79b/%D9%85%D8%AE%D9%84%D9%88%D8%B7-%DA%A9%D9%86-%D8%B3%DB%8C%D9%84%D9%88%D8%B1-%DA%A9%D8%B1%D8%B3%D8%AA-%D9%85%D8%AF%D9%84-sc-1589-%D8%AA%D9%88%D8%A7%D9%86-5500-%D9%88%D8%A7%D8%AA/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170054684.45/warc/CC-MAIN-20261012204527-20261012234527-00662.warc.gz",
+    "offset": 509850686,
+    "length": 17818,
+    "digest": "6AD3V3X5WVP7XIQDVXZGLBII7XMY6H62",
+    "captureUrl": "https://torob.com/p/2a7fbc59-4144-44d8-9dd9-71ee585575a7/%D8%A8%D8%A7%D9%84%D8%B4-%D8%A8%D8%A7%D8%AF%DB%8C-%D8%A7%DB%8C%D9%86%D8%AA%DA%A9%D8%B3-%DA%A9%D8%AF-68676b/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170055358.49/warc/CC-MAIN-20261014215206-20261015005206-00609.warc.gz",
+    "offset": 523865014,
+    "length": 24542,
+    "digest": "HWZCCWCNNMEGNVYGNAJZ5IUIQ3AESAWO",
+    "captureUrl": "https://torob.com/p/2b682c8f-5051-44cf-9f1f-387b11b77042/%D8%AC%D9%88%D8%B1%D8%A7%D8%A8-%D8%A8%D8%AF%D9%86%D8%B3%D8%A7%D8%B2%DB%8C-%D8%AC%D9%84%D9%88-%D8%A8%D8%A7%D8%B2-%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D8%B3-%DA%AF%D9%84%D8%AF%D9%86-%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1-%D8%A7%D8%B3%D8%AA%D9%BE-%D8%AF%D8%A7%D8%B1-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%DB%8C%D9%88%DA%AF%D8%A7-%D9%88-%D9%88%D8%B1%D8%B2%D8%B4-%D9%87%D8%A7%DB%8C-%D9%87%D9%88%D8%A7%D8%B2%DB%8C/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170054684.45/warc/CC-MAIN-20261012204527-20261012234527-00060.warc.gz",
+    "offset": 540752544,
+    "length": 17015,
+    "digest": "VRJS4G3UMYH72QKVA5UED5YU5QP7FUPG",
+    "captureUrl": "https://torob.com/p/2bbf83cc-d5d4-4802-a49e-28de72d13fdb/%D8%A8%D8%A7%D8%B2%D9%88%D8%A8%D9%86%D8%AF-%D8%AD%D8%B1%D8%B2-%D8%A7%D9%85%D8%A7%D9%85-%D8%AC%D9%88%D8%A7%D8%AF-%D8%B9-%DA%86%D8%B1%D9%85-%D8%B7%D8%A8%DB%8C%D8%B9%DB%8C-%D8%AF%D8%B3%D8%AA-%D8%AF%D9%88%D8%B2-%D8%B7%D8%B1%D8%AD-%D9%BE%D8%B1%D8%AF%DB%8C%D8%B3/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170344035.85/warc/CC-MAIN-20261015222031-20261016012031-00560.warc.gz",
+    "offset": 484994380,
+    "length": 17265,
+    "digest": "VEMW65CD23U6ZND5OAANUQTMVQOCZYSX",
+    "captureUrl": "https://torob.com/p/2d47cc93-45ca-445a-b4ff-dc23921cf3f6/%D9%BE%D9%88%D8%AF%D8%B1-%D9%81%DB%8C%DA%A9%D8%B3-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C-debby-%D9%85%D8%AD%D8%B5%D9%88%D9%84-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-30-%DA%AF%D8%B1%D9%85%DB%8C/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170349621.94/warc/CC-MAIN-20261017111501-20261017141501-00080.warc.gz",
+    "offset": 489640706,
+    "length": 30391,
+    "digest": "ADGV4NWDVJ4U2Z3RAJ7CE74JTPSL5K4L",
+    "captureUrl": "https://torob.com/p/2fbd75aa-f1ba-4f36-8a35-4a246dd467a3/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88%DB%8C-%D8%AC%DB%8C-%D8%A7%D8%B1-%D9%85%D8%AF%D9%84-v-996-%D8%A8%D8%A7-%D8%AA%DB%8C%D8%BA%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9-%D9%88-%D8%A8%D8%B1%D8%B4-%D9%85%D8%B3%D8%AA%D9%82%DB%8C%D9%85/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170054328.81/warc/CC-MAIN-20261008213359-20261009003359-00355.warc.gz",
+    "offset": 490008864,
+    "length": 24716,
+    "digest": "SJV25ZRCA6QFDQ24AOGJM57AIDM4WNIW",
+    "captureUrl": "https://torob.com/p/310fd77b-943e-465d-9089-f45b80f37e70/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%DA%A9%D9%86%D9%88%D9%88%D8%AF-%D9%85%D8%AF%D9%84-kdw3141-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-14-%D9%86%D9%81%D8%B1-%D9%85%D8%A8%D9%84%D9%87-%D8%A8%D8%A7-7-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170054600.65/warc/CC-MAIN-20261011135327-20261011165327-00813.warc.gz",
+    "offset": 454283951,
+    "length": 30496,
+    "digest": "JJ3U7AW3EU3TF4EEECIM5U6EEM2VJJSZ",
+    "captureUrl": "https://torob.com/p/324f1c3d-7b19-4b25-aa3c-9ba16517517f/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C-%D8%A8%D9%88%D8%B4-%D9%85%D8%AF%D9%84-sms6zcw37q-sms6zci37q/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170346800.88/warc/CC-MAIN-20261016104051-20261016134051-00123.warc.gz",
+    "offset": 467763315,
+    "length": 30355,
+    "digest": "4LIKGXGUJR5U2GQ22LJDJO2DHQPLZV4T",
+    "captureUrl": "https://torob.com/p/3255b349-c97f-424d-a3e1-d358f8746e93/%D9%85%D8%AF%D8%A7%D8%AF-%D8%B1%D9%86%DA%AF%DB%8C-%D8%B3%DB%8C-%DA%A9%D9%84%D8%A7%D8%B3-%D9%85%D8%AF%D9%84-%D8%A7%D8%AA%D9%88%D8%AF%DB%8C-%D8%A8%D8%B3%D8%AA%D9%87-18-%D8%B1%D9%86%DA%AF/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170054319.37/warc/CC-MAIN-20261008182931-20261008212931-00263.warc.gz",
+    "offset": 449717062,
+    "length": 16348,
+    "digest": "ZJFPAQHZOBQXOKA57SHJZFI2PUFGVYLP",
+    "captureUrl": "https://torob.com/p/3a00149a-afe7-46e4-a5e0-e9963d0cbc3e/%DA%A9%D8%A7%D9%85%D9%88%D8%A7-%D8%A7%DA%A9%D8%B1%DB%8C%D9%84-%D8%A8%D8%A7%D9%81%D8%AA-%D8%A8%DB%8C-%D8%A8%DB%8C-%D8%B6%D8%AE%DB%8C%D9%85-%D8%B6%D8%AF-%D8%AD%D8%B3%D8%A7%D8%B3%DB%8C%D8%AA/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170054600.65/warc/CC-MAIN-20261011135327-20261011165327-00509.warc.gz",
+    "offset": 454513522,
+    "length": 28077,
+    "digest": "LFWXNCE4YBRPIXE2S5TYY2K6C6DVPBBM",
+    "captureUrl": "https://torob.com/p/3b70c742-83f2-4e8e-815c-ba12c3ff2c30/%D8%B4%D8%A7%D9%85%D9%BE%D9%88-%D8%B1%D9%86%DA%AF-%D8%AA%D9%88%D9%86%DB%8C%DA%A9%D8%A7-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-853-%D8%AD%D8%AC%D9%85-150-%D9%85%DB%8C%D9%84-%D8%B5%D9%88%D8%B1%D8%AA%DB%8C-%D8%AF%D9%88%D8%AF%DB%8C/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170054600.65/warc/CC-MAIN-20261011135327-20261011165327-00819.warc.gz",
+    "offset": 454854150,
+    "length": 26755,
+    "digest": "MOFEZ53BBTACVO7BVVOGUJX6XSYZJSNN",
+    "captureUrl": "https://torob.com/p/3e63e790-1925-47b3-9969-744140ede232/%D8%A7%D8%B3%D8%AA%D9%86%D8%AF-%D8%B1%D8%A7%D9%86%D9%86%D8%AF%DA%AF%DB%8C-%D8%B3%D9%88%D9%86%DB%8C-vrs-racing-simulator-stand/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170349621.94/warc/CC-MAIN-20261017111501-20261017141501-00758.warc.gz",
+    "offset": 525904053,
+    "length": 21664,
+    "digest": "LMNMCFLODRL4ARLXNORZBWMLXI772YQV",
+    "captureUrl": "https://torob.com/p/40a25098-d67f-4563-8828-77ee4475e0fb/%DA%AF%D9%84%DB%8C%D8%B3%DB%8C%D8%B1%DB%8C%D9%86-%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%88-%D9%85%D9%88%D8%B6%D8%B9%DB%8C-%DA%A9%DB%8C%D9%85%DB%8C%D8%A7%DA%AF%D8%B1-%D8%B7%D9%88%D8%B3-%D8%AD%D8%AC%D9%85-60-%D9%85%DB%8C%D9%84%DB%8C-%D9%84%DB%8C%D8%AA%D8%B1/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170054600.65/warc/CC-MAIN-20261011135327-20261011165327-00676.warc.gz",
+    "offset": 466191479,
+    "length": 29603,
+    "digest": "VATUHT4ROHHMZDZ4RVDXPVGSMWQSLUBJ",
+    "captureUrl": "https://torob.com/p/43d36005-e301-43af-b295-88cf7dac2477/%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-vgr-v-285/"
+  },
+  {
+    "archive": "crawl-data/CC-MAIN-2026-43/segments/1791170054454.46/warc/CC-MAIN-20261010102017-20261010132017-00803.warc.gz",
+    "offset": 487871399,
+    "length": 30241,
+    "digest": "TK6SG3DD7DIJPTOCKWYAOLIYGWASXHSG",
+    "captureUrl": "https://torob.com/p/44826d5d-75ba-40de-8263-04a8671214a3/%D8%AF%D9%88%D8%B1%D8%A8%DB%8C%D9%86-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%DB%8C%DB%8C-%D8%B3%D9%88%D9%86%DB%8C-fx3-%D9%81%D9%88%D9%84-%D9%81%D8%B1%DB%8C%D9%85-%D8%A8%D8%A7-%D8%B1%D8%B2%D9%88%D9%84%D9%88%D8%B4%D9%86-102-%D9%85%DA%AF%D8%A7%D9%BE%DB%8C%DA%A9%D8%B3%D9%84-%D9%88-uhd/"
+  }
+]

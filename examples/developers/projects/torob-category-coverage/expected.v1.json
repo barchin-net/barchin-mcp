@@ -1,6 +1,7 @@
 {
   "columns": [
     "category",
+    "subcategory",
     "product",
     "sellers",
     "floorPrice",
@@ -9,28 +10,175 @@
   ],
   "rows": [
     {
-      "category": "اره موتوری و زنجیری",
-      "product": "اره زنجیری برقی ادون مدل ECS405-KA40 سایز ۴۰ سانت",
-      "sellers": 15,
-      "floorPrice": 8358000,
-      "link": "https://torob.com/p/58e16181-ac9d-4521-b94a-a0c249bbc0d0/%D8%A7%D8%B1%D9%87-%D8%B2%D9%86%D8%AC%DB%8C%D8%B1%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A7%D8%AF%D9%88%D9%86-%D9%85%D8%AF%D9%84-ecs405-ka40-%D8%B3%D8%A7%DB%8C%D8%B2-40-%D8%B3%D8%A7%D9%86%D8%AA/",
-      "observed": "2026-10-04"
+      "category": "لوازم خانگی",
+      "subcategory": "اجاق گاز",
+      "product": "اجاق گاز استیل اخوان مدل گیتا GI13 سیلور",
+      "sellers": 6,
+      "floorPrice": 29342533,
+      "link": "https://torob.com/p/1e20aa4c-83bd-4827-8f8a-99d061878127/",
+      "observed": "2026-11-07T22:17:43+00:00"
     },
     {
-      "category": "اره موتوری و زنجیری",
-      "product": "اره برقی اینتیمکس مدل 0602 سایز ۳۰ سانت",
+      "category": "لوازم خانگی",
+      "subcategory": "فر برقی و گازی",
+      "product": "فر توکار آلتون مدل V905 B مشکی",
+      "sellers": 6,
+      "floorPrice": 78200000,
+      "link": "https://torob.com/p/300aa7ad-9e52-42de-a1c2-cbfef1cbb994/",
+      "observed": "2026-11-11T06:22:39+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "ماشین ظرفشویی",
+      "product": "ماشین ظرفشویی پاکشوما مدل F54 ظرفیت ۱۵ نفره",
+      "sellers": 6,
+      "floorPrice": 112900000,
+      "link": "https://torob.com/p/0626aef2-ba66-4bc5-b26b-9352d3f8ff3a/",
+      "observed": "2026-10-11T14:12:22+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "تلویزیون",
+      "product": "تلویزیون ال جی مدل UT8000 سایز ۷۵ اینچ کیفیت تصویر Ultra HD 4K نوع صفحه LED",
+      "sellers": 6,
+      "floorPrice": 217100000,
+      "link": "https://torob.com/p/27e6632b-9a91-4ce4-9d42-a1a3d076e45a/",
+      "observed": "2026-10-11T17:12:14+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "اجاق گاز",
+      "product": "اجاق گاز استیل البرز مدل S-5959 سیلور",
       "sellers": 5,
-      "floorPrice": 8220000,
-      "link": "https://torob.com/p/deb6819b-8dc9-448c-94b7-0f6cd0544455/%D8%A7%D8%B1%D9%87-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A7%DB%8C%D9%86%D8%AA%DB%8C%D9%85%DA%A9%D8%B3-%D9%85%D8%AF%D9%84-0602-%D8%B3%D8%A7%DB%8C%D8%B2-30-%D8%B3%D8%A7%D9%86%D8%AA/",
-      "observed": "2026-10-04"
+      "floorPrice": 28940000,
+      "link": "https://torob.com/p/373466d4-c182-484e-bd57-29481e30c5ae/",
+      "observed": "2026-11-07T22:17:09+00:00"
     },
     {
-      "category": "اره موتوری و زنجیری",
-      "product": "اره موتوری توکیو ۵۲ سی سی سایز ۵۰ سانت بنزینی",
-      "sellers": 3,
-      "floorPrice": 14700000,
-      "link": "https://torob.com/p/3f48860b-8236-4733-a9f0-0b5d5e6a37a2/%D8%A7%D8%B1%D9%87-%D9%85%D9%88%D8%AA%D9%88%D8%B1%DB%8C-%D8%AA%D9%88%DA%A9%DB%8C%D9%88-52-%D8%B3%DB%8C-%D8%B3%DB%8C-%D8%B3%D8%A7%DB%8C%D8%B2-50-%D8%B3%D8%A7%D9%86%D8%AA-%D8%A8%D9%86%D8%B2%DB%8C%D9%86%DB%8C/",
-      "observed": "2026-10-04"
+      "category": "لوازم خانگی",
+      "subcategory": "ماشین ظرفشویی",
+      "product": "ماشین ظرفشویی ال جی DFC435FW",
+      "sellers": 5,
+      "floorPrice": 165300000,
+      "link": "https://torob.com/p/3bc68df7-4c76-4095-a5e4-3cc8eac748b0/",
+      "observed": "2026-11-10T11:40:13+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "ماشین ظرفشویی",
+      "product": "ماشین ظرفشویی پاکشوما مدل J52 ظرفیت ۱۵ نفر",
+      "sellers": 5,
+      "floorPrice": 97000000,
+      "link": "https://torob.com/p/0add8644-f073-48c7-bf22-03d406e69d6d/",
+      "observed": "2026-10-17T11:31:24+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "تلویزیون",
+      "product": "تلویزیون دوو مدل DSL-50MS3000U سایز 50 اینچ",
+      "sellers": 5,
+      "floorPrice": 65701874,
+      "link": "https://torob.com/p/13dacb30-a020-4ad4-8275-e943455692cf/",
+      "observed": "2026-10-16T14:12:17+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "قالب شیرینی پزی و دسر",
+      "product": "قالب مافین کرکماز مدل تورتا ۶ عددی تفلون",
+      "sellers": 5,
+      "floorPrice": 250000,
+      "link": "https://torob.com/p/17ff7034-a944-4971-8a8f-43ee57a749f8/",
+      "observed": "2026-10-17T17:40:42+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "مخلوط کن برقی",
+      "product": "مخلوط کن سیلور کرست مدل SC 1589 توان 5500 وات",
+      "sellers": 5,
+      "floorPrice": 4299000,
+      "link": "https://torob.com/p/299c2c21-432b-47e1-bc1b-0c7e2248f79b/",
+      "observed": "2026-10-10T10:44:55+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "تلویزیون",
+      "product": "تلویزیون ال جی UT8000 سایز ۶۵ اینچ LED کیفیت تصویر Ultra HD 4K",
+      "sellers": 4,
+      "floorPrice": 145500000,
+      "link": "https://torob.com/p/15f38f8b-e7be-4fb8-965e-862f0740d561/",
+      "observed": "2026-11-11T05:57:17+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "یخچال فریزر ساید بای ساید",
+      "product": "یخچال فریزر ساید بای ساید ال جی مدل J267 ظرفیت ۳۰ فوت با بار خانگی و یخساز اتوماتیک",
+      "sellers": 4,
+      "floorPrice": 271000000,
+      "link": "https://torob.com/p/30bebd39-187b-4f63-98be-d51006965abe/",
+      "observed": "2026-11-13T22:59:51+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "ماشین ظرفشویی",
+      "product": "ماشین ظرفشویی بوش مدل SMS6ZCW37Q  SMS6ZCI37Q",
+      "sellers": 4,
+      "floorPrice": 152500000,
+      "link": "https://torob.com/p/324f1c3d-7b19-4b25-aa3c-9ba16517517f/",
+      "observed": "2026-10-11T14:13:34+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "زودپز",
+      "product": "زودپز رویال مدل ROSHA-1600 ظرفیت ۷ لیتر",
+      "sellers": 2,
+      "floorPrice": 22000000,
+      "link": "https://torob.com/p/2c04aff4-38ff-4ad9-8e16-9c72a63bb370/",
+      "observed": "2026-11-18T10:54:26+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "لوستر و چراغ تزئینی",
+      "product": "خرید لوستر مدرن پروانه‌ای L1615-60 | آویز پروانه‌ای وارداتی طلایی، نقره‌ای، مشکی",
+      "sellers": 1,
+      "floorPrice": 31798800,
+      "link": "https://torob.com/p/155992c4-16e8-4a64-bbf3-2be513d22974/",
+      "observed": "2026-11-12T03:34:48+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "سطل زباله",
+      "product": "سطل سالنی استیل 30 لیتری CE3100 همراه جاسیگاری",
+      "sellers": 1,
+      "floorPrice": 4750000,
+      "link": "https://torob.com/p/037edac7-ee9f-42aa-9ec7-a2d4a7581908/",
+      "observed": "2026-10-14T22:18:34+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "قالب شیرینی پزی و دسر",
+      "product": "قالب کیک موج مدل مستطیل سایز ۳۰×۴۰ لبه بلند",
+      "sellers": 1,
+      "floorPrice": 349008,
+      "link": "https://torob.com/p/25926fa1-cad1-47bd-a792-1d5479cd08ca/",
+      "observed": "2026-10-13T18:54:28+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "ماشین ظرفشویی",
+      "product": "ماشین ظرفشویی کنوود مدل KDW3141 ظرفیت ۱۴ نفر مبله با ۷ برنامه",
+      "sellers": 1,
+      "floorPrice": 173177000,
+      "link": "https://torob.com/p/310fd77b-943e-465d-9089-f45b80f37e70/",
+      "observed": "2026-10-08T21:41:05+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "کاموا",
+      "product": "کاموا اکریل بافت بی بی ضخیم ضد حساسیت",
+      "sellers": 1,
+      "floorPrice": 180000,
+      "link": "https://torob.com/p/3a00149a-afe7-46e4-a5e0-e9963d0cbc3e/",
+      "observed": "2026-10-08T18:49:57+00:00"
     }
   ],
   "groups": [],

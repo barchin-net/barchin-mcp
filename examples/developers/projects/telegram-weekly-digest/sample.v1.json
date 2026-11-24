@@ -1,43 +1,1717 @@
 {
   "version": 1,
-  "provenance": "گزیدهٔ ثبت‌شده از نمای عمومی کانال‌ها؛ لینک و زمان از پست اصلی و خلاصهٔ کوتاه از برچین است. صفحهٔ اصلی هر مورد دوباره بررسی شده است.",
-  "time": "2026-11-24T22:08:07+00:00",
+  "time": "2026-11-24T23:00:08+00:00",
+  "provenance": "پست‌های عمومیِ متنی در دو کانال، در پنج صفحهٔ نمای عمومی هر کانال. پیش‌نمایش کوتاه آغاز متن، زمان و پیوند از همان پست‌اند. هفته از دوشنبه به وقت UTC شروع می‌شود.",
   "rows": [
     {
       "channel": "durov",
-      "week": "2026-06-15",
-      "story": "سیاست‌گذاری پلتفرم",
-      "summary": "نویسنده دربارهٔ محدودیت سنی شبکه‌های اجتماعی در بریتانیا موضع گرفته است.",
-      "published": "2026-06-15T18:58:13+00:00",
-      "link": "https://t.me/durov/528",
-      "observed": "2026-11-24T22:07:54+00:00"
+      "week": "2026-10-05",
+      "story": "تلگرام",
+      "summary": "✨ Designers × AI",
+      "published": "2026-10-11T14:52:40+00:00",
+      "link": "https://t.me/durov/552",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-11-09",
+      "story": "تلگرام",
+      "summary": "700K+ self-custodial wallets created on Telegram in the last 48…",
+      "published": "2026-11-09T13:00:39+00:00",
+      "link": "https://t.me/durov/553",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-11-09",
+      "story": "تلگرام",
+      "summary": "Any Telegram message can now become an app.",
+      "published": "2026-11-10T12:59:06+00:00",
+      "link": "https://t.me/durov/554",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-11-09",
+      "story": "تلگرام",
+      "summary": "🔴 Crypto’s a sea of red.",
+      "published": "2026-11-10T20:43:28+00:00",
+      "link": "https://t.me/durov/555",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-11-09",
+      "story": "تلگرام",
+      "summary": "👛 Over 1 million self-custodial Gram wallets activated on Telegram…",
+      "published": "2026-11-11T12:27:06+00:00",
+      "link": "https://t.me/durov/556",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-11-09",
+      "story": "تلگرام",
+      "summary": "😐 Unfair that CEOs who aren’t into Asian girls get…",
+      "published": "2026-11-11T20:27:00+00:00",
+      "link": "https://t.me/durov/557",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-11-09",
+      "story": "تلگرام",
+      "summary": "😐 Unfair that CEOs who aren’t into Asian girls get…",
+      "published": "2026-11-12T13:24:25+00:00",
+      "link": "https://t.me/durov/558",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-11-09",
+      "story": "تلگرام",
+      "summary": "🤦‍♀️ Jensen made a rookie mistake. He had a board.",
+      "published": "2026-11-13T09:29:23+00:00",
+      "link": "https://t.me/durov/559",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-11-09",
+      "story": "تلگرام",
+      "summary": "Re alleged RCE in new TG Android/Windows widgets :",
+      "published": "2026-11-13T16:02:27+00:00",
+      "link": "https://t.me/durov/560",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-11-09",
+      "story": "تلگرام",
+      "summary": "Nvidia’s board was right to fire Jensen.",
+      "published": "2026-11-14T09:29:21+00:00",
+      "link": "https://t.me/durov/561",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-11-09",
+      "story": "تلگرام",
+      "summary": "Noticed in the banya today: I’m getting skinnier.",
+      "published": "2026-11-15T22:48:26+00:00",
+      "link": "https://t.me/durov/562",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-11-16",
+      "story": "تلگرام",
+      "summary": "Patent trolls are running rampant, empowered by AI.",
+      "published": "2026-11-16T17:06:39+00:00",
+      "link": "https://t.me/durov/563",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-11-16",
+      "story": "تلگرام",
+      "summary": "⭐️ Telegram bots and mini apps can accept only Stars…",
+      "published": "2026-11-17T19:12:44+00:00",
+      "link": "https://t.me/durov/564",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-11-16",
+      "story": "تلگرام",
+      "summary": "🇮🇶 Iraq blocked Telegram (2nd time this year).",
+      "published": "2026-11-18T17:42:19+00:00",
+      "link": "https://t.me/durov/565",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-11-16",
+      "story": "تلگرام",
+      "summary": "Apple finally made a phone that’s both too big and…",
+      "published": "2026-11-19T22:12:20+00:00",
+      "link": "https://t.me/durov/566",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-11-16",
+      "story": "تلگرام",
+      "summary": "I was offered $256,000 for the @pride username on Telegram.",
+      "published": "2026-11-20T20:47:30+00:00",
+      "link": "https://t.me/durov/567",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-11-16",
+      "story": "تلگرام",
+      "summary": "You won't look professional in 2027 if your QR is…",
+      "published": "2026-11-21T22:48:52+00:00",
+      "link": "https://t.me/durov/568",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-11-16",
+      "story": "تلگرام",
+      "summary": "The least realistic thing about GTA VI is that Jason…",
+      "published": "2026-11-22T22:17:13+00:00",
+      "link": "https://t.me/durov/569",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-11-23",
+      "story": "تلگرام",
+      "summary": "🎉 Jensen's back.",
+      "published": "2026-11-23T21:00:12+00:00",
+      "link": "https://t.me/durov/570",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-11-23",
+      "story": "تلگرام",
+      "summary": "Someone offered me $1M for the @liar username on Telegram.",
+      "published": "2026-11-24T21:48:27+00:00",
+      "link": "https://t.me/durov/572",
+      "observed": "2026-11-24T22:54:16+00:00"
     },
     {
       "channel": "durov",
       "week": "2026-06-15",
-      "story": "سیاست‌گذاری پلتفرم",
-      "summary": "پست دیگری به محدودیت موقت دسترسی به تلگرام در هند پرداخته است.",
+      "story": "تلگرام",
+      "summary": "🚫 India’s IT ministry banned Telegram for one week because…",
       "published": "2026-06-16T15:05:29+00:00",
       "link": "https://t.me/durov/529",
-      "observed": "2026-11-24T22:08:07+00:00"
+      "observed": "2026-11-24T22:54:31+00:00"
     },
     {
       "channel": "durov",
       "week": "2026-07-13",
-      "story": "به‌روزرسانی محصول",
-      "summary": "تلگرام امکانات ویرایشگر متن جدید را معرفی کرده است.",
+      "story": "تلگرام",
+      "summary": "🩵 Telegram now has a Rich Text Editor .",
       "published": "2026-07-16T20:45:25+00:00",
       "link": "https://t.me/durov/531",
-      "observed": "2026-11-24T22:07:54+00:00"
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-07-13",
+      "story": "تلگرام",
+      "summary": "🎠 Telegram now supports carousels",
+      "published": "2026-07-19T21:45:01+00:00",
+      "link": "https://t.me/durov/532",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-07-20",
+      "story": "تلگرام",
+      "summary": "🌍 This summer will see the largest rollout of a…",
+      "published": "2026-07-21T14:36:55+00:00",
+      "link": "https://t.me/durov/533",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-07-20",
+      "story": "تلگرام",
+      "summary": "🇬🇪 Very impressed with Georgia.",
+      "published": "2026-07-23T15:15:33+00:00",
+      "link": "https://t.me/durov/534",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-07-27",
+      "story": "تلگرام",
+      "summary": "💣 Russia has designated me as a “terrorist” for refusing…",
+      "published": "2026-07-30T16:52:37+00:00",
+      "link": "https://t.me/durov/535",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-08-03",
+      "story": "تلگرام",
+      "summary": "🧠 The 2026 International Olympiad in Artificial Intelligence starts today.",
+      "published": "2026-08-03T07:19:56+00:00",
+      "link": "https://t.me/durov/537",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-08-03",
+      "story": "تلگرام",
+      "summary": "Last night, Apple briefly removed Telegram from the App Store…",
+      "published": "2026-08-04T15:20:04+00:00",
+      "link": "https://t.me/durov/538",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-08-03",
+      "story": "تلگرام",
+      "summary": "🏆 The International Olympiad in AI finished yesterday in Astana.",
+      "published": "2026-08-08T21:11:14+00:00",
+      "link": "https://t.me/durov/539",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-08-10",
+      "story": "تلگرام",
+      "summary": "🇺🇿 The 2026 International Olympiad in Informatics starts today in…",
+      "published": "2026-08-10T09:29:58+00:00",
+      "link": "https://t.me/durov/540",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-08-10",
+      "story": "تلگرام",
+      "summary": "1️⃣ 3️⃣ Telegram turns 13 today.",
+      "published": "2026-08-14T13:49:28+00:00",
+      "link": "https://t.me/durov/541",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-08-10",
+      "story": "تلگرام",
+      "summary": "🏆 The International Olympiad in Informatics ( IOI ) ends…",
+      "published": "2026-08-15T13:29:20+00:00",
+      "link": "https://t.me/durov/542",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-08-17",
+      "story": "تلگرام",
+      "summary": "💎 Telegram has applied for the .gram domain zone.",
+      "published": "2026-08-18T17:37:31+00:00",
+      "link": "https://t.me/durov/543",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-08-24",
+      "story": "تلگرام",
+      "summary": "🚨 Two years ago, I was detained in Paris by…",
+      "published": "2026-08-24T21:21:51+00:00",
+      "link": "https://t.me/durov/544",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-08-24",
+      "story": "تلگرام",
+      "summary": "A high-school student just made $20,000 from a Telegram Gift…",
+      "published": "2026-08-30T09:10:19+00:00",
+      "link": "https://t.me/durov/545",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-08-31",
+      "story": "تلگرام",
+      "summary": "🏳️ Gram Wallet in Telegram is ready and is now…",
+      "published": "2026-08-31T16:30:15+00:00",
+      "link": "https://t.me/durov/546",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-08-31",
+      "story": "تلگرام",
+      "summary": "💸 In just one month, Telegram has awarded over $2,222,000…",
+      "published": "2026-09-06T17:40:39+00:00",
+      "link": "https://t.me/durov/547",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-09-07",
+      "story": "تلگرام",
+      "summary": "🤝 Telegram has become the sponsor of Codeforces — the…",
+      "published": "2026-09-11T16:04:02+00:00",
+      "link": "https://t.me/durov/548",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-10-05",
+      "story": "تلگرام",
+      "summary": "💸 If your wallet doesn’t look like this, don’t even…",
+      "published": "2026-10-10T14:22:43+00:00",
+      "link": "https://t.me/durov/551",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-05-11",
+      "story": "تلگرام",
+      "summary": "🛠 Developing for TON just became 10x faster . The…",
+      "published": "2026-05-11T19:32:24+00:00",
+      "link": "https://t.me/durov/509",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-05-11",
+      "story": "تلگرام",
+      "summary": "🌍 With 400 validators across 6 continents, TON is one…",
+      "published": "2026-05-12T17:28:39+00:00",
+      "link": "https://t.me/durov/510",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-05-11",
+      "story": "تلگرام",
+      "summary": "🕵️‍♂️ Now you can search 100M+ Telegram stickers and emoji…",
+      "published": "2026-05-14T12:38:57+00:00",
+      "link": "https://t.me/durov/512",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-05-11",
+      "story": "تلگرام",
+      "summary": "$100,400 just went to the 15 winners of the TON…",
+      "published": "2026-05-15T18:14:32+00:00",
+      "link": "https://t.me/durov/513",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-05-11",
+      "story": "تلگرام",
+      "summary": "🇦🇪 Dubai is full of traffic and crowds again. Already…",
+      "published": "2026-05-16T13:57:49+00:00",
+      "link": "https://t.me/durov/514",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-05-11",
+      "story": "تلگرام",
+      "summary": "🏆 We just awarded $52,420 to the winners of the…",
+      "published": "2026-05-17T14:44:56+00:00",
+      "link": "https://t.me/durov/515",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-05-18",
+      "story": "تلگرام",
+      "summary": "🧠 AI devs asked for this — and we delivered.",
+      "published": "2026-05-18T14:56:21+00:00",
+      "link": "https://t.me/durov/517",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-05-18",
+      "story": "تلگرام",
+      "summary": "💪 Anyone can now prompt their own text transformation style…",
+      "published": "2026-05-19T18:02:53+00:00",
+      "link": "https://t.me/durov/518",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-05-18",
+      "story": "تلگرام",
+      "summary": "🤖 Your Telegram inbox can now run itself.",
+      "published": "2026-05-20T15:38:10+00:00",
+      "link": "https://t.me/durov/519",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-05-18",
+      "story": "تلگرام",
+      "summary": "🎭 WhatsApp encryption is a giant fraud.",
+      "published": "2026-05-23T13:26:07+00:00",
+      "link": "https://t.me/durov/520",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-06-01",
+      "story": "تلگرام",
+      "summary": "💎 TON ’s native currency is becoming Gram .",
+      "published": "2026-06-01T15:40:13+00:00",
+      "link": "https://t.me/durov/521",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-06-08",
+      "story": "تلگرام",
+      "summary": "⌚️ A fully native Telegram app for Apple Watch is…",
+      "published": "2026-06-09T19:33:51+00:00",
+      "link": "https://t.me/durov/523",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-06-08",
+      "story": "تلگرام",
+      "summary": "⌚️ Telegram is now on Wear OS .",
+      "published": "2026-06-11T17:54:31+00:00",
+      "link": "https://t.me/durov/524",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-06-08",
+      "story": "تلگرام",
+      "summary": "🔄 Telegram’s new update is out. Lots of great new…",
+      "published": "2026-06-12T19:15:19+00:00",
+      "link": "https://t.me/durov/525",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-06-08",
+      "story": "تلگرام",
+      "summary": "🖥 Don't be surprised if you see tables, nested lists,…",
+      "published": "2026-06-13T20:15:20+00:00",
+      "link": "https://t.me/durov/526",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-06-15",
+      "story": "تلگرام",
+      "summary": "🏆 Telegram is launching a $200,000 contest for content creators.",
+      "published": "2026-06-15T15:53:15+00:00",
+      "link": "https://t.me/durov/527",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-06-15",
+      "story": "تلگرام",
+      "summary": "⛔️ The UK government wants to ban social media for…",
+      "published": "2026-06-15T18:58:13+00:00",
+      "link": "https://t.me/durov/528",
+      "observed": "2026-11-24T22:54:31+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-04-13",
+      "story": "تلگرام",
+      "summary": "🗽 Anyone under 25 can win €100,000 for an essay…",
+      "published": "2026-04-13T21:25:34+00:00",
+      "link": "https://t.me/durov/488",
+      "observed": "2026-11-24T22:54:32+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-04-13",
+      "story": "تلگرام",
+      "summary": "Group admins can assign tags to users — or embrace…",
+      "published": "2026-04-15T01:20:29+00:00",
+      "link": "https://t.me/durov/489",
+      "observed": "2026-11-24T22:54:32+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-04-13",
+      "story": "تلگرام",
+      "summary": "⚡️ You can now create agentic bots in just 2…",
+      "published": "2026-04-15T20:18:53+00:00",
+      "link": "https://t.me/durov/490",
+      "observed": "2026-11-24T22:54:32+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-04-13",
+      "story": "تلگرام",
+      "summary": "🇪🇺 The EU wants to force mandatory ID checks on…",
+      "published": "2026-04-17T02:31:54+00:00",
+      "link": "https://t.me/durov/491",
+      "observed": "2026-11-24T22:54:32+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-04-13",
+      "story": "تلگرام",
+      "summary": "🎁 Our new Login Widget is a gift to developers:…",
+      "published": "2026-04-18T00:58:41+00:00",
+      "link": "https://t.me/durov/493",
+      "observed": "2026-11-24T22:54:32+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-04-13",
+      "story": "تلگرام",
+      "summary": "✅ The Telegram Login SDK now supports native iOS and…",
+      "published": "2026-04-18T23:57:36+00:00",
+      "link": "https://t.me/durov/494",
+      "observed": "2026-11-24T22:54:32+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-04-20",
+      "story": "تلگرام",
+      "summary": "🇫🇷 Macron’s France is losing legitimacy as it weaponizes criminal…",
+      "published": "2026-04-20T00:01:54+00:00",
+      "link": "https://t.me/durov/495",
+      "observed": "2026-11-24T22:54:32+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-04-20",
+      "story": "تلگرام",
+      "summary": "This is how the EU/UK now regulates social media:",
+      "published": "2026-04-20T16:25:25+00:00",
+      "link": "https://t.me/durov/496",
+      "observed": "2026-11-24T22:54:32+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-04-20",
+      "story": "تلگرام",
+      "summary": "France's \"Agency for Secure Documents\" was hacked. Names, addresses, emails,…",
+      "published": "2026-04-20T22:55:10+00:00",
+      "link": "https://t.me/durov/497",
+      "observed": "2026-11-24T22:54:32+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-04-20",
+      "story": "تلگرام",
+      "summary": "The apartment in Russia where I lived 20 years ago…",
+      "published": "2026-04-22T17:06:37+00:00",
+      "link": "https://t.me/durov/498",
+      "observed": "2026-11-24T22:54:32+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-04-20",
+      "story": "تلگرام",
+      "summary": "⚡️ In one week, TON fees will drop 6× —…",
+      "published": "2026-04-23T17:12:59+00:00",
+      "link": "https://t.me/durov/499",
+      "observed": "2026-11-24T22:54:32+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-04-20",
+      "story": "تلگرام",
+      "summary": "41 kidnappings of crypto holders in France in 3.5 months…",
+      "published": "2026-04-24T19:32:04+00:00",
+      "link": "https://t.me/durov/500",
+      "observed": "2026-11-24T22:54:32+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-05-04",
+      "story": "تلگرام",
+      "summary": "⚡️ Fees in TON have dropped 6× — to nearly…",
+      "published": "2026-05-04T14:54:43+00:00",
+      "link": "https://t.me/durov/501",
+      "observed": "2026-11-24T22:54:32+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-05-04",
+      "story": "تلگرام",
+      "summary": "💎 Telegram becoming TON’s largest validator strengthens decentralization.",
+      "published": "2026-05-05T15:46:44+00:00",
+      "link": "https://t.me/durov/502",
+      "observed": "2026-11-24T22:54:32+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-05-04",
+      "story": "تلگرام",
+      "summary": "🏁 TON leads Layer-1 blockchains in finality time.",
+      "published": "2026-05-06T15:57:26+00:00",
+      "link": "https://t.me/durov/503",
+      "observed": "2026-11-24T22:54:32+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-05-04",
+      "story": "تلگرام",
+      "summary": "Huge Telegram update — 10 major new features, 200+ improvements.…",
+      "published": "2026-05-07T16:00:22+00:00",
+      "link": "https://t.me/durov/504",
+      "observed": "2026-11-24T22:54:32+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-05-04",
+      "story": "تلگرام",
+      "summary": "🫴 TON is #1 in annual staking rewards among the…",
+      "published": "2026-05-08T17:41:53+00:00",
+      "link": "https://t.me/durov/505",
+      "observed": "2026-11-24T22:54:32+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-05-04",
+      "story": "تلگرام",
+      "summary": "🏆 We’ve distributed $75,000 among the best designers who imagined…",
+      "published": "2026-05-09T15:32:17+00:00",
+      "link": "https://t.me/durov/506",
+      "observed": "2026-11-24T22:54:32+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-05-04",
+      "story": "تلگرام",
+      "summary": "🥖 The French government is accusing X and Elon Musk…",
+      "published": "2026-05-09T22:24:14+00:00",
+      "link": "https://t.me/durov/507",
+      "observed": "2026-11-24T22:54:32+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-05-04",
+      "story": "تلگرام",
+      "summary": "📊 Channel admins can now run massive polls limited to…",
+      "published": "2026-05-10T18:42:03+00:00",
+      "link": "https://t.me/durov/508",
+      "observed": "2026-11-24T22:54:32+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-01-05",
+      "story": "تلگرام",
+      "summary": "🧐 Despite some FUD, Telegram has no dependence on Russian…",
+      "published": "2026-01-06T17:41:53+00:00",
+      "link": "https://t.me/durov/467",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-01-05",
+      "story": "تلگرام",
+      "summary": "This year, I wish you less —",
+      "published": "2026-01-07T09:55:48+00:00",
+      "link": "https://t.me/durov/468",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-02-02",
+      "story": "تلگرام",
+      "summary": "🇪🇸 My message to Telegram users in Spain ❗️",
+      "published": "2026-02-04T15:19:31+00:00",
+      "link": "https://t.me/durov/469",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-02-09",
+      "story": "تلگرام",
+      "summary": "Russia is restricting access to Telegram in an attempt to…",
+      "published": "2026-02-10T17:29:43+00:00",
+      "link": "https://t.me/durov/470",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-02-09",
+      "story": "تلگرام",
+      "summary": "🔥 Telegram for Android got its biggest redesign in 10…",
+      "published": "2026-02-11T09:29:39+00:00",
+      "link": "https://t.me/durov/471",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-02-09",
+      "story": "تلگرام",
+      "summary": "😎 Telegram built the most powerful API for chatbot and…",
+      "published": "2026-02-13T12:54:29+00:00",
+      "link": "https://t.me/durov/472",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-02-23",
+      "story": "تلگرام",
+      "summary": "💣 Russia has opened a criminal case against me for…",
+      "published": "2026-02-24T14:58:53+00:00",
+      "link": "https://t.me/durov/473",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-02-23",
+      "story": "تلگرام",
+      "summary": "🎆 Unfortunately, I had to leave Dubai for Europe a…",
+      "published": "2026-03-01T21:05:45+00:00",
+      "link": "https://t.me/durov/474",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-03-02",
+      "story": "تلگرام",
+      "summary": "📝 All Telegram chatbots can now stream responses to users…",
+      "published": "2026-03-02T13:01:29+00:00",
+      "link": "https://t.me/durov/475",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-03-23",
+      "story": "تلگرام",
+      "summary": "💸 Telegram has fully repaid the bonds we issued 5…",
+      "published": "2026-03-23T14:44:07+00:00",
+      "link": "https://t.me/durov/476",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-03-30",
+      "story": "تلگرام",
+      "summary": "😎 Telegram was banned in Russia — yet 65M Russians…",
+      "published": "2026-04-04T03:55:22+00:00",
+      "link": "https://t.me/durov/477",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-03-30",
+      "story": "تلگرام",
+      "summary": "🔄 Your massive monthly Telegram update is out.",
+      "published": "2026-04-05T23:36:48+00:00",
+      "link": "https://t.me/durov/478",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-04-06",
+      "story": "تلگرام",
+      "summary": "Meet the most powerful polls tech in social media. Telegram's…",
+      "published": "2026-04-07T01:21:57+00:00",
+      "link": "https://t.me/durov/479",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-04-06",
+      "story": "تلگرام",
+      "summary": "✨ Our new fully private AI Editor lets you translate…",
+      "published": "2026-04-07T22:12:03+00:00",
+      "link": "https://t.me/durov/480",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-04-06",
+      "story": "تلگرام",
+      "summary": "🇪🇺 The EU is trying to justify its push for…",
+      "published": "2026-04-08T22:36:42+00:00",
+      "link": "https://t.me/durov/481",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-04-06",
+      "story": "تلگرام",
+      "summary": "🚀 The TON blockchain just got upgraded and is now…",
+      "published": "2026-04-09T14:09:27+00:00",
+      "link": "https://t.me/durov/482",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-04-06",
+      "story": "تلگرام",
+      "summary": "🤥 WhatsApp’s “encryption” may be the biggest consumer fraud in…",
+      "published": "2026-04-09T21:27:05+00:00",
+      "link": "https://t.me/durov/483",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-04-06",
+      "story": "تلگرام",
+      "summary": "🚨 Another proof that Telegram’s Secret Chats are the most…",
+      "published": "2026-04-10T22:24:40+00:00",
+      "link": "https://t.me/durov/485",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-04-06",
+      "story": "تلگرام",
+      "summary": "🔐 We’ve upgraded Telegram’s anti-censorship protocol. Users in Russia are…",
+      "published": "2026-04-11T12:44:51+00:00",
+      "link": "https://t.me/durov/486",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "durov",
+      "week": "2026-04-06",
+      "story": "تلگرام",
+      "summary": "⚠️ WhatsApp’s “End-to-end encryption by default” claim is a giant…",
+      "published": "2026-04-12T15:25:09+00:00",
+      "link": "https://t.me/durov/487",
+      "observed": "2026-11-24T22:54:33+00:00"
     },
     {
       "channel": "varzesh3",
-      "week": "2026-09-28",
-      "story": "فوتبال",
-      "summary": "ورزش سه برخورد یک شوت به تیر در دقیقهٔ دوازدهم مسابقه را گزارش کرد.",
-      "published": "2026-09-28T19:20:19+00:00",
-      "link": "https://t.me/varzesh3/303003",
-      "observed": "2026-11-24T22:07:55+00:00"
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🖥 جدول لیگ نخبگان پس از پایان هفته پنجم",
+      "published": "2026-11-24T20:56:07+00:00",
+      "link": "https://t.me/varzesh3/307717",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "از نقطه پنالتی؛ ⚽️ 🇳🇱 گل اول پی‌اس‌وی | پرشیچ…",
+      "published": "2026-11-24T21:10:23+00:00",
+      "link": "https://t.me/varzesh3/307718",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🔥 شوت دیدنی؛ ⚽️ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 گل اول آرسنال | یوکرش…",
+      "published": "2026-11-24T21:13:40+00:00",
+      "link": "https://t.me/varzesh3/307719",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🧤 44' سیو دیدنی دوناروما ⚡️ صفحه نتایج زنده: varzesh3.ir/livescore…",
+      "published": "2026-11-24T21:15:45+00:00",
+      "link": "https://t.me/varzesh3/307720",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🔥 پاس محشر گولر؛ ⚽️ 🇪🇸 گل اول رئال مادرید…",
+      "published": "2026-11-24T21:16:39+00:00",
+      "link": "https://t.me/varzesh3/307721",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "'56 🇪🇸 ضربه آکروباتیک جود راهی کرنر شد 🆔 @varzesh3",
+      "published": "2026-11-24T21:21:31+00:00",
+      "link": "https://t.me/varzesh3/307722",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🔥 روپایی و شوت محشر؛ ⚽️ 🇪🇸 گل دوم رئال…",
+      "published": "2026-11-24T21:25:13+00:00",
+      "link": "https://t.me/varzesh3/307723",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "حرکت دیدنی گادو و محوشدن گابریل؛ ⚽️ 🇩🇪 گل اول…",
+      "published": "2026-11-24T21:25:25+00:00",
+      "link": "https://t.me/varzesh3/307724",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "⚽️ 🇮🇹 گل اول ناپولی | هویلوند '55 منچسترسیتی 0…",
+      "published": "2026-11-24T21:30:11+00:00",
+      "link": "https://t.me/varzesh3/307725",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "⚽️ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 گل اول منچسترسیتی | بوعدی '67 منچسترسیتی 1…",
+      "published": "2026-11-24T21:36:24+00:00",
+      "link": "https://t.me/varzesh3/307726",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🇩🇪 گل مردود بلینگام به دلیل آفساید ⚡️ صفحه نتایج…",
+      "published": "2026-11-24T21:38:09+00:00",
+      "link": "https://t.me/varzesh3/307727",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "❗️ تیر دروازه دوبار پیاپی مانع گل به خودی گیراسی…",
+      "published": "2026-11-24T21:41:44+00:00",
+      "link": "https://t.me/varzesh3/307728",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "پرس جواب داد؛ ⚽️ 🇪🇸 گل سوم رئال مادرید |…",
+      "published": "2026-11-24T21:44:56+00:00",
+      "link": "https://t.me/varzesh3/307729",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "⚡️ ضدحمله تماشایی؛ ⚽️ 🇮🇹 گل دوم ناپولی | نوا…",
+      "published": "2026-11-24T21:46:12+00:00",
+      "link": "https://t.me/varzesh3/307730",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "پاس زیبای براهیم؛ ⚽️ 🇪🇸 گل چهارم رئال مادرید |…",
+      "published": "2026-11-24T21:47:57+00:00",
+      "link": "https://t.me/varzesh3/307731",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 84' شوت رایس به تیر خورد ⚡️ صفحه نتایج…",
+      "published": "2026-11-24T21:52:13+00:00",
+      "link": "https://t.me/varzesh3/307732",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "بالاخره گل زد؛ ⚽️ 🇪🇸 گل پنجم رئال مادرید |…",
+      "published": "2026-11-24T21:52:22+00:00",
+      "link": "https://t.me/varzesh3/307733",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "⚽️ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 گل دوم منچسترسیتی | چرکی '86 منچسترسیتی 2…",
+      "published": "2026-11-24T21:53:01+00:00",
+      "link": "https://t.me/varzesh3/307734",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🖥 نتایج و جدول در پایان مسابقات امشب",
+      "published": "2026-11-24T22:09:20+00:00",
+      "link": "https://t.me/varzesh3/307735",
+      "observed": "2026-11-24T22:54:33+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "👟 #لژیونرها | پاس گل عزت‌اللهی؛ ⚽️ 🇦🇪 گل اول…",
+      "published": "2026-11-24T17:52:46+00:00",
+      "link": "https://t.me/varzesh3/307696",
+      "observed": "2026-11-24T22:54:34+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "برنده بودن کار بِرَندِن راجرزه! در خانه با تمام ستارگان…",
+      "published": "2026-11-24T17:54:40+00:00",
+      "link": "https://t.me/varzesh3/307697",
+      "observed": "2026-11-24T22:54:34+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🔴 توضیحات پزشک تراکتور در مورد حسین‌زاده و جعفری پارسا…",
+      "published": "2026-11-24T17:56:30+00:00",
+      "link": "https://t.me/varzesh3/307698",
+      "observed": "2026-11-24T22:54:34+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "#لژیونرها | بدون منصوریان گلباران شدند! الزورا در شبی پر…",
+      "published": "2026-11-24T18:09:48+00:00",
+      "link": "https://t.me/varzesh3/307699",
+      "observed": "2026-11-24T22:54:34+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🔥 تخفیفمَن اسنپ‌پی، قیمت‌هارو شکست! 🖤 😍",
+      "published": "2026-11-24T18:29:22+00:00",
+      "link": "https://t.me/varzesh3/307700",
+      "observed": "2026-11-24T22:54:34+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇩🇪 ترکیب آرسنال و دورتموند",
+      "published": "2026-11-24T18:47:21+00:00",
+      "link": "https://t.me/varzesh3/307702",
+      "observed": "2026-11-24T22:54:34+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🇪🇸 🇳🇱 ترکیب رئال مادرید مقابل پی‌اس‌وی آیندهوون",
+      "published": "2026-11-24T18:49:41+00:00",
+      "link": "https://t.me/varzesh3/307704",
+      "observed": "2026-11-24T22:54:34+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🔥 گل شماره 987؛ ⚽️ 🇸🇦 گل اول النصر |…",
+      "published": "2026-11-24T18:54:57+00:00",
+      "link": "https://t.me/varzesh3/307706",
+      "observed": "2026-11-24T22:54:34+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "گل شماره 988 ⚽️ 🚩 گل دوم رونالدو به دلیل…",
+      "published": "2026-11-24T19:04:58+00:00",
+      "link": "https://t.me/varzesh3/307707",
+      "observed": "2026-11-24T22:54:34+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🤢 عجیب‌ترین اخراج ممکن '45+2 🟥 محمد وعد به دلیل…",
+      "published": "2026-11-24T19:31:04+00:00",
+      "link": "https://t.me/varzesh3/307708",
+      "observed": "2026-11-24T22:54:34+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "#هم_اکنون پخش دیدارهای مرحله گروهی لیگ قهرمانان اروپا",
+      "published": "2026-11-24T20:04:19+00:00",
+      "link": "https://t.me/varzesh3/307710",
+      "observed": "2026-11-24T22:54:34+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🤫 واکنش کریستیانو رونالدو به مسی مسی گفتن هواداران السد…",
+      "published": "2026-11-24T20:10:52+00:00",
+      "link": "https://t.me/varzesh3/307711",
+      "observed": "2026-11-24T22:54:34+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🇪🇸 🇳🇱 ترکیب رئال مادرید مقابل پی‌اس‌وی آیندهوون 🔵 هفته…",
+      "published": "2026-11-24T20:13:20+00:00",
+      "link": "https://t.me/varzesh3/307712",
+      "observed": "2026-11-24T22:54:34+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇩🇪 ترکیب آرسنال و دورتموند 🇪🇺 هفته 5 🏟…",
+      "published": "2026-11-24T20:13:20+00:00",
+      "link": "https://t.me/varzesh3/307713",
+      "observed": "2026-11-24T22:54:34+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "'11 🇪🇸 شوت وینسیوس به تیر دروازه خورد 🆔 @varzesh3",
+      "published": "2026-11-24T20:32:30+00:00",
+      "link": "https://t.me/varzesh3/307714",
+      "observed": "2026-11-24T22:54:34+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "قدردانی از پادشاه کِو؛ 👑 بنر هواداران منچسترسیتی برای دیبروینه…",
+      "published": "2026-11-24T20:46:35+00:00",
+      "link": "https://t.me/varzesh3/307715",
+      "observed": "2026-11-24T22:54:34+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🔈 پایان نیمه نخست",
+      "published": "2026-11-24T20:49:15+00:00",
+      "link": "https://t.me/varzesh3/307716",
+      "observed": "2026-11-24T22:54:34+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "این دیگر شرط بندی است!! 😐",
+      "published": "2026-11-24T10:17:37+00:00",
+      "link": "https://t.me/varzesh3/307675",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "بمب خبری پس از عذرخواهی! ✔️ 🔴 رسمی؛ قرارداد علیرضا…",
+      "published": "2026-11-24T10:36:02+00:00",
+      "link": "https://t.me/varzesh3/307676",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "📎 چالش انتخاب بهترین سرمربی با حمید مطهری",
+      "published": "2026-11-24T11:04:10+00:00",
+      "link": "https://t.me/varzesh3/307677",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🤷‍♂️ یک استایل عجیب و یک شروع عجیب‌تر",
+      "published": "2026-11-24T11:30:24+00:00",
+      "link": "https://t.me/varzesh3/307678",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "😮‍💨 نمایی زیبا از کاشته سوبوسلای 🌐 آدرس سایت: varzesh3.ir…",
+      "published": "2026-11-24T12:00:27+00:00",
+      "link": "https://t.me/varzesh3/307679",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "یک تابو را شکستم؛ 🫣 سکوت فوتبالیستی که کلاه گیسش…",
+      "published": "2026-11-24T12:26:05+00:00",
+      "link": "https://t.me/varzesh3/307680",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "👀 مصاحبه جنجالی کار دستش داد! ‼️ آربلوا، سرمربی فولام…",
+      "published": "2026-11-24T12:53:22+00:00",
+      "link": "https://t.me/varzesh3/307682",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🔵 اعتراض تند استقلال به محرومیت آسانی نکته تعجب‌برانگیز در…",
+      "published": "2026-11-24T13:27:05+00:00",
+      "link": "https://t.me/varzesh3/307683",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🔥 طلسم 22 ساله ایرانی‌ها شکست؛ ⭐️ 🌏 علیرضا بیرانوند…",
+      "published": "2026-11-24T13:49:55+00:00",
+      "link": "https://t.me/varzesh3/307684",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "قهرمانی مجدد برگشت!",
+      "published": "2026-11-24T14:24:28+00:00",
+      "link": "https://t.me/varzesh3/307685",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "⭐ ورزش سه را به منابع خبری موردعلاقه‌تان در گوگل…",
+      "published": "2026-11-24T14:36:59+00:00",
+      "link": "https://t.me/varzesh3/307686",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "👀 هوای جدیدی وارد ریه‌های تیم می‌شود! 🟣 بازیکن سابق…",
+      "published": "2026-11-24T15:03:34+00:00",
+      "link": "https://t.me/varzesh3/307687",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "😶 اشتباه عجیب دلیخت! '8 🟥 لنی یورو با کارت…",
+      "published": "2026-11-24T15:31:31+00:00",
+      "link": "https://t.me/varzesh3/307688",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🎤 متدین: پنجره به احتمال 99 درصد باز می‌شود",
+      "published": "2026-11-24T16:07:35+00:00",
+      "link": "https://t.me/varzesh3/307689",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🎤 متدین: پنجره به احتمال 99 درصد باز می‌شود 🔵…",
+      "published": "2026-11-24T16:09:16+00:00",
+      "link": "https://t.me/varzesh3/307690",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "سهراب عصبانی شد! 🔵 خروج بختیاری‌زاده بدون صحبت با خبرنگاران…",
+      "published": "2026-11-24T16:19:17+00:00",
+      "link": "https://t.me/varzesh3/307691",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "رویای بازی در استقلال را داشتم؛",
+      "published": "2026-11-24T16:21:50+00:00",
+      "link": "https://t.me/varzesh3/307692",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "رویای بازی در استقلال را داشتم؛ 🔵 واکنش جالب یاسر…",
+      "published": "2026-11-24T16:29:07+00:00",
+      "link": "https://t.me/varzesh3/307693",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "با دوبار حضور الوصل؛",
+      "published": "2026-11-24T17:00:03+00:00",
+      "link": "https://t.me/varzesh3/307694",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "نماینده ازبکستان ناامیدکننده ادامه می‌دهد؛",
+      "published": "2026-11-23T20:08:07+00:00",
+      "link": "https://t.me/varzesh3/307654",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "نماینده ازبکستان ناامیدکننده ادامه می‌دهد؛ زرد پوشان عربستان نتایج قبلی…",
+      "published": "2026-11-23T20:08:59+00:00",
+      "link": "https://t.me/varzesh3/307655",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "بخاطر علی دایی از دستش ناراحت بودم؛ ‼️ توضیح حسن…",
+      "published": "2026-11-23T20:10:53+00:00",
+      "link": "https://t.me/varzesh3/307656",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🔵 سهراب بختیاری‌زاده: نشان دادیم که چه تیم بزرگی هستیم…",
+      "published": "2026-11-23T20:42:34+00:00",
+      "link": "https://t.me/varzesh3/307657",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🖥 جدول لیگ نخبگان پس از 6 دیدار امروز",
+      "published": "2026-11-23T21:12:28+00:00",
+      "link": "https://t.me/varzesh3/307658",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "‼️ اتفاق شوکه‌کننده برای دروازه‌بان تراکتور ورود آمبولانس به زمین؛…",
+      "published": "2026-11-23T21:23:20+00:00",
+      "link": "https://t.me/varzesh3/307660",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🔥 سوپرگل دیدنی ویتالی یانلت در جریان دیدار امشب برنتفورد…",
+      "published": "2026-11-23T21:40:44+00:00",
+      "link": "https://t.me/varzesh3/307661",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "✔️ 🟣 رسمی؛ وریا غفوری سرمربی جدید شمس‌آذر شد 🌐…",
+      "published": "2026-11-23T21:59:58+00:00",
+      "link": "https://t.me/varzesh3/307662",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🖥 خلاصه اخبار را با ما مرور کنید؛",
+      "published": "2026-11-24T04:33:03+00:00",
+      "link": "https://t.me/varzesh3/307663",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "چه در رکورد چه در شادی؛ 💥 ایرائولا پس از…",
+      "published": "2026-11-24T05:04:13+00:00",
+      "link": "https://t.me/varzesh3/307664",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🤯 دابل بنگ، برای قاتل تریل بلیزرز! 🔥 🏀 گیم…",
+      "published": "2026-11-24T05:51:32+00:00",
+      "link": "https://t.me/varzesh3/307665",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "جدال حساس توپچی ها و زنبور ها در امارات با…",
+      "published": "2026-11-24T06:40:11+00:00",
+      "link": "https://t.me/varzesh3/307666",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🇪🇺 ❌ اسامی محرومان هفته چهاردهم لیگ برتر",
+      "published": "2026-11-24T06:53:01+00:00",
+      "link": "https://t.me/varzesh3/307667",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "حتی این احتمال بررسی هم نمی‌شود؛",
+      "published": "2026-11-24T07:12:21+00:00",
+      "link": "https://t.me/varzesh3/307668",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "👀 نفرت از رقیب، بالاتر از موفقیت تیم!",
+      "published": "2026-11-24T07:35:48+00:00",
+      "link": "https://t.me/varzesh3/307669",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "با همکاری کمپانی جردن؛",
+      "published": "2026-11-24T08:36:15+00:00",
+      "link": "https://t.me/varzesh3/307671",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "گفتند حواست به تیم پایتخت باشد؛",
+      "published": "2026-11-24T08:57:31+00:00",
+      "link": "https://t.me/varzesh3/307672",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "📺 برنامه مسابقات مهم امروز",
+      "published": "2026-11-24T09:24:54+00:00",
+      "link": "https://t.me/varzesh3/307673",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "تا زمانی که توان بدنی داشتیم خوب بودیم؛ 🔴 جواد…",
+      "published": "2026-11-24T09:44:36+00:00",
+      "link": "https://t.me/varzesh3/307674",
+      "observed": "2026-11-24T22:54:35+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "👟 #لژیونرها - ریباند ضربه سر طارمی! ⚽️ 🇦🇪 گل…",
+      "published": "2026-11-23T17:37:16+00:00",
+      "link": "https://t.me/varzesh3/307632",
+      "observed": "2026-11-24T22:54:36+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🔥 چیپ دیدنی؛ ⚽️ 🔴 گل اول تراکتور | حسین‌زاده…",
+      "published": "2026-11-23T17:39:20+00:00",
+      "link": "https://t.me/varzesh3/307633",
+      "observed": "2026-11-24T22:54:36+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🧤 75' شوت رحیمی را فرعباسی دفع کرد ⚡️ صفحه…",
+      "published": "2026-11-23T17:45:46+00:00",
+      "link": "https://t.me/varzesh3/307634",
+      "observed": "2026-11-24T22:54:36+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🧤 84' سوپرسیو فرعباسی در مصاف تک‌به‌تک ⚡️ صفحه نتایج…",
+      "published": "2026-11-23T17:50:28+00:00",
+      "link": "https://t.me/varzesh3/307635",
+      "observed": "2026-11-24T22:54:36+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "#لژیونرها - دبل با والی دیدنی؛ ⚽️ 🇦🇪 گل چهارم…",
+      "published": "2026-11-23T17:51:55+00:00",
+      "link": "https://t.me/varzesh3/307636",
+      "observed": "2026-11-24T22:54:36+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🇶🇦 🆚 🇸🇦 ترکیب الشمال و الاهلی ⏰ ساعت 19:30…",
+      "published": "2026-11-23T17:55:31+00:00",
+      "link": "https://t.me/varzesh3/307637",
+      "observed": "2026-11-24T22:54:36+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🧤 89' شوت مهاجم العین را فرعباسی دفع کرد ⚡️…",
+      "published": "2026-11-23T17:55:42+00:00",
+      "link": "https://t.me/varzesh3/307638",
+      "observed": "2026-11-24T22:54:36+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "‼️ اتفاق شوکه‌کننده برای دروازه‌بان تراکتور ورود آمبولانس به زمین؛…",
+      "published": "2026-11-23T17:57:58+00:00",
+      "link": "https://t.me/varzesh3/307639",
+      "observed": "2026-11-24T22:54:36+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "سربلند از هزاع بن زاید خارج شدند؛ سهراب جلوی غول‌کش…",
+      "published": "2026-11-23T18:01:46+00:00",
+      "link": "https://t.me/varzesh3/307640",
+      "observed": "2026-11-24T22:54:36+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "⚽️ 🇦🇪 گل پنجم الوصل | رناتو جونیور '90+3 تراکتور…",
+      "published": "2026-11-23T18:02:47+00:00",
+      "link": "https://t.me/varzesh3/307641",
+      "observed": "2026-11-24T22:54:36+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "⚠️ با گریه از زمین خارج شد! '90+8 🚑 امیرحسین…",
+      "published": "2026-11-23T18:03:02+00:00",
+      "link": "https://t.me/varzesh3/307642",
+      "observed": "2026-11-24T22:54:36+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "▶️ خلاصه مسابقه تراکتور 1 - الوصل 5 🖥 برای…",
+      "published": "2026-11-23T18:14:05+00:00",
+      "link": "https://t.me/varzesh3/307643",
+      "observed": "2026-11-24T22:54:36+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "▶️ خلاصه مسابقه العین - استقلال 🖥 برای تماشای ویدیو…",
+      "published": "2026-11-23T18:16:31+00:00",
+      "link": "https://t.me/varzesh3/307644",
+      "observed": "2026-11-24T22:54:36+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "⚠️ نگران کرش سایت و خطای ۵۰۲ در بلک‌فرایدی هستید؟",
+      "published": "2026-11-23T18:26:33+00:00",
+      "link": "https://t.me/varzesh3/307645",
+      "observed": "2026-11-24T22:54:36+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "کری‌ سنگین برای العین و الاهلی؛ 🔵 توئیت استقلال پس…",
+      "published": "2026-11-23T18:26:37+00:00",
+      "link": "https://t.me/varzesh3/307646",
+      "observed": "2026-11-24T22:54:36+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "⚠️ با گریه از زمین خارج شد! '90+8 🚑 امیرحسین…",
+      "published": "2026-11-23T18:58:37+00:00",
+      "link": "https://t.me/varzesh3/307647",
+      "observed": "2026-11-24T22:54:36+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🖥 آمار مسابقه تراکتور - الوصل 🌏 #لیگ_نخبگان2027 🆔 @varzesh3",
+      "published": "2026-11-23T19:08:48+00:00",
+      "link": "https://t.me/varzesh3/307648",
+      "observed": "2026-11-24T22:54:36+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "جدال حساس توپچی ها و زنبور ها در امارات با…",
+      "published": "2026-11-23T19:23:01+00:00",
+      "link": "https://t.me/varzesh3/307650",
+      "observed": "2026-11-24T22:54:36+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "🎙 🇪🇺 نشست خبری #لیگ_قهرمانان_اروپا2027",
+      "published": "2026-11-23T19:34:58+00:00",
+      "link": "https://t.me/varzesh3/307651",
+      "observed": "2026-11-24T22:54:36+00:00"
+    },
+    {
+      "channel": "varzesh3",
+      "week": "2026-11-23",
+      "story": "ورزش",
+      "summary": "باخت تنها چیزی که الغرافه بلد است؛",
+      "published": "2026-11-23T20:08:04+00:00",
+      "link": "https://t.me/varzesh3/307653",
+      "observed": "2026-11-24T22:54:36+00:00"
     }
   ]
 }

@@ -10,6 +10,7 @@ export function prompt(p){
 export function controls(p,d,s){
  return p.controls.map(c=>{
   const [m,k]=c.split(':'),v=s[c],vals=choices(p,d,c,s),label=m==='columns'?'ستون‌های خروجی':m==='sort'?'مرتب‌سازی':m==='base'||m==='next'?labels[m]:( {min:'حداقل ',max:'حداکثر ',from:'از ',to:'تا ',text:'جست‌وجوی '}[m]||'')+(labels[k]||k);
+  if(m==='multi'&&vals.length>15)return '<details class="many-options"><summary>'+esc(label)+' · '+fmt(vals.length)+' گزینه</summary><button type="button" data-bulk="'+esc(c)+'">انتخاب همه / پاک کردن</button>'+vals.map(a=>'<label><input type="checkbox" data-c="'+esc(c)+'" value="'+esc(a)+'" '+(v.includes(a)?'checked':'')+'> '+esc(k==='url'?(d.rows.find(r=>r.url===a)?.product||a):a)+'</label>').join('')+'</details>';
   if(m==='multi'||m==='columns')return '<fieldset><legend>'+esc(label)+'</legend>'+vals.map(a=>'<label><input type="checkbox" data-c="'+esc(c)+'" value="'+esc(a)+'" '+(v.includes(a)?'checked':'')+'> '+esc(m==='columns'?labels[a]:k==='url'?(d.rows.find(r=>r.url===a)?.product||a):a)+'</label>').join('')+'</fieldset>';
   if(['text','from','to','min','max'].includes(m))return '<label>'+esc(label)+'<input data-c="'+esc(c)+'" type="'+(m==='text'?'search':m==='min'||m==='max'?'number':'date')+'" value="'+esc(v)+'"></label>';
   const offersSeller=p.kind==='offers'&&k==='seller';
@@ -39,8 +40,9 @@ function offerSummary(v){
  const title=v.historySeller?'تاریخچهٔ '+v.historySeller:'پیشنهادها از ارزان‌ترین به گران‌ترین';
  return '<section class="finding"><h3>'+esc(heading)+'</h3><p>'+esc(comparison)+'</p>'+(f.observed?'<small>زمان ثبت پیشنهادها · '+esc(observationTime(f.observed))+'</small>':'')+latest+'<p>'+external(f.source,'بررسی قیمت و شرایط خرید در ترب ←')+'</p></section><h3>'+esc(title)+'</h3>';
 }
-export function result(p,v,saved={},answers={}){
+export function result(p,v,saved={},answers={},limit=30){
  const {rows,groups,note}=v;
+ const shown=p.kind==='map'?rows:rows.slice(0,limit);
  const columns=p.kind==='offers'?(v.historySeller?['observed','stock','price']:['seller','price','premium']):v.columns;
  const cell=(r,k)=>{
   if(p.kind==='offers'&&k==='observed')return esc(observationTime(r.observed));
@@ -61,7 +63,7 @@ export function result(p,v,saved={},answers={}){
   const height=Math.max(...coordinates.map(a=>a[0]))-lat+.002,width=Math.max(...coordinates.map(a=>a[1]))-lon+.002;
   map='<figure><figcaption>نقشهٔ مختصات نمونه · شمال ↑</figcaption><div class="coord-map" dir="ltr">'+rows.map((r,i)=>'<a href="#point-'+i+'" title="'+esc(r.name)+'" aria-label="'+esc(r.name)+'" style="left:'+((r.lon-lon)/width*100)+'%;bottom:'+((r.lat-lat)/height*100)+'%">'+fmt(i+1)+'</a>').join('')+'</div></figure>';
  }
- return '<p role="status">'+(note?esc(note):fmt(rows.length)+' ردیف در این انتخاب')+'</p>'+summary+map+(rows.length&&columns.length?'<div class="scroll" tabindex="0" aria-label="جدول نتیجه"><table><thead><tr>'+columns.map(k=>'<th scope="col">'+esc(labels[k]||k)+'</th>').join('')+(p.save?'<th>فهرست من</th>':'')+'</tr></thead><tbody>'+rows.map((r,i)=>'<tr id="point-'+i+'" tabindex="-1">'+columns.map(k=>'<td dir="auto">'+cell(r,k)+'</td>').join('')+(p.save?'<td><button type="button" data-save="'+esc(r.id)+'" aria-pressed="'+Boolean(saved[r.id])+'">'+(saved[r.id]?'حذف از فهرست':'ذخیره')+'</button></td>':'')+'</tr>').join('')+'</tbody></table></div>':(!note?'<p>برای دیدن نتیجه، انتخاب‌ها را تغییر دهید.</p>':''))+(p.save?'<p>ذخیره‌شده‌ها در این مرورگر · '+esc(Object.keys(saved).filter(k=>saved[k]).map(k=>saved[k]).join('، ')||'خالی')+'</p>':'');
+ return '<p role="status">'+(note?esc(note):fmt(rows.length)+' ردیف در این انتخاب'+(shown.length<rows.length?' · نمایش '+fmt(shown.length)+' ردیف':''))+'</p>'+summary+map+(rows.length&&columns.length?'<div class="scroll" tabindex="0" aria-label="جدول نتیجه"><table><thead><tr>'+columns.map(k=>'<th scope="col">'+esc(labels[k]||k)+'</th>').join('')+(p.save?'<th>فهرست من</th>':'')+'</tr></thead><tbody>'+shown.map((r,i)=>'<tr id="point-'+i+'" tabindex="-1">'+columns.map(k=>'<td dir="auto">'+cell(r,k)+'</td>').join('')+(p.save?'<td><button type="button" data-save="'+esc(r.id)+'" aria-pressed="'+Boolean(saved[r.id])+'">'+(saved[r.id]?'حذف از فهرست':'ذخیره')+'</button></td>':'')+'</tr>').join('')+'</tbody></table></div>':(!note?'<p>برای دیدن نتیجه، انتخاب‌ها را تغییر دهید.</p>':''))+(shown.length<rows.length&&columns.length?'<button type="button" data-more>نمایش ردیف‌های بیشتر</button>':'')+(p.save?'<p>ذخیره‌شده‌ها در این مرورگر · '+esc(Object.keys(saved).filter(k=>saved[k]).map(k=>saved[k]).join('، ')||'خالی')+'</p>':'');
 }
 export function demo(p,d){
  const s=initial(p,d),v=view(p,d,s);

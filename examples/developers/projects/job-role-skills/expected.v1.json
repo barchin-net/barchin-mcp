@@ -7,141 +7,1428 @@
   ],
   "rows": [
     {
-      "skill": "TypeScript",
-      "count": 4,
-      "total": 4,
-      "evidence": [
-        {
-          "text": "Front End Developer · 1584337",
-          "href": "https://www.jobvision.ir/jobs/1584337"
-        },
-        {
-          "text": "برنامه نویس فرانت اند · 1550909",
-          "href": "https://www.jobvision.ir/jobs/1550909"
-        },
-        {
-          "text": "Front-End Developer · 1545586",
-          "href": "https://www.jobvision.ir/jobs/1545586"
-        },
-        {
-          "text": "کارآموز برنامه‌نویسی · 1479989",
-          "href": "https://www.jobvision.ir/jobs/1479989"
-        }
-      ]
-    },
-    {
       "skill": "Git",
-      "count": 3,
-      "total": 4,
+      "count": 29,
+      "total": 55,
       "evidence": [
         {
-          "text": "Front End Developer · 1584337",
-          "href": "https://www.jobvision.ir/jobs/1584337"
+          "text": "برنامه نویس",
+          "href": "https://www.jobvision.ir/jobs/1627305"
         },
         {
-          "text": "برنامه نویس فرانت اند · 1550909",
-          "href": "https://www.jobvision.ir/jobs/1550909"
+          "text": "توسعه دهنده نرم افزار",
+          "href": "https://www.jobvision.ir/jobs/1609668"
         },
         {
-          "text": "Front-End Developer · 1545586",
-          "href": "https://www.jobvision.ir/jobs/1545586"
+          "text": "Back-End Developer (Node.js)",
+          "href": "https://www.jobvision.ir/jobs/1624242"
+        },
+        {
+          "text": "کارآموز Fullstack Builder",
+          "href": "https://www.jobvision.ir/jobs/1625238"
+        },
+        {
+          "text": "کارآموز برنامه‌نویسی وب (Frontend / Backend)",
+          "href": "https://www.jobvision.ir/jobs/1624092"
+        },
+        {
+          "text": "برنامه‌نویس نرم‌افزار (Node.js / TypeScript)",
+          "href": "https://www.jobvision.ir/jobs/1624641"
+        },
+        {
+          "text": "برنامه نویس - آقا",
+          "href": "https://www.jobvision.ir/jobs/1622012"
+        },
+        {
+          "text": "Senior Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1618996"
+        },
+        {
+          "text": "برنامه نویس Back-End (Django)",
+          "href": "https://www.jobvision.ir/jobs/1587762"
+        },
+        {
+          "text": "برنامه نویس Back-End",
+          "href": "https://www.jobvision.ir/jobs/1616951"
+        },
+        {
+          "text": "Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1612078"
+        },
+        {
+          "text": "برنامه‌نویس فول‌استک (کارآموزی)",
+          "href": "https://www.jobvision.ir/jobs/1577697"
+        },
+        {
+          "text": "برنامه نویس ارشد Back-End (Node.js)",
+          "href": "https://www.jobvision.ir/jobs/1578644"
+        },
+        {
+          "text": "Junior Software Engineer - آقا",
+          "href": "https://www.jobvision.ir/jobs/1477410"
+        },
+        {
+          "text": "کارآموز برنامه‌نویسی بک‌اند (.NET و Python)",
+          "href": "https://www.jobvision.ir/jobs/1596125"
+        },
+        {
+          "text": "برنامه‌نویس جونیور (Python/Django) - آقا",
+          "href": "https://www.jobvision.ir/jobs/1565009"
+        },
+        {
+          "text": "برنامه نویس Full-Stack",
+          "href": "https://www.jobvision.ir/jobs/1554487"
+        },
+        {
+          "text": "برنامه‌نویس Full-Stack (JavaScript)",
+          "href": "https://www.jobvision.ir/jobs/1553933"
+        },
+        {
+          "text": "برنامه نویس",
+          "href": "https://www.jobvision.ir/jobs/1578195"
+        },
+        {
+          "text": "کارآموز برنامه‌نویسی وب",
+          "href": "https://www.jobvision.ir/jobs/1573092"
+        },
+        {
+          "text": "برنامه نویس - آقا",
+          "href": "https://www.jobvision.ir/jobs/1541632"
+        },
+        {
+          "text": "توسعه‌دهنده نرم‌افزار - آقا",
+          "href": "https://www.jobvision.ir/jobs/1542716"
+        },
+        {
+          "text": "برنامه‌نویس Back-End (Node.js)",
+          "href": "https://www.jobvision.ir/jobs/1572261"
+        },
+        {
+          "text": "برنامه نویس Full-Stack",
+          "href": "https://www.jobvision.ir/jobs/1549656"
+        },
+        {
+          "text": "کارآموز برنامه‌نویسی (Backend / Full-Stack)",
+          "href": "https://www.jobvision.ir/jobs/1561431"
+        },
+        {
+          "text": "Backend Developer - آقا",
+          "href": "https://www.jobvision.ir/jobs/1560770"
+        },
+        {
+          "text": "برنامه نویس",
+          "href": "https://www.jobvision.ir/jobs/1560186"
+        },
+        {
+          "text": "Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1558039"
+        },
+        {
+          "text": "مهندس نرم‌افزار جونیور (Junior Software Engineer) - آقا",
+          "href": "https://www.jobvision.ir/jobs/1550951"
         }
       ]
     },
     {
       "skill": "JavaScript",
-      "count": 2,
-      "total": 4,
+      "count": 21,
+      "total": 55,
       "evidence": [
         {
-          "text": "Front End Developer · 1584337",
-          "href": "https://www.jobvision.ir/jobs/1584337"
+          "text": "توسعه دهنده نرم افزار",
+          "href": "https://www.jobvision.ir/jobs/1609668"
         },
         {
-          "text": "کارآموز برنامه‌نویسی · 1479989",
-          "href": "https://www.jobvision.ir/jobs/1479989"
+          "text": "Back-End Developer (Node.js)",
+          "href": "https://www.jobvision.ir/jobs/1624242"
+        },
+        {
+          "text": "کارآموز برنامه‌نویسی وب (Frontend / Backend)",
+          "href": "https://www.jobvision.ir/jobs/1624092"
+        },
+        {
+          "text": "برنامه‌نویس نرم‌افزار (Node.js / TypeScript)",
+          "href": "https://www.jobvision.ir/jobs/1624641"
+        },
+        {
+          "text": "برنامه نویس - آقا",
+          "href": "https://www.jobvision.ir/jobs/1622012"
+        },
+        {
+          "text": "برنامه نویس Back-End",
+          "href": "https://www.jobvision.ir/jobs/1616951"
+        },
+        {
+          "text": "برنامه‌نویس فول‌استک (کارآموزی)",
+          "href": "https://www.jobvision.ir/jobs/1577697"
+        },
+        {
+          "text": "برنامه نویس Front-End (React)",
+          "href": "https://www.jobvision.ir/jobs/1571535"
+        },
+        {
+          "text": "برنامه‌نویس (Developer)",
+          "href": "https://www.jobvision.ir/jobs/1591570"
+        },
+        {
+          "text": "برنامه نویس Full-Stack",
+          "href": "https://www.jobvision.ir/jobs/1554487"
+        },
+        {
+          "text": "برنامه نویس وب - آقا",
+          "href": "https://www.jobvision.ir/jobs/1588264"
+        },
+        {
+          "text": "برنامه‌نویس Full-Stack (JavaScript)",
+          "href": "https://www.jobvision.ir/jobs/1553933"
+        },
+        {
+          "text": "برنامه نویس Back-End",
+          "href": "https://www.jobvision.ir/jobs/1551358"
+        },
+        {
+          "text": "برنامه نویس وب",
+          "href": "https://www.jobvision.ir/jobs/1489248"
+        },
+        {
+          "text": "توسعه‌دهنده نرم‌افزار - آقا",
+          "href": "https://www.jobvision.ir/jobs/1542716"
+        },
+        {
+          "text": "برنامه نویس Full-Stack",
+          "href": "https://www.jobvision.ir/jobs/1549656"
+        },
+        {
+          "text": "کارآموز برنامه‌نویسی (Backend / Full-Stack)",
+          "href": "https://www.jobvision.ir/jobs/1561431"
+        },
+        {
+          "text": "Backend Developer - آقا",
+          "href": "https://www.jobvision.ir/jobs/1560770"
+        },
+        {
+          "text": "مدرس برنامه نویسی",
+          "href": "https://www.jobvision.ir/jobs/1455175"
+        },
+        {
+          "text": "برنامه نویس",
+          "href": "https://www.jobvision.ir/jobs/1560186"
+        },
+        {
+          "text": "برنامه نویس",
+          "href": "https://www.jobvision.ir/jobs/1111602"
         }
       ]
     },
     {
-      "skill": "HTML",
-      "count": 2,
-      "total": 4,
+      "skill": "انگلیسی",
+      "count": 18,
+      "total": 55,
       "evidence": [
         {
-          "text": "Front End Developer · 1584337",
-          "href": "https://www.jobvision.ir/jobs/1584337"
+          "text": "برنامه نویس",
+          "href": "https://www.jobvision.ir/jobs/1627305"
         },
         {
-          "text": "کارآموز برنامه‌نویسی · 1479989",
-          "href": "https://www.jobvision.ir/jobs/1479989"
+          "text": "توسعه دهنده نرم افزار",
+          "href": "https://www.jobvision.ir/jobs/1609668"
+        },
+        {
+          "text": "Back-End Developer (Node.js)",
+          "href": "https://www.jobvision.ir/jobs/1624242"
+        },
+        {
+          "text": "کارآموز Fullstack Builder",
+          "href": "https://www.jobvision.ir/jobs/1625238"
+        },
+        {
+          "text": "کارآموز برنامه‌نویسی وب (Frontend / Backend)",
+          "href": "https://www.jobvision.ir/jobs/1624092"
+        },
+        {
+          "text": "برنامه‌نویس نرم‌افزار (Node.js / TypeScript)",
+          "href": "https://www.jobvision.ir/jobs/1624641"
+        },
+        {
+          "text": "Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1592943"
+        },
+        {
+          "text": "Senior Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1618996"
+        },
+        {
+          "text": "برنامه نویس Full-Stack",
+          "href": "https://www.jobvision.ir/jobs/1578115"
+        },
+        {
+          "text": "برنامه‌نویس Full-Stack (JavaScript)",
+          "href": "https://www.jobvision.ir/jobs/1553933"
+        },
+        {
+          "text": "برنامه نویس",
+          "href": "https://www.jobvision.ir/jobs/1548288"
+        },
+        {
+          "text": "برنامه نویس وب",
+          "href": "https://www.jobvision.ir/jobs/1489248"
+        },
+        {
+          "text": "توسعه‌دهنده نرم‌افزار - آقا",
+          "href": "https://www.jobvision.ir/jobs/1542716"
+        },
+        {
+          "text": "برنامه‌نویس Back-End (Node.js)",
+          "href": "https://www.jobvision.ir/jobs/1572261"
+        },
+        {
+          "text": "Backend Developer - آقا",
+          "href": "https://www.jobvision.ir/jobs/1560770"
+        },
+        {
+          "text": "Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1558039"
+        },
+        {
+          "text": "مهندس نرم‌افزار جونیور (Junior Software Engineer) - آقا",
+          "href": "https://www.jobvision.ir/jobs/1550951"
+        },
+        {
+          "text": "برنامه نویس",
+          "href": "https://www.jobvision.ir/jobs/1111602"
         }
       ]
     },
     {
-      "skill": "CSS",
-      "count": 2,
-      "total": 4,
+      "skill": "Python",
+      "count": 17,
+      "total": 55,
       "evidence": [
         {
-          "text": "Front End Developer · 1584337",
-          "href": "https://www.jobvision.ir/jobs/1584337"
+          "text": "برنامه نویس",
+          "href": "https://www.jobvision.ir/jobs/1627305"
         },
         {
-          "text": "کارآموز برنامه‌نویسی · 1479989",
-          "href": "https://www.jobvision.ir/jobs/1479989"
+          "text": "توسعه دهنده نرم افزار",
+          "href": "https://www.jobvision.ir/jobs/1609668"
+        },
+        {
+          "text": "مهندس نرم افزار - خانم",
+          "href": "https://www.jobvision.ir/jobs/1625080"
+        },
+        {
+          "text": "برنامه نویس Back-End (Django)",
+          "href": "https://www.jobvision.ir/jobs/1587762"
+        },
+        {
+          "text": "برنامه نویس Back-End",
+          "href": "https://www.jobvision.ir/jobs/1616951"
+        },
+        {
+          "text": "Junior Software Engineer - آقا",
+          "href": "https://www.jobvision.ir/jobs/1477410"
+        },
+        {
+          "text": "کارآموز برنامه‌نویسی بک‌اند (.NET و Python)",
+          "href": "https://www.jobvision.ir/jobs/1596125"
+        },
+        {
+          "text": "برنامه‌نویس جونیور (Python/Django) - آقا",
+          "href": "https://www.jobvision.ir/jobs/1565009"
+        },
+        {
+          "text": "برنامه‌نویس (Developer)",
+          "href": "https://www.jobvision.ir/jobs/1591570"
+        },
+        {
+          "text": "برنامه نویس",
+          "href": "https://www.jobvision.ir/jobs/1548288"
+        },
+        {
+          "text": "برنامه نویس",
+          "href": "https://www.jobvision.ir/jobs/1578195"
+        },
+        {
+          "text": "برنامه نویس - آقا",
+          "href": "https://www.jobvision.ir/jobs/1541632"
+        },
+        {
+          "text": "توسعه‌دهنده نرم‌افزار - آقا",
+          "href": "https://www.jobvision.ir/jobs/1542716"
+        },
+        {
+          "text": "مدرس برنامه نویسی",
+          "href": "https://www.jobvision.ir/jobs/1455175"
+        },
+        {
+          "text": "Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1558039"
+        },
+        {
+          "text": "مهندس نرم‌افزار جونیور (Junior Software Engineer) - آقا",
+          "href": "https://www.jobvision.ir/jobs/1550951"
+        },
+        {
+          "text": "برنامه نویس",
+          "href": "https://www.jobvision.ir/jobs/1548884"
         }
       ]
     },
     {
-      "skill": "React",
-      "count": 2,
-      "total": 4,
+      "skill": "Node.js",
+      "count": 15,
+      "total": 55,
       "evidence": [
         {
-          "text": "Front End Developer · 1584337",
-          "href": "https://www.jobvision.ir/jobs/1584337"
+          "text": "Back-End Developer (Node.js)",
+          "href": "https://www.jobvision.ir/jobs/1624242"
         },
         {
-          "text": "Front-End Developer · 1545586",
-          "href": "https://www.jobvision.ir/jobs/1545586"
+          "text": "برنامه‌نویس نرم‌افزار (Node.js / TypeScript)",
+          "href": "https://www.jobvision.ir/jobs/1624641"
+        },
+        {
+          "text": "Senior Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1618996"
+        },
+        {
+          "text": "برنامه‌نویس فول‌استک (کارآموزی)",
+          "href": "https://www.jobvision.ir/jobs/1577697"
+        },
+        {
+          "text": "برنامه نویس ارشد Back-End (Node.js)",
+          "href": "https://www.jobvision.ir/jobs/1578644"
+        },
+        {
+          "text": "برنامه نویس Full-Stack",
+          "href": "https://www.jobvision.ir/jobs/1578115"
+        },
+        {
+          "text": "برنامه نویس Full-Stack",
+          "href": "https://www.jobvision.ir/jobs/1554487"
+        },
+        {
+          "text": "برنامه‌نویس Full-Stack (JavaScript)",
+          "href": "https://www.jobvision.ir/jobs/1553933"
+        },
+        {
+          "text": "برنامه نویس",
+          "href": "https://www.jobvision.ir/jobs/1578195"
+        },
+        {
+          "text": "کارآموز برنامه‌نویسی وب",
+          "href": "https://www.jobvision.ir/jobs/1573092"
+        },
+        {
+          "text": "برنامه نویس - آقا",
+          "href": "https://www.jobvision.ir/jobs/1541632"
+        },
+        {
+          "text": "برنامه‌نویس Back-End (Node.js)",
+          "href": "https://www.jobvision.ir/jobs/1572261"
+        },
+        {
+          "text": "برنامه نویس Full-Stack",
+          "href": "https://www.jobvision.ir/jobs/1549656"
+        },
+        {
+          "text": "Backend Developer - آقا",
+          "href": "https://www.jobvision.ir/jobs/1560770"
+        },
+        {
+          "text": "Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1558039"
         }
       ]
     },
     {
-      "skill": "Angular",
-      "count": 2,
-      "total": 4,
+      "skill": "REST API",
+      "count": 15,
+      "total": 55,
       "evidence": [
         {
-          "text": "برنامه نویس فرانت اند · 1550909",
-          "href": "https://www.jobvision.ir/jobs/1550909"
+          "text": "برنامه‌نویس نرم‌افزار (Node.js / TypeScript)",
+          "href": "https://www.jobvision.ir/jobs/1624641"
         },
         {
-          "text": "کارآموز برنامه‌نویسی · 1479989",
-          "href": "https://www.jobvision.ir/jobs/1479989"
+          "text": "Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1623277"
+        },
+        {
+          "text": "Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1592943"
+        },
+        {
+          "text": "Senior Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1618996"
+        },
+        {
+          "text": "Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1612078"
+        },
+        {
+          "text": "برنامه نویس Full-Stack",
+          "href": "https://www.jobvision.ir/jobs/1578115"
+        },
+        {
+          "text": "برنامه نویس Full-Stack",
+          "href": "https://www.jobvision.ir/jobs/1554487"
+        },
+        {
+          "text": "برنامه نویس Back-End",
+          "href": "https://www.jobvision.ir/jobs/1551358"
+        },
+        {
+          "text": "برنامه نویس",
+          "href": "https://www.jobvision.ir/jobs/1578195"
+        },
+        {
+          "text": "برنامه نویس وب",
+          "href": "https://www.jobvision.ir/jobs/1489248"
+        },
+        {
+          "text": "کارآموز برنامه‌نویسی وب",
+          "href": "https://www.jobvision.ir/jobs/1573092"
+        },
+        {
+          "text": "برنامه نویس - آقا",
+          "href": "https://www.jobvision.ir/jobs/1541632"
+        },
+        {
+          "text": "برنامه‌نویس Back-End (Node.js)",
+          "href": "https://www.jobvision.ir/jobs/1572261"
+        },
+        {
+          "text": "برنامه نویس",
+          "href": "https://www.jobvision.ir/jobs/1560186"
+        },
+        {
+          "text": "برنامه نویس",
+          "href": "https://www.jobvision.ir/jobs/1548884"
         }
       ]
     },
     {
-      "skill": "SQL",
-      "count": 1,
-      "total": 4,
+      "skill": "TypeScript",
+      "count": 11,
+      "total": 55,
       "evidence": [
         {
-          "text": "کارآموز برنامه‌نویسی · 1479989",
-          "href": "https://www.jobvision.ir/jobs/1479989"
+          "text": "Back-End Developer (Node.js)",
+          "href": "https://www.jobvision.ir/jobs/1624242"
+        },
+        {
+          "text": "کارآموز برنامه‌نویسی وب (Frontend / Backend)",
+          "href": "https://www.jobvision.ir/jobs/1624092"
+        },
+        {
+          "text": "برنامه‌نویس نرم‌افزار (Node.js / TypeScript)",
+          "href": "https://www.jobvision.ir/jobs/1624641"
+        },
+        {
+          "text": "برنامه نویس - آقا",
+          "href": "https://www.jobvision.ir/jobs/1622012"
+        },
+        {
+          "text": "Senior Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1618996"
+        },
+        {
+          "text": "برنامه‌نویس فول‌استک (کارآموزی)",
+          "href": "https://www.jobvision.ir/jobs/1577697"
+        },
+        {
+          "text": "برنامه نویس ارشد Back-End (Node.js)",
+          "href": "https://www.jobvision.ir/jobs/1578644"
+        },
+        {
+          "text": "برنامه نویس Full-Stack",
+          "href": "https://www.jobvision.ir/jobs/1578115"
+        },
+        {
+          "text": "برنامه‌نویس Full-Stack (JavaScript)",
+          "href": "https://www.jobvision.ir/jobs/1553933"
+        },
+        {
+          "text": "برنامه‌نویس Back-End (Node.js)",
+          "href": "https://www.jobvision.ir/jobs/1572261"
+        },
+        {
+          "text": "Backend Developer - آقا",
+          "href": "https://www.jobvision.ir/jobs/1560770"
         }
       ]
     },
     {
       "skill": "C#",
-      "count": 1,
-      "total": 4,
+      "count": 11,
+      "total": 55,
       "evidence": [
         {
-          "text": "کارآموز برنامه‌نویسی · 1479989",
-          "href": "https://www.jobvision.ir/jobs/1479989"
+          "text": "Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1623277"
+        },
+        {
+          "text": "برنامه نویس نرم افزار",
+          "href": "https://www.jobvision.ir/jobs/1599487"
+        },
+        {
+          "text": "کارشناس برنامه نویسی",
+          "href": "https://www.jobvision.ir/jobs/1613854"
+        },
+        {
+          "text": "Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1612078"
+        },
+        {
+          "text": "کارآموز برنامه‌نویسی بک‌اند (.NET و Python)",
+          "href": "https://www.jobvision.ir/jobs/1596125"
+        },
+        {
+          "text": "برنامه نویس (توسعه نرم‌افزارهای صنعتی)",
+          "href": "https://www.jobvision.ir/jobs/1558928"
+        },
+        {
+          "text": "برنامه نویس وب - آقا",
+          "href": "https://www.jobvision.ir/jobs/1588264"
+        },
+        {
+          "text": "کارآموز برنامه‌نویسی (Backend / Full-Stack)",
+          "href": "https://www.jobvision.ir/jobs/1561431"
+        },
+        {
+          "text": "مدرس برنامه نویسی",
+          "href": "https://www.jobvision.ir/jobs/1455175"
+        },
+        {
+          "text": "مهندس نرم‌افزار جونیور (Junior Software Engineer) - آقا",
+          "href": "https://www.jobvision.ir/jobs/1550951"
+        },
+        {
+          "text": "برنامه نویس",
+          "href": "https://www.jobvision.ir/jobs/1547070"
+        }
+      ]
+    },
+    {
+      "skill": "MySQL",
+      "count": 11,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1592943"
+        },
+        {
+          "text": "Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1612078"
+        },
+        {
+          "text": "برنامه‌نویس جونیور (Python/Django) - آقا",
+          "href": "https://www.jobvision.ir/jobs/1565009"
+        },
+        {
+          "text": "برنامه‌نویس (Developer)",
+          "href": "https://www.jobvision.ir/jobs/1591570"
+        },
+        {
+          "text": "برنامه نویس وب - آقا",
+          "href": "https://www.jobvision.ir/jobs/1588264"
+        },
+        {
+          "text": "برنامه نویس Back-End",
+          "href": "https://www.jobvision.ir/jobs/1551358"
+        },
+        {
+          "text": "کارآموز برنامه‌نویسی وب",
+          "href": "https://www.jobvision.ir/jobs/1573092"
+        },
+        {
+          "text": "برنامه نویس - آقا",
+          "href": "https://www.jobvision.ir/jobs/1541632"
+        },
+        {
+          "text": "کارآموز برنامه‌نویسی (Backend / Full-Stack)",
+          "href": "https://www.jobvision.ir/jobs/1561431"
+        },
+        {
+          "text": "Backend Developer - آقا",
+          "href": "https://www.jobvision.ir/jobs/1560770"
+        },
+        {
+          "text": "برنامه نویس",
+          "href": "https://www.jobvision.ir/jobs/1560186"
+        }
+      ]
+    },
+    {
+      "skill": "PostgreSQL",
+      "count": 10,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "توسعه دهنده نرم افزار",
+          "href": "https://www.jobvision.ir/jobs/1609668"
+        },
+        {
+          "text": "Back-End Developer (Node.js)",
+          "href": "https://www.jobvision.ir/jobs/1624242"
+        },
+        {
+          "text": "Senior Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1618996"
+        },
+        {
+          "text": "Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1612078"
+        },
+        {
+          "text": "برنامه نویس Full-Stack",
+          "href": "https://www.jobvision.ir/jobs/1578115"
+        },
+        {
+          "text": "برنامه‌نویس جونیور (Python/Django) - آقا",
+          "href": "https://www.jobvision.ir/jobs/1565009"
+        },
+        {
+          "text": "کارآموز برنامه‌نویسی وب",
+          "href": "https://www.jobvision.ir/jobs/1573092"
+        },
+        {
+          "text": "برنامه نویس - آقا",
+          "href": "https://www.jobvision.ir/jobs/1541632"
+        },
+        {
+          "text": "برنامه‌نویس Back-End (Node.js)",
+          "href": "https://www.jobvision.ir/jobs/1572261"
+        },
+        {
+          "text": "Backend Developer - آقا",
+          "href": "https://www.jobvision.ir/jobs/1560770"
+        }
+      ]
+    },
+    {
+      "skill": "React",
+      "count": 9,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "کارآموز برنامه‌نویسی وب (Frontend / Backend)",
+          "href": "https://www.jobvision.ir/jobs/1624092"
+        },
+        {
+          "text": "برنامه نویس - آقا",
+          "href": "https://www.jobvision.ir/jobs/1622012"
+        },
+        {
+          "text": "برنامه‌نویس فول‌استک (کارآموزی)",
+          "href": "https://www.jobvision.ir/jobs/1577697"
+        },
+        {
+          "text": "برنامه نویس Front-End (React)",
+          "href": "https://www.jobvision.ir/jobs/1571535"
+        },
+        {
+          "text": "برنامه نویس Full-Stack",
+          "href": "https://www.jobvision.ir/jobs/1554487"
+        },
+        {
+          "text": "برنامه‌نویس Full-Stack (JavaScript)",
+          "href": "https://www.jobvision.ir/jobs/1553933"
+        },
+        {
+          "text": "برنامه نویس Full-Stack",
+          "href": "https://www.jobvision.ir/jobs/1549656"
+        },
+        {
+          "text": "Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1558039"
+        },
+        {
+          "text": "برنامه نویس",
+          "href": "https://www.jobvision.ir/jobs/1111602"
+        }
+      ]
+    },
+    {
+      "skill": "HTML & CSS",
+      "count": 9,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "کارآموز برنامه‌نویسی وب (Frontend / Backend)",
+          "href": "https://www.jobvision.ir/jobs/1624092"
+        },
+        {
+          "text": "برنامه نویس - آقا",
+          "href": "https://www.jobvision.ir/jobs/1622012"
+        },
+        {
+          "text": "برنامه نویس Front-End (React)",
+          "href": "https://www.jobvision.ir/jobs/1571535"
+        },
+        {
+          "text": "برنامه‌نویس (Developer)",
+          "href": "https://www.jobvision.ir/jobs/1591570"
+        },
+        {
+          "text": "برنامه نویس وب - آقا",
+          "href": "https://www.jobvision.ir/jobs/1588264"
+        },
+        {
+          "text": "برنامه نویس Back-End",
+          "href": "https://www.jobvision.ir/jobs/1551358"
+        },
+        {
+          "text": "برنامه نویس",
+          "href": "https://www.jobvision.ir/jobs/1578195"
+        },
+        {
+          "text": "برنامه نویس وب",
+          "href": "https://www.jobvision.ir/jobs/1489248"
+        },
+        {
+          "text": "برنامه نویس",
+          "href": "https://www.jobvision.ir/jobs/1560186"
+        }
+      ]
+    },
+    {
+      "skill": "Microsoft SQL Server",
+      "count": 9,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1623277"
+        },
+        {
+          "text": "برنامه نویس - آقا",
+          "href": "https://www.jobvision.ir/jobs/1622012"
+        },
+        {
+          "text": "کارشناس برنامه نویسی",
+          "href": "https://www.jobvision.ir/jobs/1613854"
+        },
+        {
+          "text": "Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1612078"
+        },
+        {
+          "text": "برنامه نویس وب - آقا",
+          "href": "https://www.jobvision.ir/jobs/1588264"
+        },
+        {
+          "text": "برنامه نویس وب",
+          "href": "https://www.jobvision.ir/jobs/1489248"
+        },
+        {
+          "text": "کارآموز برنامه‌نویسی (Backend / Full-Stack)",
+          "href": "https://www.jobvision.ir/jobs/1561431"
+        },
+        {
+          "text": "Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1558039"
+        },
+        {
+          "text": "برنامه نویس",
+          "href": "https://www.jobvision.ir/jobs/1111602"
+        }
+      ]
+    },
+    {
+      "skill": "Linux",
+      "count": 7,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "برنامه‌نویس نرم‌افزار (Node.js / TypeScript)",
+          "href": "https://www.jobvision.ir/jobs/1624641"
+        },
+        {
+          "text": "برنامه نویس نرم افزار",
+          "href": "https://www.jobvision.ir/jobs/1599487"
+        },
+        {
+          "text": "Junior Software Engineer - آقا",
+          "href": "https://www.jobvision.ir/jobs/1477410"
+        },
+        {
+          "text": "برنامه نویس Full-Stack",
+          "href": "https://www.jobvision.ir/jobs/1554487"
+        },
+        {
+          "text": "توسعه‌دهنده نرم‌افزار - آقا",
+          "href": "https://www.jobvision.ir/jobs/1542716"
+        },
+        {
+          "text": "کارآموز برنامه‌نویسی (Backend / Full-Stack)",
+          "href": "https://www.jobvision.ir/jobs/1561431"
+        },
+        {
+          "text": "مهندس نرم‌افزار جونیور (Junior Software Engineer) - آقا",
+          "href": "https://www.jobvision.ir/jobs/1550951"
+        }
+      ]
+    },
+    {
+      "skill": "Next.js",
+      "count": 6,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "کارآموز برنامه‌نویسی وب (Frontend / Backend)",
+          "href": "https://www.jobvision.ir/jobs/1624092"
+        },
+        {
+          "text": "برنامه نویس - آقا",
+          "href": "https://www.jobvision.ir/jobs/1622012"
+        },
+        {
+          "text": "برنامه‌نویس فول‌استک (کارآموزی)",
+          "href": "https://www.jobvision.ir/jobs/1577697"
+        },
+        {
+          "text": "برنامه نویس Front-End (React)",
+          "href": "https://www.jobvision.ir/jobs/1571535"
+        },
+        {
+          "text": "برنامه‌نویس Full-Stack (JavaScript)",
+          "href": "https://www.jobvision.ir/jobs/1553933"
+        },
+        {
+          "text": "کارآموز برنامه‌نویس (Backend/Frontend)",
+          "href": "https://www.jobvision.ir/jobs/1571401"
+        }
+      ]
+    },
+    {
+      "skill": "PHP",
+      "count": 6,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1592943"
+        },
+        {
+          "text": "برنامه نویس Back-End",
+          "href": "https://www.jobvision.ir/jobs/1551358"
+        },
+        {
+          "text": "برنامه نویس - آقا",
+          "href": "https://www.jobvision.ir/jobs/1541632"
+        },
+        {
+          "text": "کارآموز برنامه‌نویسی (Backend / Full-Stack)",
+          "href": "https://www.jobvision.ir/jobs/1561431"
+        },
+        {
+          "text": "مدرس برنامه نویسی",
+          "href": "https://www.jobvision.ir/jobs/1455175"
+        },
+        {
+          "text": "برنامه نویس",
+          "href": "https://www.jobvision.ir/jobs/1560186"
+        }
+      ]
+    },
+    {
+      "skill": "Redis",
+      "count": 6,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1592943"
+        },
+        {
+          "text": "Senior Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1618996"
+        },
+        {
+          "text": "برنامه نویس ارشد Back-End (Node.js)",
+          "href": "https://www.jobvision.ir/jobs/1578644"
+        },
+        {
+          "text": "برنامه نویس Full-Stack",
+          "href": "https://www.jobvision.ir/jobs/1578115"
+        },
+        {
+          "text": "برنامه‌نویس جونیور (Python/Django) - آقا",
+          "href": "https://www.jobvision.ir/jobs/1565009"
+        },
+        {
+          "text": "Backend Developer - آقا",
+          "href": "https://www.jobvision.ir/jobs/1560770"
+        }
+      ]
+    },
+    {
+      "skill": "Django",
+      "count": 6,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "برنامه نویس Back-End (Django)",
+          "href": "https://www.jobvision.ir/jobs/1587762"
+        },
+        {
+          "text": "برنامه نویس Back-End",
+          "href": "https://www.jobvision.ir/jobs/1616951"
+        },
+        {
+          "text": "برنامه‌نویس جونیور (Python/Django) - آقا",
+          "href": "https://www.jobvision.ir/jobs/1565009"
+        },
+        {
+          "text": "توسعه‌دهنده نرم‌افزار - آقا",
+          "href": "https://www.jobvision.ir/jobs/1542716"
+        },
+        {
+          "text": "Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1558039"
+        },
+        {
+          "text": "برنامه نویس",
+          "href": "https://www.jobvision.ir/jobs/1548884"
+        }
+      ]
+    },
+    {
+      "skill": "Docker",
+      "count": 5,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "برنامه‌نویس نرم‌افزار (Node.js / TypeScript)",
+          "href": "https://www.jobvision.ir/jobs/1624641"
+        },
+        {
+          "text": "Senior Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1618996"
+        },
+        {
+          "text": "برنامه نویس ارشد Back-End (Node.js)",
+          "href": "https://www.jobvision.ir/jobs/1578644"
+        },
+        {
+          "text": "Junior Software Engineer - آقا",
+          "href": "https://www.jobvision.ir/jobs/1477410"
+        },
+        {
+          "text": "برنامه نویس",
+          "href": "https://www.jobvision.ir/jobs/1578195"
+        }
+      ]
+    },
+    {
+      "skill": ".NET / .NET Core",
+      "count": 5,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1623277"
+        },
+        {
+          "text": "Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1612078"
+        },
+        {
+          "text": "کارآموز برنامه‌نویسی بک‌اند (.NET و Python)",
+          "href": "https://www.jobvision.ir/jobs/1596125"
+        },
+        {
+          "text": "برنامه نویس (توسعه نرم‌افزارهای صنعتی)",
+          "href": "https://www.jobvision.ir/jobs/1558928"
+        },
+        {
+          "text": "کارآموز برنامه‌نویس (Backend/Frontend)",
+          "href": "https://www.jobvision.ir/jobs/1571401"
+        }
+      ]
+    },
+    {
+      "skill": "C++",
+      "count": 5,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "برنامه نویس نرم افزار",
+          "href": "https://www.jobvision.ir/jobs/1599487"
+        },
+        {
+          "text": "توسعه‌دهنده نرم‌افزار - آقا",
+          "href": "https://www.jobvision.ir/jobs/1542716"
+        },
+        {
+          "text": "مدرس برنامه نویسی",
+          "href": "https://www.jobvision.ir/jobs/1455175"
+        },
+        {
+          "text": "مهندس نرم‌افزار جونیور (Junior Software Engineer) - آقا",
+          "href": "https://www.jobvision.ir/jobs/1550951"
+        },
+        {
+          "text": "برنامه نویس",
+          "href": "https://www.jobvision.ir/jobs/1547070"
+        }
+      ]
+    },
+    {
+      "skill": "MongoDB",
+      "count": 4,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "برنامه‌نویس فول‌استک (کارآموزی)",
+          "href": "https://www.jobvision.ir/jobs/1577697"
+        },
+        {
+          "text": "برنامه نویس ارشد Back-End (Node.js)",
+          "href": "https://www.jobvision.ir/jobs/1578644"
+        },
+        {
+          "text": "برنامه‌نویس Full-Stack (JavaScript)",
+          "href": "https://www.jobvision.ir/jobs/1553933"
+        },
+        {
+          "text": "Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1558039"
+        }
+      ]
+    },
+    {
+      "skill": "Unit Testing",
+      "count": 2,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "Back-End Developer (Node.js)",
+          "href": "https://www.jobvision.ir/jobs/1624242"
+        },
+        {
+          "text": "برنامه نویس",
+          "href": "https://www.jobvision.ir/jobs/1578195"
+        }
+      ]
+    },
+    {
+      "skill": "RabbitMQ",
+      "count": 2,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1623277"
+        },
+        {
+          "text": "Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1592943"
+        }
+      ]
+    },
+    {
+      "skill": "Laravel",
+      "count": 2,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1592943"
+        },
+        {
+          "text": "برنامه نویس",
+          "href": "https://www.jobvision.ir/jobs/1560186"
+        }
+      ]
+    },
+    {
+      "skill": "T-SQL",
+      "count": 2,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "کارشناس برنامه نویسی",
+          "href": "https://www.jobvision.ir/jobs/1613854"
+        },
+        {
+          "text": "برنامه نویس Back-End",
+          "href": "https://www.jobvision.ir/jobs/1551358"
+        }
+      ]
+    },
+    {
+      "skill": "Kotlin",
+      "count": 2,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "برنامه نویس Full-Stack",
+          "href": "https://www.jobvision.ir/jobs/1578115"
+        },
+        {
+          "text": "مدرس برنامه نویسی",
+          "href": "https://www.jobvision.ir/jobs/1455175"
+        }
+      ]
+    },
+    {
+      "skill": "ASP.NET",
+      "count": 2,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "برنامه نویس وب - آقا",
+          "href": "https://www.jobvision.ir/jobs/1588264"
+        },
+        {
+          "text": "برنامه نویس وب",
+          "href": "https://www.jobvision.ir/jobs/1489248"
+        }
+      ]
+    },
+    {
+      "skill": "COMSOL Multiphysics",
+      "count": 1,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "مهندس نرم افزار - خانم",
+          "href": "https://www.jobvision.ir/jobs/1625080"
+        }
+      ]
+    },
+    {
+      "skill": "MATLAB",
+      "count": 1,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "مهندس نرم افزار - خانم",
+          "href": "https://www.jobvision.ir/jobs/1625080"
+        }
+      ]
+    },
+    {
+      "skill": "Entity Framework",
+      "count": 1,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1623277"
+        }
+      ]
+    },
+    {
+      "skill": "Dapper",
+      "count": 1,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "Back-End Developer",
+          "href": "https://www.jobvision.ir/jobs/1623277"
+        }
+      ]
+    },
+    {
+      "skill": "Adobe XD",
+      "count": 1,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "کارشناس برنامه‌نویسی",
+          "href": "https://www.jobvision.ir/jobs/1608286"
+        }
+      ]
+    },
+    {
+      "skill": "Adobe Photoshop",
+      "count": 1,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "کارشناس برنامه‌نویسی",
+          "href": "https://www.jobvision.ir/jobs/1608286"
+        }
+      ]
+    },
+    {
+      "skill": "Adobe Illustrator",
+      "count": 1,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "کارشناس برنامه‌نویسی",
+          "href": "https://www.jobvision.ir/jobs/1608286"
+        }
+      ]
+    },
+    {
+      "skill": "Microsoft Visual Studio",
+      "count": 1,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "برنامه نویس نرم افزار",
+          "href": "https://www.jobvision.ir/jobs/1599487"
+        }
+      ]
+    },
+    {
+      "skill": "SAP",
+      "count": 1,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "کارشناس برنامه نویسی",
+          "href": "https://www.jobvision.ir/jobs/1613854"
+        }
+      ]
+    },
+    {
+      "skill": "Swift",
+      "count": 1,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "برنامه نویس Full-Stack",
+          "href": "https://www.jobvision.ir/jobs/1578115"
+        }
+      ]
+    },
+    {
+      "skill": "Apache Kafka",
+      "count": 1,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "Junior Software Engineer - آقا",
+          "href": "https://www.jobvision.ir/jobs/1477410"
+        }
+      ]
+    },
+    {
+      "skill": "Apache Spark",
+      "count": 1,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "Junior Software Engineer - آقا",
+          "href": "https://www.jobvision.ir/jobs/1477410"
+        }
+      ]
+    },
+    {
+      "skill": "React Native",
+      "count": 1,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "برنامه نویس Full-Stack",
+          "href": "https://www.jobvision.ir/jobs/1554487"
+        }
+      ]
+    },
+    {
+      "skill": "WordPress",
+      "count": 1,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "برنامه نویس Back-End",
+          "href": "https://www.jobvision.ir/jobs/1551358"
+        }
+      ]
+    },
+    {
+      "skill": "jQuery",
+      "count": 1,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "برنامه نویس وب",
+          "href": "https://www.jobvision.ir/jobs/1489248"
+        }
+      ]
+    },
+    {
+      "skill": "IIS",
+      "count": 1,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "برنامه نویس وب",
+          "href": "https://www.jobvision.ir/jobs/1489248"
+        }
+      ]
+    },
+    {
+      "skill": "GitLab",
+      "count": 1,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "کارآموز برنامه‌نویسی وب",
+          "href": "https://www.jobvision.ir/jobs/1573092"
+        }
+      ]
+    },
+    {
+      "skill": "Embedded C",
+      "count": 1,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "توسعه‌دهنده نرم‌افزار - آقا",
+          "href": "https://www.jobvision.ir/jobs/1542716"
+        }
+      ]
+    },
+    {
+      "skill": "Oracle Database",
+      "count": 1,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "برنامه‌نویس Back-End (Node.js)",
+          "href": "https://www.jobvision.ir/jobs/1572261"
+        }
+      ]
+    },
+    {
+      "skill": "Angular",
+      "count": 1,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "کارآموز برنامه‌نویس (Backend/Frontend)",
+          "href": "https://www.jobvision.ir/jobs/1571401"
+        }
+      ]
+    },
+    {
+      "skill": "Go",
+      "count": 1,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "کارآموز برنامه‌نویس (Backend/Frontend)",
+          "href": "https://www.jobvision.ir/jobs/1571401"
+        }
+      ]
+    },
+    {
+      "skill": "Java",
+      "count": 1,
+      "total": 55,
+      "evidence": [
+        {
+          "text": "مدرس برنامه نویسی",
+          "href": "https://www.jobvision.ir/jobs/1455175"
         }
       ]
     }

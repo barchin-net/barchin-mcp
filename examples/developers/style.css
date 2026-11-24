@@ -101,3 +101,5 @@ header nav a[aria-current="page"][href="/developers"]{color:rgb(var(--lapis,36 5
 @media(max-width:860px){.dev .grid{grid-template-columns:repeat(2,minmax(0,1fr))}.dev .library-hero{gap:1.5rem}.dev .resources{grid-template-columns:1fr}}
 @media(max-width:640px){.dev{padding-inline:1rem}.dev .library-hero,.dev .grid{grid-template-columns:1fr}.dev .library-hero{padding:.5rem 0 1.1rem}.dev .offer-preview{padding:1rem 1.25rem}.dev .project-head>p{font-size:1rem}.dev .demo-head .caps{width:100%}.dev .leaders{grid-template-columns:1fr}.dev .leader img{width:4rem;height:5rem}.dev .comparison td:first-child{min-width:10.5rem}}
 @media(prefers-reduced-motion:reduce){.dev .card{transition:none}}
+
+.dev .many-options{max-width:100%;min-width:0}.dev .many-options[open]{max-height:18rem;overflow:auto}.dev .many-options label{display:block;padding:.25rem}

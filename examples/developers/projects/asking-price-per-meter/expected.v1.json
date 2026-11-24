@@ -10,67 +10,1420 @@
   ],
   "rows": [
     {
-      "title": "115متر/برج باغ لوکس/نوساز/فول مشاعات ابی و ورزشی",
-      "area": "سازمان برنامه",
+      "title": "واحد لوکس/139متر هروی/پلان ژورنالی",
+      "area": "حسین‌آباد",
+      "size": 139,
+      "link": "https://kilid.com/detail/3692044",
+      "observed": "2026-11-24T22:53:53+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=5",
+      "price": 87000000000,
+      "unitPrice": 625899281
+    },
+    {
+      "title": "شمال هروی* ۱۸۶متر، ورودی لابی/ روف گاردن/ ۳پارکینگ",
+      "area": "حسین‌آباد",
+      "size": 186,
+      "link": "https://kilid.com/detail/3692054",
+      "observed": "2026-11-24T22:53:54+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=6",
+      "price": 130000000000,
+      "unitPrice": 698924731
+    },
+    {
+      "title": "هروی/۱۰۲متر فول طبقات بالا/بدون مشابه",
+      "area": "حسین‌آباد",
+      "size": 102,
+      "link": "https://kilid.com/detail/3692055",
+      "observed": "2026-11-24T22:53:54+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=6",
+      "price": 41000000000,
+      "unitPrice": 401960784
+    },
+    {
+      "title": "۲۲۰متر۳خواب/افتخاریان/دو واحدی پاگرد مجزا",
+      "area": "حسین‌آباد",
+      "size": 220,
+      "link": "https://kilid.com/detail/3692057",
+      "observed": "2026-11-24T22:53:54+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=6",
+      "price": 151000000000,
+      "unitPrice": 686363636
+    },
+    {
+      "title": "۱۹۰متر ۳خواب مستر/افتخاریان/لوکس و هتلینک",
+      "area": "حسین‌آباد",
+      "size": 190,
+      "link": "https://kilid.com/detail/3692059",
+      "observed": "2026-11-24T22:53:54+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=6",
+      "price": 123500000000,
+      "unitPrice": 650000000
+    },
+    {
+      "title": "هروی / تاپ لوکیشن / ۲۸۰ متر ۴ خواب / استخر / لابی",
+      "area": "حسین‌آباد",
+      "size": 280,
+      "link": "https://kilid.com/detail/3692062",
+      "observed": "2026-11-24T22:53:54+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=6",
+      "price": 140000000000,
+      "unitPrice": 500000000
+    },
+    {
+      "title": "۱۴۰متر/آکواریوم/تک واحدی/بهترین لوکیشن هروی",
+      "area": "حسین‌آباد",
+      "size": 140,
+      "link": "https://kilid.com/detail/3692065",
+      "observed": "2026-11-24T22:53:54+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=6",
+      "price": 86500000000,
+      "unitPrice": 617857143
+    },
+    {
+      "title": "هروی / ۱۶۰ متر ۳ خواب / آفتاب مهمان همیشگی شماست",
+      "area": "حسین‌آباد",
+      "size": 160,
+      "link": "https://kilid.com/detail/3692070",
+      "observed": "2026-11-24T22:53:54+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=6",
+      "price": 100000000000,
+      "unitPrice": 625000000
+    },
+    {
+      "title": "هروی / ریحانی / ۱۶۰ متر ۳ خواب /۲ پارکینگ/ کم واحد",
+      "area": "حسین‌آباد",
+      "size": 160,
+      "link": "https://kilid.com/detail/3692071",
+      "observed": "2026-11-24T22:53:54+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=6",
+      "price": 80000000000,
+      "unitPrice": 500000000
+    },
+    {
+      "title": "هروی /۱۸۰ متر /سه خواب / دوپارکینگ/ تاپ لوکیشن",
+      "area": "حسین‌آباد",
+      "size": 180,
+      "link": "https://kilid.com/detail/3692072",
+      "observed": "2026-11-24T22:53:54+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=6",
+      "price": 95000000000,
+      "unitPrice": 527777778
+    },
+    {
+      "title": "تاپ لوکیشن هروی/140متر/تک واحدی/متریال برند",
+      "area": "حسین‌آباد",
+      "size": 140,
+      "link": "https://kilid.com/detail/3692074",
+      "observed": "2026-11-24T22:53:54+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=6",
+      "price": 85900000000,
+      "unitPrice": 613571429
+    },
+    {
+      "title": "۱۸۵متر عقیلی /بهترین فرعی/دو جهت نور",
+      "area": "حسین‌آباد",
+      "size": 185,
+      "link": "https://kilid.com/detail/3692075",
+      "observed": "2026-11-24T22:53:54+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=6",
+      "price": 93500000000,
+      "unitPrice": 505405405
+    },
+    {
+      "title": "هروی/۲۱۰متر/پلان تفکیکی/لابی مجلل /بالکن بزرگ",
+      "area": "حسین‌آباد",
+      "size": 210,
+      "link": "https://kilid.com/detail/3692079",
+      "observed": "2026-11-24T22:53:54+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=6",
+      "price": 125700000000,
+      "unitPrice": 598571429
+    },
+    {
+      "title": "91متر/هروی/2خواب/فول امکانات/میدان شریفی",
+      "area": "حسین‌آباد",
+      "size": 91,
+      "link": "https://kilid.com/detail/3692080",
+      "observed": "2026-11-24T22:53:54+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=6",
+      "price": 41000000000,
+      "unitPrice": 450549451
+    },
+    {
+      "title": "۱۰۰ متـر / رو به آفتاب / حیاط خلوت اختصاصی / هروی",
+      "area": "حسین‌آباد",
+      "size": 100,
+      "link": "https://kilid.com/detail/3692087",
+      "observed": "2026-11-24T22:53:54+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=6",
+      "price": 56500000000,
+      "unitPrice": 565000000
+    },
+    {
+      "title": "هروی/۱۷۵ متر/۲ پارکینگ/ رو به آفتاب/",
+      "area": "حسین‌آباد",
+      "size": 175,
+      "link": "https://kilid.com/detail/3692094",
+      "observed": "2026-11-24T22:53:54+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=6",
+      "price": 92000000000,
+      "unitPrice": 525714286
+    },
+    {
+      "title": "هروی / ۲۱۵ متر تک واحدی / کلید نخورده ویو ابدی",
+      "area": "حسین‌آباد",
+      "size": 215,
+      "link": "https://kilid.com/detail/3692096",
+      "observed": "2026-11-24T22:53:54+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=6",
+      "price": 159000000000,
+      "unitPrice": 739534884
+    },
+    {
+      "title": "۵۱متر/۱۳۰متر/دو واحد یکجا",
+      "area": "حسین‌آباد",
+      "size": 51,
+      "link": "https://kilid.com/detail/3692097",
+      "observed": "2026-11-24T22:53:54+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=6",
+      "price": 29000000000,
+      "unitPrice": 568627451
+    },
+    {
+      "title": "۱۹۰متر/۴پارکینگ سندی/مگه داریم",
+      "area": "حسین‌آباد",
+      "size": 190,
+      "link": "https://kilid.com/detail/3692099",
+      "observed": "2026-11-24T22:53:55+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=7",
+      "price": 91000000000,
+      "unitPrice": 478947368
+    },
+    {
+      "title": "هروی/145متری سه خواب/نوساز تکواحدی لوکس",
+      "area": "حسین‌آباد",
+      "size": 145,
+      "link": "https://kilid.com/detail/3692100",
+      "observed": "2026-11-24T22:53:55+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=7",
+      "price": 81700000000,
+      "unitPrice": 563448276
+    },
+    {
+      "title": "۸۰ متر / ۲ خواب / فول امکانات / فول بازسازی",
+      "area": "حسین‌آباد",
+      "size": 80,
+      "link": "https://kilid.com/detail/3692102",
+      "observed": "2026-11-24T22:53:55+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=7",
+      "price": 32000000000,
+      "unitPrice": 400000000
+    },
+    {
+      "title": "هروی تاپ لوکیشن/240متر/لوکس/ویو سرسبز و مشجر",
+      "area": "حسین‌آباد",
+      "size": 240,
+      "link": "https://kilid.com/detail/3692104",
+      "observed": "2026-11-24T22:53:55+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=7",
+      "price": 144000000000,
+      "unitPrice": 600000000
+    },
+    {
+      "title": "گیلان/۱۲۳متر ۳خواب فول امکانات ۲واحدی",
+      "area": "حسین‌آباد",
+      "size": 123,
+      "link": "https://kilid.com/detail/3692108",
+      "observed": "2026-11-24T22:53:55+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=7",
+      "price": 52700000000,
+      "unitPrice": 428455285
+    },
+    {
+      "title": "295 متر آگهی/3خواب /هروی",
+      "area": "حسین‌آباد",
+      "size": 295,
+      "link": "https://kilid.com/detail/3692110",
+      "observed": "2026-11-24T22:53:55+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=7",
+      "price": 178000000000,
+      "unitPrice": 603389831
+    },
+    {
+      "title": "خوش نقشه ترین واحد هروی/220متر سراسر نور",
+      "area": "حسین‌آباد",
+      "size": 220,
+      "link": "https://kilid.com/detail/3692101",
+      "observed": "2026-11-24T22:53:55+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=7",
+      "price": 155000000000,
+      "unitPrice": 704545455
+    },
+    {
+      "title": "تکواحدی / ۱۴۰متر / ۲پارکینگ",
+      "area": "حسین‌آباد",
+      "size": 140,
+      "link": "https://kilid.com/detail/3692083",
+      "observed": "2026-11-24T22:53:55+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=7",
+      "price": 90000000000,
+      "unitPrice": 642857143
+    },
+    {
+      "title": "اپارتمان 3خوابه/روبه افتاب/2پارکینگ (هروی)",
+      "area": "حسین‌آباد",
+      "size": 160,
+      "link": "https://kilid.com/detail/3692060",
+      "observed": "2026-11-24T22:53:55+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=7",
+      "price": 90000000000,
+      "unitPrice": 562500000
+    },
+    {
+      "title": "۲۹۰متر/تاپ لوکیشن هروی/قدرالسهم دار",
+      "area": "حسین‌آباد",
+      "size": 290,
+      "link": "https://kilid.com/detail/3692051",
+      "observed": "2026-11-24T22:53:55+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=7",
+      "price": 141000000000,
+      "unitPrice": 486206897
+    },
+    {
+      "title": "هروی ، اکازیون / ۲۱۰متر / پلن بی نقص",
+      "area": "حسین‌آباد",
+      "size": 210,
+      "link": "https://kilid.com/detail/3692046",
+      "observed": "2026-11-24T22:53:56+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=8",
+      "price": 127000000000,
+      "unitPrice": 604761905
+    },
+    {
+      "title": "خاص‌پسندان انتخاب می‌کنند/۱۶۰ متر نوساز/مدرن",
+      "area": "حسین‌آباد",
+      "size": 160,
+      "link": "https://kilid.com/detail/3692040",
+      "observed": "2026-11-24T22:53:56+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=8",
+      "price": 117000000000,
+      "unitPrice": 731250000
+    },
+    {
+      "title": "واحد 3خوابه/ فول مشاعات فعال/135متر(هروی)",
+      "area": "حسین‌آباد",
+      "size": 135,
+      "link": "https://kilid.com/detail/3692038",
+      "observed": "2026-11-24T22:53:56+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=8",
+      "price": 76000000000,
+      "unitPrice": 562962963
+    },
+    {
+      "title": "170 متر فول امکانات دو پارکینگ سندی باکس",
+      "area": "حسین‌آباد",
+      "size": 170,
+      "link": "https://kilid.com/detail/3691487",
+      "observed": "2026-11-24T22:54:09+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=19",
+      "price": 10000000000,
+      "unitPrice": 58823529
+    },
+    {
+      "title": "هروی/فروش/۱۳۸متر/زیر قیمت منطقه",
+      "area": "حسین‌آباد",
+      "size": 138,
+      "link": "https://kilid.com/detail/3691366",
+      "observed": "2026-11-24T22:54:10+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=20",
+      "price": 57800000000,
+      "unitPrice": 418840580
+    },
+    {
+      "title": "۱۸۰ متر طبقه دوم مشاعات بی نظیر",
+      "area": "حسین‌آباد",
+      "size": 180,
+      "link": "https://kilid.com/detail/3691363",
+      "observed": "2026-11-24T22:54:11+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=21",
+      "price": 94000000000,
+      "unitPrice": 522222222
+    },
+    {
+      "title": "هروی/۸۵ متر/فروشنده۱۰۰٪/فول امکانات",
+      "area": "حسین‌آباد",
+      "size": 85,
+      "link": "https://kilid.com/detail/3691319",
+      "observed": "2026-11-24T22:54:12+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=22",
+      "price": 38000000000,
+      "unitPrice": 447058824
+    },
+    {
+      "title": "۱۱۸ متر رونیکا پالاس مژده ، پاسداران",
+      "area": "حسین‌آباد",
+      "size": 118,
+      "link": "https://kilid.com/detail/3691287",
+      "observed": "2026-11-24T22:54:13+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=23",
+      "price": 50000000000,
+      "unitPrice": 423728814
+    },
+    {
+      "title": "هروی / ۲۵۵ متر ۳ خواب / کمیاب / غرق نور بدون مشرف",
+      "area": "حسین‌آباد",
+      "size": 255,
+      "link": "https://kilid.com/detail/3690575",
+      "observed": "2026-11-24T22:54:35+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=34",
+      "price": 140000000000,
+      "unitPrice": 549019608
+    },
+    {
+      "title": "هروی  / 90 متر / چشم نواز",
+      "area": "حسین‌آباد",
+      "size": 90,
+      "link": "https://kilid.com/detail/3690577",
+      "observed": "2026-11-24T22:54:35+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=34",
+      "price": 41850000000,
+      "unitPrice": 465000000
+    },
+    {
+      "title": "85متر/هروی/2خواب مستر/میدان شریفی/فول نور جنوب",
+      "area": "حسین‌آباد",
+      "size": 85,
+      "link": "https://kilid.com/detail/3690580",
+      "observed": "2026-11-24T22:54:35+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=34",
+      "price": 42200000000,
+      "unitPrice": 496470588
+    },
+    {
+      "title": "۱۳۵مـتری ۳خـواب  رو بـه آفـتاب / هـروی",
+      "area": "حسین‌آباد",
+      "size": 135,
+      "link": "https://kilid.com/detail/3690573",
+      "observed": "2026-11-24T22:54:35+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=34",
+      "price": 64500000000,
+      "unitPrice": 477777778
+    },
+    {
+      "title": "هروی/ ۱۷۸ متر/ ۳ خواب / سه پارکینگ / فول بازسازی",
+      "area": "حسین‌آباد",
+      "size": 178,
+      "link": "https://kilid.com/detail/3690571",
+      "observed": "2026-11-24T22:54:35+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=34",
+      "price": 95000000000,
+      "unitPrice": 533707865
+    },
+    {
+      "title": "تاپ لوکیشن/130 متر سه خواب/خوش نقشه",
+      "area": "حسین‌آباد",
+      "size": 130,
+      "link": "https://kilid.com/detail/3690566",
+      "observed": "2026-11-24T22:54:35+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=34",
+      "price": 60000000000,
+      "unitPrice": 461538462
+    },
+    {
+      "title": "هروی حسین آباد / ۳خواب / ۱۲۶ متر /نوساز",
+      "area": "حسین‌آباد",
+      "size": 126,
+      "link": "https://kilid.com/detail/3690565",
+      "observed": "2026-11-24T22:54:35+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=34",
+      "price": 75000000000,
+      "unitPrice": 595238095
+    },
+    {
+      "title": "۱۰۰ متر /وفامنش/هروی/واحد فول لاکچری شده",
+      "area": "حسین‌آباد",
+      "size": 100,
+      "link": "https://kilid.com/detail/3690581",
+      "observed": "2026-11-24T22:54:35+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=34",
+      "price": 55000000000,
+      "unitPrice": 550000000
+    },
+    {
+      "title": "تاپ لوکیشن/۱۰۰متر ۲خواب/خوش نقشه",
+      "area": "حسین‌آباد",
+      "size": 100,
+      "link": "https://kilid.com/detail/3690589",
+      "observed": "2026-11-24T22:54:35+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=34",
+      "price": 55680000000,
+      "unitPrice": 556800000
+    },
+    {
+      "title": "ساقدوش/۱۳۵متر/سه خواب",
+      "area": "حسین‌آباد",
+      "size": 135,
+      "link": "https://kilid.com/detail/3690590",
+      "observed": "2026-11-24T22:54:35+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=34",
+      "price": 67200000000,
+      "unitPrice": 497777778
+    },
+    {
+      "title": "هروی / ۱۴۰ متر ۳ خواب /متریال منطقه یک/ بدون مشابه",
+      "area": "حسین‌آباد",
+      "size": 140,
+      "link": "https://kilid.com/detail/3690585",
+      "observed": "2026-11-24T22:54:35+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=34",
+      "price": 84180000000,
+      "unitPrice": 601285714
+    },
+    {
+      "title": "۱۰۷متر/لوکیشن دنج هروی/الماس منطقه",
+      "area": "حسین‌آباد",
+      "size": 107,
+      "link": "https://kilid.com/detail/3690583",
+      "observed": "2026-11-24T22:54:36+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=35",
+      "price": 55000000000,
+      "unitPrice": 514018692
+    },
+    {
+      "title": "۲۰۰متر سه خواب/ اکازیون در منطقه/معاوضه با دو خواب",
+      "area": "حسین‌آباد",
+      "size": 200,
+      "link": "https://kilid.com/detail/3690599",
+      "observed": "2026-11-24T22:54:36+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=35",
+      "price": 130000000000,
+      "unitPrice": 650000000
+    },
+    {
+      "title": "کلید نخورده/ 90 متر 2 خواب/ فول امکانات",
+      "area": "حسین‌آباد",
+      "size": 90,
+      "link": "https://kilid.com/detail/3690603",
+      "observed": "2026-11-24T22:54:36+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=35",
+      "price": 36000000000,
+      "unitPrice": 400000000
+    },
+    {
+      "title": "هروی وفامنش/ 92 متر / ایده ال",
+      "area": "حسین‌آباد",
+      "size": 92,
+      "link": "https://kilid.com/detail/3690605",
+      "observed": "2026-11-24T22:54:36+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=35",
+      "price": 31600000000,
+      "unitPrice": 343478261
+    },
+    {
+      "title": "لوکیشن دنج هروی/۱۳۵متر/دو طرف نور",
+      "area": "حسین‌آباد",
+      "size": 135,
+      "link": "https://kilid.com/detail/3690618",
+      "observed": "2026-11-24T22:54:36+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=35",
+      "price": 78500000000,
+      "unitPrice": 581481481
+    },
+    {
+      "title": "هروی/ ۹۱متر/ ۲خواب/اکازیون",
+      "area": "حسین‌آباد",
+      "size": 91,
+      "link": "https://kilid.com/detail/3690623",
+      "observed": "2026-11-24T22:54:36+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=35",
+      "price": 40000000000,
+      "unitPrice": 439560440
+    },
+    {
+      "title": "آپارتمان ۲۹۵ متر + سوئیت مجزا / ۳ پارکینگ",
+      "area": "حسین‌آباد",
+      "size": 295,
+      "link": "https://kilid.com/detail/3690624",
+      "observed": "2026-11-24T22:54:36+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=35",
+      "price": 174000000000,
+      "unitPrice": 589830508
+    },
+    {
+      "title": "هروی/اردیبهشت اعتماد/ ۲۱۰ متر/۴ خواب",
+      "area": "حسین‌آباد",
+      "size": 215,
+      "link": "https://kilid.com/detail/3690625",
+      "observed": "2026-11-24T22:54:36+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=35",
+      "price": 100000000000,
+      "unitPrice": 465116279
+    },
+    {
+      "title": "هروی/ خ موسوی/ ۱۰۰متر/دارای قدرالسهم",
+      "area": "حسین‌آباد",
+      "size": 100,
+      "link": "https://kilid.com/detail/3690626",
+      "observed": "2026-11-24T22:54:36+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=35",
+      "price": 39000000000,
+      "unitPrice": 390000000
+    },
+    {
+      "title": "240 متر / نوساز / پلان تفکیکی/بالا هروی",
+      "area": "حسین‌آباد",
+      "size": 240,
+      "link": "https://kilid.com/detail/3690627",
+      "observed": "2026-11-24T22:54:36+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=35",
+      "price": 152000000000,
+      "unitPrice": 633333333
+    },
+    {
+      "title": "۱۳۸ متر در هروی. نور مستقیم آفتاب از جنوب.لوکیشن",
+      "area": "حسین‌آباد",
+      "size": 138,
+      "link": "https://kilid.com/detail/3690628",
+      "observed": "2026-11-24T22:54:36+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=35",
+      "price": 70000000000,
+      "unitPrice": 507246377
+    },
+    {
+      "title": "۱۷۳متر/قدرالسهم دار/۳خواب/بنی فاطمه",
+      "area": "حسین‌آباد",
+      "size": 173,
+      "link": "https://kilid.com/detail/3690630",
+      "observed": "2026-11-24T22:54:36+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=35",
+      "price": 75000000000,
+      "unitPrice": 433526012
+    },
+    {
+      "title": "ساقدوش / ۱۴۰ متر ۳ خواب / قیمت کاسبی",
+      "area": "حسین‌آباد",
+      "size": 140,
+      "link": "https://kilid.com/detail/3690631",
+      "observed": "2026-11-24T22:54:36+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=35",
+      "price": 57300000000,
+      "unitPrice": 409285714
+    },
+    {
+      "title": "هروی/۱۰۰متر/دوخواب/فول امکانات/تاپ لوکیشن",
+      "area": "حسین‌آباد",
+      "size": 100,
+      "link": "https://kilid.com/detail/3690633",
+      "observed": "2026-11-24T22:54:36+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=35",
+      "price": 46500000000,
+      "unitPrice": 465000000
+    },
+    {
+      "title": "۱۸۵متر/تاپ لوکیشن هروی/دو‌طرف نور/بدون مشابه",
+      "area": "حسین‌آباد",
+      "size": 185,
+      "link": "https://kilid.com/detail/3690638",
+      "observed": "2026-11-24T22:54:36+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=35",
+      "price": 94000000000,
+      "unitPrice": 508108108
+    },
+    {
+      "title": "139متری 3خواب  / هروی",
+      "area": "حسین‌آباد",
+      "size": 139,
+      "link": "https://kilid.com/detail/3690639",
+      "observed": "2026-11-24T22:54:39+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=36",
+      "price": 85540000000,
+      "unitPrice": 615395683
+    },
+    {
+      "title": "۱۸۰متر/بهترین فرعی هروی/غرق نور/فروشنده واقعی",
+      "area": "حسین‌آباد",
+      "size": 180,
+      "link": "https://kilid.com/detail/3690640",
+      "observed": "2026-11-24T22:54:39+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=36",
+      "price": 91000000000,
+      "unitPrice": 505555556
+    },
+    {
+      "title": "70متری/ 2 خواب /نور عالی",
+      "area": "حسین‌آباد",
+      "size": 73,
+      "link": "https://kilid.com/detail/3690641",
+      "observed": "2026-11-24T22:54:39+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=36",
+      "price": 35500000000,
+      "unitPrice": 486301370
+    },
+    {
+      "title": "۱۳۳ متر /سه خواب /غرق نور",
+      "area": "حسین‌آباد",
+      "size": 133,
+      "link": "https://kilid.com/detail/3690642",
+      "observed": "2026-11-24T22:54:39+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=36",
+      "price": 68000000000,
+      "unitPrice": 511278195
+    },
+    {
+      "title": "106متر/3خواب/هروی/فول بازسازی",
+      "area": "حسین‌آباد",
+      "size": 106,
+      "link": "https://kilid.com/detail/3690645",
+      "observed": "2026-11-24T22:54:39+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=36",
+      "price": 55000000000,
+      "unitPrice": 518867925
+    },
+    {
+      "title": "103متر 2خ هروی تاپ لوکیشن به قیمت",
+      "area": "حسین‌آباد",
+      "size": 103,
+      "link": "https://kilid.com/detail/3690646",
+      "observed": "2026-11-24T22:54:39+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=36",
+      "price": 62000000000,
+      "unitPrice": 601941748
+    },
+    {
+      "title": "۱۴۲ متر ۳ خواب هروی",
+      "area": "حسین‌آباد",
+      "size": 142,
+      "link": "https://kilid.com/detail/3690647",
+      "observed": "2026-11-24T22:54:39+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=36",
+      "price": 75400000000,
+      "unitPrice": 530985915
+    },
+    {
+      "title": "۱۱۰ متر دو خواب/ نور شمال و جنوب/ دو واحدی",
+      "area": "حسین‌آباد",
+      "size": 110,
+      "link": "https://kilid.com/detail/3690648",
+      "observed": "2026-11-24T22:54:39+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=36",
+      "price": 42000000000,
+      "unitPrice": 381818182
+    },
+    {
+      "title": "۱۶۰ متر ، تک واحدی ، نوساز ، بن‌بست دنج",
+      "area": "حسین‌آباد",
+      "size": 160,
+      "link": "https://kilid.com/detail/3690649",
+      "observed": "2026-11-24T22:54:39+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=36",
+      "price": 103000000000,
+      "unitPrice": 643750000
+    },
+    {
+      "title": "۴ خواب / پاسداران هروی / ۲۱۰ متـر/ تاپ لوکیشـن",
+      "area": "حسین‌آباد",
+      "size": 210,
+      "link": "https://kilid.com/detail/3690643",
+      "observed": "2026-11-24T22:54:39+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=36",
+      "price": 90000000000,
+      "unitPrice": 428571429
+    },
+    {
+      "title": "145متر3خواب/کلید نخورده/روبه افتاب(شمال هروی)",
+      "area": "حسین‌آباد",
+      "size": 145,
+      "link": "https://kilid.com/detail/3690636",
+      "observed": "2026-11-24T22:54:39+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=36",
+      "price": 61900000000,
+      "unitPrice": 426896552
+    },
+    {
+      "title": "آپارتمان 140 متر / 3 خواب / نوساز",
+      "area": "حسین‌آباد",
+      "size": 140,
+      "link": "https://kilid.com/detail/3690634",
+      "observed": "2026-11-24T22:54:39+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=36",
+      "price": 84000000000,
+      "unitPrice": 600000000
+    },
+    {
+      "title": "216 متر/2 پارکینگ/تاپ لوکیشن/کلید نخورده",
+      "area": "حسین‌آباد",
+      "size": 216,
+      "link": "https://kilid.com/detail/3690606",
+      "observed": "2026-11-24T22:54:39+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=36",
+      "price": 153000000000,
+      "unitPrice": 708333333
+    },
+    {
+      "title": "بنی فاطمه / ۱۶۵متر / فایل شخصی",
+      "area": "حسین‌آباد",
+      "size": 165,
+      "link": "https://kilid.com/detail/3690597",
+      "observed": "2026-11-24T22:54:39+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=36",
+      "price": 115500000000,
+      "unitPrice": 700000000
+    },
+    {
+      "title": "قلب هروی/۱۳۵ متر غرق نور/لوکس/انتخاب متفاوت",
+      "area": "حسین‌آباد",
+      "size": 135,
+      "link": "https://kilid.com/detail/3690596",
+      "observed": "2026-11-24T22:54:40+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=37",
+      "price": 78800000000,
+      "unitPrice": 583703704
+    },
+    {
+      "title": "معاوضه دو و سه خواب ما با چهار خواب شما",
+      "area": "حسین‌آباد",
+      "size": 300,
+      "link": "https://kilid.com/detail/3690595",
+      "observed": "2026-11-24T22:54:40+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=37",
+      "price": 200000000000,
+      "unitPrice": 666666667
+    },
+    {
+      "title": "هروی / ۸۵ متر / نوسازی شده / لوکیشن دنج",
+      "area": "حسین‌آباد",
+      "size": 85,
+      "link": "https://kilid.com/detail/3690592",
+      "observed": "2026-11-24T22:54:40+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=37",
+      "price": 42700000000,
+      "unitPrice": 502352941
+    },
+    {
+      "title": "تکواحدی / ۱۳۹متر / بدون مشابه",
+      "area": "حسین‌آباد",
+      "size": 139,
+      "link": "https://kilid.com/detail/3690587",
+      "observed": "2026-11-24T22:54:40+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=37",
+      "price": 86000000000,
+      "unitPrice": 618705036
+    },
+    {
+      "title": "۱۲۴متر۲خواب/نوساز/فول/هروی",
+      "area": "حسین‌آباد",
+      "size": 124,
+      "link": "https://kilid.com/detail/3690584",
+      "observed": "2026-11-24T22:54:40+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=37",
+      "price": 80600000000,
+      "unitPrice": 650000000
+    },
+    {
+      "title": "واحد 2خوابه/کلید نخورده/108متری شمال (هروی)",
+      "area": "حسین‌آباد",
+      "size": 108,
+      "link": "https://kilid.com/detail/3690578",
+      "observed": "2026-11-24T22:54:40+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=37",
+      "price": 67900000000,
+      "unitPrice": 628703704
+    },
+    {
+      "title": "تاپ لوکیشن / ۲۹۰متر / ۳پارکینگ",
+      "area": "حسین‌آباد",
+      "size": 290,
+      "link": "https://kilid.com/detail/3690574",
+      "observed": "2026-11-24T22:54:40+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=37",
+      "price": 199500000000,
+      "unitPrice": 687931034
+    },
+    {
+      "title": "130متر 3خواب/دوجهت نور /بسیارخوش نقشه(هروی)",
+      "area": "حسین‌آباد",
+      "size": 130,
+      "link": "https://kilid.com/detail/3690570",
+      "observed": "2026-11-24T22:54:40+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=37",
+      "price": 68000000000,
+      "unitPrice": 523076923
+    },
+    {
+      "title": "حسین آباد/نوساز/۱۳۵ متری ۳ خواب/ویودار بدون مشرف",
+      "area": "حسین‌آباد",
+      "size": 135,
+      "link": "https://kilid.com/detail/3690562",
+      "observed": "2026-11-24T22:54:40+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=37",
+      "price": 74000000000,
+      "unitPrice": 548148148
+    },
+    {
+      "title": "۸۵متر /هروی/تاپ لوکیشن",
+      "area": "حسین‌آباد",
+      "size": 85,
+      "link": "https://kilid.com/detail/3690561",
+      "observed": "2026-11-24T22:54:40+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=37",
+      "price": 42700000000,
+      "unitPrice": 502352941
+    },
+    {
+      "title": "هروی/88متر/2خوابه/نقشه دار لوکیشن دنج آرام",
+      "area": "حسین‌آباد",
+      "size": 88,
+      "link": "https://kilid.com/detail/3690191",
+      "observed": "2026-11-24T22:54:50+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=42",
+      "price": 46000000000,
+      "unitPrice": 522727273
+    },
+    {
+      "title": "هروی/۱۰۰ متر/دو خوابه/فول مشاعات/فول بازسازی",
+      "area": "حسین‌آباد",
+      "size": 100,
+      "link": "https://kilid.com/detail/3690189",
+      "observed": "2026-11-24T22:54:52+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=43",
+      "price": 55000000000,
+      "unitPrice": 550000000
+    },
+    {
+      "title": "هروی/۱۱۳ متر/۳ خواب/فول/ تکواحدی",
+      "area": "حسین‌آباد",
+      "size": 113,
+      "link": "https://kilid.com/detail/3690187",
+      "observed": "2026-11-24T22:54:52+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=43",
+      "price": 45000000000,
+      "unitPrice": 398230088
+    },
+    {
+      "title": "فروش ۱۰۰ متری/هروی/تاپ لوکیشن/زیر قیمت",
+      "area": "حسین‌آباد",
+      "size": 100,
+      "link": "https://kilid.com/detail/3690160",
+      "observed": "2026-11-24T22:54:52+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=43",
+      "price": 56000000000,
+      "unitPrice": 560000000
+    },
+    {
+      "title": "هروی/۱۰۶ متر/دوخواب/خوش نقشه/فول",
+      "area": "حسین‌آباد",
+      "size": 106,
+      "link": "https://kilid.com/detail/3690157",
+      "observed": "2026-11-24T22:54:52+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=43",
+      "price": 43800000000,
+      "unitPrice": 413207547
+    },
+    {
+      "title": "هروی/فروش۱۰۰متر/۲خواب/نوساز/فول امکانات",
+      "area": "حسین‌آباد",
+      "size": 100,
+      "link": "https://kilid.com/detail/3690126",
+      "observed": "2026-11-24T22:54:52+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=43",
+      "price": 53000000000,
+      "unitPrice": 530000000
+    },
+    {
+      "title": "دو جهت نور / 135 متر / دنج ترین لوکیشن",
+      "area": "حسین‌آباد",
+      "size": 135,
+      "link": "https://kilid.com/detail/3687993",
+      "observed": "2026-11-24T22:54:53+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=44",
+      "price": 63500000000,
+      "unitPrice": 470370370
+    },
+    {
+      "title": "حسین آباد / ۱۱۵ متر / ۳ خواب / فول بازسازی",
+      "area": "حسین‌آباد",
       "size": 115,
-      "observed": "2026-11-24T21:51:34+00:00",
-      "link": "https://kilid.com/detail/3692389",
+      "link": "https://kilid.com/detail/3687994",
+      "observed": "2026-11-24T22:54:53+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=44",
+      "price": 45500000000,
+      "unitPrice": 395652174
+    },
+    {
+      "title": "۱۲۵ متر / دو خواب مستر / هروی",
+      "area": "حسین‌آباد",
+      "size": 125,
+      "link": "https://kilid.com/detail/3687999",
+      "observed": "2026-11-24T22:54:53+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=44",
+      "price": 80800000000,
+      "unitPrice": 646400000
+    },
+    {
+      "title": "۱۰۰ متر/هروی/۲خواب/سالن پرده خور",
+      "area": "حسین‌آباد",
+      "size": 100,
+      "link": "https://kilid.com/detail/3688005",
+      "observed": "2026-11-24T22:54:53+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=44",
+      "price": 38500000000,
+      "unitPrice": 385000000
+    },
+    {
+      "title": "۱۸۰متر/دوپارکینگ/مجموعه با اصالت",
+      "area": "حسین‌آباد",
+      "size": 180,
+      "link": "https://kilid.com/detail/3689292",
+      "observed": "2026-11-24T22:54:53+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=44",
+      "price": 90000000000,
+      "unitPrice": 500000000
+    },
+    {
+      "title": "عقیلی/۲۴۰متر۴خ/۳پارکینگ سندی مناسب سرمایه گذاری",
+      "area": "حسین‌آباد",
+      "size": 240,
+      "link": "https://kilid.com/detail/3689312",
+      "observed": "2026-11-24T22:54:53+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=44",
+      "price": 121000000000,
+      "unitPrice": 504166667
+    },
+    {
+      "title": "بنی فاطمه /  ۸۵ متر / ۱۰ سال ساخت / زیر قیمت",
+      "area": "حسین‌آباد",
+      "size": 85,
+      "link": "https://kilid.com/detail/3689979",
+      "observed": "2026-11-24T22:55:07+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=49",
+      "price": 45400000000,
+      "unitPrice": 534117647
+    },
+    {
+      "title": "۱۲۰متر پاسداران ۳خواب غرق نور بالکن کاربردی",
+      "area": "حسین‌آباد",
+      "size": 120,
+      "link": "https://kilid.com/detail/3689403",
+      "observed": "2026-11-24T22:55:30+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=60",
+      "price": 52500000000,
+      "unitPrice": 437500000
+    },
+    {
+      "title": "هروی/115متری سه خواب/تکواحدی نورجنوب سرمایه گذاری",
+      "area": "حسین‌آباد",
+      "size": 115,
+      "link": "https://kilid.com/detail/3689287",
+      "observed": "2026-11-24T22:55:33+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=61",
+      "price": 45000000000,
+      "unitPrice": 391304348
+    },
+    {
+      "title": "ریحانی شمال/140متر/3خ/نوساز",
+      "area": "حسین‌آباد",
+      "size": 140,
+      "link": "https://kilid.com/detail/3689290",
+      "observed": "2026-11-24T22:55:33+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=61",
+      "price": 86000000000,
+      "unitPrice": 614285714
+    },
+    {
+      "title": "هروی/ 92 متر 2 خواب/ نوساز/ خوش قیمت",
+      "area": "حسین‌آباد",
+      "size": 92,
+      "link": "https://kilid.com/detail/3689291",
+      "observed": "2026-11-24T22:55:33+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=61",
+      "price": 36000000000,
+      "unitPrice": 391304348
+    },
+    {
+      "title": "۶۶متر/هروی/ به قیمت رسیده",
+      "area": "حسین‌آباد",
+      "size": 66,
+      "link": "https://kilid.com/detail/3689293",
+      "observed": "2026-11-24T22:55:33+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=61",
+      "price": 24250000000,
+      "unitPrice": 367424242
+    },
+    {
+      "title": "ضابطی / ۱۱۳ متر / ۳ خواب / تک واحدی",
+      "area": "حسین‌آباد",
+      "size": 113,
+      "link": "https://kilid.com/detail/3689294",
+      "observed": "2026-11-24T22:55:33+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=61",
+      "price": 45000000000,
+      "unitPrice": 398230088
+    },
+    {
+      "title": "هروی/۱۳۵متر/فول مشاعات به جز آبی/ویو ابدی MSM",
+      "area": "حسین‌آباد",
+      "size": 135,
+      "link": "https://kilid.com/detail/3689296",
+      "observed": "2026-11-24T22:55:33+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=61",
+      "price": 75600000000,
+      "unitPrice": 560000000
+    },
+    {
+      "title": "115متر لاکچری *کم واحد* شخصی",
+      "area": "حسین‌آباد",
+      "size": 115,
+      "link": "https://kilid.com/detail/3689297",
+      "observed": "2026-11-24T22:55:36+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=62",
+      "price": 63000000000,
+      "unitPrice": 547826087
+    },
+    {
+      "title": "هروی/ 114 متر 3 خواب/ رو به آفتاب/تک واحدی",
+      "area": "حسین‌آباد",
+      "size": 114,
+      "link": "https://kilid.com/detail/3689298",
+      "observed": "2026-11-24T22:55:36+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=62",
+      "price": 44900000000,
+      "unitPrice": 393859649
+    },
+    {
+      "title": "ساقدوش/90 متر 2 خواب/دسترسی پیاده به مترو",
+      "area": "حسین‌آباد",
+      "size": 90,
+      "link": "https://kilid.com/detail/3689299",
+      "observed": "2026-11-24T22:55:36+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=62",
+      "price": 39000000000,
+      "unitPrice": 433333333
+    },
+    {
+      "title": "پاسداران بنی فاطمه/ ۱۴۰ متر ۳ خواب/ نوساز",
+      "area": "حسین‌آباد",
+      "size": 140,
+      "link": "https://kilid.com/detail/3689300",
+      "observed": "2026-11-24T22:55:36+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=62",
+      "price": 94500000000,
+      "unitPrice": 675000000
+    },
+    {
+      "title": "۸۵ متر / کلید نخورده / لوکس",
+      "area": "حسین‌آباد",
+      "size": 85,
+      "link": "https://kilid.com/detail/3689302",
+      "observed": "2026-11-24T22:55:36+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=62",
+      "price": 43500000000,
+      "unitPrice": 511764706
+    },
+    {
+      "title": "هروی / ۱۰۲متر ۲ خواب / کلید نخورده",
+      "area": "حسین‌آباد",
+      "size": 102,
+      "link": "https://kilid.com/detail/3689304",
+      "observed": "2026-11-24T22:55:36+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=62",
+      "price": 56000000000,
+      "unitPrice": 549019608
+    },
+    {
+      "title": "هروی / ۱۳۵ متر ۳ خواب / کلید نخورده / کم واحد",
+      "area": "حسین‌آباد",
+      "size": 135,
+      "link": "https://kilid.com/detail/3689306",
+      "observed": "2026-11-24T22:55:36+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=62",
+      "price": 81000000000,
+      "unitPrice": 600000000
+    },
+    {
+      "title": "عقیلی / ۱۶۰ متر ۳ خواب / فایل کاملا شخصی",
+      "area": "حسین‌آباد",
+      "size": 160,
+      "link": "https://kilid.com/detail/3689311",
+      "observed": "2026-11-24T22:55:36+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=62",
+      "price": 72500000000,
+      "unitPrice": 453125000
+    },
+    {
+      "title": "وفامنش/۱۸۰متر۳خ/فرعی مشجر",
+      "area": "حسین‌آباد",
+      "size": 180,
+      "link": "https://kilid.com/detail/3689313",
+      "observed": "2026-11-24T22:55:36+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=62",
+      "price": 93000000000,
+      "unitPrice": 516666667
+    },
+    {
+      "title": "خوش نقشه / 130 متر / ویو بی نظیر شهر",
+      "area": "حسین‌آباد",
+      "size": 130,
+      "link": "https://kilid.com/detail/3689315",
+      "observed": "2026-11-24T22:55:36+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=62",
+      "price": 68000000000,
+      "unitPrice": 523076923
+    },
+    {
+      "title": "هروی ، ۱۲۰ متر ، شخصی ساز ، تاپ لوکیشن",
+      "area": "حسین‌آباد",
+      "size": 120,
+      "link": "https://kilid.com/detail/3689316",
+      "observed": "2026-11-24T22:55:36+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=62",
+      "price": 58000000000,
+      "unitPrice": 483333333
+    },
+    {
+      "title": "هروی ، ۲۱۰ متر ، تاپ لوکیشن ، نوساز کلید نخورده",
+      "area": "حسین‌آباد",
+      "size": 210,
+      "link": "https://kilid.com/detail/3689321",
+      "observed": "2026-11-24T22:55:36+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=62",
+      "price": 127000000000,
+      "unitPrice": 604761905
+    },
+    {
+      "title": "۱۳۷ متر/ نوساز / تک واحدی کلید نخورده",
+      "area": "حسین‌آباد",
+      "size": 137,
+      "link": "https://kilid.com/detail/3689322",
+      "observed": "2026-11-24T22:55:36+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=62",
+      "price": 78000000000,
+      "unitPrice": 569343066
+    },
+    {
+      "title": "تاپ لوکیشن هروی / ۲۰۰ متر ۴ خواب / فول مشاعات",
+      "area": "حسین‌آباد",
+      "size": 200,
+      "link": "https://kilid.com/detail/3689323",
+      "observed": "2026-11-24T22:55:36+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=62",
+      "price": 135000000000,
+      "unitPrice": 675000000
+    },
+    {
+      "title": "هروی ۱۳۵ متر/مشاعات هتلینگ/فستیوال نور",
+      "area": "حسین‌آباد",
+      "size": 135,
+      "link": "https://kilid.com/detail/3689326",
+      "observed": "2026-11-24T22:55:38+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=63",
+      "price": 75400000000,
+      "unitPrice": 558518519
+    },
+    {
+      "title": "۱۳۳ متر/هروی/فول مشاعات/برترین در منطقه",
+      "area": "حسین‌آباد",
+      "size": 133,
+      "link": "https://kilid.com/detail/3689327",
+      "observed": "2026-11-24T22:55:38+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=63",
+      "price": 75500000000,
+      "unitPrice": 567669173
+    },
+    {
+      "title": "۹۵ متر /فرعی دنج هروی/خوش نقشه/نور خوب",
+      "area": "حسین‌آباد",
+      "size": 95,
+      "link": "https://kilid.com/detail/3689329",
+      "observed": "2026-11-24T22:55:38+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=63",
+      "price": 43000000000,
+      "unitPrice": 452631579
+    },
+    {
+      "title": "نور جنوب/۱۸۰متر ۳خواب/۲ پارکینگ",
+      "area": "حسین‌آباد",
+      "size": 180,
+      "link": "https://kilid.com/detail/3689330",
+      "observed": "2026-11-24T22:55:38+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=63",
+      "price": 99500000000,
+      "unitPrice": 552777778
+    },
+    {
+      "title": "هروی/140متر/3خواب/بدون مشرف",
+      "area": "حسین‌آباد",
+      "size": 140,
+      "link": "https://kilid.com/detail/3689332",
+      "observed": "2026-11-24T22:55:38+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=63",
+      "price": 80000000000,
+      "unitPrice": 571428571
+    },
+    {
+      "title": "هروی /100متر/2خ/فول",
+      "area": "حسین‌آباد",
+      "size": 100,
+      "link": "https://kilid.com/detail/3689334",
+      "observed": "2026-11-24T22:55:38+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=63",
+      "price": 55000000000,
+      "unitPrice": 550000000
+    },
+    {
+      "title": "ضابطی/ ۶۷ متر ۱ خواب/ فول امکانات/ سالن پرده خور",
+      "area": "حسین‌آباد",
+      "size": 67,
+      "link": "https://kilid.com/detail/3689336",
+      "observed": "2026-11-24T22:55:38+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=63",
+      "price": 24500000000,
+      "unitPrice": 365671642
+    },
+    {
+      "title": "هروی/مجتمع مسکونی فارابی/ ۱۵۵ متر/مشاعات کامل",
+      "area": "حسین‌آباد",
+      "size": 155,
+      "link": "https://kilid.com/detail/3689339",
+      "observed": "2026-11-24T22:55:38+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=63",
+      "price": 52000000000,
+      "unitPrice": 335483871
+    },
+    {
+      "title": "هروی/250متری سه خواب/نوساز 4پارکینگ مدرن",
+      "area": "حسین‌آباد",
+      "size": 250,
+      "link": "https://kilid.com/detail/3689341",
+      "observed": "2026-11-24T22:55:38+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=63",
+      "price": 129000000000,
+      "unitPrice": 516000000
+    },
+    {
+      "title": "هروی/۹۵متری دو خواب/کم واحد سرمایه گذاری",
+      "area": "حسین‌آباد",
+      "size": 95,
+      "link": "https://kilid.com/detail/3689342",
+      "observed": "2026-11-24T22:55:38+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=63",
+      "price": 41000000000,
+      "unitPrice": 431578947
+    },
+    {
+      "title": "۲۲۰ متر /خاص پسند / نوساز",
+      "area": "حسین‌آباد",
+      "size": 220,
+      "link": "https://kilid.com/detail/3689343",
+      "observed": "2026-11-24T22:55:38+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=63",
+      "price": 143000000000,
+      "unitPrice": 650000000
+    },
+    {
+      "title": "هروی / ۱۴۰ متر ۳ خواب / برترین پروژه نوساز منطقه",
+      "area": "حسین‌آباد",
+      "size": 140,
+      "link": "https://kilid.com/detail/3689344",
+      "observed": "2026-11-24T22:55:38+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=63",
+      "price": 95000000000,
+      "unitPrice": 678571429
+    },
+    {
+      "title": "هروی/۱۳۸ متر/سه خواب/فول امکانات",
+      "area": "حسین‌آباد",
+      "size": 138,
+      "link": "https://kilid.com/detail/3689347",
+      "observed": "2026-11-24T22:55:38+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=63",
+      "price": 68000000000,
+      "unitPrice": 492753623
+    },
+    {
+      "title": "هروی/۱۳۵ متر/سه خواب/فول مشاعات",
+      "area": "حسین‌آباد",
+      "size": 135,
+      "link": "https://kilid.com/detail/3689349",
+      "observed": "2026-11-24T22:55:38+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=63",
+      "price": 75500000000,
+      "unitPrice": 559259259
+    },
+    {
+      "title": "هروی/ ۱۶۰ متر/ ۲پارکینگ/پلان مهندسی",
+      "area": "حسین‌آباد",
+      "size": 160,
+      "link": "https://kilid.com/detail/3689354",
+      "observed": "2026-11-24T22:55:41+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=64",
+      "price": 80000000000,
+      "unitPrice": 500000000
+    },
+    {
+      "title": "175متری  تک واحدی / بازسازی شده / هروی",
+      "area": "حسین‌آباد",
+      "size": 175,
+      "link": "https://kilid.com/detail/3689355",
+      "observed": "2026-11-24T22:55:41+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=64",
+      "price": 93000000000,
+      "unitPrice": 531428571
+    },
+    {
+      "title": "هروی/۱۰۰متر/تاپ لوکیشن/فول امکانات",
+      "area": "حسین‌آباد",
+      "size": 100,
+      "link": "https://kilid.com/detail/3689356",
+      "observed": "2026-11-24T22:55:41+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=64",
+      "price": 47000000000,
+      "unitPrice": 470000000
+    },
+    {
+      "title": "هروی / ۱۳۸ متر ۳ خواب / فول مشاعات کلید نخورده",
+      "area": "حسین‌آباد",
+      "size": 138,
+      "link": "https://kilid.com/detail/3689357",
+      "observed": "2026-11-24T22:55:41+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=64",
+      "price": 75600000000,
+      "unitPrice": 547826087
+    },
+    {
+      "title": "پاسداران/گیلان/115متر/فول/فروشنده واقعی",
+      "area": "حسین‌آباد",
+      "size": 115,
+      "link": "https://kilid.com/detail/3688906",
+      "observed": "2026-11-24T22:55:56+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=71",
       "price": 53000000000,
       "unitPrice": 460869565
     },
     {
-      "title": "ولنجک ۲۴۵ متر ۵ساله ویو ابدی",
-      "area": "ولنجک",
-      "size": 245,
-      "observed": "2026-11-24T21:51:34+00:00",
-      "link": "https://kilid.com/detail/3692387",
-      "price": 145000000000,
-      "unitPrice": 591836735
+      "title": "هروی/۱۳۸متر/3خواب 1خواب مستر/امکانات کامل",
+      "area": "حسین‌آباد",
+      "size": 138,
+      "link": "https://kilid.com/detail/3688900",
+      "observed": "2026-11-24T22:55:56+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=71",
+      "price": 86000000000,
+      "unitPrice": 623188406
     },
     {
-      "title": "آپارتمان فرمانیه شرقی ۱۸۰ متر تراس قابل چیدمان",
-      "area": "حصار بوعلی",
-      "size": 180,
-      "observed": "2026-11-24T21:51:34+00:00",
-      "link": "https://kilid.com/detail/3685110",
-      "price": 135000000000,
-      "unitPrice": 750000000
-    },
-    {
-      "title": "۱۴۰متر.۳خواب.ولنجک سند شخصی",
-      "area": "ولنجک",
-      "size": 140,
-      "observed": "2026-11-24T21:51:34+00:00",
-      "link": "https://kilid.com/detail/3692386",
-      "price": 135000000000,
-      "unitPrice": 964285714
-    },
-    {
-      "title": "220متر زعفرانیه (نیاززاده)",
-      "area": "زعفرانیه",
-      "size": 220,
-      "observed": "2026-11-24T21:51:34+00:00",
-      "link": "https://kilid.com/detail/3692385",
-      "price": 390000000000,
-      "unitPrice": 1772727273
+      "title": "فروش آپارتمان ۲ خوابه در تهران - حسین‌آباد",
+      "area": "حسین‌آباد",
+      "size": 100,
+      "link": "https://kilid.com/detail/3688671",
+      "observed": "2026-11-24T22:56:05+00:00",
+      "searchUrl": "https://kilid.com/buy-apartment/tehran?page=75",
+      "price": 55000000000,
+      "unitPrice": 550000000
     }
   ],
   "groups": [
     {
-      "name": "سازمان برنامه",
-      "text": "تعداد 1، کمینه ۴۶۰٬۸۶۹٬۵۶۵، میانه ۴۶۰٬۸۶۹٬۵۶۵، بیشینه ۴۶۰٬۸۶۹٬۵۶۵ تومان در متر"
-    },
-    {
-      "name": "ولنجک",
-      "text": "تعداد 2، کمینه ۵۹۱٬۸۳۶٬۷۳۵، میانه ۷۷۸٬۰۶۱٬۲۲۴٫۵، بیشینه ۹۶۴٬۲۸۵٬۷۱۴ تومان در متر"
-    },
-    {
-      "name": "حصار بوعلی",
-      "text": "تعداد 1، کمینه ۷۵۰٬۰۰۰٬۰۰۰، میانه ۷۵۰٬۰۰۰٬۰۰۰، بیشینه ۷۵۰٬۰۰۰٬۰۰۰ تومان در متر"
-    },
-    {
-      "name": "زعفرانیه",
-      "text": "تعداد 1، کمینه ۱٬۷۷۲٬۷۲۷٬۲۷۳، میانه ۱٬۷۷۲٬۷۲۷٬۲۷۳، بیشینه ۱٬۷۷۲٬۷۲۷٬۲۷۳ تومان در متر"
+      "name": "حسین‌آباد",
+      "text": "تعداد ۱۴۱، کمینه ۵۸٬۸۲۳٬۵۲۹، میانه ۵۲۷٬۷۷۷٬۷۷۸، بیشینه ۷۳۹٬۵۳۴٬۸۸۴ تومان در متر"
     }
   ],
   "note": ""

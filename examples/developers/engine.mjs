@@ -1,12 +1,12 @@
 // A shared, deterministic view model for the CLI, static HTML and browser demo.
 export const labels = {
- premium:'اختلاف با کمترین (تومان)',engagement:'تعامل',record:'شاهد انتشار',
+ subcategory:'زیردسته',departure:'زمان پرواز',flightNo:'شمارهٔ پرواز',premium:'اختلاف با کمترین (تومان)',engagement:'تعامل',record:'شاهد انتشار',
  product:'کالا',seller:'فروشنده',date:'تاریخ',price:'قیمت (تومان)',stock:'وضعیت موجودی',url:'نشانی کالا',amount:'مقدار',currency:'واحد',attributes:'ویژگی‌ها',
  topic:'موضوع',story:'گروه پوشش',summary:'خلاصه',source:'منبع',published:'زمان انتشار',observed:'زمان مشاهده',link:'پیوند منبع',original:'قیمت اصلی (تومان)',discounted:'قیمت نهایی (تومان)',percent:'تخفیف (درصد)',
  category:'دسته',brand:'برند',rating:'امتیاز',city:'شهر',count:'تعداد',sellers:'تعداد فروشنده',floorPrice:'کمترین قیمت (تومان)',title:'عنوان',model:'مدل',year:'سال ساخت',km:'کارکرد (کیلومتر)',market:'بازار (تومان)',dealerPrice:'نمایندگی (تومان)',dealer:'نمایشگاه',id:'شناسه',area:'محله',size:'متراژ',deposit:'ودیعه (تومان)',rent:'اجارهٔ ماهانه (تومان)',unitPrice:'قیمت هر متر (تومان)',role:'نقش شغلی',work:'شیوهٔ همکاری',skills:'مهارت‌ها',skill:'مهارت',item:'قلم',time:'زمان مشاهده',route:'مسیر',travelDate:'تاریخ سفر',cabin:'کلاس',airline:'ایرلاین',hotel:'هتل',stars:'ستاره',window:'بازهٔ جست‌وجو',night:'قیمت اقامت (تومان)',amenities:'امکانات',stay:'اقامتگاه',status:'وضعیت',name:'نام',lat:'عرض جغرافیایی',lon:'طول جغرافیایی',match:'نتیجهٔ تطبیق',format:'قالب',views:'بازدید',likes:'پسند',comments:'نظر',question:'پرسش',answer:'پاسخ پیشنهادی',channel:'کانال',week:'هفته از',before:'قیمت پیشین (تومان)',after:'قیمت جدید (تومان)',from:'از تاریخ',to:'تا تاریخ',base:'تصویر اولیه',next:'تصویر مقایسه',evidence:'شواهد',min:'کمینه',median:'میانه',max:'بیشینه',total:'اندازهٔ نمونه',group:'گروه',branch:'شاخه',change:'تغییر',dates:'تأیید تاریخ'
 };
 export const unique = values => [...new Set(values.filter(v=>v!=null))];
-const parents={'pick:seller':['product'],'one:seller':['product'],'one:travelDate':['route'],'one:category':['branch']};
+const parents={'pick:product':['category'],'pick:source':['item'],'pick:seller':['product'],'one:seller':['product'],'one:travelDate':['route'],'one:category':['branch']};
 export function choices(p,data,control,state={}){
  const scoped=(parents[control] || ((control==='base:date'||control==='next:date')?(p.tree?['branch','category']:['dealer']):[]));
  const candidates=data.rows.filter(r=>scoped.every(k=>!state['one:'+k]||r[k]===state['one:'+k]));
@@ -21,6 +21,14 @@ export function initial(p,data) {
  for(const c of p.controls){
   const [mode]=c.split(':'), vals=choices(p,data,c,state);
   state[c]=mode==='columns'||mode==='multi'?vals:mode==='base'||mode==='one'||mode==='sort'?vals[0]:mode==='next'?vals.at(-1):'';
+ }
+ if(p.kind==='distribution'||p.slug==='neighborhood-rent'){
+  const counts=new Map();
+  for(const row of data.rows)counts.set(row.area,(counts.get(row.area)||0)+1);
+  state['pick:area']=[...counts].sort((a,b)=>b[1]-a[1])[0]?.[0]||'';
+ }
+ if(p.kind==='digest'){
+  for(const c of ['pick:date','pick:week'])if(p.controls.includes(c))state[c]=choices(p,data,c,state).sort().at(-1)||'';
  }
  return state;
 }
@@ -101,12 +109,18 @@ export function view(p,data,state){
   if(a>=b){rows=[];note='تاریخ مقایسه باید بعد از تاریخ اولیه باشد.';}
  }
  if(p.kind==='distribution'){
-  rows=rows.map(r=>({...r,unitPrice:r.size>0&&r.price!=null?Math.round(r.price/r.size):null}));
+  const listings=new Map();
+  for(const row of rows){
+   const prior=listings.get(row.link);
+   if(!prior||prior.observed<row.observed)listings.set(row.link,row);
+  }
+  rows=[...listings.values()].map(r=>({...r,unitPrice:Number.isFinite(r.size)&&r.size>0&&Number.isFinite(r.price)&&r.price>0?Math.round(r.price/r.size):null}));
   columns.push('unitPrice');
   groups=unique(rows.map(r=>r.area)).map(name=>{
    const v=rows.filter(r=>r.area===name&&r.unitPrice!=null).map(r=>r.unitPrice).sort((a,b)=>a-b);
    const n=v.length,m=Math.floor(n/2);
-   return {name,text:n?'تعداد '+n+'، کمینه '+v[0].toLocaleString('fa')+'، میانه '+((v[m]+v[Math.floor((n-1)/2)])/2).toLocaleString('fa')+'، بیشینه '+v[n-1].toLocaleString('fa')+' تومان در متر':'ردیف قابل محاسبه ندارد.'};
+   if(n<25)return {name,text:n.toLocaleString('fa')+' آگهی با قیمت و متراژ معتبر؛ برای نمایش توزیع این محله حداقل ۲۵ آگهی لازم است.'};
+   return {name,text:n?'تعداد '+n.toLocaleString('fa')+'، کمینه '+v[0].toLocaleString('fa')+'، میانه '+((v[m]+v[Math.floor((n-1)/2)])/2).toLocaleString('fa')+'، بیشینه '+v[n-1].toLocaleString('fa')+' تومان در متر':'ردیف قابل محاسبه ندارد.'};
   });
  }
  if(p.kind==='skills'){
@@ -115,7 +129,7 @@ export function view(p,data,state){
   columns=['skill','count','total','evidence'];
  }
  if(p.kind==='digest'){
-  groups=unique(rows.map(r=>r.story)).map(name=>({name,text:rows.filter(r=>r.story===name).map(r=>r.summary).join(' ')}));
+  groups=unique(rows.map(r=>r.story)).map(name=>({name,text:rows.filter(r=>r.story===name).length.toLocaleString('fa')+' انتشار در انتخاب فعلی'}));
  }
  if(p.kind==='match'){
   const nameKey=r=>r.name.normalize('NFKC').replace(/[يى]/g,'ی').replace(/ك/g,'ک').replace(/[‌\s]+/g,' ').trim().replace(/^کافی شاپ /,'کافه ')+'|'+r.area+'|'+r.category;

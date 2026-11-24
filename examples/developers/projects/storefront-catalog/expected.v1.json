@@ -11,36 +11,6 @@
   ],
   "rows": [
     {
-      "product": "عینک آفتابی ریبن 3931 طلایی Rayban - ceecee",
-      "url": "https://ceecee.ir/product/%D8%B9%DB%8C%D9%86%DA%A9-%D8%A2%D9%81%D8%AA%D8%A7%D8%A8%DB%8C-%D8%B1%DB%8C%D8%A8%D9%86-28755-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-rayban-2/",
-      "amount": 79000000,
-      "currency": "IRR",
-      "stock": "InStock",
-      "attributes": "برند ریبن/Rayban، جنس-فریم فلزی (تیتانیوم)، رنگ-عدسی مشکی، رنگ-فریم طلایی، سایز کوچک (S)، محافظت یووی400",
-      "link": "https://ceecee.ir/product/%D8%B9%DB%8C%D9%86%DA%A9-%D8%A2%D9%81%D8%AA%D8%A7%D8%A8%DB%8C-%D8%B1%DB%8C%D8%A8%D9%86-28755-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-rayban-2/",
-      "observed": "2026-11-15T06:04:18+00:00"
-    },
-    {
-      "product": "سرخ کن کریسپی نینجا Ninja Crispi Pro XL - آلپوشاپ",
-      "url": "https://alposhop.ir/product/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%DA%A9%D8%B1%DB%8C%D8%B3%D9%BE%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-ninja-crispi-pro-xl/",
-      "amount": 980000000,
-      "currency": "IRR",
-      "stock": "InStock",
-      "attributes": "برند ninja، مدل Crispi Pro XL، تعداد-برنامه 7 برنامه Air Fry (سرخ‌ کردن با هوای داغ) Max Crisp ( حداکثری تردی) Bake (پخت) Prove (عمل‌آوری و تخمیر خمیر) roast ( کبابی کردن ) dehydrate ( خشک کردن میوه ) Re-crisp (ترد کردن مجدد)، توان-دستگاه 1800وات، حجم-مخزن-غذا مناسب برای 6 نفر، دمای-قابل-تنظیم بله",
-      "link": "https://alposhop.ir/product/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%DA%A9%D8%B1%DB%8C%D8%B3%D9%BE%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-ninja-crispi-pro-xl/",
-      "observed": "2026-11-11T19:42:42+00:00"
-    },
-    {
-      "product": "گردنبند گوی ابری",
-      "url": "https://loolooshop.ir/product/Category-Neckless-bb936",
-      "amount": 500000,
-      "currency": "IRR",
-      "stock": null,
-      "attributes": "رنگ نارنجی",
-      "link": "https://loolooshop.ir/product/Category-Neckless-bb936",
-      "observed": "2026-11-12T09:49:26+00:00"
-    },
-    {
       "product": "مودم روتر دی-لینک مدل DSL-124 New Version 2022 - مرکز اینترنت پارسیان",
       "url": "https://parsian-nc.ir/product/%D9%85%D9%88%D8%AF%D9%85-%D8%B1%D9%88%D8%AA%D8%B1-%D8%AF%DB%8C-%D9%84%DB%8C%D9%86%DA%A9-%D9%85%D8%AF%D9%84-dsl-124-new-version-2022/",
       "amount": 23000000,
@@ -69,6 +39,486 @@
       "attributes": null,
       "link": "https://www.khakandazz.ir/product/%DA%A9%DB%8C%D8%B3%D9%87-%D8%AC%D8%A7%D8%B1%D9%88%D8%A8%D8%B1%D9%82%DB%8C-%D8%B9%D8%B1%D8%B4%DB%8C%D8%A7/",
       "observed": "2026-11-11T18:41:29+00:00"
+    },
+    {
+      "product": "چراغ باغی خورشیدی مدل گل شب تاب",
+      "url": "https://khalij-shop.ir/product/%DA%86%D8%B1%D8%A7%D8%BA-%D8%A8%D8%A7%D8%BA%DA%86%D9%87-%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF%DB%8C/",
+      "amount": 7800000,
+      "currency": "IRR",
+      "stock": null,
+      "attributes": null,
+      "link": "https://khalij-shop.ir/product/%DA%86%D8%B1%D8%A7%D8%BA-%D8%A8%D8%A7%D8%BA%DA%86%D9%87-%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF%DB%8C/",
+      "observed": "2026-11-10T18:50:04+00:00"
+    },
+    {
+      "product": "PIN HEADER MILITARY 2*40 2.54MM MALE S.T",
+      "url": "https://khalijconnector.ir/product/pin_header_military_240__2-54mm__male__s-t/",
+      "amount": 340000,
+      "currency": "IRT",
+      "stock": "InStock",
+      "attributes": null,
+      "link": "https://khalijconnector.ir/product/pin_header_military_240__2-54mm__male__s-t/",
+      "observed": "2026-11-08T20:34:46+00:00"
+    },
+    {
+      "product": "ترجمه فصل سوم و چهارم کتاب مدیریت ریسک و امنیت اطلاعات",
+      "url": "https://khan.ir/product/%D8%AA%D8%B1%D8%AC%D9%85%D9%87-%D9%81%D8%B5%D9%84-%D8%B3%D9%88%D9%85-%DA%86%D9%87%D8%A7%D8%B1%D9%85-%DA%A9%D8%AA%D8%A7%D8%A8-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D8%B1%DB%8C%D8%B3%DA%A9/",
+      "amount": 59000,
+      "currency": "IRT",
+      "stock": "InStock",
+      "attributes": null,
+      "link": "https://khan.ir/product/%D8%AA%D8%B1%D8%AC%D9%85%D9%87-%D9%81%D8%B5%D9%84-%D8%B3%D9%88%D9%85-%DA%86%D9%87%D8%A7%D8%B1%D9%85-%DA%A9%D8%AA%D8%A7%D8%A8-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D8%B1%DB%8C%D8%B3%DA%A9/",
+      "observed": "2026-11-16T22:48:55+00:00"
+    },
+    {
+      "product": "وابستگی درهم‌تنیده تجارت خارجی ایران به امارات؛ چالش‌ها و نقشه راه برون‌رفت - (خوان)",
+      "url": "https://khancenter.ir/product/%D9%88%D8%A7%D8%A8%D8%B3%D8%AA%DA%AF%DB%8C-%D8%AF%D8%B1%D9%87%D9%85%D8%AA%D9%86%DB%8C%D8%AF%D9%87-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86/",
+      "amount": 5890000,
+      "currency": "IRR",
+      "stock": "InStock",
+      "attributes": null,
+      "link": "https://khancenter.ir/product/%D9%88%D8%A7%D8%A8%D8%B3%D8%AA%DA%AF%DB%8C-%D8%AF%D8%B1%D9%87%D9%85%D8%AA%D9%86%DB%8C%D8%AF%D9%87-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86/",
+      "observed": "2026-11-16T13:02:39+00:00"
+    },
+    {
+      "product": "کوله پشتی اسپرت آیمکس مدل MAX081",
+      "url": "https://buykif.ir/product/imax-max081/",
+      "amount": 4200000,
+      "currency": "IRR",
+      "stock": "OutOfStock",
+      "attributes": null,
+      "link": "https://buykif.ir/product/imax-max081/",
+      "observed": "2026-11-11T09:13:55+00:00"
+    },
+    {
+      "product": "پاوربانک وابی مدل P10 ظرفیت 10000mAh",
+      "url": "https://buyol.ir/product/power-bank-vabi-10000mah-p10",
+      "amount": 8600000,
+      "currency": "IRR",
+      "stock": "OutOfStock",
+      "attributes": null,
+      "link": "https://buyol.ir/product/power-bank-vabi-10000mah-p10",
+      "observed": "2026-11-19T05:28:18+00:00"
+    },
+    {
+      "product": "عینک آفتابی ریبن 3931 طلایی Rayban - ceecee",
+      "url": "https://ceecee.ir/product/%D8%B9%DB%8C%D9%86%DA%A9-%D8%A2%D9%81%D8%AA%D8%A7%D8%A8%DB%8C-%D8%B1%DB%8C%D8%A8%D9%86-28755-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-rayban-2/",
+      "amount": 79000000,
+      "currency": "IRR",
+      "stock": "InStock",
+      "attributes": "برند ریبن/Rayban، جنس-فریم فلزی (تیتانیوم)، رنگ-عدسی مشکی، رنگ-فریم طلایی، سایز کوچک (S)، محافظت یووی400",
+      "link": "https://ceecee.ir/product/%D8%B9%DB%8C%D9%86%DA%A9-%D8%A2%D9%81%D8%AA%D8%A7%D8%A8%DB%8C-%D8%B1%DB%8C%D8%A8%D9%86-28755-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-rayban-2/",
+      "observed": "2026-11-15T06:04:18+00:00"
+    },
+    {
+      "product": "خرید هودی بچگانه کد 4443 | فروشگاه اینترنتی سله بن",
+      "url": "https://www.celebon.ir/product/kids-hoodie-4443/",
+      "amount": 20280000,
+      "currency": "IRR",
+      "stock": "OutOfStock",
+      "attributes": null,
+      "link": "https://www.celebon.ir/product/kids-hoodie-4443/",
+      "observed": "2026-11-15T22:00:38+00:00"
+    },
+    {
+      "product": "رژلب نیمه مات شون - m11",
+      "url": "https://celineshops.ir/product/schon-velvet-semi-matt-lipstick/",
+      "amount": 3940000,
+      "currency": "IRR",
+      "stock": null,
+      "attributes": null,
+      "link": "https://celineshops.ir/product/schon-velvet-semi-matt-lipstick/",
+      "observed": "2026-11-07T10:59:49+00:00"
+    },
+    {
+      "product": "0912-1988968",
+      "url": "https://cell360.ir/product/0912-1988968/",
+      "amount": 729000000,
+      "currency": "IRT",
+      "stock": null,
+      "attributes": null,
+      "link": "https://cell360.ir/product/0912-1988968/",
+      "observed": "2026-11-08T14:55:46+00:00"
+    },
+    {
+      "product": "مانیتور خمیده گیمینگ 32 اینچ ال جی مدل 32GS60QC-B",
+      "url": "https://www.centercomputer.ir/product/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D8%AE%D9%85%DB%8C%D8%AF%D9%87-%DA%AF%DB%8C%D9%85%DB%8C%D9%86%DA%AF-32-%D8%A7%DB%8C%D9%86%DA%86-%D8%A7%D9%84-%D8%AC%DB%8C-%D9%85%D8%AF%D9%84-32gs60qc-b/",
+      "amount": 5266348060000,
+      "currency": "IRR",
+      "stock": "OutOfStock",
+      "attributes": null,
+      "link": "https://www.centercomputer.ir/product/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-%D8%AE%D9%85%DB%8C%D8%AF%D9%87-%DA%AF%DB%8C%D9%85%DB%8C%D9%86%DA%AF-32-%D8%A7%DB%8C%D9%86%DA%86-%D8%A7%D9%84-%D8%AC%DB%8C-%D9%85%D8%AF%D9%84-32gs60qc-b/",
+      "observed": "2026-11-12T13:32:04+00:00"
+    },
+    {
+      "product": "پکیج آبرسان پوست حساس و خیلی خشک - چرا دی کوپرا",
+      "url": "https://www.ceradicupra.ir/product/%D9%BE%DA%A9%DB%8C%D8%AC-%D8%A2%D8%A8%D8%B1%D8%B3%D8%A7%D9%86-%D9%BE%D9%88%D8%B3%D8%AA-%D8%AD%D8%B3%D8%A7%D8%B3-%D9%88-%D8%AE%DB%8C%D9%84%DB%8C-%D8%AE%D8%B4%DA%A9/",
+      "amount": 19530000,
+      "currency": "IRR",
+      "stock": "InStock",
+      "attributes": null,
+      "link": "https://www.ceradicupra.ir/product/%D9%BE%DA%A9%DB%8C%D8%AC-%D8%A2%D8%A8%D8%B1%D8%B3%D8%A7%D9%86-%D9%BE%D9%88%D8%B3%D8%AA-%D8%AD%D8%B3%D8%A7%D8%B3-%D9%88-%D8%AE%DB%8C%D9%84%DB%8C-%D8%AE%D8%B4%DA%A9/",
+      "observed": "2026-11-08T08:00:22+00:00"
+    },
+    {
+      "product": "نمک تصفیه شده یددار - پک 20 کیلویی (صنایع غذایی) - نمک آنلاین",
+      "url": "https://namakonline.ir/product/%D9%86%D9%85%DA%A9-%D8%AA%D8%B5%D9%81%DB%8C%D9%87-%D8%B4%D8%AF%D9%87-%DB%8C%D8%AF%D8%AF%D8%A7%D8%B1-%D9%BE%DA%A9-20-%DA%A9%DB%8C%D9%84%D9%88%DB%8C%DB%8C-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%D8%BA%D8%B0/",
+      "amount": 250000,
+      "currency": "IRT",
+      "stock": null,
+      "attributes": null,
+      "link": "https://namakonline.ir/product/%D9%86%D9%85%DA%A9-%D8%AA%D8%B5%D9%81%DB%8C%D9%87-%D8%B4%D8%AF%D9%87-%DB%8C%D8%AF%D8%AF%D8%A7%D8%B1-%D9%BE%DA%A9-20-%DA%A9%DB%8C%D9%84%D9%88%DB%8C%DB%8C-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%D8%BA%D8%B0/",
+      "observed": "2026-11-18T05:11:35+00:00"
+    },
+    {
+      "product": "نرم افزار مدیریت زنجیره تأمین",
+      "url": "https://masjedkhadije.ir/product/%D9%86%D8%B1%D9%85%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D8%B2%D9%86%D8%AC%DB%8C%D8%B1%D9%87-%D8%AA%D8%A3%D9%85%DB%8C%D9%86/",
+      "amount": 29,
+      "currency": "USD",
+      "stock": null,
+      "attributes": null,
+      "link": "https://masjedkhadije.ir/product/%D9%86%D8%B1%D9%85%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D8%B2%D9%86%D8%AC%DB%8C%D8%B1%D9%87-%D8%AA%D8%A3%D9%85%DB%8C%D9%86/",
+      "observed": "2026-11-17T04:33:50+00:00"
+    },
+    {
+      "product": "شلوار اسکی زنانه Scott Pants W’S Ultimate DRX",
+      "url": "https://alpinistpersian.ir/product/%D8%B4%D9%84%D9%88%D8%A7%D8%B1-%D8%A7%D8%B3%DA%A9%DB%8C-%D8%B2%D9%86%D8%A7%D9%86%D9%87-scott-pants-ws-ultimate-drx/",
+      "amount": 293400000,
+      "currency": "IRR",
+      "stock": null,
+      "attributes": null,
+      "link": "https://alpinistpersian.ir/product/%D8%B4%D9%84%D9%88%D8%A7%D8%B1-%D8%A7%D8%B3%DA%A9%DB%8C-%D8%B2%D9%86%D8%A7%D9%86%D9%87-scott-pants-ws-ultimate-drx/",
+      "observed": "2026-11-13T05:39:56+00:00"
+    },
+    {
+      "product": "سرخ کن کریسپی نینجا Ninja Crispi Pro XL - آلپوشاپ",
+      "url": "https://alposhop.ir/product/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%DA%A9%D8%B1%DB%8C%D8%B3%D9%BE%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-ninja-crispi-pro-xl/",
+      "amount": 980000000,
+      "currency": "IRR",
+      "stock": "InStock",
+      "attributes": "برند ninja، مدل Crispi Pro XL، تعداد-برنامه 7 برنامه Air Fry (سرخ‌ کردن با هوای داغ) Max Crisp ( حداکثری تردی) Bake (پخت) Prove (عمل‌آوری و تخمیر خمیر) roast ( کبابی کردن ) dehydrate ( خشک کردن میوه ) Re-crisp (ترد کردن مجدد)، توان-دستگاه 1800وات، حجم-مخزن-غذا مناسب برای 6 نفر، دمای-قابل-تنظیم بله",
+      "link": "https://alposhop.ir/product/%D8%B3%D8%B1%D8%AE-%DA%A9%D9%86-%DA%A9%D8%B1%DB%8C%D8%B3%D9%BE%DB%8C-%D9%86%DB%8C%D9%86%D8%AC%D8%A7-ninja-crispi-pro-xl/",
+      "observed": "2026-11-11T19:42:42+00:00"
+    },
+    {
+      "product": "کابلشو مسی سایز 6",
+      "url": "https://www.altaelectric.ir/product/%DA%A9%D8%A7%D8%A8%D9%84%D8%B4%D9%88-%D9%85%D8%B3%DB%8C-%D8%B3%D8%A7%DB%8C%D8%B2-6/",
+      "amount": 600000,
+      "currency": "IRR",
+      "stock": null,
+      "attributes": null,
+      "link": "https://www.altaelectric.ir/product/%DA%A9%D8%A7%D8%A8%D9%84%D8%B4%D9%88-%D9%85%D8%B3%DB%8C-%D8%B3%D8%A7%DB%8C%D8%B2-6/",
+      "observed": "2026-11-13T14:10:28+00:00"
+    },
+    {
+      "product": "گردنبند 8418",
+      "url": "https://altinjewellery.ir/product/%DA%AF%D8%B1%D8%AF%D9%86%D8%A8%D9%86%D8%AF-8418/",
+      "amount": 139852000,
+      "currency": "IRT",
+      "stock": "InStock",
+      "attributes": null,
+      "link": "https://altinjewellery.ir/product/%DA%AF%D8%B1%D8%AF%D9%86%D8%A8%D9%86%D8%AF-8418/",
+      "observed": "2026-11-10T02:46:10+00:00"
+    },
+    {
+      "product": "پلاک رنگی طرح جواهر",
+      "url": "https://yaasgold.ir/product/jewel-design-color-plate/",
+      "amount": 335460000,
+      "currency": "IRR",
+      "stock": "InStock",
+      "attributes": null,
+      "link": "https://yaasgold.ir/product/jewel-design-color-plate/",
+      "observed": "2026-11-17T01:12:35+00:00"
+    },
+    {
+      "product": "اکانت پایگاه اطلاعاتی زنان و زایمان مک گروهیل",
+      "url": "https://yabesh.ir/product/acces-obgyn/",
+      "amount": 15000000,
+      "currency": "IRR",
+      "stock": "InStock",
+      "attributes": null,
+      "link": "https://yabesh.ir/product/acces-obgyn/",
+      "observed": "2026-11-11T03:57:13+00:00"
+    },
+    {
+      "product": "کتاب آشنایی با سنسورهای خودروهای انژکتوری نسخه الکترونیک",
+      "url": "https://emdc.ir/product/sensors-book/",
+      "amount": 120000,
+      "currency": "IRT",
+      "stock": "InStock",
+      "attributes": null,
+      "link": "https://emdc.ir/product/sensors-book/",
+      "observed": "2026-11-18T18:07:37+00:00"
+    },
+    {
+      "product": "کابل پاور اورجینال hp",
+      "url": "https://emerdad.ir/product/7344152",
+      "amount": 3800000,
+      "currency": "IRR",
+      "stock": "InStock",
+      "attributes": null,
+      "link": "https://emerdad.ir/product/7344152",
+      "observed": "2026-11-10T06:37:43+00:00"
+    },
+    {
+      "product": "یخچال فریزر امرسان درب شیشه ای مدل BFH20T-H امرسان| نمایندگی مرکزی فروش امرسان| خرید و فروش امرسان",
+      "url": "https://emersunstore.ir/product/%DB%8C%D8%AE%DA%86%D8%A7%D9%84-%D9%81%D8%B1%DB%8C%D8%B2%D8%B1-%D8%A7%D9%85%D8%B1%D8%B3%D8%A7%D9%86-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D9%85%D8%AF%D9%84-bfh20t-h/",
+      "amount": 998900000,
+      "currency": "IRR",
+      "stock": "OutOfStock",
+      "attributes": null,
+      "link": "https://emersunstore.ir/product/%DB%8C%D8%AE%DA%86%D8%A7%D9%84-%D9%81%D8%B1%DB%8C%D8%B2%D8%B1-%D8%A7%D9%85%D8%B1%D8%B3%D8%A7%D9%86-%D8%AF%D8%B1%D8%A8-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D9%85%D8%AF%D9%84-bfh20t-h/",
+      "observed": "2026-11-10T00:33:29+00:00"
+    },
+    {
+      "product": "فیش BNC پیچی دوربین مداربسته",
+      "url": "https://www.dbcom.ir/product/%D9%81%DB%8C%D8%B4-bnc-%D9%BE%DB%8C%DA%86%DB%8C-%D8%AF%D9%88%D8%B1%D8%A8%DB%8C%D9%86-%D9%85%D8%AF%D8%A7%D8%B1%D8%A8%D8%B3%D8%AA%D9%87/",
+      "amount": 4200,
+      "currency": "IRT",
+      "stock": "InStock",
+      "attributes": null,
+      "link": "https://www.dbcom.ir/product/%D9%81%DB%8C%D8%B4-bnc-%D9%BE%DB%8C%DA%86%DB%8C-%D8%AF%D9%88%D8%B1%D8%A8%DB%8C%D9%86-%D9%85%D8%AF%D8%A7%D8%B1%D8%A8%D8%B3%D8%AA%D9%87/",
+      "observed": "2026-11-09T02:52:57+00:00"
+    },
+    {
+      "product": "چای قلم سوزنی اله‌ور‌دی - سوچال",
+      "url": "https://sochal.ir/product/%DA%86%D8%A7%DB%8C-%D9%82%D9%84%D9%85-%D8%B3%D9%88%D8%B2%D9%86%DB%8C-%D8%A7%D9%84%D9%84%D9%87-%D9%88%D8%B1%D8%AF%DB%8C/",
+      "amount": 1400000,
+      "currency": "IRR",
+      "stock": "OutOfStock",
+      "attributes": null,
+      "link": "https://sochal.ir/product/%DA%86%D8%A7%DB%8C-%D9%82%D9%84%D9%85-%D8%B3%D9%88%D8%B2%D9%86%DB%8C-%D8%A7%D9%84%D9%84%D9%87-%D9%88%D8%B1%D8%AF%DB%8C/",
+      "observed": "2026-11-14T11:40:30+00:00"
+    },
+    {
+      "product": "اسپری شیر فیتو",
+      "url": "https://www.mokammmelphyto.ir/product/%D8%A7%D8%B3%D9%BE%D8%B1%DB%8C-%D8%B4%DB%8C%D8%B1-%D9%81%DB%8C%D8%AA%D9%88/",
+      "amount": 13900000,
+      "currency": "IRR",
+      "stock": "OutOfStock",
+      "attributes": null,
+      "link": "https://www.mokammmelphyto.ir/product/%D8%A7%D8%B3%D9%BE%D8%B1%DB%8C-%D8%B4%DB%8C%D8%B1-%D9%81%DB%8C%D8%AA%D9%88/",
+      "observed": "2026-11-15T00:34:38+00:00"
+    },
+    {
+      "product": "کفش چرمی تبریز",
+      "url": "https://wtc-tabriz.ir/product/%DA%A9%D9%81%D8%B4-%DA%86%D8%B1%D9%85%DB%8C-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2/",
+      "amount": 25000,
+      "currency": "IRT",
+      "stock": "InStock",
+      "attributes": null,
+      "link": "https://wtc-tabriz.ir/product/%DA%A9%D9%81%D8%B4-%DA%86%D8%B1%D9%85%DB%8C-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2/",
+      "observed": "2026-11-10T14:42:59+00:00"
+    },
+    {
+      "product": "کراپ تاپ بیسیک وولن رنگ کرمی روشن",
+      "url": "https://wulen.ir/product/lightcream-cropped-top",
+      "amount": 7900000,
+      "currency": "IRR",
+      "stock": null,
+      "attributes": null,
+      "link": "https://wulen.ir/product/lightcream-cropped-top",
+      "observed": "2026-11-08T20:21:43+00:00"
+    },
+    {
+      "product": "کاور یانگ کیت مدل CL0021مناسب برای اپل 13/13pro",
+      "url": "https://x-fit.ir/product/%DA%A9%D8%A7%D9%88%D8%B1-%DB%8C%D8%A7%D9%86%DA%AF-%DA%A9%DB%8C%D8%AA-%D9%85%D8%AF%D9%84-cl0021/",
+      "amount": 10990000,
+      "currency": "IRR",
+      "stock": null,
+      "attributes": null,
+      "link": "https://x-fit.ir/product/%DA%A9%D8%A7%D9%88%D8%B1-%DB%8C%D8%A7%D9%86%DA%AF-%DA%A9%DB%8C%D8%AA-%D9%85%D8%AF%D9%84-cl0021/",
+      "observed": "2026-11-12T04:30:59+00:00"
+    },
+    {
+      "product": "پخش عمده استند ایکس متغیر 200*90 نیوان",
+      "url": "https://www.x-stand.ir/product/%D9%BE%D8%AE%D8%B4-%D8%B9%D9%85%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA%D9%86%D8%AF-%D8%A7%DB%8C%DA%A9%D8%B3-%D9%85%D8%AA%D8%BA%DB%8C%D8%B1-200-90-%D9%86%DB%8C%D9%88%D8%A7%D9%86/",
+      "amount": 120000000,
+      "currency": "IRR",
+      "stock": "InStock",
+      "attributes": null,
+      "link": "https://www.x-stand.ir/product/%D9%BE%D8%AE%D8%B4-%D8%B9%D9%85%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA%D9%86%D8%AF-%D8%A7%DB%8C%DA%A9%D8%B3-%D9%85%D8%AA%D8%BA%DB%8C%D8%B1-200-90-%D9%86%DB%8C%D9%88%D8%A7%D9%86/",
+      "observed": "2026-11-17T22:59:06+00:00"
+    },
+    {
+      "product": "کابل میکرو لنیز LC971 - ایکس4 شاپ",
+      "url": "https://x4group.ir/product/%DA%A9%D8%A7%D8%A8%D9%84-%D9%85%DB%8C%DA%A9%D8%B1%D9%88-%D9%84%D9%86%DB%8C%D8%B2-lc971/",
+      "amount": 9490000,
+      "currency": "IRR",
+      "stock": "OutOfStock",
+      "attributes": null,
+      "link": "https://x4group.ir/product/%DA%A9%D8%A7%D8%A8%D9%84-%D9%85%DB%8C%DA%A9%D8%B1%D9%88-%D9%84%D9%86%DB%8C%D8%B2-lc971/",
+      "observed": "2026-11-07T07:10:32+00:00"
+    },
+    {
+      "product": "خرید اره بنزینی ۳۰ سانت طرح اشتیل مدل 2500",
+      "url": "https://www.abzarkimiya.ir/product/%D8%A7%D8%B1%D9%87-%D8%A8%D9%86%D8%B2%DB%8C%D9%86%DB%8C-30-%D8%B3%D8%A7%D9%86%D8%AA-%D8%B7%D8%B1%D8%AD-%D8%A7%D8%B4%D8%AA%DB%8C%D9%84-%D9%85%D8%AF%D9%84-2500/",
+      "amount": 280925000,
+      "currency": "IRR",
+      "stock": "InStock",
+      "attributes": null,
+      "link": "https://www.abzarkimiya.ir/product/%D8%A7%D8%B1%D9%87-%D8%A8%D9%86%D8%B2%DB%8C%D9%86%DB%8C-30-%D8%B3%D8%A7%D9%86%D8%AA-%D8%B7%D8%B1%D8%AD-%D8%A7%D8%B4%D8%AA%DB%8C%D9%84-%D9%85%D8%AF%D9%84-2500/",
+      "observed": "2026-11-19T02:13:51+00:00"
+    },
+    {
+      "product": "شاخ گوزنی شاپ | جادومدیا",
+      "url": "https://jadoomedia.ir/product/%D8%B4%D8%A7%D8%AE-%DA%AF%D9%88%D8%B2%D9%86-%D8%B4%D8%A7%D9%BE/",
+      "amount": 11060000,
+      "currency": "IRR",
+      "stock": "InStock",
+      "attributes": null,
+      "link": "https://jadoomedia.ir/product/%D8%B4%D8%A7%D8%AE-%DA%AF%D9%88%D8%B2%D9%86-%D8%B4%D8%A7%D9%BE/",
+      "observed": "2026-11-11T16:39:50+00:00"
+    },
+    {
+      "product": "Marvel Nano Gauntlet - اکشن فیگور Marvel Nano Gauntlet",
+      "url": "https://pspark.ir/product/marvel-nano-gauntlet/",
+      "amount": 158500000,
+      "currency": "IRR",
+      "stock": null,
+      "attributes": null,
+      "link": "https://pspark.ir/product/marvel-nano-gauntlet/",
+      "observed": "2026-11-11T00:49:32+00:00"
+    },
+    {
+      "product": "خرید بازی Achilles Double Pack نسخه Troy برای PS5",
+      "url": "https://psparsi.ir/product/achilles-double-pack-troy-edition-ps5/",
+      "amount": 88000000,
+      "currency": "IRR",
+      "stock": "InStock",
+      "attributes": null,
+      "link": "https://psparsi.ir/product/achilles-double-pack-troy-edition-ps5/",
+      "observed": "2026-11-08T01:53:17+00:00"
+    },
+    {
+      "product": "پایه غلتکی برای چرخ های صنعتی - دنیای نخ",
+      "url": "https://donyayenakh.ir/product/%D9%BE%D8%A7%DB%8C%D9%87-%DA%86%D8%B1%D8%AE-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C-%D8%BA%D9%84%D8%AA%DA%A9%DB%8C/",
+      "amount": 110000,
+      "currency": "IRT",
+      "stock": "InStock",
+      "attributes": null,
+      "link": "https://donyayenakh.ir/product/%D9%BE%D8%A7%DB%8C%D9%87-%DA%86%D8%B1%D8%AE-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C-%D8%BA%D9%84%D8%AA%DA%A9%DB%8C/",
+      "observed": "2026-11-07T22:48:18+00:00"
+    },
+    {
+      "product": "فیلم کلاس آنلاین ریاضی نهم - فصل ششم",
+      "url": "https://riazigram.ir/product/webinar-nohom-fasl6-1403/",
+      "amount": 300000,
+      "currency": "IRR",
+      "stock": "InStock",
+      "attributes": null,
+      "link": "https://riazigram.ir/product/webinar-nohom-fasl6-1403/",
+      "observed": "2026-11-18T02:18:38+00:00"
+    },
+    {
+      "product": "گوشی پزشکی دیجیتال NS1 - SE",
+      "url": "https://gushipezeshki.ir/product/stethoscope-nabz-ava-ns1-se/",
+      "amount": 16091000,
+      "currency": "IRR",
+      "stock": "InStock",
+      "attributes": null,
+      "link": "https://gushipezeshki.ir/product/stethoscope-nabz-ava-ns1-se/",
+      "observed": "2026-11-10T03:01:24+00:00"
+    },
+    {
+      "product": "واکس مو بافت خشک (سفت)",
+      "url": "https://gvcco.ir/product/%D9%88%D8%A7%DA%A9%D8%B3-%D9%85%D9%88-%D8%A8%D8%A7%D9%81%D8%AA-%D8%AE%D8%B4%DA%A9-%D8%B3%D9%81%D8%AA/",
+      "amount": 620000,
+      "currency": "IRT",
+      "stock": null,
+      "attributes": null,
+      "link": "https://gvcco.ir/product/%D9%88%D8%A7%DA%A9%D8%B3-%D9%85%D9%88-%D8%A8%D8%A7%D9%81%D8%AA-%D8%AE%D8%B4%DA%A9-%D8%B3%D9%81%D8%AA/",
+      "observed": "2026-11-08T11:55:31+00:00"
+    },
+    {
+      "product": "ماسک مو ابریشم (داخل حمام)",
+      "url": "https://cocoonstoree.ir/product/%D9%85%D8%A7%D8%B3%DA%A9-%D9%85%D9%88-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85-%D8%AF%D8%A7%D8%AE%D9%84-%D8%AD%D9%85%D8%A7%D9%85",
+      "amount": 6790000,
+      "currency": "IRR",
+      "stock": "InStock",
+      "attributes": null,
+      "link": "https://cocoonstoree.ir/product/%D9%85%D8%A7%D8%B3%DA%A9-%D9%85%D9%88-%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85-%D8%AF%D8%A7%D8%AE%D9%84-%D8%AD%D9%85%D8%A7%D9%85",
+      "observed": "2026-11-09T05:40:37+00:00"
+    },
+    {
+      "product": "سیستم نوبت‌دهی آنلاین با لاراول | CS-Booking - کدسافت | از ایده تا اجرا خط به خط کد",
+      "url": "https://codsoft.ir/product/reservation-system-laravel/",
+      "amount": 50000000,
+      "currency": "IRR",
+      "stock": "InStock",
+      "attributes": null,
+      "link": "https://codsoft.ir/product/reservation-system-laravel/",
+      "observed": "2026-11-08T19:34:04+00:00"
+    },
+    {
+      "product": "پکیج بهینه سازی و سئوی وب سایت - پیشرفته -",
+      "url": "https://itmanage.ir/product/%D9%BE%DA%A9%DB%8C%D8%AC-%D8%A8%D9%87%DB%8C%D9%86%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C-%D9%88-%D8%B3%D8%A6%D9%88%DB%8C-%D9%88%D8%A8-%D8%B3%D8%A7%DB%8C%D8%AA-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87/",
+      "amount": 35400000,
+      "currency": "IRT",
+      "stock": null,
+      "attributes": null,
+      "link": "https://itmanage.ir/product/%D9%BE%DA%A9%DB%8C%D8%AC-%D8%A8%D9%87%DB%8C%D9%86%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C-%D9%88-%D8%B3%D8%A6%D9%88%DB%8C-%D9%88%D8%A8-%D8%B3%D8%A7%DB%8C%D8%AA-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87/",
+      "observed": "2026-11-06T19:46:51+00:00"
+    },
+    {
+      "product": "IdeaPad",
+      "url": "https://itmandegar.ir/product/ideapad/",
+      "amount": 1699,
+      "currency": "GBP",
+      "stock": "InStock",
+      "attributes": null,
+      "link": "https://itmandegar.ir/product/ideapad/",
+      "observed": "2026-11-13T23:41:17+00:00"
+    },
+    {
+      "product": "نکته و تست زیست شناسی - پرواز کنکوری ها - کنکور",
+      "url": "https://parvaz99.ir/product/%D9%86%DA%A9%D8%AA%D9%87-%D9%88-%D8%AA%D8%B3%D8%AA-%D8%B2%DB%8C%D8%B3%D8%AA-%D8%B4%D9%86%D8%A7%D8%B3%DB%8C/",
+      "amount": 55000,
+      "currency": "IRT",
+      "stock": "InStock",
+      "attributes": null,
+      "link": "https://parvaz99.ir/product/%D9%86%DA%A9%D8%AA%D9%87-%D9%88-%D8%AA%D8%B3%D8%AA-%D8%B2%DB%8C%D8%B3%D8%AA-%D8%B4%D9%86%D8%A7%D8%B3%DB%8C/",
+      "observed": "2026-11-18T11:50:14+00:00"
+    },
+    {
+      "product": "پکیج خبری سازمانی - سازمان متخصصین و مدیران ایران",
+      "url": "https://emigroup.ir/product/%D9%BE%DA%A9%DB%8C%D8%AC-%D8%AE%D8%A8%D8%B1%DB%8C-%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86%DB%8C/",
+      "amount": 500000000,
+      "currency": "IRR",
+      "stock": "InStock",
+      "attributes": null,
+      "link": "https://emigroup.ir/product/%D9%BE%DA%A9%DB%8C%D8%AC-%D8%AE%D8%A8%D8%B1%DB%8C-%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86%DB%8C/",
+      "observed": "2026-11-18T11:50:25+00:00"
+    },
+    {
+      "product": "برنامه نویسی به زبان پایتون با رویکرد معاملات الگوریتمی در بازارهای مالی",
+      "url": "https://irfinance.ir/product/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%A8%D9%87-%D8%B2%D8%A8%D8%A7%D9%86-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86/",
+      "amount": 54000000,
+      "currency": "IRR",
+      "stock": "OutOfStock",
+      "attributes": null,
+      "link": "https://irfinance.ir/product/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%A8%D9%87-%D8%B2%D8%A8%D8%A7%D9%86-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86/",
+      "observed": "2026-11-12T15:52:16+00:00"
+    },
+    {
+      "product": "سینک افقی جدید",
+      "url": "https://loolebazkonipak.ir/product/new-horizontal-sink/",
+      "amount": 47000,
+      "currency": "IRT",
+      "stock": "InStock",
+      "attributes": null,
+      "link": "https://loolebazkonipak.ir/product/new-horizontal-sink/",
+      "observed": "2026-11-08T05:39:07+00:00"
+    },
+    {
+      "product": "گردنبند گوی ابری",
+      "url": "https://loolooshop.ir/product/Category-Neckless-bb936",
+      "amount": 500000,
+      "currency": "IRR",
+      "stock": null,
+      "attributes": "رنگ نارنجی",
+      "link": "https://loolooshop.ir/product/Category-Neckless-bb936",
+      "observed": "2026-11-12T09:49:26+00:00"
     }
   ],
   "groups": [],

@@ -1,133 +1,637 @@
 {
   "version": 1,
-  "time": "2026-11-24T22:02:07+00:00",
-  "provenance": "دو برداشت مستقل از هفت آگهی اول نمایشگاه ۲۸۱۷ در باما. مقایسه بر اساس شناسهٔ ثابت آگهی است.",
+  "time": "2026-11-24T23:00:08+00:00",
+  "provenance": "دو برداشت مستقل از حداکثر ۳۵ آگهی اول نمایشگاه ۲۸۱۷ در باما؛ تطبیق بر اساس شناسهٔ آگهی.",
   "rows": [
     {
       "id": "ezg3xiyi",
       "dealer": "نمایشگاه باما 2817",
-      "date": "2026-11-24T21:51:35+00:00",
+      "date": "2026-11-24T22:51:53+00:00",
       "title": "بنز، کلاس S",
       "price": 26900000000,
-      "observed": "2026-11-24T21:51:35+00:00",
-      "link": "https://bama.ir/car/detail-ezg3xiyi-mercedesbenz-sclass-s500-2011"
+      "link": "https://bama.ir/car/detail-ezg3xiyi-mercedesbenz-sclass-s500-2011",
+      "observed": "2026-11-24T22:51:53+00:00"
     },
     {
       "id": "zhellmk0",
       "dealer": "نمایشگاه باما 2817",
-      "date": "2026-11-24T21:51:35+00:00",
+      "date": "2026-11-24T22:51:53+00:00",
       "title": "ب ام و، سری 5 سدان",
       "price": 35900000000,
-      "observed": "2026-11-24T21:51:35+00:00",
-      "link": "https://bama.ir/car/detail-zhellmk0-bmw-5seriessedan-530i-2018"
+      "link": "https://bama.ir/car/detail-zhellmk0-bmw-5seriessedan-530i-2018",
+      "observed": "2026-11-24T22:51:53+00:00"
     },
     {
       "id": "ju4sozud",
       "dealer": "نمایشگاه باما 2817",
-      "date": "2026-11-24T21:51:35+00:00",
+      "date": "2026-11-24T22:51:53+00:00",
       "title": "هیوندای، النترا",
       "price": 6990000000,
-      "observed": "2026-11-24T21:51:35+00:00",
-      "link": "https://bama.ir/car/detail-ju4sozud-hyundai-elantra-1.6l-2023"
+      "link": "https://bama.ir/car/detail-ju4sozud-hyundai-elantra-1.6l-2023",
+      "observed": "2026-11-24T22:51:53+00:00"
     },
     {
       "id": "avx1t0ia",
       "dealer": "نمایشگاه باما 2817",
-      "date": "2026-11-24T21:51:35+00:00",
+      "date": "2026-11-24T22:51:53+00:00",
       "title": "تانک، 500HEV",
       "price": 23990000000,
-      "observed": "2026-11-24T21:51:35+00:00",
-      "link": "https://bama.ir/car/detail-avx1t0ia-tank-500hev-2.0literturbo-2026"
+      "link": "https://bama.ir/car/detail-avx1t0ia-tank-500hev-2.0literturbo-2026",
+      "observed": "2026-11-24T22:51:53+00:00"
     },
     {
       "id": "tknqlpnt",
       "dealer": "نمایشگاه باما 2817",
-      "date": "2026-11-24T21:51:35+00:00",
+      "date": "2026-11-24T22:51:53+00:00",
       "title": "تانک، 700",
       "price": 33980000000,
-      "observed": "2026-11-24T21:51:35+00:00",
-      "link": "https://bama.ir/car/detail-tknqlpnt-tank-700-3.0literturbo-2026"
+      "link": "https://bama.ir/car/detail-tknqlpnt-tank-700-3.0literturbo-2026",
+      "observed": "2026-11-24T22:51:53+00:00"
     },
     {
       "id": "vqxdlnpd",
       "dealer": "نمایشگاه باما 2817",
-      "date": "2026-11-24T21:51:35+00:00",
+      "date": "2026-11-24T22:51:53+00:00",
       "title": "وویا، فری",
       "price": 17690000000,
-      "observed": "2026-11-24T21:51:35+00:00",
-      "link": "https://bama.ir/car/detail-vqxdlnpd-Voyah-free-1.5liter-2026"
+      "link": "https://bama.ir/car/detail-vqxdlnpd-Voyah-free-1.5liter-2026",
+      "observed": "2026-11-24T22:51:53+00:00"
     },
     {
       "id": "p5agifyz",
       "dealer": "نمایشگاه باما 2817",
-      "date": "2026-11-24T21:51:35+00:00",
+      "date": "2026-11-24T22:51:53+00:00",
       "title": "تویوتا، پرادو چهار در",
       "price": 47500000000,
-      "observed": "2026-11-24T21:51:35+00:00",
-      "link": "https://bama.ir/car/detail-p5agifyz-toyota-prado4doors-2.4literturbo-2025"
+      "link": "https://bama.ir/car/detail-p5agifyz-toyota-prado4doors-2.4literturbo-2025",
+      "observed": "2026-11-24T22:51:53+00:00"
+    },
+    {
+      "id": "9gmijonk",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:51:53+00:00",
+      "title": "فیدلیتی، پرایم",
+      "price": 6900000000,
+      "link": "https://bama.ir/car/detail-9gmijonk-fidelity-prime-7seater-1403",
+      "observed": "2026-11-24T22:51:53+00:00"
+    },
+    {
+      "id": "eqilkyfl",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:51:53+00:00",
+      "title": "فیدلیتی، الیت",
+      "price": 7600000000,
+      "link": "https://bama.ir/car/detail-eqilkyfl-fidelity-elite-7seater-1404",
+      "observed": "2026-11-24T22:51:53+00:00"
+    },
+    {
+      "id": "8sth7sbu",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:51:53+00:00",
+      "title": "لکسوس، LX",
+      "price": 102900000000,
+      "link": "https://bama.ir/car/detail-8sth7sbu-lexus-lx-700h-2026",
+      "observed": "2026-11-24T22:51:53+00:00"
+    },
+    {
+      "id": "pctox4e0",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:51:53+00:00",
+      "title": "تویوتا، پرادو چهار در",
+      "price": 13800000000,
+      "link": "https://bama.ir/car/detail-pctox4e0-toyota-prado4doors-6cylinder-2008",
+      "observed": "2026-11-24T22:51:53+00:00"
+    },
+    {
+      "id": "hrtts3fo",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:51:53+00:00",
+      "title": "ب ام و، سری 3 سدان",
+      "price": 18690000000,
+      "link": "https://bama.ir/car/detail-hrtts3fo-bmw-3seriessedan-330i-2018",
+      "observed": "2026-11-24T22:51:53+00:00"
+    },
+    {
+      "id": "s80mkhiy",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:51:53+00:00",
+      "title": "لکسوس، NX",
+      "price": 15980000000,
+      "link": "https://bama.ir/car/detail-s80mkhiy-lexus-nx-200tfsport-2016",
+      "observed": "2026-11-24T22:51:53+00:00"
+    },
+    {
+      "id": "6jyqdyhj",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:51:53+00:00",
+      "title": "بنز، EQE SUV",
+      "price": 34500000000,
+      "link": "https://bama.ir/car/detail-6jyqdyhj-mercedesbenz-eqesuv-500-2024",
+      "observed": "2026-11-24T22:51:53+00:00"
+    },
+    {
+      "id": "zkpldirk",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:51:53+00:00",
+      "title": "تویوتا، کرولا هیبرید",
+      "price": 9240000000,
+      "link": "https://bama.ir/car/detail-zkpldirk-toyota-corollahybrid-1.8liter-2026",
+      "observed": "2026-11-24T22:51:53+00:00"
+    },
+    {
+      "id": "onghsxbt",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:51:53+00:00",
+      "title": "کیا، K5",
+      "price": 16190000000,
+      "link": "https://bama.ir/car/detail-onghsxbt-kia-k5-1.5literturbo-2025",
+      "observed": "2026-11-24T22:51:53+00:00"
+    },
+    {
+      "id": "gshb2mul",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:51:53+00:00",
+      "title": "کیا، اسپورتیج",
+      "price": 10890000000,
+      "link": "https://bama.ir/car/detail-gshb2mul-kia-sportage-gtline-2018",
+      "observed": "2026-11-24T22:51:53+00:00"
+    },
+    {
+      "id": "65dytzc4",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:51:53+00:00",
+      "title": "آئودی، A3L",
+      "price": 12980000000,
+      "link": "https://bama.ir/car/detail-65dytzc4-audi-a3-1.5literturbopro-2025",
+      "observed": "2026-11-24T22:51:53+00:00"
+    },
+    {
+      "id": "ilgkyuxp",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:51:53+00:00",
+      "title": "تانک، 300 مونتاژی",
+      "price": 17290000000,
+      "link": "https://bama.ir/car/detail-ilgkyuxp-tank-300ir-2.0literturbo-1405",
+      "observed": "2026-11-24T22:51:53+00:00"
+    },
+    {
+      "id": "vjypftak",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:51:53+00:00",
+      "title": "هیوندای، سوناتا",
+      "price": 14870000000,
+      "link": "https://bama.ir/car/detail-vjypftak-hyundai-sonata-1.5literturbo-2026",
+      "observed": "2026-11-24T22:51:53+00:00"
+    },
+    {
+      "id": "gemazwc9",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:51:53+00:00",
+      "title": "فولکس، ID.4 Crozz",
+      "price": 11900000000,
+      "link": "https://bama.ir/car/detail-gemazwc9-volkswagen-id4crozz-pure-2026",
+      "observed": "2026-11-24T22:51:53+00:00"
+    },
+    {
+      "id": "snkrmh8r",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:51:53+00:00",
+      "title": "تویوتا، پرادو چهار در",
+      "price": 15590000000,
+      "link": "https://bama.ir/car/detail-snkrmh8r-toyota-prado4doors-6cylinder-2009",
+      "observed": "2026-11-24T22:51:53+00:00"
+    },
+    {
+      "id": "knohmemr",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:51:53+00:00",
+      "title": "پورشه، ماکان",
+      "price": 40200000000,
+      "link": "https://bama.ir/car/detail-knohmemr-porsche-macan-2017",
+      "observed": "2026-11-24T22:51:53+00:00"
+    },
+    {
+      "id": "fys2xhnl",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:51:53+00:00",
+      "title": "هوندا، CR-V eHEV",
+      "price": 19690000000,
+      "link": "https://bama.ir/car/detail-fys2xhnl-honda-crvehev-2.0liter-2024",
+      "observed": "2026-11-24T22:51:53+00:00"
+    },
+    {
+      "id": "rbyklwvs",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:51:53+00:00",
+      "title": "تویوتا، کمری هیبرید",
+      "price": 18700000000,
+      "link": "https://bama.ir/car/detail-rbyklwvs-toyota-camryhybrid-premiumedition-2026",
+      "observed": "2026-11-24T22:51:53+00:00"
+    },
+    {
+      "id": "dlhkztce",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:51:53+00:00",
+      "title": "آئودی، Q4 e-tron",
+      "price": 15800000000,
+      "link": "https://bama.ir/car/detail-dlhkztce-audi-q4etron-40-2025",
+      "observed": "2026-11-24T22:51:53+00:00"
+    },
+    {
+      "id": "vctuzeaq",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:51:53+00:00",
+      "title": "جی ای سی، GS8",
+      "price": 11590000000,
+      "link": "https://bama.ir/car/detail-vctuzeaq-gacgonow-gs8-gl2wd-2025",
+      "observed": "2026-11-24T22:51:53+00:00"
+    },
+    {
+      "id": "x2kkdaer",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:51:53+00:00",
+      "title": "بنز، کلاس C",
+      "price": 24900000000,
+      "link": "https://bama.ir/car/detail-x2kkdaer-mercedesbenz-cclass-c200l-2025",
+      "observed": "2026-11-24T22:51:53+00:00"
+    },
+    {
+      "id": "eiajdg1r",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:51:53+00:00",
+      "title": "تویوتا، کرولا کراس هیبرید",
+      "price": 10390000000,
+      "link": "https://bama.ir/car/detail-eiajdg1r-toyota-corollacrosshybrid-2.0liter-2025",
+      "observed": "2026-11-24T22:51:53+00:00"
+    },
+    {
+      "id": "gzmq8w9c",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:51:53+00:00",
+      "title": "لکسوس، ES هیبرید",
+      "price": 31990000000,
+      "link": "https://bama.ir/car/detail-gzmq8w9c-lexus-eshybrid-300h-2025",
+      "observed": "2026-11-24T22:51:53+00:00"
+    },
+    {
+      "id": "wjcldig0",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:51:53+00:00",
+      "title": "فولکس، ID.4 Crozz",
+      "price": 9980000000,
+      "link": "https://bama.ir/car/detail-wjcldig0-volkswagen-id4crozz-pure-2024",
+      "observed": "2026-11-24T22:51:53+00:00"
+    },
+    {
+      "id": "eexlq2bu",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:51:53+00:00",
+      "title": "تویوتا، پرادو دو در",
+      "price": 17390000000,
+      "link": "https://bama.ir/car/detail-eexlq2bu-toyota-prado2doors-4cylinder-2012",
+      "observed": "2026-11-24T22:51:53+00:00"
+    },
+    {
+      "id": "3vl7gbyp",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:51:53+00:00",
+      "title": "هونگچی، E-QM5",
+      "price": 7550000000,
+      "link": "https://bama.ir/car/detail-3vl7gbyp-hongqi-eqm5-140kw-2024",
+      "observed": "2026-11-24T22:51:53+00:00"
+    },
+    {
+      "id": "aqilcjfa",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:51:53+00:00",
+      "title": "تویوتا، راوفور هیبرید",
+      "price": 25500000000,
+      "link": "https://bama.ir/car/detail-aqilcjfa-toyota-rav4hybrid-awd-2026",
+      "observed": "2026-11-24T22:51:53+00:00"
+    },
+    {
+      "id": "mpidcwrz",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:51:53+00:00",
+      "title": "لکسوس، NX",
+      "price": 43000000000,
+      "link": "https://bama.ir/car/detail-mpidcwrz-lexus-nx-350-2026",
+      "observed": "2026-11-24T22:51:53+00:00"
     },
     {
       "id": "ezg3xiyi",
       "dealer": "نمایشگاه باما 2817",
-      "date": "2026-11-24T21:53:37+00:00",
+      "date": "2026-11-24T22:55:24+00:00",
       "title": "بنز، کلاس S",
       "price": 26900000000,
-      "observed": "2026-11-24T21:53:37+00:00",
-      "link": "https://bama.ir/car/detail-ezg3xiyi-mercedesbenz-sclass-s500-2011"
+      "link": "https://bama.ir/car/detail-ezg3xiyi-mercedesbenz-sclass-s500-2011",
+      "observed": "2026-11-24T22:55:24+00:00"
     },
     {
       "id": "zhellmk0",
       "dealer": "نمایشگاه باما 2817",
-      "date": "2026-11-24T21:53:37+00:00",
+      "date": "2026-11-24T22:55:24+00:00",
       "title": "ب ام و، سری 5 سدان",
       "price": 35900000000,
-      "observed": "2026-11-24T21:53:37+00:00",
-      "link": "https://bama.ir/car/detail-zhellmk0-bmw-5seriessedan-530i-2018"
+      "link": "https://bama.ir/car/detail-zhellmk0-bmw-5seriessedan-530i-2018",
+      "observed": "2026-11-24T22:55:24+00:00"
     },
     {
       "id": "ju4sozud",
       "dealer": "نمایشگاه باما 2817",
-      "date": "2026-11-24T21:53:37+00:00",
+      "date": "2026-11-24T22:55:24+00:00",
       "title": "هیوندای، النترا",
       "price": 6990000000,
-      "observed": "2026-11-24T21:53:37+00:00",
-      "link": "https://bama.ir/car/detail-ju4sozud-hyundai-elantra-1.6l-2023"
+      "link": "https://bama.ir/car/detail-ju4sozud-hyundai-elantra-1.6l-2023",
+      "observed": "2026-11-24T22:55:24+00:00"
     },
     {
       "id": "avx1t0ia",
       "dealer": "نمایشگاه باما 2817",
-      "date": "2026-11-24T21:53:37+00:00",
+      "date": "2026-11-24T22:55:24+00:00",
       "title": "تانک، 500HEV",
       "price": 23990000000,
-      "observed": "2026-11-24T21:53:37+00:00",
-      "link": "https://bama.ir/car/detail-avx1t0ia-tank-500hev-2.0literturbo-2026"
+      "link": "https://bama.ir/car/detail-avx1t0ia-tank-500hev-2.0literturbo-2026",
+      "observed": "2026-11-24T22:55:24+00:00"
     },
     {
       "id": "tknqlpnt",
       "dealer": "نمایشگاه باما 2817",
-      "date": "2026-11-24T21:53:37+00:00",
+      "date": "2026-11-24T22:55:24+00:00",
       "title": "تانک، 700",
       "price": 33980000000,
-      "observed": "2026-11-24T21:53:37+00:00",
-      "link": "https://bama.ir/car/detail-tknqlpnt-tank-700-3.0literturbo-2026"
+      "link": "https://bama.ir/car/detail-tknqlpnt-tank-700-3.0literturbo-2026",
+      "observed": "2026-11-24T22:55:24+00:00"
     },
     {
       "id": "vqxdlnpd",
       "dealer": "نمایشگاه باما 2817",
-      "date": "2026-11-24T21:53:37+00:00",
+      "date": "2026-11-24T22:55:24+00:00",
       "title": "وویا، فری",
       "price": 17690000000,
-      "observed": "2026-11-24T21:53:37+00:00",
-      "link": "https://bama.ir/car/detail-vqxdlnpd-Voyah-free-1.5liter-2026"
+      "link": "https://bama.ir/car/detail-vqxdlnpd-Voyah-free-1.5liter-2026",
+      "observed": "2026-11-24T22:55:24+00:00"
     },
     {
       "id": "p5agifyz",
       "dealer": "نمایشگاه باما 2817",
-      "date": "2026-11-24T21:53:37+00:00",
+      "date": "2026-11-24T22:55:24+00:00",
       "title": "تویوتا، پرادو چهار در",
       "price": 47500000000,
-      "observed": "2026-11-24T21:53:37+00:00",
-      "link": "https://bama.ir/car/detail-p5agifyz-toyota-prado4doors-2.4literturbo-2025"
+      "link": "https://bama.ir/car/detail-p5agifyz-toyota-prado4doors-2.4literturbo-2025",
+      "observed": "2026-11-24T22:55:24+00:00"
+    },
+    {
+      "id": "9gmijonk",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:55:24+00:00",
+      "title": "فیدلیتی، پرایم",
+      "price": 6900000000,
+      "link": "https://bama.ir/car/detail-9gmijonk-fidelity-prime-7seater-1403",
+      "observed": "2026-11-24T22:55:24+00:00"
+    },
+    {
+      "id": "eqilkyfl",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:55:24+00:00",
+      "title": "فیدلیتی، الیت",
+      "price": 7600000000,
+      "link": "https://bama.ir/car/detail-eqilkyfl-fidelity-elite-7seater-1404",
+      "observed": "2026-11-24T22:55:24+00:00"
+    },
+    {
+      "id": "8sth7sbu",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:55:24+00:00",
+      "title": "لکسوس، LX",
+      "price": 102900000000,
+      "link": "https://bama.ir/car/detail-8sth7sbu-lexus-lx-700h-2026",
+      "observed": "2026-11-24T22:55:24+00:00"
+    },
+    {
+      "id": "pctox4e0",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:55:24+00:00",
+      "title": "تویوتا، پرادو چهار در",
+      "price": 13800000000,
+      "link": "https://bama.ir/car/detail-pctox4e0-toyota-prado4doors-6cylinder-2008",
+      "observed": "2026-11-24T22:55:24+00:00"
+    },
+    {
+      "id": "hrtts3fo",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:55:24+00:00",
+      "title": "ب ام و، سری 3 سدان",
+      "price": 18690000000,
+      "link": "https://bama.ir/car/detail-hrtts3fo-bmw-3seriessedan-330i-2018",
+      "observed": "2026-11-24T22:55:24+00:00"
+    },
+    {
+      "id": "s80mkhiy",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:55:24+00:00",
+      "title": "لکسوس، NX",
+      "price": 15980000000,
+      "link": "https://bama.ir/car/detail-s80mkhiy-lexus-nx-200tfsport-2016",
+      "observed": "2026-11-24T22:55:24+00:00"
+    },
+    {
+      "id": "6jyqdyhj",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:55:24+00:00",
+      "title": "بنز، EQE SUV",
+      "price": 34500000000,
+      "link": "https://bama.ir/car/detail-6jyqdyhj-mercedesbenz-eqesuv-500-2024",
+      "observed": "2026-11-24T22:55:24+00:00"
+    },
+    {
+      "id": "zkpldirk",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:55:24+00:00",
+      "title": "تویوتا، کرولا هیبرید",
+      "price": 9240000000,
+      "link": "https://bama.ir/car/detail-zkpldirk-toyota-corollahybrid-1.8liter-2026",
+      "observed": "2026-11-24T22:55:24+00:00"
+    },
+    {
+      "id": "onghsxbt",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:55:24+00:00",
+      "title": "کیا، K5",
+      "price": 16190000000,
+      "link": "https://bama.ir/car/detail-onghsxbt-kia-k5-1.5literturbo-2025",
+      "observed": "2026-11-24T22:55:24+00:00"
+    },
+    {
+      "id": "gshb2mul",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:55:24+00:00",
+      "title": "کیا، اسپورتیج",
+      "price": 10890000000,
+      "link": "https://bama.ir/car/detail-gshb2mul-kia-sportage-gtline-2018",
+      "observed": "2026-11-24T22:55:24+00:00"
+    },
+    {
+      "id": "65dytzc4",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:55:24+00:00",
+      "title": "آئودی، A3L",
+      "price": 12980000000,
+      "link": "https://bama.ir/car/detail-65dytzc4-audi-a3-1.5literturbopro-2025",
+      "observed": "2026-11-24T22:55:24+00:00"
+    },
+    {
+      "id": "ilgkyuxp",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:55:24+00:00",
+      "title": "تانک، 300 مونتاژی",
+      "price": 17290000000,
+      "link": "https://bama.ir/car/detail-ilgkyuxp-tank-300ir-2.0literturbo-1405",
+      "observed": "2026-11-24T22:55:24+00:00"
+    },
+    {
+      "id": "vjypftak",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:55:24+00:00",
+      "title": "هیوندای، سوناتا",
+      "price": 14870000000,
+      "link": "https://bama.ir/car/detail-vjypftak-hyundai-sonata-1.5literturbo-2026",
+      "observed": "2026-11-24T22:55:24+00:00"
+    },
+    {
+      "id": "gemazwc9",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:55:24+00:00",
+      "title": "فولکس، ID.4 Crozz",
+      "price": 11900000000,
+      "link": "https://bama.ir/car/detail-gemazwc9-volkswagen-id4crozz-pure-2026",
+      "observed": "2026-11-24T22:55:24+00:00"
+    },
+    {
+      "id": "snkrmh8r",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:55:24+00:00",
+      "title": "تویوتا، پرادو چهار در",
+      "price": 15590000000,
+      "link": "https://bama.ir/car/detail-snkrmh8r-toyota-prado4doors-6cylinder-2009",
+      "observed": "2026-11-24T22:55:24+00:00"
+    },
+    {
+      "id": "knohmemr",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:55:24+00:00",
+      "title": "پورشه، ماکان",
+      "price": 40200000000,
+      "link": "https://bama.ir/car/detail-knohmemr-porsche-macan-2017",
+      "observed": "2026-11-24T22:55:24+00:00"
+    },
+    {
+      "id": "fys2xhnl",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:55:24+00:00",
+      "title": "هوندا، CR-V eHEV",
+      "price": 19690000000,
+      "link": "https://bama.ir/car/detail-fys2xhnl-honda-crvehev-2.0liter-2024",
+      "observed": "2026-11-24T22:55:24+00:00"
+    },
+    {
+      "id": "rbyklwvs",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:55:24+00:00",
+      "title": "تویوتا، کمری هیبرید",
+      "price": 18700000000,
+      "link": "https://bama.ir/car/detail-rbyklwvs-toyota-camryhybrid-premiumedition-2026",
+      "observed": "2026-11-24T22:55:24+00:00"
+    },
+    {
+      "id": "dlhkztce",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:55:24+00:00",
+      "title": "آئودی، Q4 e-tron",
+      "price": 15800000000,
+      "link": "https://bama.ir/car/detail-dlhkztce-audi-q4etron-40-2025",
+      "observed": "2026-11-24T22:55:24+00:00"
+    },
+    {
+      "id": "vctuzeaq",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:55:24+00:00",
+      "title": "جی ای سی، GS8",
+      "price": 11590000000,
+      "link": "https://bama.ir/car/detail-vctuzeaq-gacgonow-gs8-gl2wd-2025",
+      "observed": "2026-11-24T22:55:24+00:00"
+    },
+    {
+      "id": "x2kkdaer",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:55:24+00:00",
+      "title": "بنز، کلاس C",
+      "price": 24900000000,
+      "link": "https://bama.ir/car/detail-x2kkdaer-mercedesbenz-cclass-c200l-2025",
+      "observed": "2026-11-24T22:55:24+00:00"
+    },
+    {
+      "id": "eiajdg1r",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:55:24+00:00",
+      "title": "تویوتا، کرولا کراس هیبرید",
+      "price": 10390000000,
+      "link": "https://bama.ir/car/detail-eiajdg1r-toyota-corollacrosshybrid-2.0liter-2025",
+      "observed": "2026-11-24T22:55:24+00:00"
+    },
+    {
+      "id": "gzmq8w9c",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:55:24+00:00",
+      "title": "لکسوس، ES هیبرید",
+      "price": 31990000000,
+      "link": "https://bama.ir/car/detail-gzmq8w9c-lexus-eshybrid-300h-2025",
+      "observed": "2026-11-24T22:55:24+00:00"
+    },
+    {
+      "id": "wjcldig0",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:55:24+00:00",
+      "title": "فولکس، ID.4 Crozz",
+      "price": 9980000000,
+      "link": "https://bama.ir/car/detail-wjcldig0-volkswagen-id4crozz-pure-2024",
+      "observed": "2026-11-24T22:55:24+00:00"
+    },
+    {
+      "id": "eexlq2bu",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:55:24+00:00",
+      "title": "تویوتا، پرادو دو در",
+      "price": 17390000000,
+      "link": "https://bama.ir/car/detail-eexlq2bu-toyota-prado2doors-4cylinder-2012",
+      "observed": "2026-11-24T22:55:24+00:00"
+    },
+    {
+      "id": "3vl7gbyp",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:55:24+00:00",
+      "title": "هونگچی، E-QM5",
+      "price": 7550000000,
+      "link": "https://bama.ir/car/detail-3vl7gbyp-hongqi-eqm5-140kw-2024",
+      "observed": "2026-11-24T22:55:24+00:00"
+    },
+    {
+      "id": "aqilcjfa",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:55:24+00:00",
+      "title": "تویوتا، راوفور هیبرید",
+      "price": 25500000000,
+      "link": "https://bama.ir/car/detail-aqilcjfa-toyota-rav4hybrid-awd-2026",
+      "observed": "2026-11-24T22:55:24+00:00"
+    },
+    {
+      "id": "mpidcwrz",
+      "dealer": "نمایشگاه باما 2817",
+      "date": "2026-11-24T22:55:24+00:00",
+      "title": "لکسوس، NX",
+      "price": 43000000000,
+      "link": "https://bama.ir/car/detail-mpidcwrz-lexus-nx-350-2026",
+      "observed": "2026-11-24T22:55:24+00:00"
     }
   ]
 }

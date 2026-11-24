@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "time": "2026-11-24T22:21:31+00:00",
-  "provenance": "از شش پست عمومی فروشگاه پوشاک مشکات دیزاین (@meshkatdesign)، ۴۲۹ کامنت یکتا در ۲۵ نوامبر ۲۰۲۶ به وقت تهران بررسی شد. سقف برداشت برای هر پست ۱۲۰ کامنت بود. جدول، درخواست‌هایی را نشان می‌دهد که دست‌کم در دو کامنت آمده‌اند. زمان تحویل فقط یک بار پرسیده شد.",
+  "time": "2026-11-24T23:02:13+00:00",
+  "provenance": "۸۲۸ کامنت یکتای سطح اول از یازده انتشار عمومی مشکات دیزاین بررسی شد. شمار هر درخواست به تفکیک پست گزارش شده است. پاسخ‌ها پیش‌نویس‌اند و موارد بدون شاهد در کپشن برای فروشگاه خالی مانده‌اند.",
   "rows": [
     {
       "id": "meshkat-price",
       "topic": "قیمت",
       "question": "قیمت این مدل چقدر است؟",
-      "count": 369,
+      "count": 683,
       "evidence": [
         {
           "text": "دو کت فوتر مشکی (۱۱۳ نظر)",
@@ -38,17 +38,42 @@
           "text": "پالتوی چهارخانه (۱۰۱ نظر)",
           "href": "https://www.instagram.com/p/DfVJkyMlEbS/",
           "count": 101
+        },
+        {
+          "text": "کت بافت پاییزه (۱۰۳ نظر)",
+          "href": "https://www.instagram.com/p/DfNXu6khxvF/",
+          "count": 103
+        },
+        {
+          "text": "کت شانل بافت مخمل (۱۱۰ نظر)",
+          "href": "https://www.instagram.com/p/Dd9kNKsh86M/",
+          "count": 110
+        },
+        {
+          "text": "کت ژاکارد ترک (۲۲ نظر)",
+          "href": "https://www.instagram.com/p/DdmXao-hyLU/",
+          "count": 22
+        },
+        {
+          "text": "کت ژاکارد با طرح نگارگری (۵۳ نظر)",
+          "href": "https://www.instagram.com/p/Dc_xsxaha2A/",
+          "count": 53
+        },
+        {
+          "text": "کت کرپ مورگان (۲۶ نظر)",
+          "href": "https://www.instagram.com/p/DcRb9MOBfM1/",
+          "count": 26
         }
       ],
       "answer": "قیمت به مدل و قد انتخابی بستگی دارد. برای مثال در پست دو کت فوتر مشکی، فروشگاه برای دو مدل قیمت جداگانه نوشته و برای قد بلندتر افزایش قیمت اعلام کرده است.",
-      "observed": "2026-11-24T22:21:31+00:00",
+      "observed": "2026-11-24T23:02:13+00:00",
       "link": "https://www.instagram.com/p/DgGAWhWlBSE/"
     },
     {
       "id": "meshkat-size",
       "topic": "سایز",
       "question": "چه سایزهایی قابل سفارش است؟",
-      "count": 13,
+      "count": 17,
       "evidence": [
         {
           "text": "کت مخمل کوبلن (۱ نظر)",
@@ -64,17 +89,32 @@
           "text": "پالتوی چهارخانه (۱ نظر)",
           "href": "https://www.instagram.com/p/DfVJkyMlEbS/",
           "count": 1
+        },
+        {
+          "text": "کت بافت پاییزه (۲ نظر)",
+          "href": "https://www.instagram.com/p/DfNXu6khxvF/",
+          "count": 2
+        },
+        {
+          "text": "کت شانل بافت مخمل (۱ نظر)",
+          "href": "https://www.instagram.com/p/Dd9kNKsh86M/",
+          "count": 1
+        },
+        {
+          "text": "کت ژاکارد با طرح نگارگری (۱ نظر)",
+          "href": "https://www.instagram.com/p/Dc_xsxaha2A/",
+          "count": 1
         }
       ],
       "answer": "در پست کت مخمل کوبلن، سه بازهٔ ۳۸–۴۰، ۴۲–۴۴ و ۴۶–۴۸ آمده است. فروشگاه برای اندازه‌های دقیق‌ترِ هر سایز، دایرکت را معرفی کرده است.",
-      "observed": "2026-11-24T22:21:31+00:00",
+      "observed": "2026-11-24T23:02:10+00:00",
       "link": "https://www.instagram.com/p/Df7vPxgESBV/"
     },
     {
       "id": "meshkat-in-store",
       "topic": "خرید حضوری",
       "question": "امکان خرید حضوری هم هست؟",
-      "count": 5,
+      "count": 9,
       "evidence": [
         {
           "text": "دو کت فوتر مشکی (۲ نظر)",
@@ -85,17 +125,27 @@
           "text": "پالتوی چهارخانه (۳ نظر)",
           "href": "https://www.instagram.com/p/DfVJkyMlEbS/",
           "count": 3
+        },
+        {
+          "text": "کت شانل بافت مخمل (۲ نظر)",
+          "href": "https://www.instagram.com/p/Dd9kNKsh86M/",
+          "count": 2
+        },
+        {
+          "text": "کت کرپ مورگان (۲ نظر)",
+          "href": "https://www.instagram.com/p/DcRb9MOBfM1/",
+          "count": 2
         }
       ],
       "answer": "",
-      "observed": "2026-11-24T22:21:31+00:00",
+      "observed": "2026-11-24T23:02:13+00:00",
       "link": "https://www.instagram.com/p/DgGAWhWlBSE/"
     },
     {
       "id": "meshkat-order",
       "topic": "ثبت سفارش",
       "question": "چطور سفارش بدهم؟",
-      "count": 3,
+      "count": 5,
       "evidence": [
         {
           "text": "کت طرح یاقوت (۱ نظر)",
@@ -106,10 +156,15 @@
           "text": "پالتوی چهارخانه (۲ نظر)",
           "href": "https://www.instagram.com/p/DfVJkyMlEbS/",
           "count": 2
+        },
+        {
+          "text": "کت بافت پاییزه (۲ نظر)",
+          "href": "https://www.instagram.com/p/DfNXu6khxvF/",
+          "count": 2
         }
       ],
       "answer": "فروشگاه در کپشن‌ها دایرکت و لینک پیام‌رسان‌های بالای پیج را برای ارتباط معرفی کرده است.",
-      "observed": "2026-11-24T22:21:31+00:00",
+      "observed": "2026-11-24T23:01:58+00:00",
       "link": "https://www.instagram.com/p/DfpuOajkf_r/"
     },
     {
@@ -142,16 +197,21 @@
       "id": "meshkat-snappay",
       "topic": "پرداخت",
       "question": "امکان پرداخت با اسنپ‌پی هست؟",
-      "count": 2,
+      "count": 3,
       "evidence": [
         {
           "text": "پالتوی چهارخانه (۲ نظر)",
           "href": "https://www.instagram.com/p/DfVJkyMlEbS/",
           "count": 2
+        },
+        {
+          "text": "کت شانل بافت مخمل (۱ نظر)",
+          "href": "https://www.instagram.com/p/Dd9kNKsh86M/",
+          "count": 1
         }
       ],
       "answer": "",
-      "observed": "2026-11-24T22:21:31+00:00",
+      "observed": "2026-11-24T23:02:03+00:00",
       "link": "https://www.instagram.com/p/DfVJkyMlEbS/"
     }
   ],

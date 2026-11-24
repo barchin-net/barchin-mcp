@@ -29,6 +29,796 @@
       "currency": "ریال",
       "observed": "2026-11-24T21:59:15+00:00",
       "link": "https://www.tgju.org/profile/price_dollar_rl"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-24",
+      "time": "2026-11-24",
+      "amount": 2838900,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.939669Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-23",
+      "time": "2026-11-23",
+      "amount": 2709700,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.939697Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-22",
+      "time": "2026-11-22",
+      "amount": 2673750,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.939722Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-21",
+      "time": "2026-11-21",
+      "amount": 2689600,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.939747Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-19",
+      "time": "2026-11-19",
+      "amount": 2699700,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.939772Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-18",
+      "time": "2026-11-18",
+      "amount": 2663300,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.939811Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-17",
+      "time": "2026-11-17",
+      "amount": 2667100,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.939835Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-16",
+      "time": "2026-11-16",
+      "amount": 2687050,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.939859Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-15",
+      "time": "2026-11-15",
+      "amount": 2658050,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.939883Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-14",
+      "time": "2026-11-14",
+      "amount": 2699000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.939908Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-12",
+      "time": "2026-11-12",
+      "amount": 2669000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.939931Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-11",
+      "time": "2026-11-11",
+      "amount": 2640700,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.939955Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-10",
+      "time": "2026-11-10",
+      "amount": 2599000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.939979Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-09",
+      "time": "2026-11-09",
+      "amount": 2639000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940002Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-08",
+      "time": "2026-11-08",
+      "amount": 2649000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940026Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-07",
+      "time": "2026-11-07",
+      "amount": 2661100,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940054Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-05",
+      "time": "2026-11-05",
+      "amount": 2669000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940078Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-04",
+      "time": "2026-11-04",
+      "amount": 2689000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940102Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-03",
+      "time": "2026-11-03",
+      "amount": 2725000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940125Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-02",
+      "time": "2026-11-02",
+      "amount": 2715000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940149Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-01",
+      "time": "2026-11-01",
+      "amount": 2715000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940173Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-31",
+      "time": "2026-10-31",
+      "amount": 2705100,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940197Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-29",
+      "time": "2026-10-29",
+      "amount": 2710600,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940221Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-28",
+      "time": "2026-10-28",
+      "amount": 2695000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940245Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-27",
+      "time": "2026-10-27",
+      "amount": 2695000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940268Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-26",
+      "time": "2026-10-26",
+      "amount": 2715000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940292Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-25",
+      "time": "2026-10-25",
+      "amount": 2695000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940315Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-24",
+      "time": "2026-10-24",
+      "amount": 2685000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940339Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-22",
+      "time": "2026-10-22",
+      "amount": 2719050,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940363Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-21",
+      "time": "2026-10-21",
+      "amount": 2694000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940387Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-20",
+      "time": "2026-10-20",
+      "amount": 2648000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940410Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-19",
+      "time": "2026-10-19",
+      "amount": 2633950,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940434Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-18",
+      "time": "2026-10-18",
+      "amount": 2628000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940467Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-17",
+      "time": "2026-10-17",
+      "amount": 2638000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940492Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-15",
+      "time": "2026-10-15",
+      "amount": 2679000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940517Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-14",
+      "time": "2026-10-14",
+      "amount": 2639000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940541Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-13",
+      "time": "2026-10-13",
+      "amount": 2577100,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940565Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-12",
+      "time": "2026-10-12",
+      "amount": 2626000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940589Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-11",
+      "time": "2026-10-11",
+      "amount": 2643050,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940613Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-10",
+      "time": "2026-10-10",
+      "amount": 2651000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940636Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-08",
+      "time": "2026-10-08",
+      "amount": 2662000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940660Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-07",
+      "time": "2026-10-07",
+      "amount": 2632000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940684Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-06",
+      "time": "2026-10-06",
+      "amount": 2688200,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940707Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-05",
+      "time": "2026-10-05",
+      "amount": 2687000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940732Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-04",
+      "time": "2026-10-04",
+      "amount": 2683000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940755Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-03",
+      "time": "2026-10-03",
+      "amount": 2679000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940779Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-01",
+      "time": "2026-10-01",
+      "amount": 2584650,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940813Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-30",
+      "time": "2026-09-30",
+      "amount": 2547000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940838Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-29",
+      "time": "2026-09-29",
+      "amount": 2537000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940862Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-28",
+      "time": "2026-09-28",
+      "amount": 2448000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940886Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-27",
+      "time": "2026-09-27",
+      "amount": 2350000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940909Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-26",
+      "time": "2026-09-26",
+      "amount": 2333000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940933Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-24",
+      "time": "2026-09-24",
+      "amount": 2346150,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940957Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-23",
+      "time": "2026-09-23",
+      "amount": 2317050,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940982Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-22",
+      "time": "2026-09-22",
+      "amount": 2332000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941011Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-21",
+      "time": "2026-09-21",
+      "amount": 2308000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941035Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-20",
+      "time": "2026-09-20",
+      "amount": 2306000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941059Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-19",
+      "time": "2026-09-19",
+      "amount": 2302750,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941084Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-17",
+      "time": "2026-09-17",
+      "amount": 2279000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941108Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-16",
+      "time": "2026-09-16",
+      "amount": 2305000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941133Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-15",
+      "time": "2026-09-15",
+      "amount": 2303950,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941157Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-14",
+      "time": "2026-09-14",
+      "amount": 2313000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941181Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-13",
+      "time": "2026-09-13",
+      "amount": 2286000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941205Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-12",
+      "time": "2026-09-12",
+      "amount": 2339000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941229Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-10",
+      "time": "2026-09-10",
+      "amount": 2359750,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941255Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-09",
+      "time": "2026-09-09",
+      "amount": 2327000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941278Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-08",
+      "time": "2026-09-08",
+      "amount": 2267000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941302Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-07",
+      "time": "2026-09-07",
+      "amount": 2221000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941326Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-06",
+      "time": "2026-09-06",
+      "amount": 2230000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941349Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-05",
+      "time": "2026-09-05",
+      "amount": 2272050,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941373Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-03",
+      "time": "2026-09-03",
+      "amount": 2210600,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941396Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-02",
+      "time": "2026-09-02",
+      "amount": 2199000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941420Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-01",
+      "time": "2026-09-01",
+      "amount": 2140000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941451Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-08-31",
+      "time": "2026-08-31",
+      "amount": 2093000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941476Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-08-29",
+      "time": "2026-08-29",
+      "amount": 2060100,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941503Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-08-27",
+      "time": "2026-08-27",
+      "amount": 2006000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941526Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-08-26",
+      "time": "2026-08-26",
+      "amount": 2005000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941550Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-08-25",
+      "time": "2026-08-25",
+      "amount": 2005000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941574Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-08-24",
+      "time": "2026-08-24",
+      "amount": 2021950,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941597Z"
     }
   ],
   "groups": [],

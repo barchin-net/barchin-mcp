@@ -3,13 +3,22 @@ const storageKey='barchin-dev-recorded-v1-'+project.slug;
 let memory={saved:{},answers:{}};
 try{memory=JSON.parse(localStorage.getItem(storageKey))||memory}catch{}
 const persist=()=>{try{localStorage.setItem(storageKey,JSON.stringify(memory))}catch{}};
+let rowLimit=30;
 function update(){
  const v=view(project,sample,state);
- root.innerHTML=result(project,v,memory.saved,memory.answers);
+ root.innerHTML=result(project,v,memory.saved,memory.answers,rowLimit);
  const leaders=document.getElementById('spotlight');
  if(leaders)leaders.innerHTML=spotlight(project,v);
 }
+filters.addEventListener('click',e=>{
+ const button=e.target.closest('[data-bulk]');if(!button)return;
+ const fields=[...filters.elements].filter(input=>input.dataset.c===button.dataset.bulk);
+ const checked=fields.some(field=>!field.checked);
+ for(const field of fields)field.checked=checked;
+ fields[0]?.dispatchEvent(new Event('input',{bubbles:true}));
+});
 filters.addEventListener('input',e=>{
+ rowLimit=30;
  const input=e.target,c=input.dataset.c;if(!c)return;
  state[c]=input.type==='checkbox'?[...filters.elements].filter(i=>i.dataset.c===c&&i.checked).map(i=>i.value):input.value;
  if(c.startsWith('one:')){
@@ -17,8 +26,9 @@ filters.addEventListener('input',e=>{
    const field=[...filters.elements].find(el=>el.dataset.c===child);
    if(field?.tagName!=='SELECT'||!(parents[child]||child==='base:date'||child==='next:date'))continue;
    const values=choices(project,sample,child,state);
-   if(child==='pick:seller'){
-    field.replaceChildren(new Option('مقایسهٔ همهٔ فروشنده‌ها',''),...values.map(v=>new Option('تاریخچهٔ '+v,v)));
+   if(child.startsWith('pick:')){
+    const seller=child==='pick:seller';
+    field.replaceChildren(new Option(seller?'مقایسهٔ همهٔ فروشنده‌ها':'همه',''),...values.map(v=>new Option(seller?'تاریخچهٔ '+v:fmt(v),v)));
     state[child]='';continue;
    }
    const selected=values.includes(state[child])?state[child]:child==='next:date'?values.at(-1):values[0];
@@ -29,6 +39,7 @@ filters.addEventListener('input',e=>{
  update();
 });
 root.addEventListener('click',e=>{
+ if(e.target.closest('[data-more]')){const first=rowLimit;rowLimit+=30;update();document.getElementById('point-'+first)?.focus();return;}
  const btn=e.target.closest('[data-save]');if(!btn)return;
  const id=btn.dataset.save,r=sample.rows.find(r=>r.id===id);
  if(memory.saved[id])delete memory.saved[id];else memory.saved[id]=r.title||r.hotel||id;

@@ -1,57 +1,3107 @@
 {
   "version": 1,
-  "provenance": "گزیدهٔ ثبت‌شده از خوراک عمومی زومیت و دیجیاتو؛ تاریخ انتشار از RSS و خلاصه‌ها تألیف برچین‌اند. صفحهٔ اصلی هر مورد دوباره بررسی شده است.",
-  "time": "2026-11-24T22:08:44+00:00",
+  "time": "2026-11-24T23:00:08+00:00",
+  "provenance": "تیتر، دسته، پیوند و زمان انتشار از RSS عمومی زومیت و دیجیاتو آمده است. هر خبر با پیوند یکتا شمرده می‌شود. زمان برداشت خوراک جداست.",
   "rows": [
     {
-      "topic": "فناوری",
-      "date": "2026-10-04",
-      "story": "اقتصاد دیجیتال",
-      "summary": "زومیت مقررات پیشنهادی تبلیغات آنلاین را مرور کرده است.",
+      "topic": "گجت",
+      "story": "گجت",
+      "date": "2026-11-24",
+      "summary": "شیائومی از دستگاهی رونمایی کرد که زمان بازکردن پنجره را به شما می‌گوید",
       "source": "زومیت",
-      "published": "2026-10-04T13:48:39+03:30",
-      "link": "https://www.zoomit.ir/iran-news/468463-iran-online-advertising-regulations/",
-      "observed": "2026-11-24T22:08:40+00:00"
-    },
-    {
-      "topic": "فناوری",
-      "date": "2026-10-04",
-      "story": "زیرساخت",
-      "summary": "دیجیاتو هشدار سندیکای صنعت برق دربارهٔ تأمین برق در زمستان را گزارش کرده است.",
-      "source": "دیجیاتو",
-      "published": "2026-10-04T10:14:56+00:00",
-      "link": "https://digiato.com/iran-technology-news/the-problem-of-power-supply-for-bts-antennas",
-      "observed": "2026-11-24T22:08:41+00:00"
-    },
-    {
-      "topic": "فناوری",
-      "date": "2026-10-04",
-      "story": "زیرساخت",
-      "summary": "گزارش دیگری به اثر زیست‌محیطی احداث مرکز داده در فنلاند می‌پردازد.",
-      "source": "دیجیاتو",
-      "published": "2026-10-04T10:38:07+00:00",
-      "link": "https://digiato.com/artificial-intelligence/google-accused-clearing-forest-finland-data-center",
-      "observed": "2026-11-24T22:08:44+00:00"
+      "published": "2026-11-24T21:40:00+00:00",
+      "link": "https://www.zoomit.ir/appliances/471750-xiaomi-monitor-3-pro-global-launch/",
+      "observed": "2026-11-24T22:54:16+00:00"
     },
     {
       "topic": "علم",
-      "date": "2026-10-04",
-      "story": "زیست‌شناسی",
-      "summary": "این گزارش الگوهای غیرتصادفی در مسیر تکامل را بررسی می‌کند.",
+      "story": "علم",
+      "date": "2026-11-24",
+      "summary": "هشدار سازمان‌های اطلاعاتی غربی: روسیه احتمالاً به‌زودی سلاح هسته‌ای در فضا قرار می‌دهد",
       "source": "زومیت",
-      "published": "2026-10-04T13:40:00+03:30",
-      "link": "https://www.zoomit.ir/biology/467203-evolution-not-random-study-findings/",
-      "observed": "2026-11-24T22:08:40+00:00"
+      "published": "2026-11-24T20:29:00+00:00",
+      "link": "https://www.zoomit.ir/space/471798-russia-may-launch-a-nuclear-armed-satellite/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "زومیا؛ هوش مصنوعی",
+      "story": "زومیا؛ هوش مصنوعی",
+      "date": "2026-11-24",
+      "summary": "هوش مصنوعی کلاد حالا کدهای برنامه‌نویسان را بررسی، اصلاح و تأیید می‌کند",
+      "source": "زومیت",
+      "published": "2026-11-24T20:05:00+00:00",
+      "link": "https://www.zoomit.ir/ai-articles/471746-anthropic-claude-ship-ai-pull-requests/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-24",
+      "summary": "راز ژنتیکی کم‌خوابی؛ چگونه برخی افراد شب‌ها فقط ۴ تا ۶ ساعت می‌خوابند؟",
+      "source": "زومیت",
+      "published": "2026-11-24T19:30:00+00:00",
+      "link": "https://www.zoomit.ir/health-medical/470552-genetics-of-natural-short-sleep/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مقالات بلند و اختصاصی",
+      "story": "مقالات بلند و اختصاصی",
+      "date": "2026-11-24",
+      "summary": "چطور گله‌ای شترمرغ با تاکتیک‌های چریکی، ارتش مجهز استرالیا را وادار به عقب‌نشینی کردند؟",
+      "source": "زومیت",
+      "published": "2026-11-24T19:30:00+00:00",
+      "link": "https://www.zoomit.ir/human-science/471796-great-emu-war-featured/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-24",
+      "summary": "آنر با گوشی تاشدنی جدیدش به رقابت با آیفون دوئو می‌رود",
+      "source": "زومیت",
+      "published": "2026-11-24T19:00:00+00:00",
+      "link": "https://www.zoomit.ir/mobile/471745-honor-wide-foldable-march-2027/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "خودرو و موتورسیکلت",
+      "story": "خودرو و موتورسیکلت",
+      "date": "2026-11-24",
+      "summary": "رکورد جدید برای تاکسی‌های خودران ایلان ماسک؛ بیش از ۹ میلیون کیلومتر بدون تصادف",
+      "source": "زومیت",
+      "published": "2026-11-24T18:40:00+00:00",
+      "link": "https://www.zoomit.ir/car/471784-tesla-robotaxi-6-million-miles-report/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-24",
+      "summary": "ارتش آمریکا قصد دارد پنج تن ماده منفجره فرسوده را در ایالت آیووا منفجر کند",
+      "source": "زومیت",
+      "published": "2026-11-24T18:30:00+00:00",
+      "link": "https://www.zoomit.ir/energy-environment/471797-us-army-lead-azide-explosion-toxic-dust-iaowa/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "زومیا؛ هوش مصنوعی",
+      "story": "زومیا؛ هوش مصنوعی",
+      "date": "2026-11-24",
+      "summary": "پاک‌سازی بزرگ تایدل؛ رقیب معروف اسپاتیفای ۲۹ میلیون آهنگ هوش مصنوعی را حذف می‌کند",
+      "source": "زومیت",
+      "published": "2026-11-24T17:50:08+00:00",
+      "link": "https://www.zoomit.ir/ai-articles/471795-tidal-ban-remove-29-million-ai-generated-songs/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-24",
+      "summary": "رکوردشکنی در سایه ال‌نینو؛ زمین بالاترین ناهنجاری یک‌روزه دما را تجربه کرد",
+      "source": "زومیت",
+      "published": "2026-11-24T17:50:00+00:00",
+      "link": "https://www.zoomit.ir/energy-environment/471794-earth-saw-most-hot-day-ever-record/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "گارمین",
+      "story": "گارمین",
+      "date": "2026-11-24",
+      "summary": "گارمین به‌دنبال شارژ خورشیدی ساعت‌های مچی از طریق نمایشگر است",
+      "source": "زومیت",
+      "published": "2026-11-24T17:45:00+00:00",
+      "link": "https://www.zoomit.ir/wearables/471744-garmin-solar-amoled-patent/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "زومیا؛ هوش مصنوعی",
+      "story": "زومیا؛ هوش مصنوعی",
+      "date": "2026-11-24",
+      "summary": "مردی که «پول مسئله‌اش نبود» از بنیان‌گذاران آمریکایی ثروتمندتر شد؛ بازی معکوس در دیپ‌سیک",
+      "source": "زومیت",
+      "published": "2026-11-24T17:30:00+00:00",
+      "link": "https://www.zoomit.ir/ai-articles/471775-deepseek-china-liang-wenfeng-featured/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-24",
+      "summary": "طراحی دوربین آیفون 18e شبیه آیپد پرو می‌شود؟",
+      "source": "زومیت",
+      "published": "2026-11-24T17:10:00+00:00",
+      "link": "https://www.zoomit.ir/mobile/471778-iphone-18e-redesigned-camera-leak/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ادوبی",
+      "story": "ادوبی",
+      "date": "2026-11-24",
+      "summary": "نیویورک‌تایمز به عکاسان هشدار داد: فتوشاپ را آپدیت نکنید!",
+      "source": "زومیت",
+      "published": "2026-11-24T16:54:14+00:00",
+      "link": "https://www.zoomit.ir/software-news/471793-new-york-times-warns-photographers-photoshop-2027-ai/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "شاتر",
+      "story": "شاتر",
+      "date": "2026-11-24",
+      "summary": "از سوگ میناب تا عکاسی با آیفون؛ تایم ۱۰۰ عکس برتر سال ۲۰۲۶ را معرفی کرد",
+      "source": "زومیت",
+      "published": "2026-11-24T16:49:06+00:00",
+      "link": "https://www.zoomit.ir/shutter/471792-time-100-photos-minab-iran/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-24",
+      "summary": "از دور زدن رجیستری تا نگرانی‌های امنیتی؛ آیا نرم‌افزار «آی‌تل» قابل اعتماد است؟",
+      "source": "زومیت",
+      "published": "2026-11-24T16:30:00+00:00",
+      "link": "https://www.zoomit.ir/report/471764-itell-unregistered-iphone-call-bridge-security/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-24",
+      "summary": "دولت آمریکا بی‌سروصدا سه سند تاریخی درباره پاگنده، موجود افسانه‌ای مشهور منتشر کرد",
+      "source": "زومیت",
+      "published": "2026-11-24T16:25:00+00:00",
+      "link": "https://www.zoomit.ir/human-science/471790-us-government-released-3-new-files-about-bigfoot/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "زومیا؛ هوش مصنوعی",
+      "story": "زومیا؛ هوش مصنوعی",
+      "date": "2026-11-24",
+      "summary": "نگرانی کارمندان اوپن‌ای‌آی و آنتروپیک؛ شاید دیگر نتوان هوش مصنوعی را کنترل کرد",
+      "source": "زومیت",
+      "published": "2026-11-24T16:19:43+00:00",
+      "link": "https://www.zoomit.ir/ai-articles/471791-openai-anthropic-employees-unreleased-ai-models-safety-concerns/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "بازی",
+      "story": "بازی",
+      "date": "2026-11-24",
+      "summary": "تماشا کنید: مرحله آخر بازی GTA VI و سرنوشت نهایی جیسون و لوسیا",
+      "source": "زومیت",
+      "published": "2026-11-24T16:10:00+00:00",
+      "link": "https://www.zoomit.ir/gaming/471728-gta-6-endings-jason-lucia-fate/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-24",
+      "summary": "گوشی جدید موتورولا با باتری ۷٬۰۰۰ میلی‌آمپرساعتی و اندروید قدیمی معرفی شد",
+      "source": "زومیت",
+      "published": "2026-11-24T16:00:00+00:00",
+      "link": "https://www.zoomit.ir/mobile/471743-motorola-edge-70-neo-specs/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "اخبار ایران",
+      "story": "اخبار ایران",
+      "date": "2026-11-24",
+      "summary": "ثبت دلیل برای تراکنش‌های بانکی اجباری شد",
+      "source": "زومیت",
+      "published": "2026-11-24T15:30:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471779-cbi-new-banking-transaction-purpose-list/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "یوتیوب",
+      "story": "یوتیوب",
+      "date": "2026-11-24",
+      "summary": "آیکون قدیمی و معروف یوتیوب برمی‌گردد؟",
+      "source": "زومیت",
+      "published": "2026-11-24T15:10:00+00:00",
+      "link": "https://www.zoomit.ir/android/471742-youtube-custom-icons-ios-tv-return/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "کسب و کار",
+      "story": "کسب و کار",
+      "date": "2026-11-24",
+      "summary": "دیجی‌کالا در بلک‌فرایدی سکه طلا را زیر نرخ اتحادیه عرضه می‌کند",
+      "source": "زومیت",
+      "published": "2026-11-24T15:00:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471789-digikala-black-friday-coins-below-union-price/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-24",
+      "summary": "نشست اقلیمی COP31 شکست خورد؛ آینده مقابله با گرمایش زمین چه می‌شود؟",
+      "source": "زومیت",
+      "published": "2026-11-24T14:45:00+00:00",
+      "link": "https://www.zoomit.ir/energy-environment/471786-cop31-collapse-what-next/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "اینترنت و شبکه",
+      "story": "اینترنت و شبکه",
+      "date": "2026-11-24",
+      "summary": "چرا اینترنت مخابرات سه برابر گران شد؟ پاسخ مخابرات به اعتراض کاربران درباره افزایش ناگهانی تعرفه‌ها",
+      "source": "زومیت",
+      "published": "2026-11-24T14:30:00+00:00",
+      "link": "https://www.zoomit.ir/report/471776-tci-fixed-internet-price-hike-iran/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "هواوی",
+      "story": "هواوی",
+      "date": "2026-11-24",
+      "summary": "ساعت هوشمند واچ ایر هواوی با بدنه باریک و شارژدهی ۵ روزه رونمایی شد",
+      "source": "زومیت",
+      "published": "2026-11-24T14:29:30+00:00",
+      "link": "https://www.zoomit.ir/wearables/471787-huawei-watch-air-announced/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "پوشیدنی ها",
+      "story": "پوشیدنی ها",
+      "date": "2026-11-24",
+      "summary": "ساعت مکانیکی با صفحه زرشکی؛ سیتیزن نگاه‌ها را به محصول جدیدش خیره کرد",
+      "source": "زومیت",
+      "published": "2026-11-24T14:10:00+00:00",
+      "link": "https://www.zoomit.ir/wearables/471741-citizen-series8-831-us-launch/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-24",
+      "summary": "آغاز فعالیت اپراتور هوش مصنوعی/ هاشمی: شرکت‌های فناور می‌توانند بدون خرید تجهیزات، خدمات پردازشی دریافت کنند",
+      "source": "زومیت",
+      "published": "2026-11-24T13:58:18+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471783-iran-first-ai-operator-approval/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "کسب و کار",
+      "story": "کسب و کار",
+      "date": "2026-11-24",
+      "summary": "اتحادیه کسب‌وکارهای مجازی فهرست ۱۸ پلتفرم طلا متصل‌شده به سامانه زرپایش را منتشر شد",
+      "source": "زومیت",
+      "published": "2026-11-24T13:30:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471777-zarpayesh-online-gold-platforms-list/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "اینترنت و شبکه",
+      "story": "اینترنت و شبکه",
+      "date": "2026-11-24",
+      "summary": "رقیب جدید جیمیل از راه رسید؛ ایمیل بدون تبلیغات و ردیابی کاربران",
+      "source": "زومیت",
+      "published": "2026-11-24T13:00:00+00:00",
+      "link": "https://www.zoomit.ir/software-news/471736-kagi-mail-public-beta-launch/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "اخبار ایران",
+      "story": "اخبار ایران",
+      "date": "2026-11-24",
+      "summary": "کلیات طرح افزایش حداقل دستمزد کارگران متناسب با تورم تصویب شد",
+      "source": "زومیت",
+      "published": "2026-11-24T12:30:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471772-iran-minimum-wage-inflation-bill/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-24",
+      "summary": "باتری بزرگ در دل بدنه‌ای بسیار باریک؛ هواوی میت ۹۰ ایر رونمایی شد",
+      "source": "زومیت",
+      "published": "2026-11-24T12:27:38+00:00",
+      "link": "https://www.zoomit.ir/mobile/471774-huawei-mate-90-air-specs-price/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-24",
+      "summary": "ورود اتوبوس‌ برقی به خط آزادی-ترمینال شرق",
+      "source": "زومیت",
+      "published": "2026-11-24T12:09:30+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471773-tehran-metro-line-9-electric-buses/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-24",
+      "summary": "هواوی میت X8 با نمایشگر ۸٫۲ اینچی و طراحی چشم‌نواز معرفی شد",
+      "source": "زومیت",
+      "published": "2026-11-24T12:01:39+00:00",
+      "link": "https://www.zoomit.ir/mobile/471756-huawei-mate-x8-foldable-phone/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-24",
+      "summary": "خبری از نوآوری نیست؛ مشخصات گوشی باریک هواوی میت ۹۰ ایر لو رفت",
+      "source": "زومیت",
+      "published": "2026-11-24T11:45:00+00:00",
+      "link": "https://www.zoomit.ir/mobile/471735-huawei-mate-90-air-specs-leak/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "امنیت و حریم خصوصی",
+      "story": "امنیت و حریم خصوصی",
+      "date": "2026-11-24",
+      "summary": "رئیس سازمان فناوری اطلاعات: باید نقش فعال‌تری در راهبری و نظارت بر امنیت سایبری داشته باشیم",
+      "source": "زومیت",
+      "published": "2026-11-24T11:35:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471771-ito-security-deputy-appointed/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-24",
+      "summary": "برخی باکتری‌های زبان ما شاید با سرعت واکنش مغز ارتباط داشته باشند",
+      "source": "زومیت",
+      "published": "2026-11-24T11:25:00+00:00",
+      "link": "https://www.zoomit.ir/health-medical/468997-tongue-bacteria-linked-cognitive-speed/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "رپورتاژ آگهی",
+      "story": "رپورتاژ آگهی",
+      "date": "2026-11-24",
+      "summary": "۱۳ گیگ اینترنت هدیه بگیرید و برنده ۱۰ میلیارد تومان شوید",
+      "source": "زومیت",
+      "published": "2026-11-24T11:00:00+00:00",
+      "link": "https://www.zoomit.ir/pr/471765-ewano-black-friday-credit-campaign/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "کسب و کار",
+      "story": "کسب و کار",
+      "date": "2026-11-24",
+      "summary": "گروه مالی دانایان از پلتفرم مدیریت ثروت «دانایان ۲۴» رونمایی کرد",
+      "source": "زومیت",
+      "published": "2026-11-24T10:55:32+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471770-danayan-24-wealth-management-platform/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "دنیای مهندسی",
+      "story": "دنیای مهندسی",
+      "date": "2026-11-24",
+      "summary": "برج‌های دوقلوی «ریمار» مناظر طبیعی عربستان را به قلب ریاض می‌آورند",
+      "source": "زومیت",
+      "published": "2026-11-24T10:45:12+00:00",
+      "link": "https://www.zoomit.ir/architecture/471768-riymar-towers-riyadh-saudi-arabia/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "گوگل",
+      "story": "گوگل",
+      "date": "2026-11-24",
+      "summary": "گوگل می‌خواهد شما را به ستاره همه فیلم‌ها تبدیل کند!",
+      "source": "زومیت",
+      "published": "2026-11-24T10:45:00+00:00",
+      "link": "https://www.zoomit.ir/ai-articles/471734-google-ai-personalized-tv-channel-patent/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-24",
+      "summary": "خانه‌سازی در ماه بدون مصالح زمینی؛ دانشمندان رگولیت قمری را با لیزر به آجر تبدیل کردند",
+      "source": "زومیت",
+      "published": "2026-11-24T10:20:00+00:00",
+      "link": "https://www.zoomit.ir/space/471490-3d-printed-moon-regolith-bricks/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-24",
+      "summary": "دوربین و نمایشگر گلکسی A38 ضعیف‌تر از گلکسی A37 خواهد بود؛ عقب‌گرد عجیب سامسونگ",
+      "source": "زومیت",
+      "published": "2026-11-24T09:55:00+00:00",
+      "link": "https://www.zoomit.ir/mobile/471733-samsung-galaxy-a38-camera-downgrade/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "کسب و کار",
+      "story": "کسب و کار",
+      "date": "2026-11-24",
+      "summary": "دام خطرناک معاملات رمزارزی؛ چگونه ممکن است بدون اطلاع، پول سرقتی دریافت کنید؟",
+      "source": "زومیت",
+      "published": "2026-11-24T09:50:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471763-informal-crypto-trading-stolen-money-risk/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "اپل",
+      "story": "اپل",
+      "date": "2026-11-24",
+      "summary": "اپل برای مک‌بوک نئو برنامه تازه‌ای دارد؛ ارتقاء سالانه و رنگ‌های جدید",
+      "source": "زومیت",
+      "published": "2026-11-24T09:10:00+00:00",
+      "link": "https://www.zoomit.ir/laptop/471714-apple-macbook-neo-annual-cycle/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "رپورتاژ آگهی",
+      "story": "رپورتاژ آگهی",
+      "date": "2026-11-24",
+      "summary": "گپ‌جی‌پی‌تی به gapgpt.ir منتقل شد؛ حساب‌ها و اعتبار کاربران بدون تغییر",
+      "source": "زومیت",
+      "published": "2026-11-24T09:01:58+00:00",
+      "link": "https://www.zoomit.ir/pr/471762-gapgpt-moves-to-ir-domain/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-24",
+      "summary": "وعده ثبت احوال برای تحویل کارت‌های ملی معوق تا پایان زمستان؛ توزیع کارت‌های جدید از بهار ۱۴۰۶",
+      "source": "زومیت",
+      "published": "2026-11-24T09:00:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471759-national-id-card-delivery-registration-organization/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-24",
+      "summary": "یک حقوقدان: تشکیل ستاد ساماندهی فضای مجازی خلاف شرع نیست؛ تفسیر شورای نگهبان از اختیارات شورا ایراد دارد",
+      "source": "زومیت",
+      "published": "2026-11-24T08:33:23+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471757-norozi-majlis-space-council-guardian-council/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-24",
+      "summary": "ایجاد حافظه ایمنی در برابر سرطان؛ درمانی آزمایشی از بازگشت تومور در موش‌ها جلوگیری کرد",
+      "source": "زومیت",
+      "published": "2026-11-24T08:20:00+00:00",
+      "link": "https://www.zoomit.ir/health-medical/471666-mice-cancer-drug-combination-treatment/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-24",
+      "summary": "HONOR X7e با باتری ۷۵۰۰ میلی‌آمپرساعتی معرفی شد",
+      "source": "زومیت",
+      "published": "2026-11-24T08:11:31+00:00",
+      "link": "https://www.zoomit.ir/mobile/471758-honor-x7e-battery-7500mah-launch/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "خودرو و موتورسیکلت",
+      "story": "خودرو و موتورسیکلت",
+      "date": "2026-11-24",
+      "summary": "شاسی‌بلند لوکس BYD با قدرت ۱۱۹۴ اسب‌بخار و چهره‌ای جدید از راه می‌رسد",
+      "source": "زومیت",
+      "published": "2026-11-24T08:00:00+00:00",
+      "link": "https://www.zoomit.ir/car/471696-byd-denza-n9-facelift-revealed/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-24",
+      "summary": "راهنمای استفاده از هوش مصنوعی در پژوهش ابلاغ شد",
+      "source": "زومیت",
+      "published": "2026-11-24T07:41:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471737-ai-research-guidelines-iran-university-science-technology/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "کسب و کار",
+      "story": "کسب و کار",
+      "date": "2026-11-24",
+      "summary": "مهندس عربستانی OpenAI به ضبط مخفیانه بیش از ۱۶۰ ساعت از جلسات شرکت متهم شد",
+      "source": "زومیت",
+      "published": "2026-11-24T07:16:06+00:00",
+      "link": "https://www.zoomit.ir/business/471749-openai-engineer-espionage-charges/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-24",
+      "summary": "وزارت ارتباطات اولین موافقت اصولی خدمات هوش مصنوعی را صادر کرد؛ «گرین‌وب» در آستانه ورود به بازار اپراتوری",
+      "source": "زومیت",
+      "published": "2026-11-24T07:15:40+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471747-first-ai-service-license-iran/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "کسب و کار",
+      "story": "کسب و کار",
+      "date": "2026-11-24",
+      "summary": "جنسن هوانگ به محل کارش برگشت: «این‌بار مدیرعامل بهتری خواهم بود»",
+      "source": "زومیت",
+      "published": "2026-11-24T07:10:56+00:00",
+      "link": "https://www.zoomit.ir/business/471748-jensen-huang-returns-nvidia-ceo/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "گوگل",
+      "story": "گوگل",
+      "date": "2026-11-24",
+      "summary": "گوگل ترنسلیت پس از ۱۱ سال آیکون جدید گرفت",
+      "source": "زومیت",
+      "published": "2026-11-24T07:00:00+00:00",
+      "link": "https://www.zoomit.ir/software-news/471730-google-translate-new-icon/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "خودرو و موتورسیکلت",
+      "story": "خودرو و موتورسیکلت",
+      "date": "2026-11-24",
+      "summary": "اجرای طرح شناسه‌دار کردن کارت سوخت در تهران و فارس؛ سهمیه ویژه برای رانندگان اسنپ و تپسی",
+      "source": "زومیت",
+      "published": "2026-11-24T06:47:17+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471740-fuel-card-identifier-plan-tehran-fars/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "زومیا؛ هوش مصنوعی",
+      "story": "زومیا؛ هوش مصنوعی",
+      "date": "2026-11-24",
+      "summary": "دانشمند ارشد اوپن‌ای‌آی خواستار توقف پیشرفت مدل‌ها در آستانه‌های مشخص شد",
+      "source": "زومیت",
+      "published": "2026-11-24T06:40:00+00:00",
+      "link": "https://www.zoomit.ir/ai-articles/471693-openai-proposes-ai-development-limits/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "کسب و کار",
+      "story": "کسب و کار",
+      "date": "2026-11-24",
+      "summary": "همکاری تارا و اسنپ‌پی؛ امکان خرید اعتباری از فروشگاه‌های بیشتری ممکن شد",
+      "source": "زومیت",
+      "published": "2026-11-24T06:32:27+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471738-tara-snapp-pay-credit-purchase/",
+      "observed": "2026-11-24T22:54:16+00:00"
     },
     {
       "topic": "فناوری",
-      "date": "2026-05-08",
-      "story": "راهنمای کاربردی",
-      "summary": "دیجیاتو روش‌های مدیریت مصرف اینترنت در رایانه و موبایل را توضیح داده است.",
+      "story": "فناوری",
+      "date": "2026-11-24",
+      "summary": "جهش چشمگیر چت‌جی‌پی‌تی در درک تصاویر با انتشار GPT-6.2",
+      "source": "زومیت",
+      "published": "2026-11-24T06:29:52+00:00",
+      "link": "https://www.zoomit.ir/ai-articles/471739-gpt-6-2-chatgpt-image-understanding/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-24",
+      "summary": "پس از کشتی، نوبت به وزنه‌برداری رسید؛ هوش مصنوعی وارد ورزش قهرمانی ایران می‌شود",
+      "source": "زومیت",
+      "published": "2026-11-24T06:19:28+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471732-ai-weightlifting-iran-federation/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "اپل",
+      "story": "اپل",
+      "date": "2026-11-24",
+      "summary": "اپل سریال تد لاسو را تمدید کرد",
+      "source": "زومیت",
+      "published": "2026-11-24T06:04:10+00:00",
+      "link": "https://www.zoomit.ir/movies-tv-shows/471731-ted-lasso-season-5-renewal/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "تونل زمان",
+      "story": "تونل زمان",
+      "date": "2026-11-24",
+      "summary": "دو کشف بزرگ که داستان زندگی را بازنویسی کردند؛ ۳ آذر",
+      "source": "زومیت",
+      "published": "2026-11-24T05:30:00+00:00",
+      "link": "https://www.zoomit.ir/time-tunnel/471653-darwin-lucy-evolution-november-24/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "کسب و کار",
+      "story": "کسب و کار",
+      "date": "2026-11-24",
+      "summary": "هکر جوان بازی GTA 6 به ۷ سال زندان محکوم شد، اما آزادی مشروط گرفت",
+      "source": "زومیت",
+      "published": "2026-11-24T05:27:03+00:00",
+      "link": "https://www.zoomit.ir/business/471729-gta-vi-hacker-sentenced-released/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-24",
+      "summary": "قیمت گوشی امروز ۳ آذر؛ افت و خیز پرچمداران اپل در بازار",
+      "source": "زومیت",
+      "published": "2026-11-24T05:00:00+00:00",
+      "link": "https://www.zoomit.ir/mobile/471678-smartphone-price-list-1405-09-02/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "کسب و کار",
+      "story": "کسب و کار",
+      "date": "2026-11-24",
+      "summary": "هوش مصنوعی در حال بلعیدن منابع اقتصادی آمریکا است",
+      "source": "زومیت",
+      "published": "2026-11-24T04:15:00+00:00",
+      "link": "https://www.zoomit.ir/ai-articles/471692-ai-boom-crowding-out-economy/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "صوتی و تصویری",
+      "story": "صوتی و تصویری",
+      "date": "2026-11-24",
+      "summary": "میکروفونی کروی که صدا را هم‌زمان از تمام جهت‌ها ضبط می‌کند",
+      "source": "زومیت",
+      "published": "2026-11-24T02:30:00+00:00",
+      "link": "https://www.zoomit.ir/av/471687-blackmagic-ambisonic-microphone-launch/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "خودرو و موتورسیکلت",
+      "story": "خودرو و موتورسیکلت",
+      "date": "2026-11-23",
+      "summary": "نیو ET5 تورینگ مدل ۲۰۲۷ رؤیت شد؛ رقیب چینی خودروهای برقی اروپایی",
+      "source": "زومیت",
+      "published": "2026-11-23T23:15:00+00:00",
+      "link": "https://www.zoomit.ir/car/471686-nio-et5-touring-es6-launch/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "پوشیدنی ها",
+      "story": "پوشیدنی ها",
+      "date": "2026-11-23",
+      "summary": "سیتیزن از دو ساعت لوکس جدید رونمایی کرد؛ شارژ با نور و عمر باتری تا ۱۰ ماه",
+      "source": "زومیت",
+      "published": "2026-11-23T23:15:00+00:00",
+      "link": "https://www.zoomit.ir/wearables/471626-citizen-attesa-ecodrive-watches-launched/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "گجت",
+      "story": "گجت",
+      "date": "2026-11-23",
+      "summary": "گجت جالبی که هم قاب عکس است و هم ردیاب وسایل",
+      "source": "زومیت",
+      "published": "2026-11-23T21:40:00+00:00",
+      "link": "https://www.zoomit.ir/gadget/471685-kodak-slidetag-tracker-e-ink/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-23",
+      "summary": "اخترشناسان برای نخستین‌بار ستاره‌ای غول‌پیکر را در حال بلعیدن ستاره همراهش رصد کردند",
+      "source": "زومیت",
+      "published": "2026-11-23T20:29:00+00:00",
+      "link": "https://www.zoomit.ir/space/471726-astronomers-spot-giant-star-swallowing-its-companion/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "سامسونگ",
+      "story": "سامسونگ",
+      "date": "2026-11-23",
+      "summary": "پایان عرضه سالانه گلکسی واچ؟ سامسونگ به تغییر برنامه فکر می‌کند",
+      "source": "زومیت",
+      "published": "2026-11-23T19:50:00+00:00",
+      "link": "https://www.zoomit.ir/wearables/471683-samsung-galaxy-watch-delay-strategy/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مقالات بلند و اختصاصی",
+      "story": "مقالات بلند و اختصاصی",
+      "date": "2026-11-23",
+      "summary": "مردی که با هلیکوپتر از زندان گریخت و برای نجات دوستانش برگشت",
+      "source": "زومیت",
+      "published": "2026-11-23T19:30:00+00:00",
+      "link": "https://www.zoomit.ir/human-science/471676-pascal-payet-helicopter-prison-escapes-featured/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-23",
+      "summary": "آیا جوانان امروزی واقعاً مضطرب‌تر از نسل‌های گذشته هستند؟ پژوهشی تازه پاسخ می‌دهد",
+      "source": "زومیت",
+      "published": "2026-11-23T19:00:00+00:00",
+      "link": "https://www.zoomit.ir/health-medical/471698-study-explains-rising-youth-anxiety/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-23",
+      "summary": "سامسونگ با هوش مصنوعی عکس‌های شما را به ویدیوهای کوتاه تبدیل می‌کند",
+      "source": "زومیت",
+      "published": "2026-11-23T19:00:00+00:00",
+      "link": "https://www.zoomit.ir/ai-articles/471682-samsung-gallery-shorts-feature-leak/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-23",
+      "summary": "بازنشستگی در اوج؛ نخستین استارشیپ بازیابی‌شده دیگر هرگز پرواز نخواهد کرد",
+      "source": "زومیت",
+      "published": "2026-11-23T18:20:00+00:00",
+      "link": "https://www.zoomit.ir/aviation-aerospace/471725-spacex-retire-1st-starship-upper-stage-ever-caught/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "زوم پلاس",
+      "story": "زوم پلاس",
+      "date": "2026-11-23",
+      "summary": "زنی پس از ۳۲ سال جست‌وجو، مادر گمشده‌اش را در خیابان‌های لاس‌وگاس پیدا کرد",
+      "source": "زومیت",
+      "published": "2026-11-23T18:15:00+00:00",
+      "link": "https://www.zoomit.ir/zoomplus/471690-woman-finds-missing-mother-las-vegas/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "سخت افزار",
+      "story": "سخت افزار",
+      "date": "2026-11-23",
+      "summary": "افشای مشخصات پردازنده‌های نسل جدید اینتل؛ فرکانس ۵٫۲ گیگاهرتزی در Nova Lake-S",
+      "source": "زومیت",
+      "published": "2026-11-23T18:00:00+00:00",
+      "link": "https://www.zoomit.ir/processor/471631-intel-nova-lake-cpu-leak/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-23",
+      "summary": "ترفند شکار سه‌هزار ساله؛ بومیان آمریکا گاومیش‌ها را از پرتگاه به پایین می‌راندند",
+      "source": "زومیت",
+      "published": "2026-11-23T17:35:00+00:00",
+      "link": "https://www.zoomit.ir/human-science/471614-ancient-texas-bison-cliff-hunt/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مقالات بلند و اختصاصی",
+      "story": "مقالات بلند و اختصاصی",
+      "date": "2026-11-23",
+      "summary": "چرا اف‌بی‌آی بلافاصله پس از مرگ تسلا سراغ دست‌نوشته‌های مخفی او رفت؟ جعبه‌ای که نباید باز می‌شد",
+      "source": "زومیت",
+      "published": "2026-11-23T17:30:00+00:00",
+      "link": "https://www.zoomit.ir/human-science/471718-esla-secret-handwriting-death/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-23",
+      "summary": "آیا بازیابی ذهن پس از مرگ امکان‌پذیر است؟  پزشکان احتمال موفقیت را ۲۵ درصد می‌دانند",
+      "source": "زومیت",
+      "published": "2026-11-23T16:25:00+00:00",
+      "link": "https://www.zoomit.ir/health-medical/470782-human-brain-preservation-revival-chance/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "زوم پلاس",
+      "story": "زوم پلاس",
+      "date": "2026-11-23",
+      "summary": "نفتکش به کشتی گردشگری کوبید و آن را واژگون کرد؛ سرنوشت ۱۹۰ سرنشین چه شد؟",
+      "source": "زومیت",
+      "published": "2026-11-23T16:20:00+00:00",
+      "link": "https://www.zoomit.ir/zoomplus/471688-mississippi-tanker-tour-boat-crash/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "زوم پلاس",
+      "story": "زوم پلاس",
+      "date": "2026-11-23",
+      "summary": "مردی خودش را آتش زد و ۱۷۳ متر در هوا حرکت کرد؛ رکوردی ترسناک در گینس ثبت شد",
+      "source": "زومیت",
+      "published": "2026-11-23T16:05:00+00:00",
+      "link": "https://www.zoomit.ir/zoomplus/471643-stuntman-guinness-record-fire-zipline/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "بازی",
+      "story": "بازی",
+      "date": "2026-11-23",
+      "summary": "داستان کامل بازی جی تی ای ۶ (GTA VI) از ابتدا تا صحنه پایانی",
+      "source": "زومیت",
+      "published": "2026-11-23T16:00:31+00:00",
+      "link": "https://www.zoomit.ir/gaming/471724-gta-vi-6-story/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-23",
+      "summary": "اگر قلمرو انسان خردمند در اوراسیا گسترش نمی‌یافت، نئاندرتال‌ها شاید منقرض نمی‌شدند",
+      "source": "زومیت",
+      "published": "2026-11-23T15:29:00+00:00",
+      "link": "https://www.zoomit.ir/human-science/471612-human-expansion-neanderthal-extinction/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "کاسیو",
+      "story": "کاسیو",
+      "date": "2026-11-23",
+      "summary": "ساعت‌های جدیدی که بدون نیاز به باتری کار می‌کنند؛ ذخیره انرژی ۴۲ ساعته و مقاومت در آب",
+      "source": "زومیت",
+      "published": "2026-11-23T15:15:00+00:00",
+      "link": "https://www.zoomit.ir/wearables/471629-casio-cmk100-titanium-automatic-watches/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "زومیا؛ هوش مصنوعی",
+      "story": "زومیا؛ هوش مصنوعی",
+      "date": "2026-11-23",
+      "summary": "ساخت ویدیو رایگان با هوش مصنوعی گوگل؛ آموزش انتقال حرکت ویدیو به کاراکتر با گوگل فلو",
+      "source": "زومیت",
+      "published": "2026-11-23T14:30:00+00:00",
+      "link": "https://www.zoomit.ir/ai-articles/471584-google-flow-ai-motion-transfer/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "کسب و کار",
+      "story": "کسب و کار",
+      "date": "2026-11-23",
+      "summary": "جنسن هوانگ برگشت و وال‌استریت را آتش زد؛ رشد ۳۱ درصدی سهام انویدیا",
+      "source": "زومیت",
+      "published": "2026-11-23T14:18:17+00:00",
+      "link": "https://www.zoomit.ir/business/471722-jensen-huang-ceo-again-official/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "گجت",
+      "story": "گجت",
+      "date": "2026-11-23",
+      "summary": "ماگ ارزان‌قیمت شیائومی، دمای نوشیدنی‌ها را تا ۶ ساعت حفظ می‌کند",
+      "source": "زومیت",
+      "published": "2026-11-23T14:10:00+00:00",
+      "link": "https://www.zoomit.ir/gadget/471625-xiaomi-mijia-coffee-cup-launch/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "بازی",
+      "story": "بازی",
+      "date": "2026-11-23",
+      "summary": "از ارومیه تا آمریکا؛ کوروش ترابی جوان ایرانی که در ساخت بازی GTA 6 نقش داشت",
+      "source": "زومیت",
+      "published": "2026-11-23T13:41:02+00:00",
+      "link": "https://www.zoomit.ir/gaming/471720-iranian-programmer-gta-6-credits/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-23",
+      "summary": "امن‌ترین و ناامن‌ترین اپراتورهای پیامک انبوه معرفی شدند",
+      "source": "زومیت",
+      "published": "2026-11-23T13:29:29+00:00",
+      "link": "https://www.zoomit.ir/tech-iran/471717--mass-sms-operators-cybersecurity-ranking-/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "فناوری",
+      "story": "فناوری",
+      "date": "2026-11-23",
+      "summary": "اپل به‌دنبال استفاده از نور برای انتقال سریع‌تر داده میان تراشه‌ها است",
+      "source": "زومیت",
+      "published": "2026-11-23T13:24:36+00:00",
+      "link": "https://www.zoomit.ir/processor/471719-apple-silicon-photonics-server-chips/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-23",
+      "summary": "ویوو برای بازار گوشی‌های ارزان آماده می‌شود؛ مشخصات و تصاویر سه مدل جدید فاش شد",
+      "source": "زومیت",
+      "published": "2026-11-23T13:00:00+00:00",
+      "link": "https://www.zoomit.ir/mobile/471621-vivo-budget-phones-specs-leak/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-23",
+      "summary": "پایان پایداری هزاران‌ساله: یخ‌های زمین از محدوده‌ ایمن خارج شده‌اند",
+      "source": "زومیت",
+      "published": "2026-11-23T12:40:00+00:00",
+      "link": "https://www.zoomit.ir/energy-environment/471381-earth-cryosphere-crosses-safe-boundaries/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-23",
+      "summary": "دانشمندان با فناوری ساخت تراشه، از خاک مصنوعی ماه اکسیژن استخراج کردند",
+      "source": "زومیت",
+      "published": "2026-11-23T11:50:00+00:00",
+      "link": "https://www.zoomit.ir/space/471699-plasma-technology-extract-moon-oxygen/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-23",
+      "summary": "ظاهر گلکسی S26 اولترا با نمایشگر پشتی شبیه شیائومی؛ گوشی جدید دوجی رونمایی شد",
+      "source": "زومیت",
+      "published": "2026-11-23T11:50:00+00:00",
+      "link": "https://www.zoomit.ir/mobile/471619-doogee-note-70-specs-revealed/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-23",
+      "summary": "مهاجری خطاب به پزشکیان: برخی اعضای شورای عالی فضای مجازی می‌خواهند وعده رفع فیلتر را زمین بزنند",
+      "source": "زومیت",
+      "published": "2026-11-23T11:45:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471715-mohajeri-pezeshkian-filtering-cyberspace-reaction/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-23",
+      "summary": "بومی‌سازی فاوا میان حمایت و انحصار؛ اختلاف‌نظر دولت و بخش خصوصی بر سر شیوه اجرا",
+      "source": "زومیت",
+      "published": "2026-11-23T11:23:27+00:00",
+      "link": "https://www.zoomit.ir/report/471710-ict-localization-regulations-iran-dispute/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ارز دیجیتال",
+      "story": "ارز دیجیتال",
+      "date": "2026-11-23",
+      "summary": "هنگ‌کنگ به‌دنبال کنترل گسترده‌تر بازار رمزارزها؛ فعالیت بدون مجوز شرکت‌های کریپتویی محدود می‌شود",
+      "source": "زومیت",
+      "published": "2026-11-23T11:15:00+00:00",
+      "link": "https://www.zoomit.ir/cryptocurrency/471580-hong-kong-crypto-licensing-bill/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "اخبار ایران",
+      "story": "اخبار ایران",
+      "date": "2026-11-23",
+      "summary": "توقف واردات موبایل از مناطق آزاد در انتظار تخصیص ارز و کد ساتا",
+      "source": "زومیت",
+      "published": "2026-11-23T10:51:42+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471712-free-zones-mobile-phone-import/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-23",
+      "summary": "دانمارک کشتی‌های مسافربری تمام‌برقی و پرسرعت با باتری‌های ۴۰۰ تنی می‌سازد",
+      "source": "زومیت",
+      "published": "2026-11-23T10:35:00+00:00",
+      "link": "https://www.zoomit.ir/engineering/471697-lightweight-batteries-fast-electric-ferries/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "اخبار ایران",
+      "story": "اخبار ایران",
+      "date": "2026-11-23",
+      "summary": "افزایش حقوق کارمندان در دستور کار مجلس قرار دارد",
+      "source": "زومیت",
+      "published": "2026-11-23T10:21:07+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471709-parliament-reviews-employee-salary-increase/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-23",
+      "summary": "قابلیت محبوب آیفون به گوشی‌های سامسونگ می‌آید؟ تغییر بزرگ رابط کاربری گلکسی S27 لو رفت",
+      "source": "زومیت",
+      "published": "2026-11-23T10:00:00+00:00",
+      "link": "https://www.zoomit.ir/software-news/471579-samsung-now-bar-redesign-galaxy-s27/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-23",
+      "summary": "گوشی‌های سری آنر ۷۰۰ با نمایشگر پشتی و باتری پرظرفیت معرفی شدند",
+      "source": "زومیت",
+      "published": "2026-11-23T09:54:32+00:00",
+      "link": "https://www.zoomit.ir/mobile/471708-honor-700-series-launch-details/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-23",
+      "summary": "ساترا: برخی تولیدات نمایش خانگی مصرف دخانیات و مشروبات الکلی، خشونت و شوخی‌های جنسی را ترویج می‌کنند",
+      "source": "زومیت",
+      "published": "2026-11-23T09:35:31+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471707-satra-reaction-streaming-platforms-controversy/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-23",
+      "summary": "نانوپلاستیک‌ها ممکن است خطر ابتلا به سرطان روده بزرگ را افزایش دهند",
+      "source": "زومیت",
+      "published": "2026-11-23T09:25:00+00:00",
+      "link": "https://www.zoomit.ir/health-medical/471615-microplastics-colon-cancer-tumor-growth/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-23",
+      "summary": "جنگ اخیر ضرورت بومی‌سازی تجهیزات فاوا را نشان داد؛ تولید داخلی برای تامین امنیت کشور حیاتی است",
+      "source": "زومیت",
+      "published": "2026-11-23T09:15:00+00:00",
+      "link": "https://www.zoomit.ir/report/471705-ict-equipment-localization-national-security/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-23",
+      "summary": "شیائومی به‌دنبال شکستن رکورد باتری پرچمداران؟ مشخصات شیائومی ۱۸ مکس فاش شد",
+      "source": "زومیت",
+      "published": "2026-11-23T09:10:00+00:00",
+      "link": "https://www.zoomit.ir/mobile/471578-xiaomi-18-max-battery-leak/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "کسب و کار",
+      "story": "کسب و کار",
+      "date": "2026-11-23",
+      "summary": "عرضه رنج جدید سیم‌کارت‌های شاتل موبایل با کدهای ۲۶ و ۲۷",
+      "source": "زومیت",
+      "published": "2026-11-23T08:30:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471704-shatel-mobile-new-sim-numbers/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-23",
+      "summary": "سخنگوی وزارت آموزش‌وپرورش: تا زمانی که شاخص آلودگی به ۲۰۰ نرسد، سراغ تعطیلی مدارس نمی‌رویم",
+      "source": "زومیت",
+      "published": "2026-11-23T08:03:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471703-iran-schools-air-pollution-threshold/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "خودرو و موتورسیکلت",
+      "story": "خودرو و موتورسیکلت",
+      "date": "2026-11-23",
+      "summary": "خودروهای بدون راننده ویمو از کنترل پلیس سرپیچی می‌کنند؟ فراخوان تازه پس از وقوع تصادف",
+      "source": "زومیت",
+      "published": "2026-11-23T08:00:00+00:00",
+      "link": "https://www.zoomit.ir/car/471574-waymo-robotaxi-double-safety-recall/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "فناوری",
+      "story": "فناوری",
+      "date": "2026-11-23",
+      "summary": "هوش مصنوعی GLM-5.4 از راه رسید؛ پردازش تصویر، برنامه‌نویسی بهتر و محدودیت‌های کمتر",
+      "source": "زومیت",
+      "published": "2026-11-23T07:33:14+00:00",
+      "link": "https://www.zoomit.ir/ai-articles/471701-zai-glm-5-4-coding-model/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-23",
+      "summary": "اتصال آنلاین بیمه تکمیلی و برخورد با شرکت‌های متخلف در دستور کار قرار گرفت",
+      "source": "زومیت",
+      "published": "2026-11-23T07:30:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471691-supplementary-insurance-system-violations/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "بازی",
+      "story": "بازی",
+      "date": "2026-11-23",
+      "summary": "آزادی عمل در GTA 6 همچنان غافلگیرمان می‌کند؛ خودپردازها را از جا بکنید و پول بردارید",
+      "source": "زومیت",
+      "published": "2026-11-23T07:20:00+00:00",
+      "link": "https://www.zoomit.ir/gaming/471681-gta-6-atm-robbery-mechanic/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "کسب و کار",
+      "story": "کسب و کار",
+      "date": "2026-11-23",
+      "summary": "ترامپ بار دیگر خواستار بازگشت جنسن هوانگ به انویدیا شد",
+      "source": "زومیت",
+      "published": "2026-11-23T07:00:00+00:00",
+      "link": "https://www.zoomit.ir/business/471680-trump-urges-nvidia-rehire-huang/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-23",
+      "summary": "درخواست آقاتهرانی از پزشکیان: جلسه شورای عالی فضای مجازی را تشکیل دهید",
+      "source": "زومیت",
+      "published": "2026-11-23T06:56:57+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471695-aghatehrani-pezeshkian-cyberspace-council-meetings/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "خودرو و موتورسیکلت",
+      "story": "خودرو و موتورسیکلت",
+      "date": "2026-11-23",
+      "summary": "این خودرو با انرژی خورشیدی کار می‌کند!",
+      "source": "زومیت",
+      "published": "2026-11-23T06:42:33+00:00",
+      "link": "https://www.zoomit.ir/car/471694-aptera-completes-first-solar-ev/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "سامسونگ",
+      "story": "سامسونگ",
+      "date": "2026-11-23",
+      "summary": "پروژه مخفی سامسونگ برای تولید لپ‌تاپ اندرویدی لو رفت",
+      "source": "زومیت",
+      "published": "2026-11-23T06:40:00+00:00",
+      "link": "https://www.zoomit.ir/laptop/471503-samsung-origin-android-laptops-details/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "کسب و کار",
+      "story": "کسب و کار",
+      "date": "2026-11-23",
+      "summary": "الفت‌نسب: زیرساخت‌های ناقص، مانع اتصال پلتفرم‌های طلا به سامانه ناظر شده است",
+      "source": "زومیت",
+      "published": "2026-11-23T06:27:23+00:00",
+      "link": "https://www.zoomit.ir/business/471689-online-gold-monitoring-system-transfer/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "فناوری",
+      "story": "فناوری",
+      "date": "2026-11-23",
+      "summary": "حلقه معروف «ارباب حلقه‌ها» واقعی شد؛ این بار با قابلیت‌های هوشمند",
+      "source": "زومیت",
+      "published": "2026-11-23T06:00:00+00:00",
+      "link": "https://www.zoomit.ir/wearables/471679-ringconn-launches-the-one-ring/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "کسب و کار",
+      "story": "کسب و کار",
+      "date": "2026-11-23",
+      "summary": "آغاز نظارت ویژه اتاق اصناف بر تخفیف‌های بلک‌فرایدی؛ حراج‌های غیرواقعی زیر ذره‌بین",
+      "source": "زومیت",
+      "published": "2026-11-23T05:47:27+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471684-iran-black-friday-discount-monitoring/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "تونل زمان",
+      "story": "تونل زمان",
+      "date": "2026-11-23",
+      "summary": "شبی که آندرومدا مرزهای جهان را جابه‌جا کرد؛ ۲ آذر",
+      "source": "زومیت",
+      "published": "2026-11-23T05:30:00+00:00",
+      "link": "https://www.zoomit.ir/time-tunnel/471594-andromeda-moseley-ibm-simon-november-23/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "پوشیدنی ها",
+      "story": "پوشیدنی ها",
+      "date": "2026-11-23",
+      "summary": "قیمت ساعت هوشمند امروز ۲ آذر؛ افت ۲۰ درصدی گلکسی واچ FE",
+      "source": "زومیت",
+      "published": "2026-11-23T05:00:00+00:00",
+      "link": "https://www.zoomit.ir/wearables/471613-smartwatch-price-guide-1405-09-01/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مایکروسافت",
+      "story": "مایکروسافت",
+      "date": "2026-11-23",
+      "summary": "تبدیل گوشی به مانیتور دوم کامپیوتر؛ قابلیت جذاب ویندوز ۱۱ در راه است",
+      "source": "زومیت",
+      "published": "2026-11-23T04:15:00+00:00",
+      "link": "https://www.zoomit.ir/os/471573-windows-11-phone-second-monitor/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "خودرو و موتورسیکلت",
+      "story": "خودرو و موتورسیکلت",
+      "date": "2026-11-23",
+      "summary": "شاسی‌بلند معروف چینی به‌دلیل کپی‌برداری از طراحی لندرور دیفندر، در اروپا ممنوع شد",
+      "source": "زومیت",
+      "published": "2026-11-23T02:30:00+00:00",
+      "link": "https://www.zoomit.ir/car/471572-byd-ti7-banned-in-eu/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "کسب و کار",
+      "story": "کسب و کار",
+      "date": "2026-11-22",
+      "summary": "یوتیوب در آستانه پرداخت غرامت ۳ میلیارد دلاری؛ اتهام آسیب به سلامت روان کودکان",
+      "source": "زومیت",
+      "published": "2026-11-22T23:15:00+00:00",
+      "link": "https://www.zoomit.ir/business/471571-youtube-settles-addiction-lawsuits-billions/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-22",
+      "summary": "اپل از بحران کمبود آیفون دوئو فاصله می‌گیرد؛ موعد تحویل یک ماه جلو افتاد",
+      "source": "زومیت",
+      "published": "2026-11-22T21:40:00+00:00",
+      "link": "https://www.zoomit.ir/mobile/471570-apple-iphone-duo-shipping-times/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-22",
+      "summary": "فضاپیمای بپی‌کلمبو بالاخره وارد مدار عطارد شد؛ پایان سفر ۸ ساله در منظومه شمسی",
+      "source": "زومیت",
+      "published": "2026-11-22T20:29:00+00:00",
+      "link": "https://www.zoomit.ir/space/471675-bepicolomobo-mission-mercury-orbit-arrival/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-22",
+      "summary": "برند PureView نوکیا احیا می‌شود؟",
+      "source": "زومیت",
+      "published": "2026-11-22T20:00:00+00:00",
+      "link": "https://www.zoomit.ir/mobile/471569-hmd-revives-pureview-branding/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-22",
+      "summary": "این ربات نرم بدون هیچ تراشه‌ای با سرعت ۱۷ کیلومتر بر ساعت می‌دود",
+      "source": "زومیت",
+      "published": "2026-11-22T19:10:00+00:00",
+      "link": "https://www.zoomit.ir/robotics-smart-machines/471665-fast-soft-robot-no-electronics/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "گجت",
+      "story": "گجت",
+      "date": "2026-11-22",
+      "summary": "ایستگاه شارژ جدید جکری با پشتیبانی از شارژ خورشیدی و خروجی ۱۴۰ وات رونمایی شد",
+      "source": "زومیت",
+      "published": "2026-11-22T19:00:00+00:00",
+      "link": "https://www.zoomit.ir/gadget/471566-jackery-explorer-100d-power-station/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-22",
+      "summary": "از مومیایی مغز تا کلون‌های دیجیتال و بدن یدکی؛ چطور ذهنتان را جاودانه می‌کنید؟",
+      "source": "زومیت",
+      "published": "2026-11-22T18:30:00+00:00",
+      "link": "https://www.zoomit.ir/health-medical/471673-cognitive-immortality-quest-featured/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-22",
+      "summary": "گوشی و تبلت برخلاف تصور رایج شاید برای مغز کودکان مفید باشند",
+      "source": "زومیت",
+      "published": "2026-11-22T18:15:00+00:00",
+      "link": "https://www.zoomit.ir/health-medical/471668-screen-time-children-cognitive-performance/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "زوم پلاس",
+      "story": "زوم پلاس",
+      "date": "2026-11-22",
+      "summary": "مردی نزدیک به نیم‌ساعت زیر آب نفس نکشید؛ راز رکورد ۲۹ دقیقه‌ای چیست؟",
+      "source": "زومیت",
+      "published": "2026-11-22T18:10:00+00:00",
+      "link": "https://www.zoomit.ir/zoomplus/471662-world-record-breath-holding-underwater/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "خودرو و موتورسیکلت",
+      "story": "خودرو و موتورسیکلت",
+      "date": "2026-11-22",
+      "summary": "جنسیس به‌دنبال تولید هیولای آفرودی ۱۱۰۰ اسب‌بخاری؛ X Skorpio به خیابان‌ها می‌آید؟",
+      "source": "زومیت",
+      "published": "2026-11-22T17:50:00+00:00",
+      "link": "https://www.zoomit.ir/car/471545-genesis-x-skorpio-road-legal/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "زوم پلاس",
+      "story": "زوم پلاس",
+      "date": "2026-11-22",
+      "summary": "یک ماهی قرمز پشت فرمان نشست و رکورد رانندگی در گینس را شکست!",
+      "source": "زومیت",
+      "published": "2026-11-22T17:30:00+00:00",
+      "link": "https://www.zoomit.ir/zoomplus/471641-goldfish-drives-car-guinness-record/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-22",
+      "summary": "شتر خون‌آشام؛‌ جانور عجیبی که ۱۳ میلیون سال پیش در آمریکای شمالی زندگی می‌کرد",
+      "source": "زومیت",
+      "published": "2026-11-22T17:25:00+00:00",
+      "link": "https://www.zoomit.ir/biology/471609-vampire-camel-fossil-north-america/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "هوانوردی و هوافضا",
+      "story": "هوانوردی و هوافضا",
+      "date": "2026-11-22",
+      "summary": "درِ هواپیما وسط پرواز کنده شد؛ حادثه هولناک در آسمان نیجریه",
+      "source": "زومیت",
+      "published": "2026-11-22T17:10:00+00:00",
+      "link": "https://www.zoomit.ir/aviation-aerospace/471638-nigeria-plane-door-falls-off/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ویدیو",
+      "story": "ویدیو",
+      "date": "2026-11-22",
+      "summary": "از مهندسی نرم‌افزار تا پایه‌گذاری مرجع آنلاین شعر فارسی؛ مصاحبه زومیت با مدیر سایت گنجور",
+      "source": "زومیت",
+      "published": "2026-11-22T16:50:00+00:00",
+      "link": "https://www.zoomit.ir/report/471421-ganjoor-website-manager-interview/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "زوم پلاس",
+      "story": "زوم پلاس",
+      "date": "2026-11-22",
+      "summary": "بلندترین پل جهان در چین، جاده‌ای در ارتفاع ۶۲۶ متری زمین!",
+      "source": "زومیت",
+      "published": "2026-11-22T16:30:00+00:00",
+      "link": "https://www.zoomit.ir/zoomplus/471634-china-highest-bridge-huajiang-canyon/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "هوانوردی و هوافضا",
+      "story": "هوانوردی و هوافضا",
+      "date": "2026-11-22",
+      "summary": "سوراخ ریز پایین پنجره هواپیما برای چیست؟",
+      "source": "زومیت",
+      "published": "2026-11-22T16:15:00+00:00",
+      "link": "https://www.zoomit.ir/aviation-aerospace/471637-airplane-window-tiny-hole-purpose/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "زوم پلاس",
+      "story": "زوم پلاس",
+      "date": "2026-11-22",
+      "summary": "بازی کال آو دیوتی باعث تخلیه اضطراری یک هواپیما در آمریکا شد!",
+      "source": "زومیت",
+      "published": "2026-11-22T16:10:00+00:00",
+      "link": "https://www.zoomit.ir/gaming/471623-call-of-duty-plane-evacuation/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "خودرو و موتورسیکلت",
+      "story": "خودرو و موتورسیکلت",
+      "date": "2026-11-22",
+      "summary": "مینی‌ون لوکس هواوی و بایک با صندلی‌های چرخان، ۲۵ اسپیکر و رانندگی خودران پیشرفته معرفی شد",
+      "source": "زومیت",
+      "published": "2026-11-22T15:15:00+00:00",
+      "link": "https://www.zoomit.ir/car/471544-stelato-v8-mpv-launched-china/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "اخبار ایران",
+      "story": "اخبار ایران",
+      "date": "2026-11-22",
+      "summary": "فراخوان گیم‌جم بازی‌سازی بر پایه آی‌پی‌های کودک و نوجوان منتشر شد",
+      "source": "زومیت",
+      "published": "2026-11-22T14:30:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471663-iranian-kids-ip-game-jam/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "لوازم جانبی",
+      "story": "لوازم جانبی",
+      "date": "2026-11-22",
+      "summary": "پاوربانک جدید کوکتک به پشت آیفون می‌چسبد؛ طراحی فوق‌باریک و شارژ بی‌سیم ۱۵ واتی",
+      "source": "زومیت",
+      "published": "2026-11-22T14:00:00+00:00",
+      "link": "https://www.zoomit.ir/accessories/471541-cuktech-5-air-magnetic-power-bank/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "کسب و کار",
+      "story": "کسب و کار",
+      "date": "2026-11-22",
+      "summary": "بلک فرایدی «موبایل ۱۴۰» با همکاری سرویس‌های خرید اعتباری آغاز شد",
+      "source": "زومیت",
+      "published": "2026-11-22T13:50:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471670-black-friday-mobile-140-credit-services-partnerships/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-22",
+      "summary": "چرا بعضی‌ها بیشتر از دیگران سرما می‌خورند؟ علم به یک عامل غیرمنتظره اشاره می‌کند",
+      "source": "زومیت",
+      "published": "2026-11-22T13:30:00+00:00",
+      "link": "https://www.zoomit.ir/health-medical/471647-sleep-duration-common-cold-risk/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-22",
+      "summary": "ازکی‌سلر از قابلیت «کارمزد ماندگار» رونمایی کرد؛ حفظ کارمزد فروشندگان بیمه در تمام خریدهای بعدی مشتری",
+      "source": "زومیت",
+      "published": "2026-11-22T13:30:00+00:00",
+      "link": "https://www.zoomit.ir/tech-iran/471532-azki-seller-introduces-lifetime-commission-feature/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "کسب و کار",
+      "story": "کسب و کار",
+      "date": "2026-11-22",
+      "summary": "کارمزد خرید طلا در میلی از ۳۰ آبان تا ۶ آذر صفر شد",
+      "source": "زومیت",
+      "published": "2026-11-22T13:15:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471669-milli-gold-purchase-zero-fee/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "کسب و کار",
+      "story": "کسب و کار",
+      "date": "2026-11-22",
+      "summary": "اسنپ‌پی کمپین بلک‌فرایدی «تخفیفمَن» را با تخفیف تا ۹۰ درصد آغاز کرد",
+      "source": "زومیت",
+      "published": "2026-11-22T13:14:53+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471672-snapppay-black-friday-takhfifman-campaign/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "رپورتاژ آگهی",
+      "story": "رپورتاژ آگهی",
+      "date": "2026-11-22",
+      "summary": "جشنواره بلک‌فرایدی فراز آغاز شد؛ تخفیف‌های ویژه برای کاربران بازارهای مالی",
+      "source": "زومیت",
+      "published": "2026-11-22T13:09:59+00:00",
+      "link": "https://www.zoomit.ir/pr/471671-faraz-black-friday-discounts/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "امنیت و حریم خصوصی",
+      "story": "امنیت و حریم خصوصی",
+      "date": "2026-11-22",
+      "summary": "کشف آسیب‌پذیری بحرانی در دروپال؛ هکرها می‌توانند کنترل کامل وب‌سایت‌ها را به دست بگیرند",
+      "source": "زومیت",
+      "published": "2026-11-22T13:00:00+00:00",
+      "link": "https://www.zoomit.ir/security/471542-drupal-critical-vulnerability-security-update/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-22",
+      "summary": "هشدار درباره حملات سایبری به زیرساخت‌های مخابرات؛ دستور تقویت امنیت شبکه صادر شد",
+      "source": "زومیت",
+      "published": "2026-11-22T12:52:21+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471667-iran-telecom-cybersecurity-measures/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "هوانوردی و هوافضا",
+      "story": "هوانوردی و هوافضا",
+      "date": "2026-11-22",
+      "summary": "رئیس سازمان فضایی: ۳۶ ماهواره در دست ساخت داریم؛ رونمایی از ۳ ماهواره در بهمن‌ماه",
+      "source": "زومیت",
+      "published": "2026-11-22T12:30:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471648-iran-builds-thirty-six-satellites/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-22",
+      "summary": "مایع زمان؛ حالت عجیبی از ماده که از دل آشفتگی به نظم می‌رسد",
+      "source": "زومیت",
+      "published": "2026-11-22T12:25:00+00:00",
+      "link": "https://www.zoomit.ir/fundamental-science/470012-time-liquid-new-state-matter/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-22",
+      "summary": "سرشماری مجازی تا ۵ آذر تمدید شد",
+      "source": "زومیت",
+      "published": "2026-11-22T12:03:17+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471664-iran-census-registration-deadline-extended/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "شبکه‌های اجتماعی",
+      "story": "شبکه‌های اجتماعی",
+      "date": "2026-11-22",
+      "summary": "بازی GTA 6 ماشین پول‌سازی جدید اینترنت شد؛ از استریمرهای مشهور تا کانال‌های کوچک یوتیوب",
+      "source": "زومیت",
+      "published": "2026-11-22T11:45:00+00:00",
+      "link": "https://www.zoomit.ir/gaming/471530-gta-6-streamers-content-creator-revenue/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-22",
+      "summary": "یادداشت معاون سیاستگذاری وزیر ارتباطات: تخفیف‌های جعلی جمعه سیاه، آزمون تشکل‌های اقتصاد دیجیتال",
+      "source": "زومیت",
+      "published": "2026-11-22T11:30:00+00:00",
+      "link": "https://www.zoomit.ir/op-ed/471661-black-friday-fake-discounts-self-regulation/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-22",
+      "summary": "دارویی جدید از خانواده ویاگرا پیشرفت آلزایمر را در گروهی از بیماران کاهش داد",
+      "source": "زومیت",
+      "published": "2026-11-22T11:10:00+00:00",
+      "link": "https://www.zoomit.ir/health-medical/471444-ar1001-alzheimers-drug-clinical-trial/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "امنیت و حریم خصوصی",
+      "story": "امنیت و حریم خصوصی",
+      "date": "2026-11-22",
+      "summary": "هشدار جدی سیگنال درباره جاسوسی ناخواسته هوش مصنوعی؛ پیام‌های رمزگذاری‌شده هم در خطرند",
+      "source": "زومیت",
+      "published": "2026-11-22T11:00:00+00:00",
+      "link": "https://www.zoomit.ir/security/471540-signal-restricts-screenshots-against-ai/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "کسب و کار",
+      "story": "کسب و کار",
+      "date": "2026-11-22",
+      "summary": "جزئیات کمپین «قسطی جمعه» دیجی‌پی؛ اعتبار تا سقف ۴۰۰ میلیون تومان",
+      "source": "زومیت",
+      "published": "2026-11-22T10:55:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471659-digipay-qesti-jomeh-credit-campaign/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ارز دیجیتال",
+      "story": "ارز دیجیتال",
+      "date": "2026-11-22",
+      "summary": "سقوط لحظه‌ای قیمت بیت‌کوین به ۱۷ هزار دلار، معامله‌گران را غافلگیر کرد",
+      "source": "زومیت",
+      "published": "2026-11-22T10:45:02+00:00",
+      "link": "https://www.zoomit.ir/cryptocurrency/471660-kraken-honors-flash-crash-trades/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "فناوری",
+      "story": "فناوری",
+      "date": "2026-11-22",
+      "summary": "دانشمندان با ویتامین B12 باتری شارژی ساختند",
+      "source": "زومیت",
+      "published": "2026-11-22T10:30:00+00:00",
+      "link": "https://www.zoomit.ir/tech/471636-vitamin-b12-zinc-air-battery-tech/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-22",
+      "summary": "هشدار دانشمندان به کاوشگران ماه: قمر زمین را به غرب وحشی تبدیل نکنید",
+      "source": "زومیت",
+      "published": "2026-11-22T10:25:00+00:00",
+      "link": "https://www.zoomit.ir/space/471658-dont-turn-moon-into-wild-west/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "اخبار ایران",
+      "story": "اخبار ایران",
+      "date": "2026-11-22",
+      "summary": "از وام بدون ضامن تا تسهیلات ۴۰۰ میلیون تومانی؛ جزئیات کمپین جدید ویپاد",
+      "source": "زومیت",
+      "published": "2026-11-22T10:15:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471652-vpod-new-loan-campaign-details/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "زومیا؛ هوش مصنوعی",
+      "story": "زومیا؛ هوش مصنوعی",
+      "date": "2026-11-22",
+      "summary": "چطور با ۷ دستور ساده، هر موضوعی را با هوش مصنوعی یاد بگیریم؟",
+      "source": "زومیت",
+      "published": "2026-11-22T10:07:56+00:00",
+      "link": "https://www.zoomit.ir/ai-tutorials/470675-ai-study-prompts-private-tutor/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب کامپیوتر رومیزی",
+      "story": "مطالب کامپیوتر رومیزی",
+      "date": "2026-11-22",
+      "summary": "بررسی مک مینی M6 اپل؛ یک جهش تمام‌عیار در عملکرد و قیمت",
+      "source": "زومیت",
+      "published": "2026-11-22T10:00:00+00:00",
+      "link": "https://www.zoomit.ir/laptop-review/471446-mac-mini-m6-review/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "لینوکس",
+      "story": "لینوکس",
+      "date": "2026-11-22",
+      "summary": "این توزیع لینوکس تنها ۷۵ مگابایت رم نیاز دارد!",
+      "source": "زومیت",
+      "published": "2026-11-22T09:55:00+00:00",
+      "link": "https://www.zoomit.ir/os/471521-lightweight-xxri-os-linux-distro/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-22",
+      "summary": "ناظر مجلس در شورای عالی بورس: رمزارز بابک زنجانی غیرقانونی است",
+      "source": "زومیت",
+      "published": "2026-11-22T09:50:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471655-babak-zanjani-cryptocurrency-warning-parliament/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "زومیا؛ هوش مصنوعی",
+      "story": "زومیا؛ هوش مصنوعی",
+      "date": "2026-11-22",
+      "summary": "برنامه‌نویسان به کمک هوش مصنوعی برای اجرای GTA 6 روی کامپیوتر تلاش می‌کنند",
+      "source": "زومیت",
+      "published": "2026-11-22T09:39:42+00:00",
+      "link": "https://www.zoomit.ir/gaming/471657-gta-6-pc-port-github/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "کسب و کار",
+      "story": "کسب و کار",
+      "date": "2026-11-22",
+      "summary": "متا و سازنده کلاد بار دیگر به سرقت محتوای کتاب‌ها متهم شدند",
+      "source": "زومیت",
+      "published": "2026-11-22T09:34:09+00:00",
+      "link": "https://www.zoomit.ir/ai-articles/471656-meta-anthropic-copyright-lawsuit-books/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-22",
+      "summary": "اگر شبکه ملی اطلاعات تکمیل نشود، نسل‌های آینده شهروندان سیلیکون‌ولی می‌شوند",
+      "source": "زومیت",
+      "published": "2026-11-22T09:30:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471644-national-information-network-identity-warning/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-22",
+      "summary": "ساترا مانع پخش زنده جشن تئاتر و موسیقی حافظ از فیلم‌نت شد",
+      "source": "زومیت",
+      "published": "2026-11-22T09:20:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471640-satra-blocks-hafez-awards-livestream/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-22",
+      "summary": "شرکت مونتاژکننده آیفون احتمالا اولین گوشی اوپن‌ای‌آی را تولید خواهد کرد",
+      "source": "زومیت",
+      "published": "2026-11-22T09:10:00+00:00",
+      "link": "https://www.zoomit.ir/mobile/471524-openai-first-smartphone-foxconn-assembler/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-22",
+      "summary": "روزنه امید در مقابله با سرطان لوزالمعده؛ مهار رشد تومور در ۹۰ درصد بیماران با درمانی تازه",
+      "source": "زومیت",
+      "published": "2026-11-22T09:05:00+00:00",
+      "link": "https://www.zoomit.ir/health-medical/471608-daraxonrasib-pancreatic-cancer-treatment/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-22",
+      "summary": "تبلت خاموش حمید رسایی، جلسه مجلس را به تعطیلی کشاند",
+      "source": "زومیت",
+      "published": "2026-11-22T08:50:59+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471651-parliament-session-canceled-over-tablet-dispute/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-22",
+      "summary": "ضوابط استفاده از هوش مصنوعی در دانشگاه‌ها آماده ابلاغ شد",
+      "source": "زومیت",
+      "published": "2026-11-22T08:32:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471632-iran-university-ai-regulations/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "پزشکی و سلامت",
+      "story": "پزشکی و سلامت",
+      "date": "2026-11-22",
+      "summary": "ربات‌های میکروسکوپی وارد رگ‌های خونی می‌شوند تا لخته‌ها را از بین ببرند",
+      "source": "زومیت",
+      "published": "2026-11-22T08:30:00+00:00",
+      "link": "https://www.zoomit.ir/health-medical/471622-microrobots-blood-clot-drug-delivery/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "امنیت و حریم خصوصی",
+      "story": "امنیت و حریم خصوصی",
+      "date": "2026-11-22",
+      "summary": "پلیس فتا درباره کلاهبرداری با تخفیف‌های بلک‌فرایدی هشدار داد",
+      "source": "زومیت",
+      "published": "2026-11-22T08:15:00+00:00",
+      "link": "https://www.zoomit.ir/security/471649-black-friday-cyber-scam-warning/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-22",
+      "summary": "هشدار وزارت ارشاد: انتشار خبر بدون مجوز در سکوهای فروش و خدمات دیجیتال ممنوع است",
+      "source": "زومیت",
+      "published": "2026-11-22T08:01:22+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471646-ershad-warns-digital-platforms-news-license/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-22",
+      "summary": "ابتکار سامسونگ برای تعمیر گوشی‌ها؛ تعمیرکار با ون به خانه یا محل کار مشتری می‌رود",
+      "source": "زومیت",
+      "published": "2026-11-22T08:00:00+00:00",
+      "link": "https://www.zoomit.ir/mobile/471523-samsung-mobile-repair-vans-europe/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "زوم پلاس",
+      "story": "زوم پلاس",
+      "date": "2026-11-22",
+      "summary": "آمریکا تولید سکه‌ای را که چهار برابر ارزشش هزینه داشت، متوقف کرد؛ پایان سکه یک سنتی",
+      "source": "زومیت",
+      "published": "2026-11-22T07:49:21+00:00",
+      "link": "https://www.zoomit.ir/zoomplus/471645-us-ends-penny-coin-production/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "اخبار ایران",
+      "story": "اخبار ایران",
+      "date": "2026-11-22",
+      "summary": "سرپرست وزارت نفت: عرضه نفت در بورس به‌زودی آغاز می‌شود",
+      "source": "زومیت",
+      "published": "2026-11-22T07:41:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471639-iran-oil-offering-energy-exchange/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "کسب و کار",
+      "story": "کسب و کار",
+      "date": "2026-11-22",
+      "summary": "گرین‌وب، بله و آچاره در بورس تهران پذیرش شدند",
+      "source": "زومیت",
+      "published": "2026-11-22T07:39:47+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471642-tehran-stock-exchange-ai-greenweb/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-22",
+      "summary": "آموزش‌وپرورش: مدارس در روزهای آلوده باید آخرین گزینه تعطیلی باشند",
+      "source": "زومیت",
+      "published": "2026-11-22T07:30:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471633-schools-last-option-pollution-closures/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-22",
+      "summary": "فقهای شورای نگهبان تشکیل ستاد ساماندهی فضای مجازی را خلاف شرع دانستند/ مخالفت با اختیارات دولت برای مسدودسازی سکوها",
+      "source": "زومیت",
+      "published": "2026-11-22T07:02:22+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471630-guardian-council-internet-headquarters-ruling/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "خودرو و موتورسیکلت",
+      "story": "خودرو و موتورسیکلت",
+      "date": "2026-11-22",
+      "summary": "فراری از هیولای ۶۷۰ اسب‌بخاری رونمایی کرد؛ خودروی مسابقه‌ای که مجوز تردد در خیابان دارد",
+      "source": "زومیت",
+      "published": "2026-11-22T07:00:00+00:00",
+      "link": "https://www.zoomit.ir/car/471618-ferrari-296-challenge-stradale-revealed/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "اینترنت و شبکه",
+      "story": "اینترنت و شبکه",
+      "date": "2026-11-22",
+      "summary": "فعال سیاسی اصولگرا: در قطع کابل‌های اینترنت خلیج فارس، یکی از متضررترین کشورها خود ایران است",
+      "source": "زومیت",
+      "published": "2026-11-22T06:57:21+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471628-mohajeri-persian-gulf-internet-cables/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "زوم پلاس",
+      "story": "زوم پلاس",
+      "date": "2026-11-22",
+      "summary": "رقابت برای تصاحب حق پخش جام جهانی ۲۰۳۰؛ دیزنی از معادله کنار رفت",
+      "source": "زومیت",
+      "published": "2026-11-22T06:40:00+00:00",
+      "link": "https://www.zoomit.ir/zoomplus/471522-world-cup-2030-broadcasting-rights/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-22",
+      "summary": "خداحافظی با مدارک کاغذی بیمه؛ تحول ناگهانی در بیمه ثالث و درمان",
+      "source": "زومیت",
+      "published": "2026-11-22T06:30:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471624-electronic-third-party-health-insurance/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "انرژی و محیط زیست",
+      "story": "انرژی و محیط زیست",
+      "date": "2026-11-22",
+      "summary": "محدودیت برق از امروز آغاز می‌شود؛ اطلاع‌رسانی به مشترکان از طریق «برق من» و «بله»",
+      "source": "زومیت",
+      "published": "2026-11-22T06:11:36+00:00",
+      "link": "https://www.zoomit.ir/energy-environment/471620-iran-electricity-restrictions-azar/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "بازی",
+      "story": "بازی",
+      "date": "2026-11-22",
+      "summary": "انتشار بازی GTA 6 چه تأثیری بر قیمت کنسول‌ها گذاشت؟ لیست قیمت‌ها امروز ۱ آذر",
+      "source": "زومیت",
+      "published": "2026-11-22T06:00:00+00:00",
+      "link": "https://www.zoomit.ir/gaming/471558-game-console-price-1405-08-30/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "امنیت و حریم خصوصی",
+      "story": "امنیت و حریم خصوصی",
+      "date": "2026-11-22",
+      "summary": "آیا بازی GTA 6 به‌طور مخفیانه پرونده روان‌شناختی برای گیمرها می‌سازد؟",
+      "source": "زومیت",
+      "published": "2026-11-22T05:33:05+00:00",
+      "link": "https://www.zoomit.ir/gaming/471617-gta-vi-psychological-tracking-allegations/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "تونل زمان",
+      "story": "تونل زمان",
+      "date": "2026-11-22",
+      "summary": "۳۸ سال پیش در چنین روزی بمب‌افکن ‌بی ۲ برای اولین‌بار پرواز کرد - ۱ آذر",
+      "source": "زومیت",
+      "published": "2026-11-22T05:30:00+00:00",
+      "link": "https://www.zoomit.ir/time-tunnel/471535-xbox-360-b2-spirit-november-22/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "سونی",
+      "story": "سونی",
+      "date": "2026-11-22",
+      "summary": "تماشا کنید: ربات تنیس‌بازی سونی یکی از بازیکن‌های حرفه‌ای را شکست داد",
+      "source": "زومیت",
+      "published": "2026-11-22T05:21:52+00:00",
+      "link": "https://www.zoomit.ir/robotics-smart-machines/471616-sony-ace-robot-defeats-pro-player/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "زومیا؛ هوش مصنوعی",
+      "story": "زومیا؛ هوش مصنوعی",
+      "date": "2026-11-22",
+      "summary": "هوش مصنوعی رایگانی که ویدیوهای معمولی را به انیمیشن سه‌بعدی قابل‌ویرایش تبدیل می‌کند",
+      "source": "زومیت",
+      "published": "2026-11-22T04:15:00+00:00",
+      "link": "https://www.zoomit.ir/ai-articles/471525-rgb-mocap-ai-3d-animation/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "زومیا؛ هوش مصنوعی",
+      "story": "زومیا؛ هوش مصنوعی",
+      "date": "2026-11-22",
+      "summary": "هوش مصنوعی جمنای کنترل مک را به دست می‌گیرد؛ انجام کارها بدون نیاز به کلیک و تایپ کاربر",
+      "source": "زومیت",
+      "published": "2026-11-22T02:30:00+00:00",
+      "link": "https://www.zoomit.ir/ai-articles/471517-google-gemini-mac-computer-use/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-21",
+      "summary": "اینترنت استارلینک به پشت‌بام خانه‌ها می‌رود؛ دکل‌های کوچک برای تقویت آنتن موبایل",
+      "source": "زومیت",
+      "published": "2026-11-21T23:15:00+00:00",
+      "link": "https://www.zoomit.ir/internet-network/471516-spacex-mini-rooftop-cell-towers/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "خودرو و موتورسیکلت",
+      "story": "خودرو و موتورسیکلت",
+      "date": "2026-11-21",
+      "summary": "جنرال موتورز به‌دنبال مدیرعامل جدید است؛ پایان دوران ۱۲ ساله مری بارا",
+      "source": "زومیت",
+      "published": "2026-11-21T21:40:00+00:00",
+      "link": "https://www.zoomit.ir/business/471515-gm-searches-new-ceo-replacement/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-21",
+      "summary": "زنگ خطر در سیاره سرخ؛ مریخ‌نورد پرسویرنس و مدارگرد اودیسه ناسا دچار نقص فنی شده‌اند",
+      "source": "زومیت",
+      "published": "2026-11-21T20:29:00+00:00",
+      "link": "https://www.zoomit.ir/space/471607-nasa-mars-perseverance-odyssey-technical-issues/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "خودرو و موتورسیکلت",
+      "story": "خودرو و موتورسیکلت",
+      "date": "2026-11-21",
+      "summary": "رقیب ارزان‌قیمت برای خودروهای گران؛ شاسی‌بلند جدید چری با شارژ ۱۵ دقیقه‌ای معرفی شد",
+      "source": "زومیت",
+      "published": "2026-11-21T20:00:00+00:00",
+      "link": "https://www.zoomit.ir/car/471514-chery-icar-v25-erev-launched/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مقالات بلند و اختصاصی",
+      "story": "مقالات بلند و اختصاصی",
+      "date": "2026-11-21",
+      "summary": "وقتی کل شهر شیکاگو را با جک از روی زمین بلند کردند و مردم در حال خرید و معاشرت بودند",
+      "source": "زومیت",
+      "published": "2026-11-21T19:40:00+00:00",
+      "link": "https://www.zoomit.ir/engineering/471373-raising--chicago-manually-featured/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "زوم پلاس",
+      "story": "زوم پلاس",
+      "date": "2026-11-21",
+      "summary": "وقتی رنگ‌ها کنار می‌روند؛ تماشایی‌ترین تصاویر جوایز عکاسی سیاه و سفید ۲۰۲۶",
+      "source": "زومیت",
+      "published": "2026-11-21T19:05:00+00:00",
+      "link": "https://www.zoomit.ir/shutter/471425-black-white-photo-awards-2026-winners/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "خودرو و موتورسیکلت",
+      "story": "خودرو و موتورسیکلت",
+      "date": "2026-11-21",
+      "summary": "اختراع جدید چری راز «وانت دیزلی-برقی» را فاش کرد؛ آفرود با دنده کمکی و دو موتور الکتریکی",
+      "source": "زومیت",
+      "published": "2026-11-21T19:00:00+00:00",
+      "link": "https://www.zoomit.ir/car/471513-chery-stockman-diesel-phev-revealed/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علوم پایه و بنیادین",
+      "story": "علوم پایه و بنیادین",
+      "date": "2026-11-21",
+      "summary": "فرضیه ریمان چیست و چرا اثباتش ۱۶۷ سال آرزوی ریاضی‌دانان بود؟",
+      "source": "زومیت",
+      "published": "2026-11-21T18:30:00+00:00",
+      "link": "https://www.zoomit.ir/fundamental-science/471604-riemann-hypothesis-explained-featured/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-21",
+      "summary": "چرا بعضی آغوش‌ها را هرگز فراموش نمی‌کنیم؟ پژوهش روی ۱۵ هزار نفر پاسخ می‌دهد",
+      "source": "زومیت",
+      "published": "2026-11-21T18:15:00+00:00",
+      "link": "https://www.zoomit.ir/human-science/471357-psychology-of-unforgettable-hugs/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "اینستاگرام",
+      "story": "اینستاگرام",
+      "date": "2026-11-21",
+      "summary": "درآمد بیشتر یا واگذاری اختیار محتوا؟ پشت‌پرده همکاری تازه اینستاگرام و آمازون",
+      "source": "زومیت",
+      "published": "2026-11-21T17:45:00+00:00",
+      "link": "https://www.zoomit.ir/social-network/471512-instagram-amazon-affiliate-program-concerns/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-21",
+      "summary": "عقاب‌ها می‌توانند بابون‌های ۲۶ کیلویی را شکار کنند؛ آیا اجداد انسان هم در خطر بودند؟",
+      "source": "زومیت",
+      "published": "2026-11-21T17:25:00+00:00",
+      "link": "https://www.zoomit.ir/biology/471439-eagle-hunts-large-baboons-human-ancestors/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-21",
+      "summary": "سخنرانی رپر گروه «زدبازی» در دانشگاه تهران برای دانشجویان؛ دعوت‌کننده عذرخواهی کرد",
+      "source": "زومیت",
+      "published": "2026-11-21T16:31:46+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471599-zedbazi-rapper-at-tehran-university-entrepreneurship-event/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-21",
+      "summary": "یافته غیرمنتظره: شکم شش‌تکه لزوماً مانع کمردرد نمی‌شود",
+      "source": "زومیت",
+      "published": "2026-11-21T16:25:00+00:00",
+      "link": "https://www.zoomit.ir/health-medical/471526-abdominal-muscle-size-back-pain-study/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-21",
+      "summary": "چرا برای تنظیم قطب‌نمای گوشی باید عدد ۸ را بکشیم؟",
+      "source": "زومیت",
+      "published": "2026-11-21T16:15:00+00:00",
+      "link": "https://www.zoomit.ir/zoomplus/471518-calibrate-phone-compass-figure-eight/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "آنر",
+      "story": "آنر",
+      "date": "2026-11-21",
+      "summary": "این ساعت هوشمند خوش‌ساخت، حاشیه سرامیکی دارد",
+      "source": "زومیت",
+      "published": "2026-11-21T15:15:00+00:00",
+      "link": "https://www.zoomit.ir/wearables/471511-honor-watch-6-pro-unveiled/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-21",
+      "summary": "مالکیت شخصی ویلا، بهره‌برداری هتلی؛ دنسه از پروژه «کاندوتل» رونمایی کرد",
+      "source": "زومیت",
+      "published": "2026-11-21T14:28:19+00:00",
+      "link": "https://www.zoomit.ir/report/471602-donse-condotel-chalus-tourism-investment/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-21",
+      "summary": "جایگاه ایران در دولت الکترونیک جهان ارتقا یافت؛ صعود ۱۴ پله‌ای در دو سال",
+      "source": "زومیت",
+      "published": "2026-11-21T14:00:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471581-iran-un-egdi-ranking-climb/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-21",
+      "summary": "رقیب تازه گلکسی زد فلیپ سامسونگ؛ نخستین نشانه‌های ریزر اولترا ۲۰۲۷ دیده شد",
+      "source": "زومیت",
+      "published": "2026-11-21T13:55:00+00:00",
+      "link": "https://www.zoomit.ir/mobile/471510-motorola-razr-ultra-2027-fcc/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-21",
+      "summary": "چرا نوشابه شیشه‌ای خوشمزه‌تر از نوشابه قوطی و بطری پلاستیکی است؟",
+      "source": "زومیت",
+      "published": "2026-11-21T13:30:00+00:00",
+      "link": "https://www.zoomit.ir/fundamental-science/471496-why-soda-tastes-better-in-glass/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-21",
+      "summary": "بررسی طرح ساماندهی فضای مجازی در مجلس دوباره از سر گرفته شد",
+      "source": "زومیت",
+      "published": "2026-11-21T13:10:23+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471600-iran-cyberspace-regulation-plan-parliament/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "واقعیت مجازی",
+      "story": "واقعیت مجازی",
+      "date": "2026-11-21",
+      "summary": "تماشای فیلم‌های سه‌بعدی در خانه؛ متا پرده سینمای مجازی را وارد هدست‌هایش کرد",
+      "source": "زومیت",
+      "published": "2026-11-21T13:00:00+00:00",
+      "link": "https://www.zoomit.ir/vr-ar/471509-meta-quest-3d-movies/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "اخبار ایران",
+      "story": "اخبار ایران",
+      "date": "2026-11-21",
+      "summary": "نماینده مجلس: دولت با ترمیم حقوق کارگران در نیمه دوم سال مخالف است",
+      "source": "زومیت",
+      "published": "2026-11-21T12:45:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471595-iran-workers-wage-increase-opposed/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-21",
+      "summary": "چگونه می‌توان بدون امواج رادیویی پیام فرستاد؟ پاسخ پژوهشگران گرانش است",
+      "source": "زومیت",
+      "published": "2026-11-21T12:40:00+00:00",
+      "link": "https://www.zoomit.ir/fundamental-science/471554-gravitational-communication-message-through-walls/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "اینترنت و شبکه",
+      "story": "اینترنت و شبکه",
+      "date": "2026-11-21",
+      "summary": "مرکز ملی فضای مجازی از نخبگان برای اعلام نظر درباره پیش‌نویس سند «نظام حقوقی فضای مجازی کشور» دعوت کرد",
+      "source": "زومیت",
+      "published": "2026-11-21T12:00:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471592-cyberspace-legal-system-draft-iran/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "پزشکی و سلامت",
+      "story": "پزشکی و سلامت",
+      "date": "2026-11-21",
+      "summary": "این ۴ محصول را نخرید؛ سازمان غذا و دارو دستور جمع‌آوری صادر کرد",
+      "source": "زومیت",
+      "published": "2026-11-21T11:47:24+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471598-fda-recall-eyelash-serum-traditional-medicines/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "گجت",
+      "story": "گجت",
+      "date": "2026-11-21",
+      "summary": "جدیدترین واکی‌تاکی شیائومی در رنگ نارنجی رونمایی شد",
+      "source": "زومیت",
+      "published": "2026-11-21T11:45:00+00:00",
+      "link": "https://www.zoomit.ir/gadget/471508-xiaomi-walkie-talkie-2s-orange/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-21",
+      "summary": "دانشمندان برای نخستین‌بار کبد انسان را ۷ هفته خارج از بدن زنده نگه داشتند",
+      "source": "زومیت",
+      "published": "2026-11-21T11:20:00+00:00",
+      "link": "https://www.zoomit.ir/health-medical/471534-human-liver-kept-alive-seven-weeks/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-21",
+      "summary": "نخستین متروباس‌های برقی ۲۶ متری از گمرک ترخیص شدند",
+      "source": "زومیت",
+      "published": "2026-11-21T11:15:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471597-electric-metrobus-tehran-brt/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "امنیت و حریم خصوصی",
+      "story": "امنیت و حریم خصوصی",
+      "date": "2026-11-21",
+      "summary": "هکرها به اف‌بی‌آی و وزارت کشاورزی آمریکا حمله کردند",
+      "source": "زومیت",
+      "published": "2026-11-21T10:57:18+00:00",
+      "link": "https://www.zoomit.ir/security/471596-fbi-usda-hit-by-cyberattacks/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-21",
+      "summary": "ایموجی‌های سه‌بعدی اندروید فقط روی این گوشی‌ها اجرا می‌شوند",
+      "source": "زومیت",
+      "published": "2026-11-21T10:50:00+00:00",
+      "link": "https://www.zoomit.ir/software-news/471507-google-android-3d-emoji-specs/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "اخبار ایران",
+      "story": "اخبار ایران",
+      "date": "2026-11-21",
+      "summary": "سخنگوی وزارت کشور: دولت موانع صدور گواهینامه موتورسیکلت زنان را برطرف کرده است",
+      "source": "زومیت",
+      "published": "2026-11-21T10:35:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471585-iran-women-motorcycle-license-approval/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "زومیا؛ هوش مصنوعی",
+      "story": "زومیا؛ هوش مصنوعی",
+      "date": "2026-11-21",
+      "summary": "با یک کلیک به شخصیت GTA 6 تبدیل شوید!",
+      "source": "زومیت",
+      "published": "2026-11-21T10:30:00+00:00",
+      "link": "https://www.zoomit.ir/ai-tutorials/471587-convert-photo-to-gta-6-character/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "فناوری",
+      "story": "فناوری",
+      "date": "2026-11-21",
+      "summary": "هوش مصنوعی کلاد فرضیه ریمان، مشهورترین مسئله تاریخ ریاضی را احتمالاً حل کرده است",
+      "source": "زومیت",
+      "published": "2026-11-21T10:15:00+00:00",
+      "link": "https://www.zoomit.ir/fundamental-science/471591-ai-riemann-hypothesis-proof/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "خودرو و موتورسیکلت",
+      "story": "خودرو و موتورسیکلت",
+      "date": "2026-11-21",
+      "summary": "ضربان قلب رانندگان فرمول یک روی صفحه تلویزیون؛ تحول جذاب در پخش مسابقات",
+      "source": "زومیت",
+      "published": "2026-11-21T09:55:00+00:00",
+      "link": "https://www.zoomit.ir/car/471506-whoop-formula-1-official-wearable/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "خودرو و موتورسیکلت",
+      "story": "خودرو و موتورسیکلت",
+      "date": "2026-11-21",
+      "summary": "شرکت پالایش و پخش فرآورده‌های نفتی: جمع‌آوری کارت‌های آزاد جایگاه‌ها مصرف بنزین را ۱۰ درصد کاهش داد",
+      "source": "زومیت",
+      "published": "2026-11-21T09:30:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471588-petrol-consumption-drop-fuel-cards/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "کاسیو",
+      "story": "کاسیو",
+      "date": "2026-11-21",
+      "summary": "نیویورک روی مچ دست؛ کاسیو با نسخه ویژه جی‌شاک به سراغ فرهنگ خیابانی آمریکا رفت",
+      "source": "زومیت",
+      "published": "2026-11-21T09:10:00+00:00",
+      "link": "https://www.zoomit.ir/wearables/471505-casio-g-shock-gm2110hdn-8a-launch/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "فناوری",
+      "story": "فناوری",
+      "date": "2026-11-21",
+      "summary": "تجربه بازی GTA VI با سیگنال‌های مغزی و تراشه نورالینک!",
+      "source": "زومیت",
+      "published": "2026-11-21T09:09:19+00:00",
+      "link": "https://www.zoomit.ir/tech/471590-neuralink-patient-plays-gta-vi/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "رپورتاژ آگهی",
+      "story": "رپورتاژ آگهی",
+      "date": "2026-11-21",
+      "summary": "راهنمای سونی‌ایده‌آل برای خرید لنز سونی",
+      "source": "زومیت",
+      "published": "2026-11-21T09:05:08+00:00",
+      "link": "https://www.zoomit.ir/pr/471589-sony-alpha-camera-lens-buying-guide/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "خودرو و موتورسیکلت",
+      "story": "خودرو و موتورسیکلت",
+      "date": "2026-11-21",
+      "summary": "مجلس پیشنهاد داد: سهمیه سوخت در برخی استان‌ها به ۲۰۰ یا ۲۱۰ لیتر افزایش پیدا کند",
+      "source": "زومیت",
+      "published": "2026-11-21T08:55:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471582-iran-fuel-quota-increase-proposal/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "انرژی و محیط زیست",
+      "story": "انرژی و محیط زیست",
+      "date": "2026-11-21",
+      "summary": "خاموشی‌های تهران از امروز آغاز می‌شود؟ آخرین توضیح وزارت نیرو درباره قطع برق",
+      "source": "زومیت",
+      "published": "2026-11-21T08:31:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471575-tehran-power-outages-winter-fuel-crisis/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "کسب و کار",
+      "story": "کسب و کار",
+      "date": "2026-11-21",
+      "summary": "اختصاص طلا به ۳۵۹ هزار کاربر میلی در پی تاخیر در برداشت‌های ریالی",
+      "source": "زومیت",
+      "published": "2026-11-21T08:24:49+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471583-milli-gold-compensation-withdrawal-delay/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "سخت افزار",
+      "story": "سخت افزار",
+      "date": "2026-11-21",
+      "summary": "معجزه GTA 6 برای مایکروسافت؛ فروش کنسول‌های ایکس‌باکس دوباره جان گرفت",
+      "source": "زومیت",
+      "published": "2026-11-21T08:00:00+00:00",
+      "link": "https://www.zoomit.ir/gaming/471504-xbox-hardware-sales-surge-report/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "خودرو و موتورسیکلت",
+      "story": "خودرو و موتورسیکلت",
+      "date": "2026-11-21",
+      "summary": "تصمیم جدید برای خریداران خودرو صفر؛ شیوه و زمان پرداخت بیمه تغییر کرد",
+      "source": "زومیت",
+      "published": "2026-11-21T07:45:00+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471576-new-car-third-party-insurance/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "کسب و کار",
+      "story": "کسب و کار",
+      "date": "2026-11-21",
+      "summary": "شاتل‌موبایل جزئیات تخفیف‌های جشنواره «جمعه شگفت‌انگیز» را اعلام کرد",
+      "source": "زومیت",
+      "published": "2026-11-21T07:39:33+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471577-shatel-mobile-black-friday-discounts/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "اخبار ایران",
+      "story": "اخبار ایران",
+      "date": "2026-11-21",
+      "summary": "وزارت اقتصاد: محدودیتی برای توزیع آرد و گندم اعمال نکرده‌ایم",
+      "source": "زومیت",
+      "published": "2026-11-21T07:14:04+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471568-iran-flour-distribution-bread-limits/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "کسب و کار",
+      "story": "کسب و کار",
+      "date": "2026-11-21",
+      "summary": "دیجی‌کالا به استقبال بلک‌فرایدی رفت؛ امسال چه تفاوتی در تخفیف‌ها وجود دارد؟",
+      "source": "زومیت",
+      "published": "2026-11-21T07:02:26+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471565-digikala-black-friday-discounts/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "کسب و کار",
+      "story": "کسب و کار",
+      "date": "2026-11-21",
+      "summary": "ترامپ به گوگل، مایکروسافت و دیگر غول‌های فناوری هشدار داد که دیتاسنترهایشان را فقط در آمریکا بسازند",
+      "source": "زومیت",
+      "published": "2026-11-21T07:00:00+00:00",
+      "link": "https://www.zoomit.ir/economics/471563-trump-ai-data-center-tax/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-21",
+      "summary": "شکایت از اپل؛ قابلیت «نیم‌دراپ» آیفون به سرقت ایده متهم شد",
+      "source": "زومیت",
+      "published": "2026-11-21T06:40:00+00:00",
+      "link": "https://www.zoomit.ir/business/471562-apple-sued-over-namedrop-feature/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-21",
+      "summary": "تراشه گوشی گلکسی S27 پرو در گیک‌بنچ رؤیت شد",
+      "source": "زومیت",
+      "published": "2026-11-21T05:50:00+00:00",
+      "link": "https://www.zoomit.ir/mobile/471560-galaxy-s27-pro-exynos-2700-geekbench/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ارز دیجیتال",
+      "story": "ارز دیجیتال",
+      "date": "2026-11-21",
+      "summary": "بیت‌کوین به زیر ۵۷ هزار دلار سقوط کرد؛ پایین‌ترین قیمت در ۲ سال اخیر",
+      "source": "زومیت",
+      "published": "2026-11-21T05:31:11+00:00",
+      "link": "https://www.zoomit.ir/cryptocurrency/471564-bitcoin-drops-below-57k-liquidations/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "تونل زمان",
+      "story": "تونل زمان",
+      "date": "2026-11-21",
+      "summary": "روزی که انسان پرواز کرد؛ ۳۰ آبان",
+      "source": "زومیت",
+      "published": "2026-11-21T05:30:00+00:00",
+      "link": "https://www.zoomit.ir/time-tunnel/471469-arpanet-flight-phonograph-november-21/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "اینترنت و شبکه",
+      "story": "اینترنت و شبکه",
+      "date": "2026-11-21",
+      "summary": "بازی GTA 6 رکورد مصرف اینترنت را در آمریکا شکست",
+      "source": "زومیت",
+      "published": "2026-11-21T05:21:11+00:00",
+      "link": "https://www.zoomit.ir/gaming/471561-gta-6-breaks-comcast-spectrum-internet-traffic-records/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-21",
+      "summary": "قیمت گوشی امروز ۳۰ آبان؛ محصولات «اقتصادی» سامسونگ گران‌تر از همیشه",
+      "source": "زومیت",
+      "published": "2026-11-21T05:00:00+00:00",
+      "link": "https://www.zoomit.ir/mobile/471559-mobile-phone-price-1405-08-30/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-21",
+      "summary": "وان‌پلاس گوشی قدرتمندی با نمایشگر غول‌پیکر ۲۴۰ هرتز می‌سازد",
+      "source": "زومیت",
+      "published": "2026-11-21T04:15:00+00:00",
+      "link": "https://www.zoomit.ir/mobile/471487-oneplus-flagship-boe-display-leak/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "خودرو و موتورسیکلت",
+      "story": "خودرو و موتورسیکلت",
+      "date": "2026-11-21",
+      "summary": "خودروهای تویوتا به استقبال «باتری حالت جامد» می‌روند",
+      "source": "زومیت",
+      "published": "2026-11-21T02:30:00+00:00",
+      "link": "https://www.zoomit.ir/car/471486-toyota-solid-state-battery-timeline/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "زومیا؛ هوش مصنوعی",
+      "story": "زومیا؛ هوش مصنوعی",
+      "date": "2026-11-20",
+      "summary": "ایلان ماسک: ربات انسان‌نمای ما تا ۱۸ ماه دیگر ظرف‌شستن را یاد می‌گیرد",
+      "source": "زومیت",
+      "published": "2026-11-20T23:15:00+00:00",
+      "link": "https://www.zoomit.ir/robotics-smart-machines/471484-elon-musk-optimus-terafab-timeline/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "خودرو و موتورسیکلت",
+      "story": "خودرو و موتورسیکلت",
+      "date": "2026-11-20",
+      "summary": "خودروهای «روح‌زده» در چین؛ ماشین‌هایی که نیمه‌شب در پارکینگ‌ها حرکت می‌کنند",
+      "source": "زومیت",
+      "published": "2026-11-20T21:40:00+00:00",
+      "link": "https://www.zoomit.ir/car/471479-huawei-ghost-evs-parking-garages/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "بازی",
+      "story": "بازی",
+      "date": "2026-11-20",
+      "summary": "زلزله در صنعت سرگرمی؛ فروش GTA 6 در روز اول عرضه به ۳٫۷۹ میلیارد دلار رسید",
+      "source": "زومیت",
+      "published": "2026-11-20T21:05:56+00:00",
+      "link": "https://www.zoomit.ir/gaming/471557-gta-6-record-3-79-billion-first-day-sales/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-20",
+      "summary": "کاوشگر هایابوسا ۲ توانایی رسیدن به مقصدش را ندارد؛ جاکسا هدف فضاپیما را تغییر داد",
+      "source": "زومیت",
+      "published": "2026-11-20T20:29:00+00:00",
+      "link": "https://www.zoomit.ir/space/471556-hayabusa2-mission-target-change/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "خودرو و موتورسیکلت",
+      "story": "خودرو و موتورسیکلت",
+      "date": "2026-11-20",
+      "summary": "شاسی‌بلند ۸۰۰ اسب‌بخاری گروه فولکس‌واگن، رقیب آفرودی جدید مرسدس جی کلاس",
+      "source": "زومیت",
+      "published": "2026-11-20T20:00:00+00:00",
+      "link": "https://www.zoomit.ir/car/471476-scout-traveler-suv-pricing-details/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-20",
+      "summary": "باشگاه مبارزه موش‌ها؛ تلاش دانشمندان برای درک علت علاقه ما به خشونت",
+      "source": "زومیت",
+      "published": "2026-11-20T19:10:00+00:00",
+      "link": "https://www.zoomit.ir/biology/471529-watching-violence-brain-learning-study/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "خودرو و موتورسیکلت",
+      "story": "خودرو و موتورسیکلت",
+      "date": "2026-11-20",
+      "summary": "ایلان ماسک از افزایش تولید خودروهای تسلا در چین خبر داد؛ کارخانه شانگهای بزرگ‌تر می‌شود؟",
+      "source": "زومیت",
+      "published": "2026-11-20T19:00:00+00:00",
+      "link": "https://www.zoomit.ir/car/471475-tesla-china-factory-output-expansion/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-20",
+      "summary": "یک کلاه جان مشهورترین اسب آبی دنیا را گرفت؛ چرا دامپزشکان نتوانستند فیونا را نجات دهند؟",
+      "source": "زومیت",
+      "published": "2026-11-20T18:10:00+00:00",
+      "link": "https://www.zoomit.ir/biology/471528-fiona-hippo-swallows-hat-surgery-risk/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ارز دیجیتال",
+      "story": "ارز دیجیتال",
+      "date": "2026-11-20",
+      "summary": "با کاهش قیمت بیت‌کوین، خروج سرمایه از صندوق‌های ETF شدت گرفت",
+      "source": "زومیت",
+      "published": "2026-11-20T17:45:00+00:00",
+      "link": "https://www.zoomit.ir/cryptocurrency/471473-bitcoin-etf-assets-three-month-low/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-20",
+      "summary": "ساخت ربات پرنده‌ای که روی گل‌ها می‌نشیند؛ گامی تازه به‌سوی گرده‌افشانی رباتیک",
+      "source": "زومیت",
+      "published": "2026-11-20T17:25:00+00:00",
+      "link": "https://www.zoomit.ir/robotics-smart-machines/471551-tiny-flying-robot-insect-mit/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ویندوز",
+      "story": "ویندوز",
+      "date": "2026-11-20",
+      "summary": "ویندوز ۷ دوباره زنده شد؛ پشتیبانی غیررسمی از کارت‌های گرافیک RTX 50 و RX 9000",
+      "source": "زومیت",
+      "published": "2026-11-20T16:30:00+00:00",
+      "link": "https://www.zoomit.ir/os/471460-windows-7-modern-gpus-support/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-20",
+      "summary": "دانشمندان شهر GTA V را زیر آب بردند تا آینده ترسناک لس‌آنجلس را نشان دهند",
+      "source": "زومیت",
+      "published": "2026-11-20T16:25:00+00:00",
+      "link": "https://www.zoomit.ir/energy-environment/471550-gta-v-climate-change-sea-rise/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ارز دیجیتال",
+      "story": "ارز دیجیتال",
+      "date": "2026-11-20",
+      "summary": "کلاهبرداری با چهره جعلی ایلان ماسک؛ هوش مصنوعی کوین‌بیس جلوی فاجعه را گرفت",
+      "source": "زومیت",
+      "published": "2026-11-20T15:10:00+00:00",
+      "link": "https://www.zoomit.ir/security/471464-coinbase-ai-blocks-musk-scam/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "کسب و کار",
+      "story": "کسب و کار",
+      "date": "2026-11-20",
+      "summary": "بازدید رئیس ایمیدرو از دستاوردهای 5G صنعتی رایتل در نمایشگاه «ایران متافو»",
+      "source": "زومیت",
+      "published": "2026-11-20T14:37:03+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471536-rightel-industrial-5g-digital-transformation/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "خودرو و موتورسیکلت",
+      "story": "خودرو و موتورسیکلت",
+      "date": "2026-11-20",
+      "summary": "عصر جدید تبلیغات؛ سونی می‌خواهد بوی پیتزا و شکلات را وارد خودرو کند",
+      "source": "زومیت",
+      "published": "2026-11-20T13:50:00+00:00",
+      "link": "https://www.zoomit.ir/business/471463-sony-in-car-scent-advertising-patent/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "فناوری",
+      "story": "فناوری",
+      "date": "2026-11-20",
+      "summary": "نام این بازیگر را همین‌حالا در گوگل جست‌و‌جو کنید و شگفت‌زده شوید!",
+      "source": "زومیت",
+      "published": "2026-11-20T13:45:25+00:00",
+      "link": "https://www.zoomit.ir/movies-tv-shows/471547-google-robert-pattinson-james-bond-easter-egg/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "بازی",
+      "story": "بازی",
+      "date": "2026-11-20",
+      "summary": "راز بزرگ بازی GTA VI فاش شد",
+      "source": "زومیت",
+      "published": "2026-11-20T13:40:06+00:00",
+      "link": "https://www.zoomit.ir/gaming/471546-gta-6-returning-character-michael-hollick-credits/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-20",
+      "summary": "کاوشگر وویجر ۱ همزمان با رسیدن به فاصله یک روز نوری، دچار اختلالی تازه شد",
+      "source": "زومیت",
+      "published": "2026-11-20T13:25:00+00:00",
+      "link": "https://www.zoomit.ir/space/471543-voyager-1-one-light-day-computer-glitch/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "لنوو",
+      "story": "لنوو",
+      "date": "2026-11-20",
+      "summary": "رقیب ارزان‌تر استیم دک در راه است؟ تصاویر کنسول دستی جدید لنوو فاش شد",
+      "source": "زومیت",
+      "published": "2026-11-20T13:00:00+00:00",
+      "link": "https://www.zoomit.ir/gaming/471462-lenovo-legion-go-beam-leak/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مایکروسافت",
+      "story": "مایکروسافت",
+      "date": "2026-11-20",
+      "summary": "قفل ویندوز ۱۱ به‌راحتی دور زده شد؛ آسیب‌پذیری عجیب ابزار Narrator",
+      "source": "زومیت",
+      "published": "2026-11-20T12:01:21+00:00",
+      "link": "https://www.zoomit.ir/security/471539-windows-11-lock-screen-bypass/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-20",
+      "summary": "گوشی عجیب هواوی با نمایشگر عریض و دوربین ۲۰۰ مگاپیکسلی؛ OSTA O1 Pro رونمایی شد",
+      "source": "زومیت",
+      "published": "2026-11-20T11:53:51+00:00",
+      "link": "https://www.zoomit.ir/mobile/471538-huawei-osta-o1-pro-launched/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "سخت افزار",
+      "story": "سخت افزار",
+      "date": "2026-11-20",
+      "summary": "نسل جدید رم معرفی شد؛ DDR6 با بدنه ۴۴ درصد کوچک‌تر و سرعت بسیار بالاتر از DDR5",
+      "source": "زومیت",
+      "published": "2026-11-20T11:45:00+00:00",
+      "link": "https://www.zoomit.ir/memory/471461-jedec-previews-ddr6-memory-specs/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-20",
+      "summary": "کشف سنگ‌های ۳٫۹۵ میلیارد ساله در چین؛ بازمانده‌هایی از نخستین روزهای سیاره",
+      "source": "زومیت",
+      "published": "2026-11-20T11:40:00+00:00",
+      "link": "https://www.zoomit.ir/fundamental-science/471438-ancient-rocks-discovered-china/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "رپورتاژ آگهی",
+      "story": "رپورتاژ آگهی",
+      "date": "2026-11-20",
+      "summary": "تخفیفمَن اسنپ‌پی، قیمتهارو شکست میده!",
+      "source": "زومیت",
+      "published": "2026-11-20T11:15:52+00:00",
+      "link": "https://www.zoomit.ir/pr/471537-snapppay-black-friday-discounts-installment/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-20",
+      "summary": "تلگرام برای گوشی تاشو آیفون دوئو بهینه شد",
+      "source": "زومیت",
+      "published": "2026-11-20T11:00:00+00:00",
+      "link": "https://www.zoomit.ir/software-news/471519-telegram-optimized-apple-iphone-duo/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "زومیا؛ هوش مصنوعی",
+      "story": "زومیا؛ هوش مصنوعی",
+      "date": "2026-11-20",
+      "summary": "به شخصیت‌های کارتونی کلاسیک تبدیل شوید",
+      "source": "زومیت",
+      "published": "2026-11-20T11:00:00+00:00",
+      "link": "https://www.zoomit.ir/ai-tutorials/471291-classic-cartoon-portrait-prompt-guide/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-20",
+      "summary": "ورود به «زپتوورس»؛ فیزیکدانان سرن به کوچک‌ترین مقیاس در دسترس جهان نفوذ کردند",
+      "source": "زومیت",
+      "published": "2026-11-20T10:15:00+00:00",
+      "link": "https://www.zoomit.ir/fundamental-science/471382-cern-rare-particle-decay-zeptoverse/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مایکروسافت",
+      "story": "مایکروسافت",
+      "date": "2026-11-20",
+      "summary": "تغییر بحث‌برانگیز ویندوز ۱۱؛ بعضی برنامه‌ها ممکن است روی کامپیوتر شما اجرا نشوند",
+      "source": "زومیت",
+      "published": "2026-11-20T09:55:00+00:00",
+      "link": "https://www.zoomit.ir/os/471459-windows-11-baseline-protection-apps/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-20",
+      "summary": "بازگشت مسری‌ترین ویروس دنیا؛ سرخک در آمریکا دیگر بیماری حذف‌شده نیست",
+      "source": "زومیت",
+      "published": "2026-11-20T09:20:00+00:00",
+      "link": "https://www.zoomit.ir/health-medical/471295-measles-outbreak-resurgence-us-cases/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "خودرو و موتورسیکلت",
+      "story": "خودرو و موتورسیکلت",
+      "date": "2026-11-20",
+      "summary": "ایلان ماسک می‌خواهد فرمان را از تسلا مدل Y حذف کند",
+      "source": "زومیت",
+      "published": "2026-11-20T09:10:00+00:00",
+      "link": "https://www.zoomit.ir/car/471458-tesla-model-y-removes-steering-wheel/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "ایران",
+      "story": "ایران",
+      "date": "2026-11-20",
+      "summary": "فیلیمو: انتشار قسمت ششم «سرخ و سیاه» به‌دلیل اصلاحات ساترا به تعویق افتاد",
+      "source": "زومیت",
+      "published": "2026-11-20T08:47:05+00:00",
+      "link": "https://www.zoomit.ir/iran-news/471531-filimo-sorkh-o-siah-episode-six-delay-satra/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-20",
+      "summary": "عاملی نادیده‌گرفته‌شده در آسمان، میزان تولید برق توربین‌های بادی را تغییر می‌دهد",
+      "source": "زومیت",
+      "published": "2026-11-20T08:15:00+00:00",
+      "link": "https://www.zoomit.ir/energy-environment/471377-clouds-impact-offshore-wind-turbines/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "خودرو و موتورسیکلت",
+      "story": "خودرو و موتورسیکلت",
+      "date": "2026-11-20",
+      "summary": "مرسدس‌ بنز به اشتباه خود اعتراف کرد؛ دکمه‌های فیزیکی به خودروهای لوکس برمی‌گردند",
+      "source": "زومیت",
+      "published": "2026-11-20T08:00:00+00:00",
+      "link": "https://www.zoomit.ir/car/471457-mercedes-admits-touchscreen-overuse-buttons/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "خودرو و موتورسیکلت",
+      "story": "خودرو و موتورسیکلت",
+      "date": "2026-11-20",
+      "summary": "برند لوکس جنسیس سرانجام خودرو هیبریدی معرفی کرد؛ G80 و GV80 با برد بیش از ۸۰۰ کیلومتر",
+      "source": "زومیت",
+      "published": "2026-11-20T07:22:21+00:00",
+      "link": "https://www.zoomit.ir/car/471520-genesis-g80-gv80-hybrid-reveal/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-20",
+      "summary": "ژنی که از نئاندرتال‌ها به ارث برده‌ایم، احتمالاً از ما دربرابر اسکیزوفرنی محافظت می‌کند",
+      "source": "زومیت",
+      "published": "2026-11-20T06:50:00+00:00",
+      "link": "https://www.zoomit.ir/human-science/471441-neanderthal-gene-schizophrenia-brain-structure/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "اپل",
+      "story": "اپل",
+      "date": "2026-11-20",
+      "summary": "ذخیره موسیقی‌های اینستاگرام در اپل موزیک امکان‌پذیر شد",
+      "source": "زومیت",
+      "published": "2026-11-20T06:40:00+00:00",
+      "link": "https://www.zoomit.ir/software-news/471456-instagram-apple-music-integration-feature/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-20",
+      "summary": "مرد ایتالیایی استخوانی را بلعید و فراموشش کرد؛ ۱۵ سال بعد پزشکان آن را در آپاندیسش یافتند",
+      "source": "زومیت",
+      "published": "2026-11-20T05:45:00+00:00",
+      "link": "https://www.zoomit.ir/health-medical/470984-swallowed-bone-found-in-appendix/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "تونل زمان",
+      "story": "تونل زمان",
+      "date": "2026-11-20",
+      "summary": "روزی که اولین نسخه ویندوز عرضه شد؛ ۲۹ آبان",
+      "source": "زومیت",
+      "published": "2026-11-20T05:30:00+00:00",
+      "link": "https://www.zoomit.ir/time-tunnel/471409-windows-zarya-hubble-november-20/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "خودرو و موتورسیکلت",
+      "story": "خودرو و موتورسیکلت",
+      "date": "2026-11-20",
+      "summary": "خودرو النترا ۲۰۲۷ با مصرف سوخت خیره‌کننده رونمایی شد؛ بزرگ‌تر و قدرتمندتر از قبل",
+      "source": "زومیت",
+      "published": "2026-11-20T05:18:10+00:00",
+      "link": "https://www.zoomit.ir/car/471502-hyundai-elantra-2027-redesign/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "اپل",
+      "story": "اپل",
+      "date": "2026-11-20",
+      "summary": "هوش مصنوعی بعدی اپل به‌جای شما با کامپیوتر کار می‌کند",
+      "source": "زومیت",
+      "published": "2026-11-20T05:13:52+00:00",
+      "link": "https://www.zoomit.ir/ai-articles/471501-apple-ai-agent-control-apps-devices-browsing-coding/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "بازی",
+      "story": "بازی",
+      "date": "2026-11-20",
+      "summary": "بازی GTA 6 تاریخ‌ساز می‌شود؛ فروش احتمالی ۲٫۳۶ میلیارد دلاری تنها در روز نخست",
+      "source": "زومیت",
+      "published": "2026-11-20T05:06:42+00:00",
+      "link": "https://www.zoomit.ir/gaming/471500-gta-6-first-day-sales-record/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "اینترنت و شبکه",
+      "story": "اینترنت و شبکه",
+      "date": "2026-11-20",
+      "summary": "صفحه اصلی گوگل پس از سال‌ها تغییر کرد؛ نسخه جدید را ببینید",
+      "source": "زومیت",
+      "published": "2026-11-20T05:03:31+00:00",
+      "link": "https://www.zoomit.ir/internet-network/471499-google-search-homepage-redesign-gemini-ai-chat-history/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-20",
+      "summary": "هواوی یک گوشی بسیار باریک برای رقابت با آیفون ایر می‌سازد",
+      "source": "زومیت",
+      "published": "2026-11-20T04:15:00+00:00",
+      "link": "https://www.zoomit.ir/mobile/471455-huawei-mate-90-air-revealed/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-20",
+      "summary": "قابلیت امنیتی جدید سامسونگ؛ قفل برنامه‌ها و مخفی‌شدن خودکار نمایشگر",
+      "source": "زومیت",
+      "published": "2026-11-20T02:30:00+00:00",
+      "link": "https://www.zoomit.ir/mobile/471454-one-ui-95-app-lock-galaxy-s26-ultra/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "مطالب موبایل",
+      "story": "مطالب موبایل",
+      "date": "2026-11-19",
+      "summary": "پسرفت عجیب در آپدیت جدید سامسونگ؛ دو ویژگی کاربردی Now Brief کنار گذاشته شدند",
+      "source": "زومیت",
+      "published": "2026-11-19T23:15:00+00:00",
+      "link": "https://www.zoomit.ir/software-news/471453-samsung-drops-now-brief-features/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "هواوی",
+      "story": "هواوی",
+      "date": "2026-11-19",
+      "summary": "رقیب فوق‌باریک اپل واچ معرفی می‌شود؛ ساعت تیتانیومی هواوی با نمایشگر بزرگ و بدنه سبک",
+      "source": "زومیت",
+      "published": "2026-11-19T21:40:00+00:00",
+      "link": "https://www.zoomit.ir/wearables/471452-huawei-watch-air-teaser-specs/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "خودرو و موتورسیکلت",
+      "story": "خودرو و موتورسیکلت",
+      "date": "2026-11-19",
+      "summary": "وانت آمریکایی فورد رقابت با هایلوکس را به خاک ژاپن می‌کشاند",
+      "source": "زومیت",
+      "published": "2026-11-19T19:55:00+00:00",
+      "link": "https://www.zoomit.ir/car/471413-ford-commercial-fleet-trucks-japan/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علم",
+      "story": "علم",
+      "date": "2026-11-19",
+      "summary": "کشف فسیل‌های جدید در چین، تصور دانشمندان از زندگی اجداد انسان را تغییر داد",
+      "source": "زومیت",
+      "published": "2026-11-19T19:30:00+00:00",
+      "link": "https://www.zoomit.ir/human-science/471440-homo-erectus-fossils-china-discovery/",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علمی",
+      "story": "علمی",
+      "date": "2026-11-24",
+      "summary": "ریاضیات می‌گوید می‌توان یک توپ را به دو توپ تبدیل کرد؛ چطور ممکن است؟",
       "source": "دیجیاتو",
-      "published": "2026-05-08T09:55:01+00:00",
-      "link": "https://digiato.com/web-internet/reduce-internet-data-usage-guide",
-      "observed": "2026-11-24T22:08:42+00:00"
+      "published": "2026-11-24T19:30:00+00:00",
+      "link": "https://digiato.com/interdisciplinary/how-mathematics-turns-one-sphere-into-two",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "تکنولوژی",
+      "story": "تکنولوژی",
+      "date": "2026-11-24",
+      "summary": "هشدار کارکنان شرکت‌های هوش مصنوعی: مدل‌های جدید آن‌قدر قدرتمند شده‌اند که شاید دیگر نتوان منتشرشان کرد",
+      "source": "دیجیاتو",
+      "published": "2026-11-24T18:52:13+00:00",
+      "link": "https://digiato.com/artificial-intelligence/ai-company-employees-warn-models-too-powerful-to-release",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "کسب و کار",
+      "story": "کسب و کار",
+      "date": "2026-11-24",
+      "summary": "جنسن هوانگ چگونه دوباره مدیرعامل انویدیا شد؟",
+      "source": "دیجیاتو",
+      "published": "2026-11-24T18:30:00+00:00",
+      "link": "https://digiato.com/business/jensen-huang-nvidia-ceo-reinstated",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "تکنولوژی",
+      "story": "تکنولوژی",
+      "date": "2026-11-24",
+      "summary": "توسعه بازار تبلیغات دیجیتال با «سرویس تبلیغات و رشد» اسنپ‌پی؛ اسنپ‌پی به دنبال سهمی فراتر از صنعت BNPL",
+      "source": "دیجیاتو",
+      "published": "2026-11-24T17:52:49+00:00",
+      "link": "https://digiato.com/iran-technology-news/expanding-digital-advertising-market-with-snapppay-advertising-and-growth-service",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علمی",
+      "story": "علمی",
+      "date": "2026-11-24",
+      "summary": "آزمایش شگفت‌انگیز دانشمندان؛ پیام متنی با نیروی گرانش از پشت دیوار آجری منتقل شد",
+      "source": "دیجیاتو",
+      "published": "2026-11-24T16:30:00+00:00",
+      "link": "https://digiato.com/interdisciplinary/gravity-communication-through-walls",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "تکنولوژی",
+      "story": "تکنولوژی",
+      "date": "2026-11-24",
+      "summary": "مدیرعامل ملّی‌گلد: خالی‌فروشی در پلتفرم‌های متصل به سامانه زرپایش امکان ندارد",
+      "source": "دیجیاتو",
+      "published": "2026-11-24T15:35:00+00:00",
+      "link": "https://digiato.com/iran-technology-news/melligold-ceo-interview",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "علمی",
+      "story": "علمی",
+      "date": "2026-11-24",
+      "summary": "خلبان پاکستانی نخستین فضانورد خارجی ایستگاه فضایی چین می‌شود",
+      "source": "دیجیاتو",
+      "published": "2026-11-24T15:30:00+00:00",
+      "link": "https://digiato.com/astronomy/pakistani-pilot-first-foreigner-china-space-station",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "تکنولوژی",
+      "story": "تکنولوژی",
+      "date": "2026-11-24",
+      "summary": "فروش سکه طلا زیر قیمت اتحادیه در بلک‌فرایدی دیجی‌کالا",
+      "source": "دیجیاتو",
+      "published": "2026-11-24T14:52:36+00:00",
+      "link": "https://digiato.com/iran-technology-news/digikala-black-friday-coins-below-union-price",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "تکنولوژی",
+      "story": "تکنولوژی",
+      "date": "2026-11-24",
+      "summary": "هشدار مدیر هوش مصنوعی متا: نباید با واگذاری کنترل جامعه به هوش مصنوعی کنار بیاییم",
+      "source": "دیجیاتو",
+      "published": "2026-11-24T14:16:00+00:00",
+      "link": "https://digiato.com/artificial-intelligence/meta-ai-chief-warns-against-superintelligence-handover",
+      "observed": "2026-11-24T22:54:16+00:00"
+    },
+    {
+      "topic": "تکنولوژی",
+      "story": "تکنولوژی",
+      "date": "2026-11-24",
+      "summary": "ایده عجیب گوگل: ساخت کانال تلویزیونی با AI که شما شخصیت اصلی فیلم‌های آن هستید",
+      "source": "دیجیاتو",
+      "published": "2026-11-24T14:01:00+00:00",
+      "link": "https://digiato.com/artificial-intelligence/google-ai-personalized-tv-shows",
+      "observed": "2026-11-24T22:54:16+00:00"
     }
   ]
 }

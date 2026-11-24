@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "time": "2026-11-24T22:02:07+00:00",
+  "time": "2026-11-24T23:00:08+00:00",
   "provenance": "آگهی‌های عمومی تهران و شیراز را اکتور دیوار خوانده است. قیمت‌ها مبلغ درخواستی آگهی‌دهنده به تومان‌اند.",
   "rows": [
     {
@@ -78,101 +78,524 @@
     {
       "id": "waF4fsrW",
       "title": "پژو ۲۰۷ سفید پانا مدل ۴۰۵",
-      "city": "تهران",
       "category": "خودرو",
+      "city": "تهران",
       "price": 3430000000,
-      "observed": "2026-11-24T21:56:22+00:00",
-      "link": "https://divar.ir/v/waF4fsrW"
+      "link": "https://divar.ir/v/waF4fsrW",
+      "observed": "2026-11-24T22:51:49+00:00"
     },
     {
       "id": "waF8PQOJ",
       "title": "پژو ۲۰۷ دنده ای سقف پانا رنگ تیتانیوم",
-      "city": "تهران",
       "category": "خودرو",
+      "city": "تهران",
       "price": 3450000000,
-      "observed": "2026-11-24T21:56:22+00:00",
-      "link": "https://divar.ir/v/waF8PQOJ"
+      "link": "https://divar.ir/v/waF8PQOJ",
+      "observed": "2026-11-24T22:51:49+00:00"
     },
     {
       "id": "gaf741v3",
       "title": "حواله ۲۰۷ خَرَیَدَاَرَم",
-      "city": "تهران",
       "category": "خودرو",
+      "city": "تهران",
       "price": 2000000000,
-      "observed": "2026-11-24T21:56:22+00:00",
-      "link": "https://divar.ir/v/gaf741v3"
+      "link": "https://divar.ir/v/gaf741v3",
+      "observed": "2026-11-24T22:51:49+00:00"
     },
     {
       "id": "waF8eJEi",
       "title": "207پانا بدون توضیح",
-      "city": "تهران",
       "category": "خودرو",
+      "city": "تهران",
       "price": 2900000000,
-      "observed": "2026-11-24T21:56:22+00:00",
-      "link": "https://divar.ir/v/waF8eJEi"
+      "link": "https://divar.ir/v/waF8eJEi",
+      "observed": "2026-11-24T22:51:49+00:00"
     },
     {
       "id": "waFs-b-q",
       "title": "۲۰۷ پانا دنده برج ۱۲ سال۱۴۰۳ کم کار",
-      "city": "تهران",
       "category": "خودرو",
+      "city": "تهران",
       "price": 3050000000,
-      "observed": "2026-11-24T21:56:22+00:00",
-      "link": "https://divar.ir/v/waFs-b-q"
+      "link": "https://divar.ir/v/waFs-b-q",
+      "observed": "2026-11-24T22:51:49+00:00"
     },
     {
       "id": "waFc-pdP",
       "title": "پژو۲۰۷پاناخشک",
-      "city": "تهران",
       "category": "خودرو",
+      "city": "تهران",
       "price": 3600000000,
-      "observed": "2026-11-24T21:56:22+00:00",
-      "link": "https://divar.ir/v/waFc-pdP"
+      "link": "https://divar.ir/v/waFc-pdP",
+      "observed": "2026-11-24T22:51:49+00:00"
     },
     {
       "id": "waGYAhz3",
       "title": "گوشی هواوی y7prime",
-      "city": "شیراز",
       "category": "موبایل و تبلت",
+      "city": "شیراز",
       "price": 1000,
-      "observed": "2026-11-24T21:56:21+00:00",
-      "link": "https://divar.ir/v/waGYAhz3"
+      "link": "https://divar.ir/v/waGYAhz3",
+      "observed": "2026-11-24T22:51:51+00:00"
     },
     {
       "id": "waGUgq5V",
       "title": "ایفن 17پرو مکس",
-      "city": "شیراز",
       "category": "موبایل و تبلت",
+      "city": "شیراز",
       "price": 345000000,
-      "observed": "2026-11-24T21:56:21+00:00",
-      "link": "https://divar.ir/v/waGUgq5V"
+      "link": "https://divar.ir/v/waGUgq5V",
+      "observed": "2026-11-24T22:51:51+00:00"
     },
     {
       "id": "waF8_gcN",
       "title": "iphone 11 pro 256 gold بی نظیر",
-      "city": "شیراز",
       "category": "موبایل و تبلت",
+      "city": "شیراز",
       "price": 88700000,
-      "observed": "2026-11-24T21:56:21+00:00",
-      "link": "https://divar.ir/v/waF8_gcN"
+      "link": "https://divar.ir/v/waF8_gcN",
+      "observed": "2026-11-24T22:51:51+00:00"
     },
     {
       "id": "waGIgLDl",
       "title": "گوشی سامسونگ A17 ظرفیت حافظه 256 رم 8",
-      "city": "شیراز",
       "category": "موبایل و تبلت",
+      "city": "شیراز",
       "price": 89000000,
-      "observed": "2026-11-24T21:56:21+00:00",
-      "link": "https://divar.ir/v/waGIgLDl"
+      "link": "https://divar.ir/v/waGIgLDl",
+      "observed": "2026-11-24T22:51:51+00:00"
     },
     {
       "id": "waGEgkdj",
       "title": "گوشی نو Samsung A25",
-      "city": "شیراز",
       "category": "موبایل و تبلت",
+      "city": "شیراز",
       "price": 72500000,
-      "observed": "2026-11-24T21:56:21+00:00",
-      "link": "https://divar.ir/v/waGEgkdj"
+      "link": "https://divar.ir/v/waGEgkdj",
+      "observed": "2026-11-24T22:51:51+00:00"
+    },
+    {
+      "id": "waG8QgiZ",
+      "title": "پژو ۲۰۷tu5پانا مدل ۹۹شاسی پلمپ",
+      "category": "خودرو",
+      "city": "تهران",
+      "price": 2380000000,
+      "link": "https://divar.ir/v/waG8QgiZ",
+      "observed": "2026-11-24T22:51:49+00:00"
+    },
+    {
+      "id": "waG4w0Ue",
+      "title": "207 اتومات tu5",
+      "category": "خودرو",
+      "city": "تهران",
+      "price": 2830000000,
+      "link": "https://divar.ir/v/waG4w0Ue",
+      "observed": "2026-11-24T22:51:49+00:00"
+    },
+    {
+      "id": "waFUeMJh",
+      "title": "۲۰۷ پانا اتومات برج ۵ ۱۴۰۲",
+      "category": "خودرو",
+      "city": "گرگان",
+      "price": 3375000000,
+      "link": "https://divar.ir/v/waFUeMJh",
+      "observed": "2026-11-24T22:51:49+00:00"
+    },
+    {
+      "id": "waFQOJih",
+      "title": "207mc",
+      "category": "خودرو",
+      "city": "تهران",
+      "price": 2750000000,
+      "link": "https://divar.ir/v/waFQOJih",
+      "observed": "2026-11-24T22:51:49+00:00"
+    },
+    {
+      "id": "waFAuvQj",
+      "title": "پانا دنده ۱۴۰۱",
+      "category": "خودرو",
+      "city": "تهران",
+      "price": 2700000000,
+      "link": "https://divar.ir/v/waFAuvQj",
+      "observed": "2026-11-24T22:51:49+00:00"
+    },
+    {
+      "id": "waF8Nf5u",
+      "title": "فروش حواله ۲۰۷ پانا",
+      "category": "خودرو",
+      "city": "تهران",
+      "price": 450000000,
+      "link": "https://divar.ir/v/waF8Nf5u",
+      "observed": "2026-11-24T22:51:49+00:00"
+    },
+    {
+      "id": "ga4fRbb6",
+      "title": "۲۰۷ پانا موتور جدید مدل ۱۴۰۵",
+      "category": "خودرو",
+      "city": "تهران",
+      "price": 3370000000,
+      "link": "https://divar.ir/v/ga4fRbb6",
+      "observed": "2026-11-24T22:51:49+00:00"
+    },
+    {
+      "id": "waFMJZAE",
+      "title": "خودرو پژو ۲۰۷ اتومات سقف پاناروما",
+      "category": "خودرو",
+      "city": "تهران",
+      "price": null,
+      "link": "https://divar.ir/v/waFMJZAE",
+      "observed": "2026-11-24T22:51:49+00:00"
+    },
+    {
+      "id": "waFw9FCv",
+      "title": "207 دنده خاکستری",
+      "category": "خودرو",
+      "city": "تهران",
+      "price": 2030000000,
+      "link": "https://divar.ir/v/waFw9FCv",
+      "observed": "2026-11-24T22:51:49+00:00"
+    },
+    {
+      "id": "waFcd_sa",
+      "title": "tu3 207 مدل ۱۴۰۵",
+      "category": "خودرو",
+      "city": "تهران",
+      "price": 2735000000,
+      "link": "https://divar.ir/v/waFcd_sa",
+      "observed": "2026-11-24T22:51:49+00:00"
+    },
+    {
+      "id": "waFc9ySi",
+      "title": "پژو 207 مدل 1400",
+      "category": "خودرو",
+      "city": "تهران",
+      "price": 2400000000,
+      "link": "https://divar.ir/v/waFc9ySi",
+      "observed": "2026-11-24T22:51:49+00:00"
+    },
+    {
+      "id": "gajn8ylJ",
+      "title": "۲۰۷ دنده پانا tu5",
+      "category": "خودرو",
+      "city": "تهران",
+      "price": 3000000000,
+      "link": "https://divar.ir/v/gajn8ylJ",
+      "observed": "2026-11-24T22:51:49+00:00"
+    },
+    {
+      "id": "waFQtRRG",
+      "title": "۲۰۷ پانوراما ۱۴۰۰ شاسی سالم",
+      "category": "خودرو",
+      "city": "تهران",
+      "price": 2620000000,
+      "link": "https://divar.ir/v/waFQtRRG",
+      "observed": "2026-11-24T22:51:49+00:00"
+    },
+    {
+      "id": "ga6vcW1e",
+      "title": "207 مدل 1403سقف پانا اتومات ارتقا بی رنگ",
+      "category": "خودرو",
+      "city": "تهران",
+      "price": 3450000000,
+      "link": "https://divar.ir/v/ga6vcW1e",
+      "observed": "2026-11-24T22:51:49+00:00"
+    },
+    {
+      "id": "ga9PL6wY",
+      "title": "آگهی شخصی. 207i اتومات 1405",
+      "category": "خودرو",
+      "city": "تهران",
+      "price": null,
+      "link": "https://divar.ir/v/ga9PL6wY",
+      "observed": "2026-11-24T22:51:49+00:00"
+    },
+    {
+      "id": "waEgFrlD",
+      "title": "۲۰۷ پانا ۴۰۴ درحد فول ۲۵ کار گارانتی فعال فول",
+      "category": "خودرو",
+      "city": "تهران",
+      "price": 3130000000,
+      "link": "https://divar.ir/v/waEgFrlD",
+      "observed": "2026-11-24T22:51:49+00:00"
+    },
+    {
+      "id": "waFA9Rp9",
+      "title": "۲۰۷مدل۴۰۳",
+      "category": "خودرو",
+      "city": "تهران",
+      "price": null,
+      "link": "https://divar.ir/v/waFA9Rp9",
+      "observed": "2026-11-24T22:51:49+00:00"
+    },
+    {
+      "id": "waF08-ah",
+      "title": "پژو 207 1404",
+      "category": "خودرو",
+      "city": "تهران",
+      "price": 4200000000,
+      "link": "https://divar.ir/v/waF08-ah",
+      "observed": "2026-11-24T22:51:49+00:00"
+    },
+    {
+      "id": "ga_Xh88_",
+      "title": "۲۰۷ مدل ۱۴۰۲",
+      "category": "خودرو",
+      "city": "تهران",
+      "price": 2240000000,
+      "link": "https://divar.ir/v/ga_Xh88_",
+      "observed": "2026-11-24T22:51:49+00:00"
+    },
+    {
+      "id": "waFwcX8p",
+      "title": "پژو ۲۰۷ ۱۴۰۵ خشک",
+      "category": "خودرو",
+      "city": "تهران",
+      "price": 3150000000,
+      "link": "https://divar.ir/v/waFwcX8p",
+      "observed": "2026-11-24T22:51:49+00:00"
+    },
+    {
+      "id": "ga6HqOoA",
+      "title": "۲۰۷ دنده پانا ۱۴۰۴ TU5P تیتانیوم",
+      "category": "خودرو",
+      "city": "تهران",
+      "price": 3260000000,
+      "link": "https://divar.ir/v/ga6HqOoA",
+      "observed": "2026-11-24T22:51:49+00:00"
+    },
+    {
+      "id": "waFo8sW8",
+      "title": "۲۰۷ اتومات پانوراما مشکی اتومات ارتقا یافته 1404",
+      "category": "خودرو",
+      "city": "تهران",
+      "price": 4350000000,
+      "link": "https://divar.ir/v/waFo8sW8",
+      "observed": "2026-11-24T22:51:49+00:00"
+    },
+    {
+      "id": "waG4gxeK",
+      "title": "بلک بری پورش دیزاین p9983 در حد",
+      "category": "موبایل و تبلت",
+      "city": "شیراز",
+      "price": 80000000,
+      "link": "https://divar.ir/v/waG4gxeK",
+      "observed": "2026-11-24T22:51:51+00:00"
+    },
+    {
+      "id": "waGgQNUQ",
+      "title": "سامسونگ A07 اقساط 24 ماهه/بازنشستگان تامین اجتماعی",
+      "category": "موبایل و تبلت",
+      "city": "شیراز",
+      "price": 300000000,
+      "link": "https://divar.ir/v/waGgQNUQ",
+      "observed": "2026-11-24T22:51:51+00:00"
+    },
+    {
+      "id": "waGgAyFY",
+      "title": "ایفون پنج",
+      "category": "موبایل و تبلت",
+      "city": "شیراز",
+      "price": 3000000,
+      "link": "https://divar.ir/v/waGgAyFY",
+      "observed": "2026-11-24T22:51:51+00:00"
+    },
+    {
+      "id": "waGEgjU4",
+      "title": "A17 128.6",
+      "category": "موبایل و تبلت",
+      "city": "شیراز",
+      "price": 73500000,
+      "link": "https://divar.ir/v/waGEgjU4",
+      "observed": "2026-11-24T22:51:51+00:00"
+    },
+    {
+      "id": "waF8vssn",
+      "title": "فروش گوشی شیائمی نت ۱۲ پرو فایو جی",
+      "category": "موبایل و تبلت",
+      "city": "شیراز",
+      "price": 46000000,
+      "link": "https://divar.ir/v/waF8vssn",
+      "observed": "2026-11-24T22:51:51+00:00"
+    },
+    {
+      "id": "waF8fKjX",
+      "title": "گوشی ردمی a5",
+      "category": "موبایل و تبلت",
+      "city": "شیراز",
+      "price": 35000000,
+      "link": "https://divar.ir/v/waF8fKjX",
+      "observed": "2026-11-24T22:51:51+00:00"
+    },
+    {
+      "id": "waF4vYde",
+      "title": "سامسونگ A12 سالم و تمیز ۱۲۸ گیگ",
+      "category": "موبایل و تبلت",
+      "city": "شیراز",
+      "price": 31000000,
+      "link": "https://divar.ir/v/waF4vYde",
+      "observed": "2026-11-24T22:51:51+00:00"
+    },
+    {
+      "id": "waF0vNx1",
+      "title": "گوشی آیفون ۱۶ فیک",
+      "category": "موبایل و تبلت",
+      "city": "شیراز",
+      "price": 10000000,
+      "link": "https://divar.ir/v/waF0vNx1",
+      "observed": "2026-11-24T22:51:51+00:00"
+    },
+    {
+      "id": "waFsfSHv",
+      "title": "ایفون 15باتری 100",
+      "category": "موبایل و تبلت",
+      "city": "شیراز",
+      "price": 260000000,
+      "link": "https://divar.ir/v/waFsfSHv",
+      "observed": "2026-11-24T22:51:51+00:00"
+    },
+    {
+      "id": "waFsfJh_",
+      "title": "ایفون 14 نرمال",
+      "category": "موبایل و تبلت",
+      "city": "شیراز",
+      "price": 135000000,
+      "link": "https://divar.ir/v/waFsfJh_",
+      "observed": "2026-11-24T22:51:51+00:00"
+    },
+    {
+      "id": "waFkf2mt",
+      "title": "ایفون 13 pro max",
+      "category": "موبایل و تبلت",
+      "city": "شیراز",
+      "price": 190000000,
+      "link": "https://divar.ir/v/waFkf2mt",
+      "observed": "2026-11-24T22:51:51+00:00"
+    },
+    {
+      "id": "waFkPw6Z",
+      "title": "گوشی سامسونگ گلگسی A05",
+      "category": "موبایل و تبلت",
+      "city": "شیراز",
+      "price": 20000000,
+      "link": "https://divar.ir/v/waFkPw6Z",
+      "observed": "2026-11-24T22:51:51+00:00"
+    },
+    {
+      "id": "waFYv392",
+      "title": "۱۶ پرومکس",
+      "category": "موبایل و تبلت",
+      "city": "شیراز",
+      "price": 220000000,
+      "link": "https://divar.ir/v/waFYv392",
+      "observed": "2026-11-24T22:51:51+00:00"
+    },
+    {
+      "id": "waFUvxl8",
+      "title": "ایفون۱۷پرومکس شرکتی",
+      "category": "موبایل و تبلت",
+      "city": "شیراز",
+      "price": 640000000,
+      "link": "https://divar.ir/v/waFUvxl8",
+      "observed": "2026-11-24T22:51:51+00:00"
+    },
+    {
+      "id": "waFQP4sp",
+      "title": "ایفون ۱۱ نرمال",
+      "category": "موبایل و تبلت",
+      "city": "شیراز",
+      "price": 65000000,
+      "link": "https://divar.ir/v/waFQP4sp",
+      "observed": "2026-11-24T22:51:51+00:00"
+    },
+    {
+      "id": "waFMffSK",
+      "title": "Poco m4 pro 5g",
+      "category": "موبایل و تبلت",
+      "city": "شیراز",
+      "price": 38000000,
+      "link": "https://divar.ir/v/waFMffSK",
+      "observed": "2026-11-24T22:51:51+00:00"
+    },
+    {
+      "id": "waFIvlvK",
+      "title": "۱۷ پرو مکس سایکل ۲۰ انتن دار",
+      "category": "موبایل و تبلت",
+      "city": "شیراز",
+      "price": 365000000,
+      "link": "https://divar.ir/v/waFIvlvK",
+      "observed": "2026-11-24T22:51:51+00:00"
+    },
+    {
+      "id": "waFEPa7e",
+      "title": "گوشی سامسونگ",
+      "category": "موبایل و تبلت",
+      "city": "شیراز",
+      "price": 20000000,
+      "link": "https://divar.ir/v/waFEPa7e",
+      "observed": "2026-11-24T22:51:51+00:00"
+    },
+    {
+      "id": "waFE_KWM",
+      "title": "ایفون ۱۳ نرمال",
+      "category": "موبایل و تبلت",
+      "city": "شیراز",
+      "price": 128000000,
+      "link": "https://divar.ir/v/waFE_KWM",
+      "observed": "2026-11-24T22:51:51+00:00"
+    },
+    {
+      "id": "waDsAq-g",
+      "title": "فروش آیفون ۱۳ پرومکس",
+      "category": "موبایل و تبلت",
+      "city": "شیراز",
+      "price": 200000000,
+      "link": "https://divar.ir/v/waDsAq-g",
+      "observed": "2026-11-24T22:51:51+00:00"
+    },
+    {
+      "id": "waFwucMA",
+      "title": "گوشی سامسونگ a51 در حد نو",
+      "category": "موبایل و تبلت",
+      "city": "شیراز",
+      "price": 29000000,
+      "link": "https://divar.ir/v/waFwucMA",
+      "observed": "2026-11-24T22:51:51+00:00"
+    },
+    {
+      "id": "waFsuAuB",
+      "title": "نوکیا سونی کت",
+      "category": "موبایل و تبلت",
+      "city": "شیراز",
+      "price": 1000000,
+      "link": "https://divar.ir/v/waFsuAuB",
+      "observed": "2026-11-24T22:51:51+00:00"
+    },
+    {
+      "id": "waFkelUl",
+      "title": "گوشی موتورولا مدل moto G17",
+      "category": "موبایل و تبلت",
+      "city": "شیراز",
+      "price": 60000000,
+      "link": "https://divar.ir/v/waFkelUl",
+      "observed": "2026-11-24T22:51:51+00:00"
+    },
+    {
+      "id": "waFguvla",
+      "title": "آیفون فایو اس کلکسیونی",
+      "category": "موبایل و تبلت",
+      "city": "شیراز",
+      "price": 10000000,
+      "link": "https://divar.ir/v/waFguvla",
+      "observed": "2026-11-24T22:51:51+00:00"
+    },
+    {
+      "id": "waFgOhB4",
+      "title": "آیفون 11پرومکس 256 گیگ",
+      "category": "موبایل و تبلت",
+      "city": "شیراز",
+      "price": 93000000,
+      "link": "https://divar.ir/v/waFgOhB4",
+      "observed": "2026-11-24T22:51:51+00:00"
     }
   ]
 }

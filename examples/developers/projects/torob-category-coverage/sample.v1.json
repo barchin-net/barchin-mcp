@@ -1,8 +1,818 @@
 {
   "version": 1,
-  "time": "2026-11-24T22:02:07+00:00",
-  "provenance": "سه کارت واقعی از پاسخ عمومی ترب برای دستهٔ ۲۱۹۳ در آرشیو ۴ اکتبر ۲۰۲۶. تعداد غرفه‌ها از عبارت خود ترب و کف قیمت به تومان است.",
+  "time": "2026-11-24T23:00:08+00:00",
+  "provenance": "سه کارت دستهٔ اره از آرشیو عمومی ترب و پنج صفحهٔ کالای ابزار از برداشت برچین. در صفحات کالا تعداد نام‌های متمایز فروشنده در پیشنهادهای منتشرشده و کف قیمت اعلامی صفحه گزارش شده است. پوشش دسته محدود است. برای کالاهای آرشیو Common Crawl، ستون دسته همان شاخهٔ اصلی ترب است و زیردسته در ستون جدا آمده است. تعداد، فقط فروشندگان متمایز با قیمت موجود در صفحهٔ ثبت‌شده است.",
   "rows": [
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "لوستر و چراغ تزئینی",
+      "product": "خرید لوستر مدرن پروانه‌ای L1615-60 | آویز پروانه‌ای وارداتی طلایی، نقره‌ای، مشکی",
+      "sellers": 1,
+      "floorPrice": 31798800,
+      "link": "https://torob.com/p/155992c4-16e8-4a64-bbf3-2be513d22974/",
+      "observed": "2026-11-12T03:34:48+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "تلویزیون",
+      "product": "تلویزیون ال جی UT8000 سایز ۶۵ اینچ LED کیفیت تصویر Ultra HD 4K",
+      "sellers": 4,
+      "floorPrice": 145500000,
+      "link": "https://torob.com/p/15f38f8b-e7be-4fb8-965e-862f0740d561/",
+      "observed": "2026-11-11T05:57:17+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "اجاق گاز",
+      "product": "اجاق گاز استیل اخوان مدل گیتا GI13 سیلور",
+      "sellers": 6,
+      "floorPrice": 29342533,
+      "link": "https://torob.com/p/1e20aa4c-83bd-4827-8f8a-99d061878127/",
+      "observed": "2026-11-07T22:17:43+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "زودپز",
+      "product": "زودپز رویال مدل ROSHA-1600 ظرفیت ۷ لیتر",
+      "sellers": 2,
+      "floorPrice": 22000000,
+      "link": "https://torob.com/p/2c04aff4-38ff-4ad9-8e16-9c72a63bb370/",
+      "observed": "2026-11-18T10:54:26+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "فر برقی و گازی",
+      "product": "فر توکار آلتون مدل V905 B مشکی",
+      "sellers": 6,
+      "floorPrice": 78200000,
+      "link": "https://torob.com/p/300aa7ad-9e52-42de-a1c2-cbfef1cbb994/",
+      "observed": "2026-11-11T06:22:39+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "یخچال فریزر ساید بای ساید",
+      "product": "یخچال فریزر ساید بای ساید ال جی مدل J267 ظرفیت ۳۰ فوت با بار خانگی و یخساز اتوماتیک",
+      "sellers": 4,
+      "floorPrice": 271000000,
+      "link": "https://torob.com/p/30bebd39-187b-4f63-98be-d51006965abe/",
+      "observed": "2026-11-13T22:59:51+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "اجاق گاز",
+      "product": "اجاق گاز استیل البرز مدل S-5959 سیلور",
+      "sellers": 5,
+      "floorPrice": 28940000,
+      "link": "https://torob.com/p/373466d4-c182-484e-bd57-29481e30c5ae/",
+      "observed": "2026-11-07T22:17:09+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "ماشین ظرفشویی",
+      "product": "ماشین ظرفشویی ال جی DFC435FW",
+      "sellers": 5,
+      "floorPrice": 165300000,
+      "link": "https://torob.com/p/3bc68df7-4c76-4095-a5e4-3cc8eac748b0/",
+      "observed": "2026-11-10T11:40:13+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "سطل زباله",
+      "product": "سطل سالنی استیل 30 لیتری CE3100 همراه جاسیگاری",
+      "sellers": 1,
+      "floorPrice": 4750000,
+      "link": "https://torob.com/p/037edac7-ee9f-42aa-9ec7-a2d4a7581908/",
+      "observed": "2026-10-14T22:18:34+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "ماشین ظرفشویی",
+      "product": "ماشین ظرفشویی پاکشوما مدل F54 ظرفیت ۱۵ نفره",
+      "sellers": 6,
+      "floorPrice": 112900000,
+      "link": "https://torob.com/p/0626aef2-ba66-4bc5-b26b-9352d3f8ff3a/",
+      "observed": "2026-10-11T14:12:22+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "ماشین ظرفشویی",
+      "product": "ماشین ظرفشویی پاکشوما مدل J52 ظرفیت ۱۵ نفر",
+      "sellers": 5,
+      "floorPrice": 97000000,
+      "link": "https://torob.com/p/0add8644-f073-48c7-bf22-03d406e69d6d/",
+      "observed": "2026-10-17T11:31:24+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "تلویزیون",
+      "product": "تلویزیون دوو مدل DSL-50MS3000U سایز 50 اینچ",
+      "sellers": 5,
+      "floorPrice": 65701874,
+      "link": "https://torob.com/p/13dacb30-a020-4ad4-8275-e943455692cf/",
+      "observed": "2026-10-16T14:12:17+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "قالب شیرینی پزی و دسر",
+      "product": "قالب مافین کرکماز مدل تورتا ۶ عددی تفلون",
+      "sellers": 5,
+      "floorPrice": 250000,
+      "link": "https://torob.com/p/17ff7034-a944-4971-8a8f-43ee57a749f8/",
+      "observed": "2026-10-17T17:40:42+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "قالب شیرینی پزی و دسر",
+      "product": "قالب کیک موج مدل مستطیل سایز ۳۰×۴۰ لبه بلند",
+      "sellers": 1,
+      "floorPrice": 349008,
+      "link": "https://torob.com/p/25926fa1-cad1-47bd-a792-1d5479cd08ca/",
+      "observed": "2026-10-13T18:54:28+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "تلویزیون",
+      "product": "تلویزیون ال جی مدل UT8000 سایز ۷۵ اینچ کیفیت تصویر Ultra HD 4K نوع صفحه LED",
+      "sellers": 6,
+      "floorPrice": 217100000,
+      "link": "https://torob.com/p/27e6632b-9a91-4ce4-9d42-a1a3d076e45a/",
+      "observed": "2026-10-11T17:12:14+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "مخلوط کن برقی",
+      "product": "مخلوط کن سیلور کرست مدل SC 1589 توان 5500 وات",
+      "sellers": 5,
+      "floorPrice": 4299000,
+      "link": "https://torob.com/p/299c2c21-432b-47e1-bc1b-0c7e2248f79b/",
+      "observed": "2026-10-10T10:44:55+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "ماشین ظرفشویی",
+      "product": "ماشین ظرفشویی کنوود مدل KDW3141 ظرفیت ۱۴ نفر مبله با ۷ برنامه",
+      "sellers": 1,
+      "floorPrice": 173177000,
+      "link": "https://torob.com/p/310fd77b-943e-465d-9089-f45b80f37e70/",
+      "observed": "2026-10-08T21:41:05+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "ماشین ظرفشویی",
+      "product": "ماشین ظرفشویی بوش مدل SMS6ZCW37Q  SMS6ZCI37Q",
+      "sellers": 4,
+      "floorPrice": 152500000,
+      "link": "https://torob.com/p/324f1c3d-7b19-4b25-aa3c-9ba16517517f/",
+      "observed": "2026-10-11T14:13:34+00:00"
+    },
+    {
+      "category": "لوازم خانگی",
+      "subcategory": "کاموا",
+      "product": "کاموا اکریل بافت بی بی ضخیم ضد حساسیت",
+      "sellers": 1,
+      "floorPrice": 180000,
+      "link": "https://torob.com/p/3a00149a-afe7-46e4-a5e0-e9963d0cbc3e/",
+      "observed": "2026-10-08T18:49:57+00:00"
+    },
+    {
+      "category": "زیبایی و بهداشت",
+      "subcategory": "رنگ مو",
+      "product": "رنگ موی مارال شماره ۷.۵۴ هاوانا حجم ۱۰۰ میلی لیتر",
+      "sellers": 6,
+      "floorPrice": 245000,
+      "link": "https://torob.com/p/007d9772-6389-4216-9079-0725c561cb24/",
+      "observed": "2026-11-15T08:55:37+00:00"
+    },
+    {
+      "category": "زیبایی و بهداشت",
+      "subcategory": "عطر و ادکلن",
+      "product": "عطر ادوپرفیوم مردانه اسکلاره مدل Silver Scent رایحه تند",
+      "sellers": 5,
+      "floorPrice": 370000,
+      "link": "https://torob.com/p/0da16e36-ec6b-4945-b935-a61ef7691818/",
+      "observed": "2026-11-15T08:57:59+00:00"
+    },
+    {
+      "category": "زیبایی و بهداشت",
+      "subcategory": "مسواک",
+      "product": "مسواک برقی اورال-بی Pro Series 1",
+      "sellers": 6,
+      "floorPrice": 11400000,
+      "link": "https://torob.com/p/1bdcc93e-a77f-42e4-a23e-464fbd212202/",
+      "observed": "2026-11-07T01:04:11+00:00"
+    },
+    {
+      "category": "زیبایی و بهداشت",
+      "subcategory": "سایه چشم و ابرو",
+      "product": "پالت سایه ابرو آکوا ماسکات ۶ رنگ",
+      "sellers": 6,
+      "floorPrice": 900000,
+      "link": "https://torob.com/p/1e42cfb1-46b1-42a0-ad33-176b91bc3d55/",
+      "observed": "2026-11-10T02:25:44+00:00"
+    },
+    {
+      "category": "زیبایی و بهداشت",
+      "subcategory": "سشوار و برس حرارتی",
+      "product": "سشوار چرخشی رمینگتون مدل AS8606 با باد سرد و متمرکزکننده",
+      "sellers": 6,
+      "floorPrice": 13476320,
+      "link": "https://torob.com/p/26b1df7c-dd43-4965-ae86-2f790eea2525/",
+      "observed": "2026-11-15T08:54:51+00:00"
+    },
+    {
+      "category": "زیبایی و بهداشت",
+      "subcategory": "صابون",
+      "product": "صابون کپسولی ویتامین سی فیل اسکین",
+      "sellers": 5,
+      "floorPrice": 295000,
+      "link": "https://torob.com/p/26ca8b3f-473c-469d-8efb-f9b22fb0db18/",
+      "observed": "2026-11-06T12:44:12+00:00"
+    },
+    {
+      "category": "زیبایی و بهداشت",
+      "subcategory": "سشوار و برس حرارتی",
+      "product": "سشوار فیلیپس مدل BHD272 با توان ۲۱۰۰ وات و باد سرد",
+      "sellers": 6,
+      "floorPrice": 8782000,
+      "link": "https://torob.com/p/29dfba63-93f7-49d1-96ff-f5dafabc08c9/",
+      "observed": "2026-11-07T22:26:51+00:00"
+    },
+    {
+      "category": "زیبایی و بهداشت",
+      "subcategory": "رنگ مو",
+      "product": "رنگ موی مارال شماره ۱۲.۵ حجم ۱۰۰ میلی لیتر بلوند طلایی خیلی خیلی روشن",
+      "sellers": 6,
+      "floorPrice": 194750,
+      "link": "https://torob.com/p/347448ba-ffe5-4f43-8625-6bda7d7563a9/",
+      "observed": "2026-11-15T09:01:49+00:00"
+    },
+    {
+      "category": "زیبایی و بهداشت",
+      "subcategory": "کانتور و هایلایتر",
+      "product": "کانتور تیره استیکی آرت اسکین مدل Stay All Day",
+      "sellers": 1,
+      "floorPrice": 498000,
+      "link": "https://torob.com/p/01b3a0f1-ab90-4b11-913d-ab70aef594f3/",
+      "observed": "2026-10-16T14:07:19+00:00"
+    },
+    {
+      "category": "زیبایی و بهداشت",
+      "subcategory": "شامپو رنگ مو",
+      "product": "شامپو رنگ مو تونیکا شماره ۴.۶ رنگ قرمز یاقوتی حجم ۱۵۰ میلی لیتر",
+      "sellers": 4,
+      "floorPrice": 320000,
+      "link": "https://torob.com/p/10afea9c-9a64-475d-befe-ce245fd225d8/",
+      "observed": "2026-10-11T14:21:21+00:00"
+    },
+    {
+      "category": "زیبایی و بهداشت",
+      "subcategory": "ماشین اصلاح و ریش‌ تراش",
+      "product": "ماشین اصلاح حرفه ای سر و صورت وی جی آر مدل V 001 edition",
+      "sellers": 5,
+      "floorPrice": 10220000,
+      "link": "https://torob.com/p/10f2528c-9888-489d-868e-bada076048e6/",
+      "observed": "2026-10-11T14:20:55+00:00"
+    },
+    {
+      "category": "زیبایی و بهداشت",
+      "subcategory": "ضد آفتاب",
+      "product": "کرم ضد آفتاب بی رنگ اسکین 1004 سنتلا مدل ماداگاسکار SPF50 مناسب انواع پوست حجم 50 میلی لیتر",
+      "sellers": 5,
+      "floorPrice": 469000,
+      "link": "https://torob.com/p/23135d01-ac5d-40b2-804c-bb584e99569c/",
+      "observed": "2026-10-08T18:54:56+00:00"
+    },
+    {
+      "category": "زیبایی و بهداشت",
+      "subcategory": "سشوار و برس حرارتی",
+      "product": "حالت دهنده مو سشوار پنج کاره مو طرح دایسون مدل tp-5+1 کد YX-818 برای رفاه بیشتر در خانه",
+      "sellers": 6,
+      "floorPrice": 1580000,
+      "link": "https://torob.com/p/233d126f-5596-4e33-97dd-689d5b4662f0/",
+      "observed": "2026-10-13T18:39:59+00:00"
+    },
+    {
+      "category": "زیبایی و بهداشت",
+      "subcategory": "پرایمر و تثبیت کننده آرایش",
+      "product": "پودر فیکس صورتی deBBy (محصول ایتالیا) 30 گرمی",
+      "sellers": 1,
+      "floorPrice": 1889000,
+      "link": "https://torob.com/p/2d47cc93-45ca-445a-b4ff-dc23921cf3f6/",
+      "observed": "2026-10-15T22:50:04+00:00"
+    },
+    {
+      "category": "زیبایی و بهداشت",
+      "subcategory": "ماشین اصلاح و ریش‌ تراش",
+      "product": "ماشین اصلاح وی جی آر مدل V-996 با تیغه سرامیک و برش مستقیم",
+      "sellers": 6,
+      "floorPrice": 2395000,
+      "link": "https://torob.com/p/2fbd75aa-f1ba-4f36-8a35-4a246dd467a3/",
+      "observed": "2026-10-17T11:43:26+00:00"
+    },
+    {
+      "category": "زیبایی و بهداشت",
+      "subcategory": "شامپو رنگ مو",
+      "product": "شامپو رنگ تونیکا شماره 8.53 حجم ۱۵۰ میل صورتی دودی",
+      "sellers": 6,
+      "floorPrice": 440000,
+      "link": "https://torob.com/p/3b70c742-83f2-4e8e-815c-ba12c3ff2c30/",
+      "observed": "2026-10-11T14:15:00+00:00"
+    },
+    {
+      "category": "زیبایی و بهداشت",
+      "subcategory": "گلیسیرین",
+      "product": "گلیسیرین خوراکی و موضعی کیمیاگر طوس حجم ۶۰ میلی لیتر",
+      "sellers": 2,
+      "floorPrice": 180500,
+      "link": "https://torob.com/p/40a25098-d67f-4563-8828-77ee4475e0fb/",
+      "observed": "2026-10-17T11:28:24+00:00"
+    },
+    {
+      "category": "زیبایی و بهداشت",
+      "subcategory": "ماشین اصلاح و ریش‌ تراش",
+      "product": "ماشین اصلاح VGR V-285",
+      "sellers": 5,
+      "floorPrice": 7349000,
+      "link": "https://torob.com/p/43d36005-e301-43af-b295-88cf7dac2477/",
+      "observed": "2026-10-11T14:25:06+00:00"
+    },
+    {
+      "category": "تجهیزات ساختمان",
+      "subcategory": "برچسب و کفپوش کابینت",
+      "product": "رول برچسب کابینت پی وی سی مدل M9",
+      "sellers": 1,
+      "floorPrice": 927000,
+      "link": "https://torob.com/p/073a198e-e5db-4fcc-86a3-e1746e15fa33/",
+      "observed": "2026-11-12T03:39:39+00:00"
+    },
+    {
+      "category": "تجهیزات ساختمان",
+      "subcategory": "چسب کاغذ دیواری",
+      "product": "چسب درزگیر کاغذ دیواری آیستر مدل پیواکس حجم 30 میلی لیتر",
+      "sellers": 1,
+      "floorPrice": 449715,
+      "link": "https://torob.com/p/143c7b85-48f7-44cc-bce5-2117dcd7a738/",
+      "observed": "2026-11-15T08:45:58+00:00"
+    },
+    {
+      "category": "تجهیزات ساختمان",
+      "subcategory": "نردبان",
+      "product": "نردبان ۵ پله آسمان تاشو با جای ابزار",
+      "sellers": 6,
+      "floorPrice": 3925000,
+      "link": "https://torob.com/p/24370bf3-a859-46f1-a175-6d13074be5b0/",
+      "observed": "2026-11-12T03:48:50+00:00"
+    },
+    {
+      "category": "تجهیزات ساختمان",
+      "subcategory": "هود آشپزخانه",
+      "product": "هود مورب آلتون مدل H316 سایز ۹۰ سانتیمتر",
+      "sellers": 5,
+      "floorPrice": 22352000,
+      "link": "https://torob.com/p/2f19e936-7f99-4d16-8e82-df3dffe5e1df/",
+      "observed": "2026-11-10T02:34:48+00:00"
+    },
+    {
+      "category": "تجهیزات ساختمان",
+      "subcategory": "چسب کاغذ دیواری",
+      "product": "چسب کاغذ دیواری گیاهی هل",
+      "sellers": 1,
+      "floorPrice": 155000,
+      "link": "https://torob.com/p/32a52418-9b4d-4e62-adfb-bc4c8d046c93/",
+      "observed": "2026-11-15T09:03:13+00:00"
+    },
+    {
+      "category": "تجهیزات ساختمان",
+      "subcategory": "چراغ دیواری",
+      "product": "دیوارکوب D1143-1tz لوسترسازان",
+      "sellers": 1,
+      "floorPrice": 5619240,
+      "link": "https://torob.com/p/34b090af-eb43-4d9e-96a3-bbeea95b06d3/",
+      "observed": "2026-11-12T03:49:51+00:00"
+    },
+    {
+      "category": "تجهیزات ساختمان",
+      "subcategory": "خدمات دکوراسیون و معماری",
+      "product": "طراحی روف گاردن، محوطه",
+      "sellers": 1,
+      "floorPrice": 171700,
+      "link": "https://torob.com/p/02d4acee-48c5-4d51-81a3-02d874af3a58/",
+      "observed": "2026-10-16T10:52:28+00:00"
+    },
+    {
+      "category": "تجهیزات ساختمان",
+      "subcategory": "چسب سرامیک و کاشی",
+      "product": "چسب پودری شیمی ساختمان مدل BK2F وزن ۲۰ کیلوگرم",
+      "sellers": 4,
+      "floorPrice": 1890000,
+      "link": "https://torob.com/p/0b9dcd74-9a6e-4e4f-9930-419798f90020/",
+      "observed": "2026-10-16T10:55:08+00:00"
+    },
+    {
+      "category": "تجهیزات ساختمان",
+      "subcategory": "کلید هوشمند",
+      "product": "کلید هوشمند چهار پل زیگبی مدل F3 Pro با صفحه نمایش لمسی",
+      "sellers": 5,
+      "floorPrice": 13300000,
+      "link": "https://torob.com/p/14f983e4-f998-4adc-afdd-ffea375f3d7a/",
+      "observed": "2026-10-16T11:08:08+00:00"
+    },
+    {
+      "category": "تجهیزات ساختمان",
+      "subcategory": "سایر تجهیزات ساختمان",
+      "product": "طلق پلکسی شفاف ۴ میل سایز ۱۸۰ در ۱۲۰",
+      "sellers": 1,
+      "floorPrice": 3800000,
+      "link": "https://torob.com/p/205c0269-f9b0-47a5-8532-637906fec6c3/",
+      "observed": "2026-10-17T17:52:21+00:00"
+    },
+    {
+      "category": "صوتی و تصویری",
+      "subcategory": "دوربین ورزشی",
+      "product": "دوربین ورزشی Apeman Seeker One 4K با دو صفحه نمایش و فیلم‌برداری ۶۰FPS",
+      "sellers": 5,
+      "floorPrice": 38800000,
+      "link": "https://torob.com/p/09ceea40-dae6-4e95-9183-122fc41298ee/",
+      "observed": "2026-11-18T10:37:16+00:00"
+    },
+    {
+      "category": "صوتی و تصویری",
+      "subcategory": "کنسول بازی  PS4",
+      "product": "کنسول بازی سونی استوک PS4 Slim | حافظه 1 ترابایت + دسته اضافه",
+      "sellers": 5,
+      "floorPrice": 46980000,
+      "link": "https://torob.com/p/1362a05d-404c-4541-af47-259a129fbab4/",
+      "observed": "2026-10-13T18:35:44+00:00"
+    },
+    {
+      "category": "صوتی و تصویری",
+      "subcategory": "لوازم جانبی کنسول",
+      "product": "قاب کامل پلی استیشن ۴ اسلیم",
+      "sellers": 5,
+      "floorPrice": 3400000,
+      "link": "https://torob.com/p/1dad9a31-5ac9-4151-a694-40fe3e1a8227/",
+      "observed": "2026-10-10T10:46:20+00:00"
+    },
+    {
+      "category": "صوتی و تصویری",
+      "subcategory": "دوربین عکاسی و فیلمبرداری",
+      "product": "دوربین بدون آینه سونی مدل a7C II body",
+      "sellers": 6,
+      "floorPrice": 336000000,
+      "link": "https://torob.com/p/21a31d29-cf53-4b46-94cc-7480ba1e4158/",
+      "observed": "2026-10-10T10:45:22+00:00"
+    },
+    {
+      "category": "صوتی و تصویری",
+      "subcategory": "دوربین عکاسی و فیلمبرداری",
+      "product": "دوربین عکاسی کانن مدل EOS 90D EF-S 18-135mm IS USM",
+      "sellers": 6,
+      "floorPrice": 251160000,
+      "link": "https://torob.com/p/2491d59e-b077-4ed5-b04e-1fbd99b41e23/",
+      "observed": "2026-10-10T10:35:55+00:00"
+    },
+    {
+      "category": "صوتی و تصویری",
+      "subcategory": "لوازم جانبی کنسول",
+      "product": "استند رانندگی سونی VRS Racing Simulator Stand",
+      "sellers": 4,
+      "floorPrice": 6600000,
+      "link": "https://torob.com/p/3e63e790-1925-47b3-9969-744140ede232/",
+      "observed": "2026-10-11T14:28:53+00:00"
+    },
+    {
+      "category": "صوتی و تصویری",
+      "subcategory": "دوربین عکاسی و فیلمبرداری",
+      "product": "دوربین سینمایی سونی FX3 فول فریم با رزولوشن ۱۰.۲ مگاپیکسل و UHD",
+      "sellers": 6,
+      "floorPrice": 638000000,
+      "link": "https://torob.com/p/44826d5d-75ba-40de-8263-04a8671214a3/",
+      "observed": "2026-10-10T10:39:38+00:00"
+    },
+    {
+      "category": "سلامت و پزشکی",
+      "subcategory": "تسکین دهنده و ضد درد",
+      "product": "کرم تسکین درد فوری موف حجم ۵۰ گرم",
+      "sellers": 6,
+      "floorPrice": 248000,
+      "link": "https://torob.com/p/0246d5bf-802a-4d2b-8f3f-2ee670ecb783/",
+      "observed": "2026-11-16T06:43:15+00:00"
+    },
+    {
+      "category": "سلامت و پزشکی",
+      "subcategory": "پماد و کرم درمانی",
+      "product": "پماد کالاندولا دینه وزن ۳۰ گرم",
+      "sellers": 6,
+      "floorPrice": 144000,
+      "link": "https://torob.com/p/02e78123-a511-467a-91e4-81cb3084272e/",
+      "observed": "2026-11-12T10:07:27+00:00"
+    },
+    {
+      "category": "لپ‌تاپ، کامپیوتر، اداری",
+      "subcategory": "سوییچ و اسپلیتر",
+      "product": "سوییچ تی پی-لینک مدل TL-SF1008D",
+      "sellers": 5,
+      "floorPrice": 2000000,
+      "link": "https://torob.com/p/10a21971-373e-4448-b730-03b7114798dc/",
+      "observed": "2026-11-14T11:05:26+00:00"
+    },
+    {
+      "category": "تجهیزات صنعتی",
+      "subcategory": "سینک و وان صنعتی",
+      "product": "سینک ۲مرحله",
+      "sellers": 1,
+      "floorPrice": 150000000,
+      "link": "https://torob.com/p/11f52328-0625-4a1d-9b98-2e00d0a3065e/",
+      "observed": "2026-11-07T00:52:17+00:00"
+    },
+    {
+      "category": "خودرو و سایر وسایل نقلیه",
+      "subcategory": "کیت کلاچ خودرو",
+      "product": "کیت کلاچ پژو پارس TU5 کد 0670301199",
+      "sellers": 1,
+      "floorPrice": 9732800,
+      "link": "https://torob.com/p/15d926b1-a6bc-43be-abae-033a4e83d0b1/",
+      "observed": "2026-11-10T02:32:37+00:00"
+    },
+    {
+      "category": "سلامت و پزشکی",
+      "subcategory": "نوار تست قند خون",
+      "product": "نوار تست قند خون فری سنس مدل FS-TS50 بسته ۵۰ عددی",
+      "sellers": 6,
+      "floorPrice": 310000,
+      "link": "https://torob.com/p/15e15b3f-f7a5-4ab0-84fc-b7c205a08bbf/",
+      "observed": "2026-11-13T01:29:52+00:00"
+    },
+    {
+      "category": "خودرو و سایر وسایل نقلیه",
+      "subcategory": "لاستیک و تیوب خودرو",
+      "product": "لاستیک175.70.13یزد تایر گل venos",
+      "sellers": 5,
+      "floorPrice": 6097500,
+      "link": "https://torob.com/p/1dba4d2a-3ad6-4d22-bf4b-251f75ed669d/",
+      "observed": "2026-11-10T08:43:59+00:00"
+    },
+    {
+      "category": "تجهیزات صنعتی",
+      "subcategory": "پمپ گازوئیل کش",
+      "product": "پمپ گازوئیل کش و روغن کش و آب با سیم کشی مس",
+      "sellers": 1,
+      "floorPrice": 7850000,
+      "link": "https://torob.com/p/1e051772-44b9-4313-a6bd-3acb56ceed38/",
+      "observed": "2026-11-07T00:59:17+00:00"
+    },
+    {
+      "category": "لپ‌تاپ، کامپیوتر، اداری",
+      "subcategory": "سوییچ و اسپلیتر",
+      "product": "سوییچ دی لینک مدل DGS-1016D ظرفیت ۱۶ پورت",
+      "sellers": 5,
+      "floorPrice": 16986000,
+      "link": "https://torob.com/p/246cfaf2-1f0d-4792-8201-0e27e143faf1/",
+      "observed": "2026-11-13T23:01:48+00:00"
+    },
+    {
+      "category": "سلامت و پزشکی",
+      "subcategory": "پروتئین کازئین",
+      "product": "پودر پروتئین پگاه ام پی سی 65 درصد وزن 1000 گرم",
+      "sellers": 6,
+      "floorPrice": 1790000,
+      "link": "https://torob.com/p/25db7510-61b4-43e2-97e1-e5919ea91629/",
+      "observed": "2026-11-16T06:28:20+00:00"
+    },
+    {
+      "category": "تجهیزات صنعتی",
+      "subcategory": "اتوماسیون صنعتی",
+      "product": "اچ ام آی دلتا مدل DOP-107CV صفحه نمایش ۷ اینچ",
+      "sellers": 6,
+      "floorPrice": 19188325,
+      "link": "https://torob.com/p/25e9e0a0-30ee-42a3-b622-3ed9fbffdeb9/",
+      "observed": "2026-11-06T12:23:50+00:00"
+    },
+    {
+      "category": "لپ‌تاپ، کامپیوتر، اداری",
+      "subcategory": "پرینتر جوهر افشان",
+      "product": "پرینتر جوهرافشان کنون مدل ۱۴۱۱",
+      "sellers": 1,
+      "floorPrice": 25000000,
+      "link": "https://torob.com/p/26c2432b-0bbf-4292-820a-c6d405abbadc/",
+      "observed": "2026-11-12T03:42:13+00:00"
+    },
+    {
+      "category": "لپ‌تاپ، کامپیوتر، اداری",
+      "subcategory": "لپ تاپ و نوت بوک",
+      "product": "لپ تاپ لنوو استوک T480 | 8GB RAM | 256GB SSD | Core i5 8350U",
+      "sellers": 6,
+      "floorPrice": 51120000,
+      "link": "https://torob.com/p/283affb1-835f-4911-842a-4db067151c5b/",
+      "observed": "2026-11-07T00:47:56+00:00"
+    },
+    {
+      "category": "سلامت و پزشکی",
+      "subcategory": "نوار تست قند خون",
+      "product": "نوار تست قند دیابان 50عددی",
+      "sellers": 6,
+      "floorPrice": 274990,
+      "link": "https://torob.com/p/288f37ad-fe3d-46ec-b817-b50ccd79ee63/",
+      "observed": "2026-11-13T01:18:29+00:00"
+    },
+    {
+      "category": "سلامت و پزشکی",
+      "subcategory": "فشارسنج پزشکی",
+      "product": "فشارسنج دیجیتالی بازویی آرم استایل غیر سخنگو",
+      "sellers": 6,
+      "floorPrice": 659900,
+      "link": "https://torob.com/p/2e41d51a-1a39-4a6b-9e88-56da691cf867/",
+      "observed": "2026-11-06T12:44:41+00:00"
+    },
+    {
+      "category": "لپ‌تاپ، کامپیوتر، اداری",
+      "subcategory": "پرینتر جوهر افشان",
+      "product": "پرینتر جوهر افشان اپسون مدل ET-M1140 تک کاره",
+      "sellers": 2,
+      "floorPrice": 350000000,
+      "link": "https://torob.com/p/37decc69-1c6e-4a67-b237-bcb4c1fb5004/",
+      "observed": "2026-11-12T09:41:35+00:00"
+    },
+    {
+      "category": "تجهیزات صنعتی",
+      "subcategory": "سینک و وان صنعتی",
+      "product": "سینک پلیمری 30x30 آزمایشگاهی (سینک رزین اپوکسی)",
+      "sellers": 1,
+      "floorPrice": 9900000,
+      "link": "https://torob.com/p/3c018a96-4979-4bae-b7c5-a71b682367e8/",
+      "observed": "2026-11-07T00:49:05+00:00"
+    },
+    {
+      "category": "تجهیزات صنعتی",
+      "subcategory": "اتوماسیون صنعتی",
+      "product": "PLC دلتا مدل DVP20SX211",
+      "sellers": 6,
+      "floorPrice": 29129500,
+      "link": "https://torob.com/p/3e393ca8-6fa2-49bb-80f1-7b733794fcc6/",
+      "observed": "2026-11-06T12:30:19+00:00"
+    },
+    {
+      "category": "خودرو و سایر وسایل نقلیه",
+      "subcategory": "کیت کلاچ خودرو",
+      "product": "کیت کلاچ پژو پارس جدید فابریکی با موتور XU7P",
+      "sellers": 1,
+      "floorPrice": 9980000,
+      "link": "https://torob.com/p/046ed979-8944-4557-8bb3-25347bc47856/",
+      "observed": "2026-10-17T11:34:11+00:00"
+    },
+    {
+      "category": "تجهیزات صنعتی",
+      "subcategory": "ماژول ولتاژ، تغذیه و جریان",
+      "product": "ماژول پاور بانک ۵ ولت ۲ آمپر با ورودی تایپ C",
+      "sellers": 5,
+      "floorPrice": 115000,
+      "link": "https://torob.com/p/059cb50f-2f78-42df-aa95-b652e49b7916/",
+      "observed": "2026-10-15T22:25:23+00:00"
+    },
+    {
+      "category": "خودرو و سایر وسایل نقلیه",
+      "subcategory": "پمپ هیدرولیک فرمان خودرو",
+      "product": "پمپ هیدرولیک فرمان پژو ۲۰۶ برند پیروز",
+      "sellers": 1,
+      "floorPrice": 14449000,
+      "link": "https://torob.com/p/07de8bd0-f86a-433c-ab94-abcd2abed8ef/",
+      "observed": "2026-10-17T11:43:01+00:00"
+    },
+    {
+      "category": "خودرو و سایر وسایل نقلیه",
+      "subcategory": "روغن موتور خودرو",
+      "product": "روغن موتور بهران سوپر پیشتاز ۴ لیتر SL 20W50",
+      "sellers": 1,
+      "floorPrice": 1789086,
+      "link": "https://torob.com/p/17110ac2-e06e-45f5-a145-22a5bd70b05c/",
+      "observed": "2026-10-11T14:11:42+00:00"
+    },
+    {
+      "category": "خودرو و سایر وسایل نقلیه",
+      "subcategory": "شارژر فندکی خودرو",
+      "product": "شارژر فندکی 38 وات کینگ پلاس مدل HK-59",
+      "sellers": 3,
+      "floorPrice": 690000,
+      "link": "https://torob.com/p/1ae1e980-0778-4d7a-bb75-229428218771/",
+      "observed": "2026-10-15T22:48:35+00:00"
+    },
+    {
+      "category": "لپ‌تاپ، کامپیوتر، اداری",
+      "subcategory": "پرینتر جوهر افشان",
+      "product": "پرینتر چندکاره جوهرافشان اپسون مدل L3210",
+      "sellers": 6,
+      "floorPrice": 42000000,
+      "link": "https://torob.com/p/1c591a2b-4afe-41e4-ac27-81dfbe44c2d4/",
+      "observed": "2026-10-11T14:24:08+00:00"
+    },
+    {
+      "category": "هایپر مارکت",
+      "subcategory": "سلفون بسته‌بندی",
+      "product": "سلفون بسته‌بندی چسب دار ۵۰ عددی",
+      "sellers": 1,
+      "floorPrice": 146000,
+      "link": "https://torob.com/p/0851885d-a42b-4cd9-97e3-e9730163bdaf/",
+      "observed": "2026-11-15T09:03:41+00:00"
+    },
+    {
+      "category": "موبایل و کالای دیجیتال",
+      "subcategory": "شارژر گوشی",
+      "product": "ست آداپتور شارژ 45 وات و کابل اپیمکس EA-176",
+      "sellers": 5,
+      "floorPrice": 2580000,
+      "link": "https://torob.com/p/131c6c81-02bf-4d6f-8ad4-8571a130bfd7/",
+      "observed": "2026-11-10T02:36:45+00:00"
+    },
+    {
+      "category": "هایپر مارکت",
+      "subcategory": "سلفون بسته‌بندی",
+      "product": "سلفون بسته بندی مبل",
+      "sellers": 2,
+      "floorPrice": 430000,
+      "link": "https://torob.com/p/155ff2db-57d7-4769-ab06-e5d230b3f0a0/",
+      "observed": "2026-11-15T08:42:09+00:00"
+    },
+    {
+      "category": "موبایل و کالای دیجیتال",
+      "subcategory": "کابل و تبدیل Type C",
+      "product": "کابل تایپ سی رقص نور راک Rock R6 Type-C Cable 1M RCB0761",
+      "sellers": 1,
+      "floorPrice": 880000,
+      "link": "https://torob.com/p/1cf49e8d-f548-46d4-b6cb-174da4c36920/",
+      "observed": "2026-11-10T02:22:19+00:00"
+    },
+    {
+      "category": "هایپر مارکت",
+      "subcategory": "تمیز کننده لوازم دیجیتالی",
+      "product": "کیت تمیز کننده وندا مدل Cleaner New حجم ۲۵۰ میلی لیتر",
+      "sellers": 6,
+      "floorPrice": 200000,
+      "link": "https://torob.com/p/35bc6e73-eea2-4186-b6a9-b5a699aea484/",
+      "observed": "2026-11-15T08:51:44+00:00"
+    },
+    {
+      "category": "موبایل و کالای دیجیتال",
+      "subcategory": "کابل و تبدیل OTG",
+      "product": "اوتی جی اندروید کابلی",
+      "sellers": 1,
+      "floorPrice": 46000,
+      "link": "https://torob.com/p/419b9724-392d-419b-8a03-ec05bc6ff789/",
+      "observed": "2026-11-13T23:02:42+00:00"
+    },
+    {
+      "category": "فرهنگی هنری",
+      "subcategory": "کتاب چاپی",
+      "product": "کتاب گزیده غزلیات شمس تبریزی وزیری چرم و مس",
+      "sellers": 4,
+      "floorPrice": 2700000,
+      "link": "https://torob.com/p/013c24ca-3d22-4883-ab83-f3c0b2a753d9/",
+      "observed": "2026-10-08T22:04:33+00:00"
+    },
+    {
+      "category": "هایپر مارکت",
+      "subcategory": "شامپو فرش و مبل",
+      "product": "فوم لکه بر فرش و مبلمان راپیدو حجم ۵۰۰ میلی لیتر",
+      "sellers": 1,
+      "floorPrice": 171880,
+      "link": "https://torob.com/p/0752a606-f42a-4606-8cc7-116640ef942e/",
+      "observed": "2026-10-15T22:41:31+00:00"
+    },
+    {
+      "category": "موبایل و کالای دیجیتال",
+      "subcategory": "گوشی موبایل",
+      "product": "گوشی شیائومی Redmi Note 14S | حافظه 256 رم 8 گیگابایت",
+      "sellers": 6,
+      "floorPrice": 82680000,
+      "link": "https://torob.com/p/0adc4606-021c-4fe9-87c8-3c8802ba2849/",
+      "observed": "2026-10-17T17:51:20+00:00"
+    },
+    {
+      "category": "فرهنگی هنری",
+      "subcategory": "لوح تقدیر و سرتیفیکت",
+      "product": "طرح خام حکم قهرمانی",
+      "sellers": 1,
+      "floorPrice": 120000,
+      "link": "https://torob.com/p/142e334d-bf33-4295-b01e-491754a5645f/",
+      "observed": "2026-10-17T17:54:09+00:00"
+    },
+    {
+      "category": "فرهنگی هنری",
+      "subcategory": "بازو بند و جای دعا",
+      "product": "بازوبند حرز امام جواد (ع) چرم طبیعی دست دوز طرح پردیس",
+      "sellers": 1,
+      "floorPrice": 78000,
+      "link": "https://torob.com/p/2bbf83cc-d5d4-4802-a49e-28de72d13fdb/",
+      "observed": "2026-10-12T21:12:26+00:00"
+    },
+    {
+      "category": "فرهنگی هنری",
+      "subcategory": "مداد رنگی",
+      "product": "مداد رنگی سی کلاس مدل اتودی بسته ۱۸ رنگ",
+      "sellers": 5,
+      "floorPrice": 618000,
+      "link": "https://torob.com/p/3255b349-c97f-424d-a3e1-d358f8746e93/",
+      "observed": "2026-10-16T11:07:09+00:00"
+    },
     {
       "category": "اره موتوری و زنجیری",
       "product": "اره موتوری توکیو ۵۲ سی سی سایز ۵۰ سانت بنزینی",
@@ -26,6 +836,181 @@
       "floorPrice": 8358000,
       "link": "https://torob.com/p/58e16181-ac9d-4521-b94a-a0c249bbc0d0/%D8%A7%D8%B1%D9%87-%D8%B2%D9%86%D8%AC%DB%8C%D8%B1%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A7%D8%AF%D9%88%D9%86-%D9%85%D8%AF%D9%84-ecs405-ka40-%D8%B3%D8%A7%DB%8C%D8%B2-40-%D8%B3%D8%A7%D9%86%D8%AA/",
       "observed": "2026-10-04"
+    },
+    {
+      "category": "ورزش و تناسب اندام",
+      "subcategory": "دستکش بوکس",
+      "product": "دستکش بوکس وسینگ مدل fiter 2026 چرمی - 1",
+      "sellers": 2,
+      "floorPrice": 3942000,
+      "link": "https://torob.com/p/0571d093-509f-42b5-91d7-903d57961d81/",
+      "observed": "2026-11-07T01:02:45+00:00"
+    },
+    {
+      "category": "ابزارآلات",
+      "subcategory": "هیتر و هویه",
+      "product": "هیتر و هویه گرداک مدل GORDAK 952 دما ۴۸۰ درجه",
+      "sellers": 6,
+      "floorPrice": 22700000,
+      "link": "https://torob.com/p/0782ed71-0b07-4bfd-bf34-39218b4ffb56/",
+      "observed": "2026-11-06T12:35:16+00:00"
+    },
+    {
+      "category": "ابزارآلات",
+      "subcategory": "خمیر قلع",
+      "product": "خمیر قلع سرنگی ریلایف مدل RL404S ۱۳۸ درجه",
+      "sellers": 6,
+      "floorPrice": 890000,
+      "link": "https://torob.com/p/114f01b1-b4f1-4df5-9ed6-cc4565205d41/",
+      "observed": "2026-11-13T22:48:38+00:00"
+    },
+    {
+      "category": "ابزارآلات",
+      "subcategory": "مرغک تراشکاری",
+      "product": "مرغک گردان تراشکاری ورتکس تیپ A مدل VLC",
+      "sellers": 2,
+      "floorPrice": 63994000,
+      "link": "https://torob.com/p/2d26554e-b9a5-4346-b359-147b1e1b9fdd/",
+      "observed": "2026-11-13T22:46:18+00:00"
+    },
+    {
+      "category": "لوازم سفر، کمپینگ و کوهنوردی",
+      "subcategory": "میز و صندلی تاشو و مسافرتی",
+      "product": "صندلی تاشو پرستیژ مدل ادونچر",
+      "sellers": 6,
+      "floorPrice": 3227000,
+      "link": "https://torob.com/p/084118c8-8183-407a-81c8-20edbde5730e/",
+      "observed": "2026-10-17T17:38:54+00:00"
+    },
+    {
+      "category": "ورزش و تناسب اندام",
+      "subcategory": "سوت",
+      "product": "سوت ورزشی نایک مدل Pro Neck",
+      "sellers": 6,
+      "floorPrice": 400000,
+      "link": "https://torob.com/p/094b4c2a-660d-4eb1-abbe-b3dd57e89e0b/",
+      "observed": "2026-10-16T14:08:49+00:00"
+    },
+    {
+      "category": "لوازم سفر، کمپینگ و کوهنوردی",
+      "subcategory": "میز و صندلی تاشو و مسافرتی",
+      "product": "میز تاشو آلومینیومی ۲ نفره پرستیژ",
+      "sellers": 6,
+      "floorPrice": 7950000,
+      "link": "https://torob.com/p/1552720a-3d80-4366-ae78-f50e22e790a2/",
+      "observed": "2026-10-17T23:48:42+00:00"
+    },
+    {
+      "category": "لوازم سفر، کمپینگ و کوهنوردی",
+      "subcategory": "بالش بادی و مسافرتی",
+      "product": "بالش بادی اینتکس - کد 68676B",
+      "sellers": 1,
+      "floorPrice": 550000,
+      "link": "https://torob.com/p/2a7fbc59-4144-44d8-9dd9-71ee585575a7/",
+      "observed": "2026-10-12T21:11:30+00:00"
+    },
+    {
+      "category": "ورزش و تناسب اندام",
+      "subcategory": "سایر جوراب ورزشی",
+      "product": "جوراب بدنسازی جلو باز پیلاتس گلدن استار استپ‌دار مناسب یوگا و ورزش‌های هوازی",
+      "sellers": 4,
+      "floorPrice": 373000,
+      "link": "https://torob.com/p/2b682c8f-5051-44cf-9f1f-387b11b77042/",
+      "observed": "2026-10-14T21:57:58+00:00"
+    },
+    {
+      "category": "فرز و مینی فرز",
+      "product": "مینی فرز میلواکی AGV13-125XE قدرت ۱۲۵۰ وات دیمردار",
+      "sellers": 6,
+      "floorPrice": 33440000,
+      "link": "https://torob.com/p/e89c4666-c8bf-49a6-b6e8-094e2ae76756/",
+      "observed": "2026-11-24T11:51:40.038562+00:00"
+    },
+    {
+      "category": "فرز و مینی فرز",
+      "product": "مینی فرز متابو مدل W9-115 قدرت ۹۰۰ وات",
+      "sellers": 6,
+      "floorPrice": 25440000,
+      "link": "https://torob.com/p/75b95e79-4a07-47bd-8764-c866e1e46dfc/",
+      "observed": "2026-11-24T11:55:21.684651+00:00"
+    },
+    {
+      "category": "مد و پوشاک",
+      "subcategory": "انگشتر",
+      "product": "انگشتر مردانه نقره عقیق مشکی ۹۲۵ عیار",
+      "sellers": 6,
+      "floorPrice": 3890000,
+      "link": "https://torob.com/p/1e7bb573-c812-44fb-a6f1-e745828379c8/",
+      "observed": "2026-11-07T01:03:43+00:00"
+    },
+    {
+      "category": "لوازم فروشگاهی",
+      "subcategory": "ترازو وزن کشی خانگی",
+      "product": "ترازو دیجیتال اکیومد مدل BS-1204",
+      "sellers": 1,
+      "floorPrice": 12100000,
+      "link": "https://torob.com/p/3bc52bf3-e595-445c-8023-1fc76cc7a35d/",
+      "observed": "2026-11-15T08:53:26+00:00"
+    },
+    {
+      "category": "لوازم فروشگاهی",
+      "subcategory": "ترازو وزن کشی خانگی",
+      "product": "ترازو دیجیتال اکیومد مدل SC9960 ظرفیت ۱۸۰ کیلوگرم",
+      "sellers": 6,
+      "floorPrice": 5000000,
+      "link": "https://torob.com/p/418351d2-6aef-4c87-9c9e-ba74ac974f37/",
+      "observed": "2026-11-15T08:38:47+00:00"
+    },
+    {
+      "category": "مد و پوشاک",
+      "subcategory": "کت و جلیقه مردانه",
+      "product": "کت جین مردانه قواره باکسی رنگ ذغالی",
+      "sellers": 3,
+      "floorPrice": 3980000,
+      "link": "https://torob.com/p/216cf9d2-0014-4058-bb1c-24fd1562d70f/",
+      "observed": "2026-10-13T18:25:41+00:00"
+    },
+    {
+      "category": "سشوار صنعتی",
+      "product": "سشوار صنعتی بوش مدل GHG 20-63 ظرفیت ۲۰۰۰ وات",
+      "sellers": 6,
+      "floorPrice": 26900000,
+      "link": "https://torob.com/p/964dd2cb-af63-403f-8a03-f366145cb420/",
+      "observed": "2026-11-24T11:54:57.776022+00:00"
+    },
+    {
+      "category": "پافر مردانه",
+      "product": "کاپشن گرم کننده شارژی 12 ولت میلواکی Milwaukee مدل M12HJBL5-0(L)",
+      "sellers": 1,
+      "floorPrice": 91800000,
+      "link": "https://torob.com/p/f8601290-9dc5-4456-9d62-e27e94170f68/",
+      "observed": "2026-11-24T11:55:03.678124+00:00"
+    },
+    {
+      "category": "اره گرد بر (دیسکی)",
+      "product": "اره دیسکی شارژی میلواکی مدل M12CCS44 ظرفیت ۱۸ ولت",
+      "sellers": 3,
+      "floorPrice": 93415000,
+      "link": "https://torob.com/p/7aed320b-5c17-41ca-8b59-b748254c8e86/",
+      "observed": "2026-11-24T11:55:09.675037+00:00"
+    },
+    {
+      "category": "اسباب بازی و سرگرمی",
+      "subcategory": "مکعب ابری و پارچه ای",
+      "product": "مکعب احساسات آموزش احساسات با تصاویر",
+      "sellers": 2,
+      "floorPrice": 292300,
+      "link": "https://torob.com/p/2c4a5744-9902-4427-89a5-c1aa7c196ca5/",
+      "observed": "2026-11-06T12:33:55+00:00"
+    },
+    {
+      "category": "ارز و طلا",
+      "subcategory": "شمش طلا",
+      "product": "شمش طلا ۲۰ گرمی پارسیس عیار ۲۴",
+      "sellers": 4,
+      "floorPrice": 711839000,
+      "link": "https://torob.com/p/3e102330-6e4b-4f7e-805a-94fdea83a753/",
+      "observed": "2026-11-12T10:01:19+00:00"
     }
   ]
 }

@@ -11,14 +11,34 @@
   ],
   "rows": [
     {
+      "id": "1500",
+      "hotel": "هتل آران تهران",
+      "city": "تهران",
+      "stars": 1,
+      "night": 2900000,
+      "window": "امشب به وقت تهران · 2026-11-25",
+      "link": "https://www.snapptrip.com/%D8%B1%D8%B2%D8%B1%D9%88-%D9%87%D8%AA%D9%84/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%87%D8%AA%D9%84-%D8%A2%D8%B1%D8%A7%D9%86",
+      "observed": "2026-11-24T22:51:50+00:00"
+    },
+    {
       "id": "622",
       "hotel": "هتل پامچال تهران",
       "city": "تهران",
       "stars": 3,
       "night": 3500000,
       "window": "امشب به وقت تهران · 2026-11-25",
-      "observed": "2026-11-24T21:51:31+00:00",
-      "link": "https://www.snapptrip.com/%D8%B1%D8%B2%D8%B1%D9%88-%D9%87%D8%AA%D9%84/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%87%D8%AA%D9%84-%D9%BE%D8%A7%D9%85%DA%86%D8%A7%D9%84"
+      "link": "https://www.snapptrip.com/%D8%B1%D8%B2%D8%B1%D9%88-%D9%87%D8%AA%D9%84/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%87%D8%AA%D9%84-%D9%BE%D8%A7%D9%85%DA%86%D8%A7%D9%84",
+      "observed": "2026-11-24T22:51:50+00:00"
+    },
+    {
+      "id": "17",
+      "hotel": "هتل مارلیک تهران",
+      "city": "تهران",
+      "stars": 3,
+      "night": 3500000,
+      "window": "امشب به وقت تهران · 2026-11-25",
+      "link": "https://www.snapptrip.com/%D8%B1%D8%B2%D8%B1%D9%88-%D9%87%D8%AA%D9%84/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%87%D8%AA%D9%84-%D9%85%D8%A7%D8%B1%D9%84%DB%8C%DA%A9",
+      "observed": "2026-11-24T22:51:50+00:00"
     },
     {
       "id": "3359",
@@ -27,8 +47,8 @@
       "stars": 3,
       "night": 4500000,
       "window": "امشب به وقت تهران · 2026-11-25",
-      "observed": "2026-11-24T21:51:31+00:00",
-      "link": "https://www.snapptrip.com/%D8%B1%D8%B2%D8%B1%D9%88-%D9%87%D8%AA%D9%84/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%87%D8%AA%D9%84-%D9%88%DB%8C%D8%A7%D9%86%D8%A7"
+      "link": "https://www.snapptrip.com/%D8%B1%D8%B2%D8%B1%D9%88-%D9%87%D8%AA%D9%84/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%87%D8%AA%D9%84-%D9%88%DB%8C%D8%A7%D9%86%D8%A7",
+      "observed": "2026-11-24T22:51:50+00:00"
     },
     {
       "id": "16",
@@ -37,8 +57,78 @@
       "stars": 3,
       "night": 4800000,
       "window": "امشب به وقت تهران · 2026-11-25",
-      "observed": "2026-11-24T21:51:31+00:00",
-      "link": "https://www.snapptrip.com/%D8%B1%D8%B2%D8%B1%D9%88-%D9%87%D8%AA%D9%84/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%87%D8%AA%D9%84-%D9%BE%D8%B1%D8%B4%DB%8C%D8%A7-1"
+      "link": "https://www.snapptrip.com/%D8%B1%D8%B2%D8%B1%D9%88-%D9%87%D8%AA%D9%84/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%87%D8%AA%D9%84-%D9%BE%D8%B1%D8%B4%DB%8C%D8%A7-1",
+      "observed": "2026-11-24T22:51:50+00:00"
+    },
+    {
+      "id": "663",
+      "hotel": "هتل پرشیا 2 (ولیعصر) تهران",
+      "city": "تهران",
+      "stars": 3,
+      "night": 4800000,
+      "window": "امشب به وقت تهران · 2026-11-25",
+      "link": "https://www.snapptrip.com/%D8%B1%D8%B2%D8%B1%D9%88-%D9%87%D8%AA%D9%84/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%87%D8%AA%D9%84-%D9%BE%D8%B1%D8%B4%DB%8C%D8%A7-2-%28%D9%88%D9%84%DB%8C%D8%B9%D8%B5%D8%B1%29",
+      "observed": "2026-11-24T22:51:50+00:00"
+    },
+    {
+      "id": "1370",
+      "hotel": "هتل تهران درسا تهران",
+      "city": "تهران",
+      "stars": 3,
+      "night": 5625000,
+      "window": "امشب به وقت تهران · 2026-11-25",
+      "link": "https://www.snapptrip.com/%D8%B1%D8%B2%D8%B1%D9%88-%D9%87%D8%AA%D9%84/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%87%D8%AA%D9%84-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1%D8%B3%D8%A7",
+      "observed": "2026-11-24T22:51:50+00:00"
+    },
+    {
+      "id": "414",
+      "hotel": "هتل امیر تهران",
+      "city": "تهران",
+      "stars": 3,
+      "night": 6014300,
+      "window": "امشب به وقت تهران · 2026-11-25",
+      "link": "https://www.snapptrip.com/%D8%B1%D8%B2%D8%B1%D9%88-%D9%87%D8%AA%D9%84/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%87%D8%AA%D9%84-%D8%A7%D9%85%DB%8C%D8%B1",
+      "observed": "2026-11-24T22:51:50+00:00"
+    },
+    {
+      "id": "1138",
+      "hotel": "هتل بلور تهران",
+      "city": "تهران",
+      "stars": 2,
+      "night": 6400000,
+      "window": "امشب به وقت تهران · 2026-11-25",
+      "link": "https://www.snapptrip.com/%D8%B1%D8%B2%D8%B1%D9%88-%D9%87%D8%AA%D9%84/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%87%D8%AA%D9%84-%D8%A8%D9%84%D9%88%D8%B1",
+      "observed": "2026-11-24T22:51:50+00:00"
+    },
+    {
+      "id": "665",
+      "hotel": "هتل رکسان (نووتل سابق) تهران",
+      "city": "تهران",
+      "stars": 5,
+      "night": 7150000,
+      "window": "امشب به وقت تهران · 2026-11-25",
+      "link": "https://www.snapptrip.com/%D8%B1%D8%B2%D8%B1%D9%88-%D9%87%D8%AA%D9%84/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%87%D8%AA%D9%84-%D8%B1%DA%A9%D8%B3%D8%A7%D9%86-%28%D9%86%D9%88%D9%88%D8%AA%D9%84-%D8%B3%D8%A7%D8%A8%D9%82%29",
+      "observed": "2026-11-24T22:51:50+00:00"
+    },
+    {
+      "id": "3247",
+      "hotel": "هتل هرمزان تهران",
+      "city": "تهران",
+      "stars": 3,
+      "night": 7900000,
+      "window": "امشب به وقت تهران · 2026-11-25",
+      "link": "https://www.snapptrip.com/%D8%B1%D8%B2%D8%B1%D9%88-%D9%87%D8%AA%D9%84/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%87%D8%AA%D9%84-%D9%87%D8%B1%D9%85%D8%B2%D8%A7%D9%86",
+      "observed": "2026-11-24T22:51:50+00:00"
+    },
+    {
+      "id": "436",
+      "hotel": "هتل آرامیس تهران",
+      "city": "تهران",
+      "stars": 4,
+      "night": 7900000,
+      "window": "امشب به وقت تهران · 2026-11-25",
+      "link": "https://www.snapptrip.com/%D8%B1%D8%B2%D8%B1%D9%88-%D9%87%D8%AA%D9%84/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%87%D8%AA%D9%84-%D8%A2%D8%B1%D8%A7%D9%85%DB%8C%D8%B3",
+      "observed": "2026-11-24T22:51:50+00:00"
     },
     {
       "id": "476",
@@ -47,8 +137,38 @@
       "stars": 4,
       "night": 8209300,
       "window": "امشب به وقت تهران · 2026-11-25",
-      "observed": "2026-11-24T21:51:31+00:00",
-      "link": "https://www.snapptrip.com/%D8%B1%D8%B2%D8%B1%D9%88-%D9%87%D8%AA%D9%84/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%87%D8%AA%D9%84-%D8%A8%D8%B2%D8%B1%DA%AF-2"
+      "link": "https://www.snapptrip.com/%D8%B1%D8%B2%D8%B1%D9%88-%D9%87%D8%AA%D9%84/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%87%D8%AA%D9%84-%D8%A8%D8%B2%D8%B1%DA%AF-2",
+      "observed": "2026-11-24T22:51:50+00:00"
+    },
+    {
+      "id": "4002",
+      "hotel": "هتل نور حیات تهران",
+      "city": "تهران",
+      "stars": 5,
+      "night": 9460000,
+      "window": "امشب به وقت تهران · 2026-11-25",
+      "link": "https://www.snapptrip.com/%D8%B1%D8%B2%D8%B1%D9%88-%D9%87%D8%AA%D9%84/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%87%D8%AA%D9%84-%D9%86%D9%88%D8%B1-%D8%AD%DB%8C%D8%A7%D8%AA",
+      "observed": "2026-11-24T22:51:50+00:00"
+    },
+    {
+      "id": "70",
+      "hotel": "هتل پارسیان اوین تهران",
+      "city": "تهران",
+      "stars": 4,
+      "night": 9810000,
+      "window": "امشب به وقت تهران · 2026-11-25",
+      "link": "https://www.snapptrip.com/%D8%B1%D8%B2%D8%B1%D9%88-%D9%87%D8%AA%D9%84/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%87%D8%AA%D9%84-%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C%D8%A7%D9%86-%D8%A7%D9%88%DB%8C%D9%86",
+      "observed": "2026-11-24T22:51:50+00:00"
+    },
+    {
+      "id": "963",
+      "hotel": "هتل آپارتمان وزرا تهران",
+      "city": "تهران",
+      "stars": 3,
+      "night": 11750000,
+      "window": "امشب به وقت تهران · 2026-11-25",
+      "link": "https://www.snapptrip.com/%D8%B1%D8%B2%D8%B1%D9%88-%D9%87%D8%AA%D9%84/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%87%D8%AA%D9%84-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%88%D8%B2%D8%B1%D8%A7",
+      "observed": "2026-11-24T22:51:50+00:00"
     },
     {
       "id": "48",
@@ -57,8 +177,8 @@
       "stars": 5,
       "night": 15030000,
       "window": "امشب به وقت تهران · 2026-11-25",
-      "observed": "2026-11-24T21:51:31+00:00",
-      "link": "https://www.snapptrip.com/%D8%B1%D8%B2%D8%B1%D9%88-%D9%87%D8%AA%D9%84/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%87%D8%AA%D9%84-%D8%A7%D8%B3%D9%BE%DB%8C%D9%86%D8%A7%D8%B3-%D8%A8%D9%84%D9%88%D8%A7%D8%B1"
+      "link": "https://www.snapptrip.com/%D8%B1%D8%B2%D8%B1%D9%88-%D9%87%D8%AA%D9%84/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%87%D8%AA%D9%84-%D8%A7%D8%B3%D9%BE%DB%8C%D9%86%D8%A7%D8%B3-%D8%A8%D9%84%D9%88%D8%A7%D8%B1",
+      "observed": "2026-11-24T22:51:50+00:00"
     },
     {
       "id": "60",
@@ -67,8 +187,18 @@
       "stars": 5,
       "night": 15200000,
       "window": "امشب به وقت تهران · 2026-11-25",
-      "observed": "2026-11-24T21:51:31+00:00",
-      "link": "https://www.snapptrip.com/%D8%B1%D8%B2%D8%B1%D9%88-%D9%87%D8%AA%D9%84/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%87%D8%AA%D9%84-%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C%D8%A7%D9%86-%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C"
+      "link": "https://www.snapptrip.com/%D8%B1%D8%B2%D8%B1%D9%88-%D9%87%D8%AA%D9%84/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%87%D8%AA%D9%84-%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C%D8%A7%D9%86-%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C",
+      "observed": "2026-11-24T22:51:50+00:00"
+    },
+    {
+      "id": "63",
+      "hotel": "هتل پارسیان استقلال تهران",
+      "city": "تهران",
+      "stars": 5,
+      "night": 15200000,
+      "window": "امشب به وقت تهران · 2026-11-25",
+      "link": "https://www.snapptrip.com/%D8%B1%D8%B2%D8%B1%D9%88-%D9%87%D8%AA%D9%84/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%87%D8%AA%D9%84-%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84",
+      "observed": "2026-11-24T22:51:50+00:00"
     },
     {
       "id": "434",
@@ -77,8 +207,8 @@
       "stars": 5,
       "night": 21089000,
       "window": "امشب به وقت تهران · 2026-11-25",
-      "observed": "2026-11-24T21:51:31+00:00",
-      "link": "https://www.snapptrip.com/%D8%B1%D8%B2%D8%B1%D9%88-%D9%87%D8%AA%D9%84/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%87%D8%AA%D9%84-%D8%A7%D8%B3%D9%BE%DB%8C%D9%86%D8%A7%D8%B3-%D9%BE%D8%A7%D9%84%D8%A7%D8%B3-%DA%A9%D9%84%DA%A9%D8%B3%DB%8C%D9%88%D9%86-%D9%84%D9%88%DA%A9%D8%B3-%DA%AF%D8%B1%D9%88%D9%87-%D9%87%D8%AA%D9%84-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D9%BE%DB%8C%D9%86%D8%A7%D8%B3"
+      "link": "https://www.snapptrip.com/%D8%B1%D8%B2%D8%B1%D9%88-%D9%87%D8%AA%D9%84/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%87%D8%AA%D9%84-%D8%A7%D8%B3%D9%BE%DB%8C%D9%86%D8%A7%D8%B3-%D9%BE%D8%A7%D9%84%D8%A7%D8%B3-%DA%A9%D9%84%DA%A9%D8%B3%DB%8C%D9%88%D9%86-%D9%84%D9%88%DA%A9%D8%B3-%DA%AF%D8%B1%D9%88%D9%87-%D9%87%D8%AA%D9%84-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D9%BE%DB%8C%D9%86%D8%A7%D8%B3",
+      "observed": "2026-11-24T22:51:50+00:00"
     }
   ],
   "groups": [],

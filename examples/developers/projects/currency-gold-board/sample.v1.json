@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "time": "2026-11-24T22:02:07+00:00",
-  "provenance": "نرخ فروش ارز از بن‌بست و نرخ شاخص از خوراک عمومی TGJU خوانده شد. زمان نرخ در منبع و زمان برداشت برچین جداگانه آمده‌اند.",
+  "time": "2026-11-24T23:00:08+00:00",
+  "provenance": "قیمت پایانی روزهای مستقل TGJU به ریال از تاریخچهٔ هر ابزار گرفته شده است. نرخ‌های لحظه‌ای و نرخ فروش بن‌بست با منبع و واحد خود نمایش داده می‌شوند.",
   "rows": [
     {
       "item": "دلار آمریکا",
@@ -62,6 +62,2376 @@
       "currency": "ریال",
       "observed": "2026-11-24T21:59:15+00:00",
       "link": "https://www.tgju.org/profile/price_dollar_rl"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-24",
+      "time": "2026-11-24",
+      "amount": 253947000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.733173Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-23",
+      "time": "2026-11-23",
+      "amount": 240884000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.733209Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-22",
+      "time": "2026-11-22",
+      "amount": 234584000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.733242Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-21",
+      "time": "2026-11-21",
+      "amount": 229470000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.733270Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-19",
+      "time": "2026-11-19",
+      "amount": 242867000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.733299Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-18",
+      "time": "2026-11-18",
+      "amount": 244596000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.733329Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-17",
+      "time": "2026-11-17",
+      "amount": 246500000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.733362Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-16",
+      "time": "2026-11-16",
+      "amount": 245674000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.733392Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-15",
+      "time": "2026-11-15",
+      "amount": 245577000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.733420Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-14",
+      "time": "2026-11-14",
+      "amount": 247945000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.733460Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-12",
+      "time": "2026-11-12",
+      "amount": 250388000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.733498Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-11",
+      "time": "2026-11-11",
+      "amount": 251787000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.733536Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-10",
+      "time": "2026-11-10",
+      "amount": 249310000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.733574Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-09",
+      "time": "2026-11-09",
+      "amount": 255446000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.733605Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-08",
+      "time": "2026-11-08",
+      "amount": 254171000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.733632Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-07",
+      "time": "2026-11-07",
+      "amount": 255940000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.733657Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-05",
+      "time": "2026-11-05",
+      "amount": 261665000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.733682Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-04",
+      "time": "2026-11-04",
+      "amount": 260621000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.733708Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-03",
+      "time": "2026-11-03",
+      "amount": 255095000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.733734Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-02",
+      "time": "2026-11-02",
+      "amount": 258133000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.733761Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-01",
+      "time": "2026-11-01",
+      "amount": 255792000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.733800Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-31",
+      "time": "2026-10-31",
+      "amount": 252331000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.733827Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-29",
+      "time": "2026-10-29",
+      "amount": 262235000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.733853Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-28",
+      "time": "2026-10-28",
+      "amount": 264084000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.733878Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-27",
+      "time": "2026-10-27",
+      "amount": 262073000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.733904Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-26",
+      "time": "2026-10-26",
+      "amount": 263636000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.733929Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-25",
+      "time": "2026-10-25",
+      "amount": 259933000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.733992Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-24",
+      "time": "2026-10-24",
+      "amount": 260633000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.734032Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-22",
+      "time": "2026-10-22",
+      "amount": 272231000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.734065Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-21",
+      "time": "2026-10-21",
+      "amount": 270550000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.734094Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-20",
+      "time": "2026-10-20",
+      "amount": 264497000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.734123Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-19",
+      "time": "2026-10-19",
+      "amount": 261778000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.734172Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-18",
+      "time": "2026-10-18",
+      "amount": 259372000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.734227Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-17",
+      "time": "2026-10-17",
+      "amount": 261822000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.734269Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-15",
+      "time": "2026-10-15",
+      "amount": 262551000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.734305Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-14",
+      "time": "2026-10-14",
+      "amount": 260388000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.734341Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-13",
+      "time": "2026-10-13",
+      "amount": 257396000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.734380Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-12",
+      "time": "2026-10-12",
+      "amount": 259619000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.734415Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-11",
+      "time": "2026-10-11",
+      "amount": 262978000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.734472Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-10",
+      "time": "2026-10-10",
+      "amount": 264961000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.734512Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-08",
+      "time": "2026-10-08",
+      "amount": 263071000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.734549Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-07",
+      "time": "2026-10-07",
+      "amount": 262812000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.734582Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-06",
+      "time": "2026-10-06",
+      "amount": 267383000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.734621Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-05",
+      "time": "2026-10-05",
+      "amount": 265472000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.734655Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-04",
+      "time": "2026-10-04",
+      "amount": 263278000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.734689Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-03",
+      "time": "2026-10-03",
+      "amount": 262253000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.734726Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-01",
+      "time": "2026-10-01",
+      "amount": 256944000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.734760Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-30",
+      "time": "2026-09-30",
+      "amount": 253580000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.734828Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-29",
+      "time": "2026-09-29",
+      "amount": 252655000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.734865Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-28",
+      "time": "2026-09-28",
+      "amount": 244012000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.734898Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-27",
+      "time": "2026-09-27",
+      "amount": 239016000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.734936Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-26",
+      "time": "2026-09-26",
+      "amount": 238298000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.734970Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-24",
+      "time": "2026-09-24",
+      "amount": 241246000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.735004Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-23",
+      "time": "2026-09-23",
+      "amount": 237659000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.735042Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-22",
+      "time": "2026-09-22",
+      "amount": 239390000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.735076Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-21",
+      "time": "2026-09-21",
+      "amount": 237072000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.735112Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-20",
+      "time": "2026-09-20",
+      "amount": 241237000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.735145Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-19",
+      "time": "2026-09-19",
+      "amount": 238781000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.735178Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-17",
+      "time": "2026-09-17",
+      "amount": 233630000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.735212Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-16",
+      "time": "2026-09-16",
+      "amount": 235013000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.735250Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-15",
+      "time": "2026-09-15",
+      "amount": 232591000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.735284Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-14",
+      "time": "2026-09-14",
+      "amount": 232834000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.735320Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-13",
+      "time": "2026-09-13",
+      "amount": 234768000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.735358Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-12",
+      "time": "2026-09-12",
+      "amount": 239168000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.735393Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-10",
+      "time": "2026-09-10",
+      "amount": 241814000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.735428Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-09",
+      "time": "2026-09-09",
+      "amount": 243425000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.735480Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-08",
+      "time": "2026-09-08",
+      "amount": 236234000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.735515Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-07",
+      "time": "2026-09-07",
+      "amount": 230622000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.735549Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-06",
+      "time": "2026-09-06",
+      "amount": 233536000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.735582Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-05",
+      "time": "2026-09-05",
+      "amount": 236744000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.735618Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-03",
+      "time": "2026-09-03",
+      "amount": 235188000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.735654Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-02",
+      "time": "2026-09-02",
+      "amount": 228351000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.735690Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-01",
+      "time": "2026-09-01",
+      "amount": 221958000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.735727Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-08-31",
+      "time": "2026-08-31",
+      "amount": 222182000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.735764Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-08-29",
+      "time": "2026-08-29",
+      "amount": 218396000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.735798Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-08-27",
+      "time": "2026-08-27",
+      "amount": 217464000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.735854Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-08-26",
+      "time": "2026-08-26",
+      "amount": 216774000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.735888Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-08-25",
+      "time": "2026-08-25",
+      "amount": 216531000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.735925Z"
+    },
+    {
+      "item": "هر گرم طلای ۱۸ عیار",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-08-24",
+      "time": "2026-08-24",
+      "amount": 220222000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/geram18",
+      "observed": "2026-11-24T22:55:59.735964Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-24",
+      "time": "2026-11-24",
+      "amount": 2620000000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.826939Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-23",
+      "time": "2026-11-23",
+      "amount": 2515950000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.826970Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-22",
+      "time": "2026-11-22",
+      "amount": 2431550000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.826996Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-21",
+      "time": "2026-11-21",
+      "amount": 2367300000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827024Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-19",
+      "time": "2026-11-19",
+      "amount": 2495900000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827049Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-18",
+      "time": "2026-11-18",
+      "amount": 2507400000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827073Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-17",
+      "time": "2026-11-17",
+      "amount": 2515100000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827097Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-16",
+      "time": "2026-11-16",
+      "amount": 2505550000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827122Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-15",
+      "time": "2026-11-15",
+      "amount": 2498650000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827146Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-14",
+      "time": "2026-11-14",
+      "amount": 2525150000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827188Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-12",
+      "time": "2026-11-12",
+      "amount": 2539650000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827214Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-11",
+      "time": "2026-11-11",
+      "amount": 2543650000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827238Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-10",
+      "time": "2026-11-10",
+      "amount": 2516600000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827266Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-09",
+      "time": "2026-11-09",
+      "amount": 2577900000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827313Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-08",
+      "time": "2026-11-08",
+      "amount": 2574100000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827355Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-07",
+      "time": "2026-11-07",
+      "amount": 2588150000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827385Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-05",
+      "time": "2026-11-05",
+      "amount": 2661900000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827411Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-04",
+      "time": "2026-11-04",
+      "amount": 2646100000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827437Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-03",
+      "time": "2026-11-03",
+      "amount": 2610850000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827474Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-02",
+      "time": "2026-11-02",
+      "amount": 2632250000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827506Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-01",
+      "time": "2026-11-01",
+      "amount": 2614200000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827531Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-31",
+      "time": "2026-10-31",
+      "amount": 2589850000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827557Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-29",
+      "time": "2026-10-29",
+      "amount": 2667850000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827582Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-28",
+      "time": "2026-10-28",
+      "amount": 2676700000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827606Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-27",
+      "time": "2026-10-27",
+      "amount": 2659700000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827631Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-26",
+      "time": "2026-10-26",
+      "amount": 2670000000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827654Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-25",
+      "time": "2026-10-25",
+      "amount": 2647350000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827683Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-24",
+      "time": "2026-10-24",
+      "amount": 2644600000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827707Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-22",
+      "time": "2026-10-22",
+      "amount": 2739650000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827732Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-21",
+      "time": "2026-10-21",
+      "amount": 2714250000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827761Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-20",
+      "time": "2026-10-20",
+      "amount": 2661300000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827800Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-19",
+      "time": "2026-10-19",
+      "amount": 2653300000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827825Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-18",
+      "time": "2026-10-18",
+      "amount": 2641900000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827850Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-17",
+      "time": "2026-10-17",
+      "amount": 2659750000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827875Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-15",
+      "time": "2026-10-15",
+      "amount": 2699200000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827899Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-14",
+      "time": "2026-10-14",
+      "amount": 2670900000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827928Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-13",
+      "time": "2026-10-13",
+      "amount": 2578100000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827954Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-12",
+      "time": "2026-10-12",
+      "amount": 2635750000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.827979Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-11",
+      "time": "2026-10-11",
+      "amount": 2672550000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828004Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-10",
+      "time": "2026-10-10",
+      "amount": 2693100000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828031Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-08",
+      "time": "2026-10-08",
+      "amount": 2687900000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828056Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-07",
+      "time": "2026-10-07",
+      "amount": 2672750000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828080Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-06",
+      "time": "2026-10-06",
+      "amount": 2719100000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828105Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-05",
+      "time": "2026-10-05",
+      "amount": 2709300000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828142Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-04",
+      "time": "2026-10-04",
+      "amount": 2710750000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828171Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-03",
+      "time": "2026-10-03",
+      "amount": 2698700000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828196Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-01",
+      "time": "2026-10-01",
+      "amount": 2603950000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828221Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-30",
+      "time": "2026-09-30",
+      "amount": 2590050000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828245Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-29",
+      "time": "2026-09-29",
+      "amount": 2550100000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828269Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-28",
+      "time": "2026-09-28",
+      "amount": 2469850000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828297Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-27",
+      "time": "2026-09-27",
+      "amount": 2405050000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828322Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-26",
+      "time": "2026-09-26",
+      "amount": 2384900000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828347Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-24",
+      "time": "2026-09-24",
+      "amount": 2400100000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828385Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-23",
+      "time": "2026-09-23",
+      "amount": 2364800000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828411Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-22",
+      "time": "2026-09-22",
+      "amount": 2374900000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828440Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-21",
+      "time": "2026-09-21",
+      "amount": 2339800000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828472Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-20",
+      "time": "2026-09-20",
+      "amount": 2390050000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828497Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-19",
+      "time": "2026-09-19",
+      "amount": 2374800000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828522Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-17",
+      "time": "2026-09-17",
+      "amount": 2319850000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828546Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-16",
+      "time": "2026-09-16",
+      "amount": 2340100000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828574Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-15",
+      "time": "2026-09-15",
+      "amount": 2314850000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828598Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-14",
+      "time": "2026-09-14",
+      "amount": 2339850000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828623Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-13",
+      "time": "2026-09-13",
+      "amount": 2360050000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828647Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-12",
+      "time": "2026-09-12",
+      "amount": 2394950000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828672Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-10",
+      "time": "2026-09-10",
+      "amount": 2410100000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828696Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-09",
+      "time": "2026-09-09",
+      "amount": 2420100000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828721Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-08",
+      "time": "2026-09-08",
+      "amount": 2349950000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828746Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-07",
+      "time": "2026-09-07",
+      "amount": 2300050000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828773Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-06",
+      "time": "2026-09-06",
+      "amount": 2339900000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828812Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-05",
+      "time": "2026-09-05",
+      "amount": 2374950000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828840Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-03",
+      "time": "2026-09-03",
+      "amount": 2340100000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828865Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-02",
+      "time": "2026-09-02",
+      "amount": 2279900000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828888Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-01",
+      "time": "2026-09-01",
+      "amount": 2215050000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828912Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-08-31",
+      "time": "2026-08-31",
+      "amount": 2235100000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828937Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-08-29",
+      "time": "2026-08-29",
+      "amount": 2180100000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828961Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-08-27",
+      "time": "2026-08-27",
+      "amount": 2160100000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.828985Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-08-26",
+      "time": "2026-08-26",
+      "amount": 2160100000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.829011Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-08-25",
+      "time": "2026-08-25",
+      "amount": 2150100000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.829035Z"
+    },
+    {
+      "item": "سکه امامی",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-08-24",
+      "time": "2026-08-24",
+      "amount": 2220050000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/sekee",
+      "observed": "2026-11-24T22:55:59.829076Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-24",
+      "time": "2026-11-24",
+      "amount": 2838900,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.939669Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-23",
+      "time": "2026-11-23",
+      "amount": 2709700,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.939697Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-22",
+      "time": "2026-11-22",
+      "amount": 2673750,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.939722Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-21",
+      "time": "2026-11-21",
+      "amount": 2689600,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.939747Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-19",
+      "time": "2026-11-19",
+      "amount": 2699700,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.939772Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-18",
+      "time": "2026-11-18",
+      "amount": 2663300,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.939811Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-17",
+      "time": "2026-11-17",
+      "amount": 2667100,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.939835Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-16",
+      "time": "2026-11-16",
+      "amount": 2687050,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.939859Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-15",
+      "time": "2026-11-15",
+      "amount": 2658050,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.939883Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-14",
+      "time": "2026-11-14",
+      "amount": 2699000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.939908Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-12",
+      "time": "2026-11-12",
+      "amount": 2669000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.939931Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-11",
+      "time": "2026-11-11",
+      "amount": 2640700,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.939955Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-10",
+      "time": "2026-11-10",
+      "amount": 2599000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.939979Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-09",
+      "time": "2026-11-09",
+      "amount": 2639000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940002Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-08",
+      "time": "2026-11-08",
+      "amount": 2649000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940026Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-07",
+      "time": "2026-11-07",
+      "amount": 2661100,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940054Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-05",
+      "time": "2026-11-05",
+      "amount": 2669000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940078Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-04",
+      "time": "2026-11-04",
+      "amount": 2689000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940102Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-03",
+      "time": "2026-11-03",
+      "amount": 2725000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940125Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-02",
+      "time": "2026-11-02",
+      "amount": 2715000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940149Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-11-01",
+      "time": "2026-11-01",
+      "amount": 2715000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940173Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-31",
+      "time": "2026-10-31",
+      "amount": 2705100,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940197Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-29",
+      "time": "2026-10-29",
+      "amount": 2710600,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940221Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-28",
+      "time": "2026-10-28",
+      "amount": 2695000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940245Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-27",
+      "time": "2026-10-27",
+      "amount": 2695000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940268Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-26",
+      "time": "2026-10-26",
+      "amount": 2715000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940292Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-25",
+      "time": "2026-10-25",
+      "amount": 2695000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940315Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-24",
+      "time": "2026-10-24",
+      "amount": 2685000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940339Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-22",
+      "time": "2026-10-22",
+      "amount": 2719050,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940363Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-21",
+      "time": "2026-10-21",
+      "amount": 2694000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940387Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-20",
+      "time": "2026-10-20",
+      "amount": 2648000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940410Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-19",
+      "time": "2026-10-19",
+      "amount": 2633950,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940434Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-18",
+      "time": "2026-10-18",
+      "amount": 2628000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940467Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-17",
+      "time": "2026-10-17",
+      "amount": 2638000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940492Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-15",
+      "time": "2026-10-15",
+      "amount": 2679000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940517Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-14",
+      "time": "2026-10-14",
+      "amount": 2639000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940541Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-13",
+      "time": "2026-10-13",
+      "amount": 2577100,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940565Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-12",
+      "time": "2026-10-12",
+      "amount": 2626000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940589Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-11",
+      "time": "2026-10-11",
+      "amount": 2643050,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940613Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-10",
+      "time": "2026-10-10",
+      "amount": 2651000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940636Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-08",
+      "time": "2026-10-08",
+      "amount": 2662000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940660Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-07",
+      "time": "2026-10-07",
+      "amount": 2632000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940684Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-06",
+      "time": "2026-10-06",
+      "amount": 2688200,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940707Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-05",
+      "time": "2026-10-05",
+      "amount": 2687000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940732Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-04",
+      "time": "2026-10-04",
+      "amount": 2683000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940755Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-03",
+      "time": "2026-10-03",
+      "amount": 2679000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940779Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-10-01",
+      "time": "2026-10-01",
+      "amount": 2584650,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940813Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-30",
+      "time": "2026-09-30",
+      "amount": 2547000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940838Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-29",
+      "time": "2026-09-29",
+      "amount": 2537000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940862Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-28",
+      "time": "2026-09-28",
+      "amount": 2448000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940886Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-27",
+      "time": "2026-09-27",
+      "amount": 2350000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940909Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-26",
+      "time": "2026-09-26",
+      "amount": 2333000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940933Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-24",
+      "time": "2026-09-24",
+      "amount": 2346150,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940957Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-23",
+      "time": "2026-09-23",
+      "amount": 2317050,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.940982Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-22",
+      "time": "2026-09-22",
+      "amount": 2332000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941011Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-21",
+      "time": "2026-09-21",
+      "amount": 2308000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941035Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-20",
+      "time": "2026-09-20",
+      "amount": 2306000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941059Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-19",
+      "time": "2026-09-19",
+      "amount": 2302750,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941084Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-17",
+      "time": "2026-09-17",
+      "amount": 2279000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941108Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-16",
+      "time": "2026-09-16",
+      "amount": 2305000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941133Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-15",
+      "time": "2026-09-15",
+      "amount": 2303950,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941157Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-14",
+      "time": "2026-09-14",
+      "amount": 2313000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941181Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-13",
+      "time": "2026-09-13",
+      "amount": 2286000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941205Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-12",
+      "time": "2026-09-12",
+      "amount": 2339000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941229Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-10",
+      "time": "2026-09-10",
+      "amount": 2359750,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941255Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-09",
+      "time": "2026-09-09",
+      "amount": 2327000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941278Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-08",
+      "time": "2026-09-08",
+      "amount": 2267000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941302Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-07",
+      "time": "2026-09-07",
+      "amount": 2221000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941326Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-06",
+      "time": "2026-09-06",
+      "amount": 2230000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941349Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-05",
+      "time": "2026-09-05",
+      "amount": 2272050,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941373Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-03",
+      "time": "2026-09-03",
+      "amount": 2210600,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941396Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-02",
+      "time": "2026-09-02",
+      "amount": 2199000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941420Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-09-01",
+      "time": "2026-09-01",
+      "amount": 2140000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941451Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-08-31",
+      "time": "2026-08-31",
+      "amount": 2093000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941476Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-08-29",
+      "time": "2026-08-29",
+      "amount": 2060100,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941503Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-08-27",
+      "time": "2026-08-27",
+      "amount": 2006000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941526Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-08-26",
+      "time": "2026-08-26",
+      "amount": 2005000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941550Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-08-25",
+      "time": "2026-08-25",
+      "amount": 2005000,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941574Z"
+    },
+    {
+      "item": "دلار آمریکا",
+      "source": "TGJU · پایانی روز",
+      "date": "2026-08-24",
+      "time": "2026-08-24",
+      "amount": 2021950,
+      "currency": "ریال",
+      "link": "https://www.tgju.org/profile/price_dollar_rl",
+      "observed": "2026-11-24T22:55:59.941597Z"
     }
   ]
 }

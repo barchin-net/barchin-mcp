@@ -1,68 +1,1149 @@
 {
   "version": 1,
-  "provenance": "مهارت‌ها از شرح یا فهرست نرم‌افزارهای آگهی‌های واقعی جاب‌ویژن استخراج شدند. تعداد آگهی هر نقش کنار شواهد آن دیده می‌شود.",
-  "time": "2026-11-24T22:08:06+00:00",
+  "time": "2026-11-24T23:00:08+00:00",
+  "provenance": "دو جست‌وجوی «برنامه نویس» و «حسابدار» در جاب‌ویژن. هر آگهی یکتا یک بار در مخرج گروه جست‌وجوی خود آمده است؛ مهارت‌ها از فیلدهای اعلام‌شده گرفته شده‌اند و آگهی بدون مهارتِ درج‌شده هم در مخرج باقی می‌ماند.",
   "rows": [
     {
-      "role": "توسعهٔ وب",
-      "title": "Front End Developer · 1584337",
+      "role": "برنامه‌نویسی",
+      "title": "برنامه نویس",
       "skills": [
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "TypeScript",
-        "React",
-        "Git"
+        "Git",
+        "Python",
+        "انگلیسی"
       ],
-      "link": "https://www.jobvision.ir/jobs/1584337",
-      "observed": "2026-11-24T21:37+00:00"
+      "link": "https://www.jobvision.ir/jobs/1627305",
+      "observed": "2026-11-24T22:57:25+00:00"
     },
     {
-      "role": "توسعهٔ وب",
-      "title": "برنامه نویس فرانت اند · 1550909",
+      "role": "برنامه‌نویسی",
+      "title": "توسعه دهنده نرم افزار",
       "skills": [
+        "Python",
+        "PostgreSQL",
+        "JavaScript",
+        "Git",
+        "انگلیسی"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1609668",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "Back-End Developer (Node.js)",
+      "skills": [
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Git",
+        "PostgreSQL",
+        "Unit Testing",
+        "انگلیسی"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1624242",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "کارآموز Fullstack Builder",
+      "skills": [
+        "Git",
+        "انگلیسی"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1625238",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "مهندس نرم افزار - خانم",
+      "skills": [
+        "COMSOL Multiphysics",
+        "MATLAB",
+        "Python"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1625080",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "کارآموز برنامه‌نویسی وب (Frontend / Backend)",
+      "skills": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "HTML & CSS",
+        "JavaScript",
+        "Git",
+        "انگلیسی"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1624092",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "برنامه‌نویس نرم‌افزار (Node.js / TypeScript)",
+      "skills": [
+        "JavaScript",
+        "TypeScript",
+        "Node.js",
+        "REST API",
+        "Git",
+        "Linux",
+        "Docker",
+        "انگلیسی"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1624641",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "Back-End Developer",
+      "skills": [
+        "C#",
+        ".NET / .NET Core",
+        "Entity Framework",
+        "REST API",
+        "Microsoft SQL Server",
+        "Dapper",
+        "RabbitMQ"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1623277",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "برنامه نویس - آقا",
+      "skills": [
+        "JavaScript",
+        "HTML & CSS",
+        "TypeScript",
+        "Microsoft SQL Server",
+        "Git",
+        "Next.js",
+        "React"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1622012",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "Back-End Developer",
+      "skills": [
+        "PHP",
+        "Laravel",
+        "MySQL",
+        "REST API",
+        "Redis",
+        "RabbitMQ",
+        "انگلیسی"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1592943",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "کارشناس برنامه‌نویسی",
+      "skills": [
+        "Adobe XD",
+        "Adobe Photoshop",
+        "Adobe Illustrator"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1608286",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "Senior Back-End Developer",
+      "skills": [
+        "Node.js",
+        "TypeScript",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "Git",
+        "REST API",
+        "انگلیسی"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1618996",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "کارآموز برنامه‌نویسی - خانم",
+      "skills": [],
+      "link": "https://www.jobvision.ir/jobs/1566409",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "برنامه نویس Back-End (Django)",
+      "skills": [
+        "Python",
+        "Django",
+        "Git"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1587762",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "برنامه نویس Back-End",
+      "skills": [
+        "JavaScript",
+        "Django",
+        "Python",
+        "Git"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1616951",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "برنامه نویس نرم افزار",
+      "skills": [
+        "C#",
+        "Microsoft Visual Studio",
+        "Linux",
+        "C++"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1599487",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "کارشناس برنامه نویسی",
+      "skills": [
+        "C#",
+        "T-SQL",
+        "Microsoft SQL Server",
+        "SAP"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1613854",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "Back-End Developer",
+      "skills": [
+        "C#",
+        ".NET / .NET Core",
+        "REST API",
+        "Microsoft SQL Server",
+        "PostgreSQL",
+        "MySQL",
+        "Git"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1612078",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "برنامه‌نویس فول‌استک (کارآموزی)",
+      "skills": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Node.js",
+        "Git",
+        "MongoDB",
+        "Next.js"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1577697",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "برنامه نویس ارشد Back-End (Node.js)",
+      "skills": [
+        "MongoDB",
+        "TypeScript",
+        "Node.js",
+        "Git",
+        "Docker",
+        "Redis"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1578644",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "برنامه نویس Full-Stack",
+      "skills": [
+        "Node.js",
+        "TypeScript",
+        "PostgreSQL",
+        "Redis",
+        "REST API",
+        "Swift",
+        "Kotlin",
+        "انگلیسی"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1578115",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "برنامه نویس Front-End (React)",
+      "skills": [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "HTML & CSS"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1571535",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "Junior Software Engineer - آقا",
+      "skills": [
+        "Python",
+        "Linux",
+        "Apache Kafka",
+        "Apache Spark",
+        "Docker",
+        "Git"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1477410",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "کارآموز برنامه‌نویسی بک‌اند (.NET و Python)",
+      "skills": [
+        ".NET / .NET Core",
+        "Python",
+        "C#",
+        "Git"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1596125",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "برنامه‌نویس جونیور (Python/Django) - آقا",
+      "skills": [
+        "Python",
+        "Django",
+        "Git",
+        "PostgreSQL",
+        "MySQL",
+        "Redis"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1565009",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "برنامه‌نویس (Developer)",
+      "skills": [
+        "Python",
+        "JavaScript",
+        "MySQL",
+        "HTML & CSS"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1591570",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "برنامه نویس Full-Stack",
+      "skills": [
+        "JavaScript",
+        "Node.js",
+        "React Native",
+        "REST API",
+        "Linux",
+        "Git",
+        "React"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1554487",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "برنامه نویس (توسعه نرم‌افزارهای صنعتی)",
+      "skills": [
+        "C#",
+        ".NET / .NET Core"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1558928",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "برنامه نویس وب - آقا",
+      "skills": [
+        "ASP.NET",
+        "JavaScript",
+        "HTML & CSS",
+        "C#",
+        "Microsoft SQL Server",
+        "MySQL"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1588264",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "برنامه‌نویس Full-Stack (JavaScript)",
+      "skills": [
+        "JavaScript",
         "TypeScript",
         "Git",
-        "Angular"
+        "React",
+        "Next.js",
+        "Node.js",
+        "MongoDB",
+        "انگلیسی"
       ],
-      "link": "https://www.jobvision.ir/jobs/1550909",
-      "observed": "2026-11-24T21:37+00:00"
+      "link": "https://www.jobvision.ir/jobs/1553933",
+      "observed": "2026-11-24T22:57:25+00:00"
     },
     {
-      "role": "توسعهٔ وب",
-      "title": "Front-End Developer · 1545586",
+      "role": "برنامه‌نویسی",
+      "title": "برنامه‌نویس",
+      "skills": [],
+      "link": "https://www.jobvision.ir/jobs/1551923",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "برنامه نویس Back-End",
       "skills": [
-        "TypeScript",
-        "React",
+        "PHP",
+        "WordPress",
+        "T-SQL",
+        "MySQL",
+        "HTML & CSS",
+        "JavaScript",
+        "REST API"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1551358",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "برنامه نویس",
+      "skills": [
+        "Python",
+        "انگلیسی"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1548288",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "برنامه نویس",
+      "skills": [
+        "Python",
+        "REST API",
+        "Git",
+        "HTML & CSS",
+        "Node.js",
+        "Docker",
+        "Unit Testing"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1578195",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "برنامه نویس وب",
+      "skills": [
+        "JavaScript",
+        "HTML & CSS",
+        "jQuery",
+        "ASP.NET",
+        "REST API",
+        "Microsoft SQL Server",
+        "IIS",
+        "انگلیسی"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1489248",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "کارآموز برنامه‌نویسی وب",
+      "skills": [
+        "Node.js",
+        "Git",
+        "REST API",
+        "GitLab",
+        "MySQL",
+        "PostgreSQL"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1573092",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "برنامه نویس - آقا",
+      "skills": [
+        "Node.js",
+        "Python",
+        "PHP",
+        "REST API",
+        "MySQL",
+        "PostgreSQL",
         "Git"
       ],
-      "link": "https://www.jobvision.ir/jobs/1545586",
-      "observed": "2026-11-24T21:37+00:00"
+      "link": "https://www.jobvision.ir/jobs/1541632",
+      "observed": "2026-11-24T22:57:25+00:00"
     },
     {
-      "role": "رسانه",
-      "title": "خبرنگار - خانم",
+      "role": "برنامه‌نویسی",
+      "title": "توسعه‌دهنده نرم‌افزار - آقا",
       "skills": [
-        "Adobe InDesign",
-        "Adobe Photoshop"
-      ],
-      "link": "https://www.jobvision.ir/jobs/1506033",
-      "observed": "2026-11-24T22:08:06+00:00"
-    },
-    {
-      "role": "توسعهٔ وب",
-      "title": "کارآموز برنامه‌نویسی · 1479989",
-      "skills": [
-        "HTML",
-        "CSS",
+        "Linux",
+        "Python",
         "JavaScript",
-        "Angular",
-        "TypeScript",
-        "SQL",
-        "C#"
+        "Git",
+        "C++",
+        "Django",
+        "Embedded C",
+        "انگلیسی"
       ],
-      "link": "https://www.jobvision.ir/jobs/1479989",
-      "observed": "2026-09-27"
+      "link": "https://www.jobvision.ir/jobs/1542716",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "برنامه‌نویس Back-End (Node.js)",
+      "skills": [
+        "Oracle Database",
+        "PostgreSQL",
+        "REST API",
+        "Git",
+        "TypeScript",
+        "Node.js",
+        "انگلیسی"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1572261",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "کارآموز برنامه‌نویس (Backend/Frontend)",
+      "skills": [
+        "Angular",
+        "Next.js",
+        ".NET / .NET Core",
+        "Go"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1571401",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "کارآموز برنامه‌نویسی",
+      "skills": [],
+      "link": "https://www.jobvision.ir/jobs/1568111",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "برنامه نویس Full-Stack",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Git"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1549656",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "کارآموز برنامه‌نویسی (Backend / Full-Stack)",
+      "skills": [
+        "Git",
+        "Linux",
+        "Microsoft SQL Server",
+        "MySQL",
+        "PHP",
+        "C#",
+        "JavaScript"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1561431",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "Backend Developer - آقا",
+      "skills": [
+        "JavaScript",
+        "TypeScript",
+        "Node.js",
+        "MySQL",
+        "PostgreSQL",
+        "Redis",
+        "Git",
+        "انگلیسی"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1560770",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "مدرس برنامه نویسی",
+      "skills": [
+        "Python",
+        "PHP",
+        "JavaScript",
+        "Java",
+        "C#",
+        "C++",
+        "Kotlin"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1455175",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "برنامه نویس",
+      "skills": [
+        "PHP",
+        "Laravel",
+        "MySQL",
+        "HTML & CSS",
+        "JavaScript",
+        "Git",
+        "REST API"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1560186",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "برنامه‌نویس Pine Script (TradingView)",
+      "skills": [],
+      "link": "https://www.jobvision.ir/jobs/1558662",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "Back-End Developer",
+      "skills": [
+        "Python",
+        "Microsoft SQL Server",
+        "MongoDB",
+        "Django",
+        "Node.js",
+        "React",
+        "Git",
+        "انگلیسی"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1558039",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "استخدام برنامه‌نویس Back-End (Nodejs)",
+      "skills": [],
+      "link": "https://www.jobvision.ir/jobs/1553914",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "مهندس نرم‌افزار جونیور (Junior Software Engineer) - آقا",
+      "skills": [
+        "C++",
+        "C#",
+        "Python",
+        "Linux",
+        "Git",
+        "انگلیسی"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1550951",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "برنامه نویس",
+      "skills": [
+        "Python",
+        "Django",
+        "REST API"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1548884",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "مدرس برنامه نویسی",
+      "skills": [],
+      "link": "https://www.jobvision.ir/jobs/1548280",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "برنامه نویس",
+      "skills": [],
+      "link": "https://www.jobvision.ir/jobs/1547343",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "برنامه نویس",
+      "skills": [
+        "C#",
+        "C++"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1547070",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "برنامه‌نویسی",
+      "title": "برنامه نویس",
+      "skills": [
+        "Microsoft SQL Server",
+        "JavaScript",
+        "React",
+        "انگلیسی"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1111602",
+      "observed": "2026-11-24T22:57:25+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "حسابدار",
+      "skills": [
+        "سپیدار"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1611523",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "کارشناس حسابداری",
+      "skills": [],
+      "link": "https://www.jobvision.ir/jobs/1601431",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "حسابدار",
+      "skills": [
+        "Microsoft Excel",
+        "Microsoft Power BI"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1626116",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "حسابدار - خانم",
+      "skills": [
+        "سپیدار",
+        "Microsoft Excel"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1625539",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "کارشناس حسابداری",
+      "skills": [
+        "Microsoft Excel",
+        "Microsoft Word",
+        "شایگان"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1584236",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "حسابدار",
+      "skills": [
+        "Microsoft Excel"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1623819",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "کارمند حسابداری",
+      "skills": [
+        "رافع",
+        "Microsoft Excel"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1622684",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "حسابدار - خانم",
+      "skills": [
+        "سپیدار",
+        "Microsoft Excel"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1591365",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "کارمند حسابداری",
+      "skills": [
+        "Microsoft Excel"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1607209",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "حسابدار",
+      "skills": [
+        "Microsoft Excel",
+        "سپیدار",
+        "هلو",
+        "همکاران سیستم"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1601317",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "حسابدار",
+      "skills": [
+        "Microsoft Excel",
+        "هلو"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1578348",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "کارشناس حسابداری",
+      "skills": [
+        "سپیدار",
+        "Microsoft Excel"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1602500",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "حسابدار",
+      "skills": [
+        "Microsoft Word",
+        "Microsoft Excel"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1600922",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "حسابدار",
+      "skills": [
+        "Microsoft Excel"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1471047",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "حسابدار مالی",
+      "skills": [
+        "هلو",
+        "Microsoft Excel",
+        "Microsoft Word"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1614591",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "حسابدار",
+      "skills": [
+        "Microsoft Word",
+        "راهکاران",
+        "همکاران سیستم",
+        "Microsoft Excel"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1585434",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "حسابدار",
+      "skills": [],
+      "link": "https://www.jobvision.ir/jobs/1613140",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "کارشناس حسابداری",
+      "skills": [
+        "سپیدار",
+        "Microsoft Excel",
+        "Microsoft Word"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1609715",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "حسابدار - خانم",
+      "skills": [],
+      "link": "https://www.jobvision.ir/jobs/1575436",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "حسابدار",
+      "skills": [
+        "Microsoft Word",
+        "Microsoft Excel",
+        "Microsoft Outlook",
+        "انگلیسی"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1577015",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "حسابدار",
+      "skills": [],
+      "link": "https://www.jobvision.ir/jobs/1604878",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "حسابدار",
+      "skills": [
+        "Microsoft Word",
+        "Microsoft Excel"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1594296",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "حسابدار",
+      "skills": [
+        "سپیدار",
+        "Microsoft Excel"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1597960",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "کارمند حسابداری",
+      "skills": [
+        "سپیدار",
+        "Microsoft Word",
+        "Microsoft Excel"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1592351",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "کارمند حسابداری",
+      "skills": [],
+      "link": "https://www.jobvision.ir/jobs/1599838",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "حسابدار",
+      "skills": [
+        "سپیدار",
+        "Microsoft Excel"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1597739",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "کارمند حسابداری",
+      "skills": [
+        "Microsoft Excel"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1564996",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "حسابدار",
+      "skills": [
+        "Microsoft Excel",
+        "Microsoft Word",
+        "شایگان"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1564982",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "کارمند حسابداری",
+      "skills": [
+        "Microsoft Excel",
+        "Microsoft Word"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1591108",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "حسابدار",
+      "skills": [
+        "هلو",
+        "Microsoft Word",
+        "Microsoft Excel"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1586906",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "حسابدار",
+      "skills": [
+        "هلو"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1581621",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "حسابدار",
+      "skills": [
+        "Microsoft Excel",
+        "هلو"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1585887",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "کارشناس حسابداری",
+      "skills": [
+        "Microsoft Excel",
+        "Microsoft Word"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1555447",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "حسابدار",
+      "skills": [
+        "هلو"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1550693",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "حسابدار - خانم",
+      "skills": [],
+      "link": "https://www.jobvision.ir/jobs/1553927",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "کارمند حسابداری",
+      "skills": [
+        "سپیدار",
+        "Microsoft Word",
+        "Microsoft Excel"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1527729",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "کارمند حسابداری",
+      "skills": [
+        "Microsoft Excel",
+        "Microsoft Word"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1539095",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "حسابدار",
+      "skills": [
+        "سپیدار",
+        "Microsoft Excel"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1493864",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "حسابدار",
+      "skills": [],
+      "link": "https://www.jobvision.ir/jobs/1554203",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "حسابدار",
+      "skills": [
+        "سپیدار",
+        "همکاران سیستم",
+        "Microsoft Excel"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1571782",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "کارمند حسابداری",
+      "skills": [
+        "راهکاران",
+        "Microsoft Excel"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1541923",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "حسابدار",
+      "skills": [
+        "Microsoft Excel",
+        "سپیدار"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1567486",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "حسابدار",
+      "skills": [
+        "Microsoft Excel",
+        "سپیدار"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1540069",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "حسابدار",
+      "skills": [
+        "Microsoft Word",
+        "Microsoft Excel",
+        "سپیدار",
+        "سیاق",
+        "هلو"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1448170",
+      "observed": "2026-11-24T22:57:24+00:00"
+    },
+    {
+      "role": "حسابداری",
+      "title": "کارشناس حسابداری",
+      "skills": [
+        "سپیدار",
+        "Microsoft Excel",
+        "Microsoft Word"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1558125",
+      "observed": "2026-11-24T22:57:24+00:00"
     }
   ]
 }
