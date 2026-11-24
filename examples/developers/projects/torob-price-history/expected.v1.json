@@ -2,13 +2,42 @@
   "columns": [
     "product",
     "seller",
-    "date",
     "price",
-    "stock",
+    "premium",
     "observed",
     "link"
   ],
   "rows": [
+    {
+      "product": "مینی فرز میلواکی AGV13-125XE قدرت ۱۲۵۰ وات دیمردار",
+      "seller": "ابزار مارکت",
+      "date": "2026-11-24T11:51:40.038562+00:00",
+      "price": 33440000,
+      "stock": "موجود",
+      "link": "https://torob.com/p/e89c4666-c8bf-49a6-b6e8-094e2ae76756/",
+      "observed": "2026-11-24T11:51:40.038562+00:00",
+      "premium": 0
+    },
+    {
+      "product": "مینی فرز میلواکی AGV13-125XE قدرت ۱۲۵۰ وات دیمردار",
+      "seller": "زمیران ابزار",
+      "date": "2026-11-24T11:51:40.038562+00:00",
+      "price": 37595000,
+      "stock": "موجود",
+      "link": "https://torob.com/p/e89c4666-c8bf-49a6-b6e8-094e2ae76756/",
+      "observed": "2026-11-24T11:51:40.038562+00:00",
+      "premium": 4155000
+    },
+    {
+      "product": "مینی فرز میلواکی AGV13-125XE قدرت ۱۲۵۰ وات دیمردار",
+      "seller": "ابزار تجارت پارس",
+      "date": "2026-11-24T11:51:40.038562+00:00",
+      "price": 37600000,
+      "stock": "موجود",
+      "link": "https://torob.com/p/e89c4666-c8bf-49a6-b6e8-094e2ae76756/",
+      "observed": "2026-11-24T11:51:40.038562+00:00",
+      "premium": 4160000
+    },
     {
       "product": "مینی فرز میلواکی AGV13-125XE قدرت ۱۲۵۰ وات دیمردار",
       "seller": "ابزار 247",
@@ -16,18 +45,25 @@
       "price": 37620000,
       "stock": "موجود",
       "link": "https://torob.com/p/e89c4666-c8bf-49a6-b6e8-094e2ae76756/",
-      "observed": "2026-11-24T11:51:40.038562+00:00"
-    },
-    {
-      "product": "مینی فرز میلواکی AGV13-125XE قدرت ۱۲۵۰ وات دیمردار",
-      "seller": "ابزار 247",
-      "date": "2026-11-24 (برداشت مجدد)",
-      "price": null,
-      "stock": "مشاهده نشد · HTTP 490",
-      "link": "https://torob.com/p/e89c4666-c8bf-49a6-b6e8-094e2ae76756/",
-      "observed": "2026-11-24"
+      "observed": "2026-11-24T11:51:40.038562+00:00",
+      "premium": 4180000
     }
   ],
   "groups": [],
-  "note": ""
+  "note": "",
+  "facts": {
+    "product": "مینی فرز میلواکی AGV13-125XE قدرت ۱۲۵۰ وات دیمردار",
+    "source": "https://torob.com/p/e89c4666-c8bf-49a6-b6e8-094e2ae76756/",
+    "observed": "2026-11-24T11:51:40.038562+00:00",
+    "latest": "2026-11-24",
+    "latestStatus": "مشاهده نشد · HTTP 490",
+    "newerCheck": true,
+    "sellers": 4,
+    "lowest": [
+      "ابزار مارکت"
+    ],
+    "minimum": 33440000,
+    "spread": 4180000
+  },
+  "historySeller": ""
 }

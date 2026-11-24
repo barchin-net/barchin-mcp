@@ -1,6 +1,6 @@
 # داشبورد تاریخچهٔ قیمت و موجودی ترب
 
-کالا و فروشنده را انتخاب کنید و روند قیمت و موجودی پیشنهاد را به CSV بگیرید.
+برای هر کالا ببینید کدام فروشنده را اول بررسی کنید، اختلاف قیمت پیشنهادها چقدر است و در پایش بعدی چه چیزی ثبت شد.
 
 ## اجرای نمونه
 
@@ -16,7 +16,7 @@ node ../../run.mjs --serve
 
 [دموی محلی](http://127.0.0.1:4173) · [صفحهٔ عمومی](https://barchin.net/developers/projects/torob-price-history)
 
-ورودی نسخه‌دار در `sample.v1.json` و خروجی پیش‌فرض کامل در `expected.v1.json` است. مقایسه فقط در یک ترکیب کالا و فروشنده است. خانهٔ خالی در نوبت پایش، ناموجود بودن کالا را ثابت نمی‌کند.
+ورودی نسخه‌دار در `sample.v1.json` و خروجی پیش‌فرض کامل در `expected.v1.json` است. فقط پیشنهادهای موجودِ همان کالا در یک نوبت برداشت با هم مقایسه می‌شوند. اختلاف با کمترین قیمت به تومان است. هزینهٔ ارسال و شرایط ضمانت در داده ثبت نشده‌اند. برای تصمیم خرید، پیشنهاد را در ترب دوباره بررسی کنید.
 
 ## تنظیمات و دادهٔ زنده
 
@@ -24,4 +24,4 @@ node ../../run.mjs --serve
 
 ## پرامپت قابل کپی
 
-Open barchin-net/barchin-mcp, directory examples/developers/projects/torob-price-history. Build and customize “داشبورد تاریخچهٔ قیمت و موجودی ترب” for Persian RTL users. In that directory run node ../../run.mjs --check, then node ../../run.mjs --serve and open the local address. Use sample.v1.json and expected.v1.json. Expected behavior: کالا و فروشنده را انتخاب کنید و روند قیمت و موجودی پیشنهاد را به CSV بگیرید. Interpretation rule: مقایسه فقط در یک ترکیب کالا و فروشنده است. خانهٔ خالی در نوبت پایش، ناموجود بودن کالا را ثابت نمی‌کند. Add a weekly seller comparison and keep missed checks distinct from out-of-stock offers. Add regression checks against expected.v1.json. Keep units, evidence and observation times visible. For optional live data use torob-product-sellers. Follow the README and the linked Barchin input schema. Keep BARCHIN_API_KEY in a server-side environment variable. Show credit estimates and require explicit confirmation before any bounded paid run. Never put a key in browser code or commit .env.
+Open barchin-net/barchin-mcp, directory examples/developers/projects/torob-price-history. Build and customize “داشبورد تاریخچهٔ قیمت و موجودی ترب” for Persian RTL users. In that directory run node ../../run.mjs --check, then node ../../run.mjs --serve and open the local address. Use sample.v1.json and expected.v1.json. Expected behavior: برای هر کالا ببینید کدام فروشنده را اول بررسی کنید، اختلاف قیمت پیشنهادها چقدر است و در پایش بعدی چه چیزی ثبت شد. Interpretation rule: فقط پیشنهادهای موجودِ همان کالا در یک نوبت برداشت با هم مقایسه می‌شوند. اختلاف با کمترین قیمت به تومان است. هزینهٔ ارسال و شرایط ضمانت در داده ثبت نشده‌اند. برای تصمیم خرید، پیشنهاد را در ترب دوباره بررسی کنید. Start with a product URL and a bounded torob-product-sellers run. Store one capture time per run, product, seller, price in toman, availability and source. Compare available offers within one capture. Only notify a price change after two positive observed prices for the same seller and product. Keep failed checks in the history. Add regression checks against expected.v1.json. Keep units, evidence and observation times visible. For optional live data use torob-product-sellers. Follow the README and the linked Barchin input schema. Keep BARCHIN_API_KEY in a server-side environment variable. Show credit estimates and require explicit confirmation before any bounded paid run. Never put a key in browser code or commit .env.

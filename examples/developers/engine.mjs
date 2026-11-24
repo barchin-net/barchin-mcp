@@ -1,12 +1,12 @@
 // A shared, deterministic view model for the CLI, static HTML and browser demo.
 export const labels = {
- engagement:'تعامل',record:'شاهد انتشار',
+ premium:'اختلاف با کمترین (تومان)',engagement:'تعامل',record:'شاهد انتشار',
  product:'کالا',seller:'فروشنده',date:'تاریخ',price:'قیمت (تومان)',stock:'وضعیت موجودی',url:'نشانی کالا',amount:'مقدار',currency:'واحد',attributes:'ویژگی‌ها',
  topic:'موضوع',story:'گروه پوشش',summary:'خلاصه',source:'منبع',published:'زمان انتشار',observed:'زمان مشاهده',link:'پیوند منبع',original:'قیمت اصلی (تومان)',discounted:'قیمت نهایی (تومان)',percent:'تخفیف (درصد)',
  category:'دسته',brand:'برند',rating:'امتیاز',city:'شهر',count:'تعداد',sellers:'تعداد فروشنده',floorPrice:'کمترین قیمت (تومان)',title:'عنوان',model:'مدل',year:'سال ساخت',km:'کارکرد (کیلومتر)',market:'بازار (تومان)',dealerPrice:'نمایندگی (تومان)',dealer:'نمایشگاه',id:'شناسه',area:'محله',size:'متراژ',deposit:'ودیعه (تومان)',rent:'اجارهٔ ماهانه (تومان)',unitPrice:'قیمت هر متر (تومان)',role:'نقش شغلی',work:'شیوهٔ همکاری',skills:'مهارت‌ها',skill:'مهارت',item:'قلم',time:'زمان مشاهده',route:'مسیر',travelDate:'تاریخ سفر',cabin:'کلاس',airline:'ایرلاین',hotel:'هتل',stars:'ستاره',window:'بازهٔ جست‌وجو',night:'قیمت اقامت (تومان)',amenities:'امکانات',stay:'اقامتگاه',status:'وضعیت',name:'نام',lat:'عرض جغرافیایی',lon:'طول جغرافیایی',match:'نتیجهٔ تطبیق',format:'قالب',views:'بازدید',likes:'پسند',comments:'نظر',question:'پرسش',answer:'پاسخ پیشنهادی',channel:'کانال',week:'هفته از',before:'قیمت پیشین (تومان)',after:'قیمت جدید (تومان)',from:'از تاریخ',to:'تا تاریخ',base:'تصویر اولیه',next:'تصویر مقایسه',evidence:'شواهد',min:'کمینه',median:'میانه',max:'بیشینه',total:'اندازهٔ نمونه',group:'گروه',branch:'شاخه',change:'تغییر',dates:'تأیید تاریخ'
 };
 export const unique = values => [...new Set(values.filter(v=>v!=null))];
-const parents={'one:seller':['product'],'one:travelDate':['route'],'one:category':['branch']};
+const parents={'pick:seller':['product'],'one:seller':['product'],'one:travelDate':['route'],'one:category':['branch']};
 export function choices(p,data,control,state={}){
  const scoped=(parents[control] || ((control==='base:date'||control==='next:date')?(p.tree?['branch','category']:['dealer']):[]));
  const candidates=data.rows.filter(r=>scoped.every(k=>!state['one:'+k]||r[k]===state['one:'+k]));
@@ -24,7 +24,43 @@ export function initial(p,data) {
  }
  return state;
 }
+// The legacy day-only retry is explicitly recorded as following that day's capture.
+function offerOrder(row) {
+ const [day]=row.observed.split('T');
+ if(row.date===day+' (برداشت مجدد)')return day+'~';
+ return new Date(row.observed).toISOString();
+}
+function offerView(p,data,state) {
+ const product=state['one:product'], seller=state['pick:seller'];
+ const captures=new Map();
+ const history=data.rows.filter(r=>r.product===product).sort((a,b)=>{
+  const left=offerOrder(a),right=offerOrder(b);
+  return left===right?0:left>right?-1:1;
+ });
+ for(const r of history){
+  if(!captures.has(r.date))captures.set(r.date,[]);
+  captures.get(r.date).push(r);
+ }
+ const checks=[...captures.values()];
+ const priced=r=>r.stock==='موجود'&&Number.isFinite(r.price)&&r.price>0;
+ const recorded=checks.find(batch=>batch.some(r=>priced(r)||r.stock==='ناموجود'));
+ const offers=(recorded||[]).filter(priced).sort((a,b)=>a.price-b.price);
+ const latest=checks[0]||[];
+ const minimum=offers[0]?.price;
+ const facts={
+  product,source:history[0]?.link||'',observed:offers[0]?.observed||'',
+  latest:latest[0]?.observed||'',latestStatus:unique(latest.map(r=>r.stock)).join('، '),
+  newerCheck:Boolean(recorded&&recorded!==latest),
+  sellers:unique(offers.map(r=>r.seller)).length,
+  lowest:offers.filter(r=>r.price===minimum).map(r=>r.seller),minimum:minimum??null,
+  spread:offers.length?offers.at(-1).price-minimum:null
+ };
+ const rows=seller?history.filter(r=>r.seller===seller):offers.map(r=>({...r,premium:r.price-minimum}));
+ const columns=seller?['product','seller','observed','stock','price','link']:p.columns;
+ return {columns,rows,groups:[],note:'',facts,historySeller:seller||''};
+}
 export function view(p,data,state){
+ if(p.kind==='offers')return offerView(p,data,state);
  let rows=data.rows.map(r=>({...r})), columns=[...p.columns];
  for(const c of p.controls){
   const [mode,k]=c.split(':'),v=state[c];

@@ -17,6 +17,10 @@ filters.addEventListener('input',e=>{
    const field=[...filters.elements].find(el=>el.dataset.c===child);
    if(field?.tagName!=='SELECT'||!(parents[child]||child==='base:date'||child==='next:date'))continue;
    const values=choices(project,sample,child,state);
+   if(child==='pick:seller'){
+    field.replaceChildren(new Option('مقایسهٔ همهٔ فروشنده‌ها',''),...values.map(v=>new Option('تاریخچهٔ '+v,v)));
+    state[child]='';continue;
+   }
    const selected=values.includes(state[child])?state[child]:child==='next:date'?values.at(-1):values[0];
    field.replaceChildren(...values.map(v=>new Option(fmt(v),v,false,v===selected)));
    state[child]=selected;

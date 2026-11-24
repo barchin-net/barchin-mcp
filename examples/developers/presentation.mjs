@@ -12,7 +12,8 @@ export function controls(p,d,s){
   const [m,k]=c.split(':'),v=s[c],vals=choices(p,d,c,s),label=m==='columns'?'ستون‌های خروجی':m==='sort'?'مرتب‌سازی':m==='base'||m==='next'?labels[m]:( {min:'حداقل ',max:'حداکثر ',from:'از ',to:'تا ',text:'جست‌وجوی '}[m]||'')+(labels[k]||k);
   if(m==='multi'||m==='columns')return '<fieldset><legend>'+esc(label)+'</legend>'+vals.map(a=>'<label><input type="checkbox" data-c="'+esc(c)+'" value="'+esc(a)+'" '+(v.includes(a)?'checked':'')+'> '+esc(m==='columns'?labels[a]:k==='url'?(d.rows.find(r=>r.url===a)?.product||a):a)+'</label>').join('')+'</fieldset>';
   if(['text','from','to','min','max'].includes(m))return '<label>'+esc(label)+'<input data-c="'+esc(c)+'" type="'+(m==='text'?'search':m==='min'||m==='max'?'number':'date')+'" value="'+esc(v)+'"></label>';
-  return '<label>'+esc(label)+'<select data-c="'+esc(c)+'">'+(['pick','has'].includes(m)?'<option value="">همه</option>':'')+vals.map(a=>'<option value="'+esc(a)+'" '+(String(a)===String(v)?'selected':'')+'>'+esc(m==='sort'?(labels[a.replace(/^-/,'')]||a)+(a.startsWith('-')?'، بیشترین':'، کمترین'):fmt(a))+'</option>').join('')+'</select></label>';
+  const offersSeller=p.kind==='offers'&&k==='seller';
+  return '<label>'+esc(offersSeller?'نمایش':label)+'<select data-c="'+esc(c)+'">'+(['pick','has'].includes(m)?'<option value="">'+(offersSeller?'مقایسهٔ همهٔ فروشنده‌ها':'همه')+'</option>':'')+vals.map(a=>'<option value="'+esc(a)+'" '+(String(a)===String(v)?'selected':'')+'>'+esc(m==='sort'?(labels[a.replace(/^-/,'')]||a)+(a.startsWith('-')?'، بیشترین':'، کمترین'):offersSeller?'تاریخچهٔ '+a:fmt(a))+'</option>').join('')+'</select></label>';
  }).join('');
 }
 function coverUrl(p,file){
@@ -25,9 +26,24 @@ export function spotlight(p,v){
   <span><small>${esc(g.name)}</small><strong>${fmt(g.value)} <em>${g.metric==='views'?'بازدید':'تعامل'}</em></strong><b>${esc(g.title)}</b></span></a>`).join('')+'</div>';
 }
 const external=(url,t)=>/^https:\/\//.test(url)?'<a href="'+esc(url)+'" rel="noreferrer">'+esc(t)+'</a>':esc(t);
+function observationTime(value){
+ if(!value)return '';
+ const detailed=value.includes('T');
+ return new Intl.DateTimeFormat('fa-IR',{timeZone:'UTC',dateStyle:'long',...(detailed?{timeStyle:'short'}:{})}).format(new Date(value))+(detailed?' (UTC)':'');
+}
+function offerSummary(v){
+ const f=v.facts;
+ const heading=f.sellers?'اول '+f.lowest.join(' یا ')+' را بررسی کنید':'قیمت قابل مقایسه ثبت نشده است';
+ const comparison=f.sellers?'کمترین قیمت ثبت‌شده '+fmt(f.minimum)+' تومان بود. '+(f.sellers>1?'فاصلهٔ ارزان‌ترین تا گران‌ترین پیشنهاد بین '+fmt(f.sellers)+' فروشنده، '+fmt(f.spread)+' تومان بود.':'فقط یک فروشنده قیمت قابل مقایسه داشت.'):'';
+ const latest=f.newerCheck||!f.sellers?'<p>آخرین پایش ثبت‌شده · '+esc(observationTime(f.latest))+' · '+esc(f.latestStatus)+(f.newerCheck?'؛ قیمت تازه‌ای برای سنجش تغییر ثبت نشد.':'')+'</p>':'';
+ const title=v.historySeller?'تاریخچهٔ '+v.historySeller:'پیشنهادها از ارزان‌ترین به گران‌ترین';
+ return '<section class="finding"><h3>'+esc(heading)+'</h3><p>'+esc(comparison)+'</p>'+(f.observed?'<small>زمان ثبت پیشنهادها · '+esc(observationTime(f.observed))+'</small>':'')+latest+'<p>'+external(f.source,'بررسی قیمت و شرایط خرید در ترب ←')+'</p></section><h3>'+esc(title)+'</h3>';
+}
 export function result(p,v,saved={},answers={}){
- const {columns,rows,groups,note}=v;
+ const {rows,groups,note}=v;
+ const columns=p.kind==='offers'?(v.historySeller?['observed','stock','price']:['seller','price','premium']):v.columns;
  const cell=(r,k)=>{
+  if(p.kind==='offers'&&k==='observed')return esc(observationTime(r.observed));
   if(p.kind==='attention'&&k==='title')return `<a class="garment" href="${esc(r.link)}"><img loading="lazy" src="${esc(coverUrl(p,r.cover))}" alt="کاور ${esc(r.model)}" width="60" height="76"><span>${esc(r.model)}<small>${esc(r.format)}</small></span></a>`;
   if(p.kind==='attention'&&k==='views'&&r.format!=='ریل')return '—';
   if(k==='url')return external(r.url,'صفحهٔ کالا');
@@ -37,7 +53,7 @@ export function result(p,v,saved={},answers={}){
   if(k==='answer')return '<input data-answer="'+esc(r.id)+'" aria-label="پاسخ '+esc(r.question)+'" value="'+esc(answers[r.id]??r.answer)+'">';
   return esc(fmt(r[k]));
  };
- const summary=p.kind==='attention'?'':groups.map(g=>'<article class="finding"><strong>'+esc(g.name)+'</strong><p>'+esc(g.text)+'</p></article>').join('');
+ const summary=p.kind==='offers'?offerSummary(v):p.kind==='attention'?'':groups.map(g=>'<article class="finding"><strong>'+esc(g.name)+'</strong><p>'+esc(g.text)+'</p></article>').join('');
  let map='';
  if(p.kind==='map'&&rows.length){
   const coordinates=rows.map(r=>[r.lat,r.lon]);

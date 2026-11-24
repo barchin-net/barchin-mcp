@@ -7,24 +7,23 @@
     "caps": [
       "torob-product-sellers"
     ],
-    "description": "کالا و فروشنده را انتخاب کنید و روند قیمت و موجودی پیشنهاد را به CSV بگیرید.",
-    "method": "مقایسه فقط در یک ترکیب کالا و فروشنده است. خانهٔ خالی در نوبت پایش، ناموجود بودن کالا را ثابت نمی‌کند.",
+    "description": "برای هر کالا ببینید کدام فروشنده را اول بررسی کنید، اختلاف قیمت پیشنهادها چقدر است و در پایش بعدی چه چیزی ثبت شد.",
+    "method": "فقط پیشنهادهای موجودِ همان کالا در یک نوبت برداشت با هم مقایسه می‌شوند. اختلاف با کمترین قیمت به تومان است. هزینهٔ ارسال و شرایط ضمانت در داده ثبت نشده‌اند. برای تصمیم خرید، پیشنهاد را در ترب دوباره بررسی کنید.",
     "columns": [
       "product",
       "seller",
-      "date",
       "price",
-      "stock",
+      "premium",
       "observed",
       "link"
     ],
     "controls": [
       "one:product",
-      "one:seller"
+      "pick:seller"
     ],
-    "kind": "history",
+    "kind": "offers",
     "csv": true,
-    "adapt": "Add a weekly seller comparison and keep missed checks distinct from out-of-stock offers."
+    "adapt": "Start with a product URL and a bounded torob-product-sellers run. Store one capture time per run, product, seller, price in toman, availability and source. Compare available offers within one capture. Only notify a price change after two positive observed prices for the same seller and product. Keep failed checks in the history."
   },
   {
     "id": 3,
