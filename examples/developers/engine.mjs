@@ -1,6 +1,6 @@
 // A shared, deterministic view model for the CLI, static HTML and browser demo.
 export const labels = {
- record:'شاهد انتشار',
+ engagement:'تعامل',record:'شاهد انتشار',
  product:'کالا',seller:'فروشنده',date:'تاریخ',price:'قیمت (تومان)',stock:'وضعیت موجودی',url:'نشانی کالا',amount:'مقدار',currency:'واحد',attributes:'ویژگی‌ها',
  topic:'موضوع',story:'گروه پوشش',summary:'خلاصه',source:'منبع',published:'زمان انتشار',observed:'زمان مشاهده',link:'پیوند منبع',original:'قیمت اصلی (تومان)',discounted:'قیمت نهایی (تومان)',percent:'تخفیف (درصد)',
  category:'دسته',brand:'برند',rating:'امتیاز',city:'شهر',count:'تعداد',sellers:'تعداد فروشنده',floorPrice:'کمترین قیمت (تومان)',title:'عنوان',model:'مدل',year:'سال ساخت',km:'کارکرد (کیلومتر)',market:'بازار (تومان)',dealerPrice:'نمایندگی (تومان)',dealer:'نمایشگاه',id:'شناسه',area:'محله',size:'متراژ',deposit:'ودیعه (تومان)',rent:'اجارهٔ ماهانه (تومان)',unitPrice:'قیمت هر متر (تومان)',role:'نقش شغلی',work:'شیوهٔ همکاری',skills:'مهارت‌ها',skill:'مهارت',item:'قلم',time:'زمان مشاهده',route:'مسیر',travelDate:'تاریخ سفر',cabin:'کلاس',airline:'ایرلاین',hotel:'هتل',stars:'ستاره',window:'بازهٔ جست‌وجو',night:'قیمت اقامت (تومان)',amenities:'امکانات',stay:'اقامتگاه',status:'وضعیت',name:'نام',lat:'عرض جغرافیایی',lon:'طول جغرافیایی',match:'نتیجهٔ تطبیق',format:'قالب',views:'بازدید',likes:'پسند',comments:'نظر',question:'پرسش',answer:'پاسخ پیشنهادی',channel:'کانال',week:'هفته از',before:'قیمت پیشین (تومان)',after:'قیمت جدید (تومان)',from:'از تاریخ',to:'تا تاریخ',base:'تصویر اولیه',next:'تصویر مقایسه',evidence:'شواهد',min:'کمینه',median:'میانه',max:'بیشینه',total:'اندازهٔ نمونه',group:'گروه',branch:'شاخه',change:'تغییر',dates:'تأیید تاریخ'
@@ -38,6 +38,19 @@ export function view(p,data,state){
   if(mode==='columns')columns=v;
  }
  let groups=[],note='';
+ if(p.kind==='attention'){
+  for(const row of rows){
+   row.engagement=Number.isFinite(row.likes)&&Number.isFinite(row.comments)?row.likes+row.comments:null;
+  }
+  for(const [metric,name] of [['engagement','بیشترین تعامل'],['views','پربازدیدترین ریل']]){
+   const eligible=rows.filter(row=>Number.isFinite(row[metric])&&(metric!=='views'||row.format==='ریل'));
+   if(!eligible.length)continue;
+   const value=Math.max(...eligible.map(row=>row[metric]));
+   for(const row of eligible.filter(row=>row[metric]===value)){
+    groups.push({name,metric,value,title:row.title,cover:row.cover,link:row.link});
+   }
+  }
+ }
  if(p.kind==='discount'){
   rows=rows.map(r=>({...r,percent:r.original>0&&r.discounted!=null?+(100*(r.original-r.discounted)/r.original).toFixed(1):null}));columns.push('percent');
  }

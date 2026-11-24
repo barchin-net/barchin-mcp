@@ -3,7 +3,12 @@ const storageKey='barchin-dev-recorded-v1-'+project.slug;
 let memory={saved:{},answers:{}};
 try{memory=JSON.parse(localStorage.getItem(storageKey))||memory}catch{}
 const persist=()=>{try{localStorage.setItem(storageKey,JSON.stringify(memory))}catch{}};
-function update(){root.innerHTML=result(project,view(project,sample,state),memory.saved,memory.answers);}
+function update(){
+ const v=view(project,sample,state);
+ root.innerHTML=result(project,v,memory.saved,memory.answers);
+ const leaders=document.getElementById('spotlight');
+ if(leaders)leaders.innerHTML=spotlight(project,v);
+}
 filters.addEventListener('input',e=>{
  const input=e.target,c=input.dataset.c;if(!c)return;
  state[c]=input.type==='checkbox'?[...filters.elements].filter(i=>i.dataset.c===c&&i.checked).map(i=>i.value):input.value;

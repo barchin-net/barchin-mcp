@@ -581,23 +581,23 @@
     "caps": [
       "instagram-insights"
     ],
-    "description": "محتوای نمونه را انتخاب کنید و قالب، تاریخ انتشار و شمارنده‌های موجود را کنار هم ببینید.",
-    "method": "نمایش ثبت‌نشده نامشخص می‌ماند. تعداد پخش ریل و پسند پست دو معیار متفاوت‌اند.",
+    "description": "مدل‌های لباس مشکات دیزاین را با کاور، پسند، نظر و بازدید ریل مقایسه کنید و ببینید کدام انتشار بیشترین تعامل را گرفته است.",
+    "method": "تعامل هر انتشار برابر مجموع پسند و نظر عمومی آن است. هر پست یا ریل جدا سنجیده می‌شود؛ مدل‌های مشترک را می‌توانید با هم انتخاب کنید. بازدید فقط بین ریل‌ها مقایسه می‌شود. زمان انتشارها متفاوت است و این شمارنده‌ها تعداد خریداران یا افراد یکتا را نشان نمی‌دهند.",
     "columns": [
       "title",
-      "format",
-      "published",
-      "views",
+      "engagement",
       "likes",
       "comments",
-      "observed",
+      "views",
+      "published",
       "link"
     ],
     "controls": [
       "multi:title",
-      "pick:format"
+      "pick:format",
+      "sort:-engagement,-views,-comments,-likes"
     ],
-    "kind": "rows",
+    "kind": "attention",
     "adapt": "Add an observation window and count how many items actually report each metric."
   },
   {

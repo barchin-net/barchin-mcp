@@ -15,10 +15,21 @@ export function controls(p,d,s){
   return '<label>'+esc(label)+'<select data-c="'+esc(c)+'">'+(['pick','has'].includes(m)?'<option value="">همه</option>':'')+vals.map(a=>'<option value="'+esc(a)+'" '+(String(a)===String(v)?'selected':'')+'>'+esc(m==='sort'?(labels[a.replace(/^-/,'')]||a)+(a.startsWith('-')?'، بیشترین':'، کمترین'):fmt(a))+'</option>').join('')+'</select></label>';
  }).join('');
 }
+function coverUrl(p,file){
+ return (p.coverBase||'/assets/developer-covers/')+encodeURIComponent(file);
+}
+export function spotlight(p,v){
+ if(p.kind!=='attention'||!v.groups.length)return '';
+ return '<div class="leaders">'+v.groups.map(g=>`<a class="leader" href="${esc(g.link)}" rel="noreferrer">
+  <img src="${esc(coverUrl(p,g.cover))}" alt="${esc(g.title)}" width="96" height="116">
+  <span><small>${esc(g.name)}</small><strong>${fmt(g.value)} <em>${g.metric==='views'?'بازدید':'تعامل'}</em></strong><b>${esc(g.title)}</b></span></a>`).join('')+'</div>';
+}
 const external=(url,t)=>/^https:\/\//.test(url)?'<a href="'+esc(url)+'" rel="noreferrer">'+esc(t)+'</a>':esc(t);
 export function result(p,v,saved={},answers={}){
  const {columns,rows,groups,note}=v;
  const cell=(r,k)=>{
+  if(p.kind==='attention'&&k==='title')return `<a class="garment" href="${esc(r.link)}"><img loading="lazy" src="${esc(coverUrl(p,r.cover))}" alt="کاور ${esc(r.model)}" width="60" height="76"><span>${esc(r.model)}<small>${esc(r.format)}</small></span></a>`;
+  if(p.kind==='attention'&&k==='views'&&r.format!=='ریل')return '—';
   if(k==='url')return external(r.url,'صفحهٔ کالا');
   if(k==='record')return r.record?external(r.record,'اطلاعیهٔ ناشر'):'—';
   if(k==='link')return r.link?external(r.link,'باز کردن منبع'):'نامشخص';
@@ -26,7 +37,7 @@ export function result(p,v,saved={},answers={}){
   if(k==='answer')return '<input data-answer="'+esc(r.id)+'" aria-label="پاسخ '+esc(r.question)+'" value="'+esc(answers[r.id]??r.answer)+'">';
   return esc(fmt(r[k]));
  };
- const summary=groups.map(g=>'<article class="finding"><strong>'+esc(g.name)+'</strong><p>'+esc(g.text)+'</p></article>').join('');
+ const summary=p.kind==='attention'?'':groups.map(g=>'<article class="finding"><strong>'+esc(g.name)+'</strong><p>'+esc(g.text)+'</p></article>').join('');
  let map='';
  if(p.kind==='map'&&rows.length){
   const coordinates=rows.map(r=>[r.lat,r.lon]);
@@ -37,6 +48,15 @@ export function result(p,v,saved={},answers={}){
  return '<p role="status">'+(note?esc(note):fmt(rows.length)+' ردیف در این انتخاب')+'</p>'+summary+map+(rows.length&&columns.length?'<div class="scroll" tabindex="0" aria-label="جدول نتیجه"><table><thead><tr>'+columns.map(k=>'<th scope="col">'+esc(labels[k]||k)+'</th>').join('')+(p.save?'<th>فهرست من</th>':'')+'</tr></thead><tbody>'+rows.map((r,i)=>'<tr id="point-'+i+'" tabindex="-1">'+columns.map(k=>'<td dir="auto">'+cell(r,k)+'</td>').join('')+(p.save?'<td><button type="button" data-save="'+esc(r.id)+'" aria-pressed="'+Boolean(saved[r.id])+'">'+(saved[r.id]?'حذف از فهرست':'ذخیره')+'</button></td>':'')+'</tr>').join('')+'</tbody></table></div>':(!note?'<p>برای دیدن نتیجه، انتخاب‌ها را تغییر دهید.</p>':''))+(p.save?'<p>ذخیره‌شده‌ها در این مرورگر · '+esc(Object.keys(saved).filter(k=>saved[k]).map(k=>saved[k]).join('، ')||'خالی')+'</p>':'');
 }
 export function demo(p,d){
- const s=initial(p,d);
- return '<section class="demo" aria-labelledby="demo"><h2 id="demo">دموی پروژه</h2><p>'+esc(d.provenance)+'</p><p class="quiet">قابلیت منبع · '+p.caps.map(k=>'<a href="'+capUrl(k)+'"><bdi>'+esc(k)+'</bdi></a>').join(' و ')+' · نسخهٔ نمونه '+fmt(d.version)+' · زمان تهیهٔ بسته <bdi>'+esc(d.time)+'</bdi></p><form id="filters" onsubmit="return false">'+controls(p,d,s)+'</form><div id="results">'+result(p,view(p,d,s))+'</div>'+(p.csv||p.kind==='faq'?'<button id="export" type="button">'+(p.csv?'دانلود CSV انتخاب‌شده':'دانلود پیش‌نویس FAQ')+'</button>':'')+'</section>';
+ const s=initial(p,d),v=view(p,d,s);
+ const source=p.caps.map(k=>`<a href="${capUrl(k)}"><bdi>${esc(k)}</bdi></a>`).join(' و ');
+ return `<section class="demo panel" aria-labelledby="demo">
+  <div class="demo-head"><h2 id="demo">دموی پروژه</h2><span class="caps">${source}</span></div>
+  <p class="source-note">${esc(d.provenance)}</p>
+  ${p.kind==='attention'?'<div id="spotlight">'+spotlight(p,v)+'</div>':''}
+  <form id="filters" onsubmit="return false">${controls(p,d,s)}</form>
+  <div id="results"${p.kind==='attention'?' class="comparison"':''}>${result(p,v)}</div>
+  ${p.csv||p.kind==='faq'?'<button class="btn btn-ghost" id="export" type="button">'+(p.csv?'دانلود CSV انتخاب‌شده':'دانلود پیش‌نویس FAQ')+'</button>':''}
+  <p class="data-time">نسخهٔ داده ${fmt(d.version)} · ثبت بسته <time dir="ltr">${esc(d.time)}</time></p>
+ </section>`;
 }
