@@ -1,0 +1,41 @@
+{
+  "columns": [
+    "url",
+    "product",
+    "original",
+    "discounted",
+    "percent"
+  ],
+  "rows": [
+    {
+      "url": "https://shop.example/p/cup",
+      "product": "ماگ",
+      "original": 500000,
+      "discounted": 400000,
+      "percent": 20
+    },
+    {
+      "url": "https://shop.example/p/box",
+      "product": "جعبه",
+      "original": 250000,
+      "discounted": 230000,
+      "percent": 8
+    },
+    {
+      "url": "https://shop.example/p/pen",
+      "product": "خودنویس",
+      "original": null,
+      "discounted": 320000,
+      "percent": null
+    },
+    {
+      "url": "https://shop.example/p/lamp",
+      "product": "چراغ",
+      "original": 680000,
+      "discounted": null,
+      "percent": null
+    }
+  ],
+  "groups": [],
+  "note": ""
+}

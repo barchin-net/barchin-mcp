@@ -1,0 +1,34 @@
+{
+  "columns": [
+    "product",
+    "seller",
+    "city",
+    "price",
+    "rating"
+  ],
+  "rows": [
+    {
+      "product": "عسل ۵۰۰ گرمی",
+      "seller": "غرفهٔ کاج",
+      "city": "رشت",
+      "price": 220000,
+      "rating": 4.6
+    },
+    {
+      "product": "عسل ۵۰۰ گرمی",
+      "seller": "غرفهٔ سبز",
+      "city": "رشت",
+      "price": 232000,
+      "rating": 4.8
+    },
+    {
+      "product": "عسل ۵۰۰ گرمی",
+      "seller": "غرفهٔ برگ",
+      "city": "لاهیجان",
+      "price": 240000,
+      "rating": null
+    }
+  ],
+  "groups": [],
+  "note": ""
+}

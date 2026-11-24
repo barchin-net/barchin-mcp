@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "provenance": "نمونهٔ آموزشی تألیفی برچین؛ نام‌ها، اعداد و زمان‌ها برای نمایش رفتار برنامه ساخته شده‌اند.",
+  "time": "2026-11-24T21:28+00:00",
+  "rows": [
+    {
+      "title": "معرفی محصول",
+      "format": "پست",
+      "published": "2026-11-20",
+      "views": null,
+      "likes": 85,
+      "comments": 12
+    },
+    {
+      "title": "آموزش کوتاه",
+      "format": "ریل",
+      "published": "2026-11-22",
+      "views": 1800,
+      "likes": 122,
+      "comments": 17
+    },
+    {
+      "title": "پشت صحنه",
+      "format": "ریل",
+      "published": "2026-11-24",
+      "views": 920,
+      "likes": null,
+      "comments": 6
+    },
+    {
+      "title": "پرسش هفته",
+      "format": "پست",
+      "published": "2026-11-24",
+      "views": null,
+      "likes": 73,
+      "comments": 22
+    }
+  ]
+}

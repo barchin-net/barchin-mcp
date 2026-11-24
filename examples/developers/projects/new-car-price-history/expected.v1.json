@@ -1,0 +1,30 @@
+{
+  "columns": [
+    "model",
+    "date",
+    "market",
+    "dealerPrice"
+  ],
+  "rows": [
+    {
+      "model": "شاهین",
+      "date": "2026-11-20",
+      "market": 720000000,
+      "dealerPrice": 660000000
+    },
+    {
+      "model": "شاهین",
+      "date": "2026-11-22",
+      "market": 730000000,
+      "dealerPrice": null
+    },
+    {
+      "model": "شاهین",
+      "date": "2026-11-24",
+      "market": 728000000,
+      "dealerPrice": 660000000
+    }
+  ],
+  "groups": [],
+  "note": ""
+}

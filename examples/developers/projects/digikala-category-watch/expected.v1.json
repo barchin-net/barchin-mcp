@@ -1,0 +1,41 @@
+{
+  "columns": [
+    "id",
+    "title",
+    "before",
+    "after",
+    "change"
+  ],
+  "rows": [
+    {
+      "id": "A",
+      "title": "آشپزخانه · مدل یک",
+      "before": 900000,
+      "after": null,
+      "change": "حذف از نمونه"
+    },
+    {
+      "id": "B",
+      "title": "آشپزخانه · مدل دو",
+      "before": 750000,
+      "after": null,
+      "change": "حذف از نمونه"
+    },
+    {
+      "id": "C",
+      "title": "آشپزخانه · مدل سه",
+      "before": null,
+      "after": 790000,
+      "change": "اضافه شده"
+    },
+    {
+      "id": "D",
+      "title": "آشپزخانه · مدل چهار",
+      "before": null,
+      "after": 950000,
+      "change": "اضافه شده"
+    }
+  ],
+  "groups": [],
+  "note": ""
+}

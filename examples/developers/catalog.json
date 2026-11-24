@@ -1,0 +1,611 @@
+[
+  {
+    "id": 1,
+    "slug": "torob-price-history",
+    "title": "داشبورد تاریخچهٔ قیمت و موجودی ترب",
+    "category": "تجارت",
+    "caps": [
+      "torob-product-sellers"
+    ],
+    "description": "کالا و فروشنده را انتخاب کنید و روند قیمت و موجودی پیشنهاد را به CSV بگیرید.",
+    "method": "مقایسه فقط در یک ترکیب کالا و فروشنده است. خانهٔ خالی در نوبت پایش، ناموجود بودن کالا را ثابت نمی‌کند.",
+    "columns": [
+      "product",
+      "seller",
+      "date",
+      "price",
+      "stock"
+    ],
+    "controls": [
+      "one:product",
+      "one:seller"
+    ],
+    "kind": "history",
+    "csv": true,
+    "adapt": "Add a weekly seller comparison and keep missed checks distinct from out-of-stock offers."
+  },
+  {
+    "id": 3,
+    "slug": "storefront-catalog",
+    "title": "ساخت کاتالوگ محصول از لینک فروشگاه",
+    "category": "تجارت",
+    "caps": [
+      "e-commerce-scraping-tool"
+    ],
+    "description": "لینک‌های نمونه و ستون‌های موردنیاز را انتخاب کنید و کاتالوگ کالا را به CSV ببرید.",
+    "method": "ارز هر ردیف مستقل است. ویژگی‌ها از صفحهٔ همان کالا می‌آیند و مقدار نامشخص در خروجی حفظ می‌شود.",
+    "columns": [
+      "url",
+      "product",
+      "amount",
+      "currency",
+      "stock",
+      "attributes"
+    ],
+    "controls": [
+      "multi:url",
+      "columns"
+    ],
+    "kind": "rows",
+    "csv": true,
+    "adapt": "Add SKU and brand as selectable columns and retain the currency on mixed-currency exports."
+  },
+  {
+    "id": 5,
+    "slug": "discount-report",
+    "title": "گزارش تخفیف لینک‌های محصول",
+    "category": "تجارت",
+    "caps": [
+      "price-check"
+    ],
+    "description": "لینک‌های کالا را انتخاب کنید و تخفیف قابل محاسبه را مرتب ببینید.",
+    "method": "درصد برابر است با صد ضربدر اختلاف دو قیمت تقسیم بر قیمت اصلی. نبود یکی از دو مقدار، تخفیف نامشخص می‌دهد.",
+    "columns": [
+      "url",
+      "product",
+      "original",
+      "discounted"
+    ],
+    "controls": [
+      "multi:url",
+      "sort:-percent,percent"
+    ],
+    "kind": "discount",
+    "adapt": "Add a minimum discount filter and keep unknown original prices outside the ranking."
+  },
+  {
+    "id": 6,
+    "slug": "digikala-category-watch",
+    "title": "پایش دسته‌بندی دیجی‌کالا",
+    "category": "تجارت",
+    "caps": [
+      "digikala-category-tree",
+      "digikala-scraper"
+    ],
+    "description": "شاخه و زیرشاخه را انتخاب و دو برداشت را برای ورود، خروج و تغییر قیمت کالا مقایسه کنید.",
+    "method": "شناسهٔ کالا در همان زیرشاخه مبنای تطبیق است. خروج از نمونه فقط به معنی دیده‌نشدن در برداشت دوم است.",
+    "columns": [
+      "branch",
+      "category",
+      "date",
+      "id",
+      "title",
+      "price"
+    ],
+    "controls": [
+      "one:branch",
+      "one:category",
+      "base:date",
+      "next:date"
+    ],
+    "kind": "snapshot",
+    "tree": true,
+    "adapt": "Add a third dated category snapshot and an export of added and removed product IDs."
+  },
+  {
+    "id": 7,
+    "slug": "basalam-vendor-offers",
+    "title": "مقایسهٔ پیشنهاد غرفه‌های باسلام",
+    "category": "تجارت",
+    "caps": [
+      "basalam-vendor-prices"
+    ],
+    "description": "گروه محصول و شهر غرفه را انتخاب کنید و پیشنهادهای منتشرشده را به ترتیب قیمت یا امتیاز ببینید.",
+    "method": "هر ردیف یک پیشنهاد در همان گروه محصول است. هزینهٔ ارسال وارد مقایسهٔ قیمت نشده است.",
+    "columns": [
+      "product",
+      "seller",
+      "city",
+      "price",
+      "rating"
+    ],
+    "controls": [
+      "one:product",
+      "pick:city",
+      "sort:price,-rating"
+    ],
+    "kind": "rows",
+    "adapt": "Add a shipping-cost column and compare total cost only where shipping is known."
+  },
+  {
+    "id": 13,
+    "slug": "torob-category-coverage",
+    "title": "پوشش فروشندگان در دسته‌های ترب",
+    "category": "تجارت",
+    "caps": [
+      "torob-category-browser"
+    ],
+    "description": "دسته را انتخاب و کالاها را با تعداد فروشنده و کمترین قیمت مشاهده‌شده بررسی کنید.",
+    "method": "تعداد فروشندگان و کمترین قیمت به همان برداشت تعلق دارند. شمارش کالاهای این نمونه نمایندهٔ کل دسته نیست.",
+    "columns": [
+      "category",
+      "product",
+      "sellers",
+      "floorPrice"
+    ],
+    "controls": [
+      "one:category",
+      "pick:product",
+      "sort:-sellers,floorPrice"
+    ],
+    "kind": "rows",
+    "adapt": "Add a seller-count threshold and let the user drill into the selected product."
+  },
+  {
+    "id": 21,
+    "slug": "divar-listing-watch",
+    "title": "دیده‌بان آگهی‌های دیوار",
+    "category": "آگهی و خودرو",
+    "caps": [
+      "divar-scraper"
+    ],
+    "description": "شهر، دسته و سقف قیمت را تعیین کنید و آگهی‌ها را برای مراجعهٔ بعدی ذخیره کنید.",
+    "method": "نشان‌کردن فقط در همین مرورگر ذخیره می‌شود. قیمت توافقی از فیلتر عددی خارج است.",
+    "columns": [
+      "id",
+      "title",
+      "city",
+      "category",
+      "price"
+    ],
+    "controls": [
+      "pick:city",
+      "pick:category",
+      "max:price"
+    ],
+    "kind": "rows",
+    "save": true,
+    "adapt": "Add notes to saved listings and export the shortlist without contact information."
+  },
+  {
+    "id": 23,
+    "slug": "divar-bama-car-comparison",
+    "title": "مقایسهٔ خودروی کارکرده در دیوار و باما",
+    "category": "آگهی و خودرو",
+    "caps": [
+      "divar-scraper",
+      "bama-scraper"
+    ],
+    "description": "مدل، سال و کارکرد را محدود کنید و قیمت پیشنهادی دو منبع را کنار هم ببینید.",
+    "method": "مدل یکسان و محدودهٔ سال و کارکرد معیار قیاس‌اند. هر آگهی مستقل است و قیمت پیشنهادی با مبلغ معامله فرق دارد.",
+    "columns": [
+      "model",
+      "year",
+      "km",
+      "source",
+      "price"
+    ],
+    "controls": [
+      "one:model",
+      "min:year",
+      "max:year",
+      "min:km",
+      "max:km"
+    ],
+    "kind": "rows",
+    "adapt": "Add a trim filter and compare medians only within identical model and mileage bands."
+  },
+  {
+    "id": 24,
+    "slug": "new-car-price-history",
+    "title": "تاریخچهٔ قیمت منتشرشدهٔ خودروی صفر",
+    "category": "آگهی و خودرو",
+    "caps": [
+      "bama-scraper"
+    ],
+    "description": "مدل و بازهٔ زمانی را انتخاب کنید و قیمت بازار و نمایندگی را در تاریخ‌های یکسان بخوانید.",
+    "method": "هر تاریخ یک نوبت برداشت دارد. قیمت اعلام‌نشدهٔ نمایندگی خالی است و از روز پیش پر نمی‌شود.",
+    "columns": [
+      "model",
+      "date",
+      "market",
+      "dealerPrice"
+    ],
+    "controls": [
+      "one:model",
+      "from:date",
+      "to:date"
+    ],
+    "kind": "rows",
+    "adapt": "Chart the gap between market and dealership prices, leaving missing quotes as gaps."
+  },
+  {
+    "id": 25,
+    "slug": "bama-dealer-inventory",
+    "title": "تغییر موجودی آگهی‌های نمایشگاه باما",
+    "category": "آگهی و خودرو",
+    "caps": [
+      "bama-dealer-ads"
+    ],
+    "description": "نمایشگاه و دو تاریخ را انتخاب کنید تا آگهی‌های جدید، حذف‌شده و تغییر قیمت را ببینید.",
+    "method": "مقایسه برای یک نمایشگاه و بر اساس شناسهٔ آگهی است. حذف از نمونه، فروش خودرو را ثابت نمی‌کند.",
+    "columns": [
+      "dealer",
+      "date",
+      "id",
+      "title",
+      "price"
+    ],
+    "controls": [
+      "one:dealer",
+      "base:date",
+      "next:date"
+    ],
+    "kind": "snapshot",
+    "adapt": "Add a dealer-level change summary keyed by stable listing IDs."
+  },
+  {
+    "id": 28,
+    "slug": "neighborhood-rent",
+    "title": "مقایسهٔ ودیعه و اجاره بر اساس محله و متراژ",
+    "category": "آگهی و خودرو",
+    "caps": [
+      "kilid-scraper"
+    ],
+    "description": "محله و متراژ را محدود کنید و ودیعه و اجارهٔ ماهانهٔ هر آگهی را کنار هم ببینید.",
+    "method": "ودیعه و اجارهٔ ماهانه دو مبلغ جداگانه به تومان‌اند. تبدیل عرفی بین آن‌ها انجام نمی‌شود.",
+    "columns": [
+      "title",
+      "area",
+      "size",
+      "deposit",
+      "rent"
+    ],
+    "controls": [
+      "pick:area",
+      "min:size",
+      "max:size"
+    ],
+    "kind": "rows",
+    "adapt": "Add an elevator filter and show deposit and monthly rent in separate ranges."
+  },
+  {
+    "id": 29,
+    "slug": "asking-price-per-meter",
+    "title": "توزیع قیمت پیشنهادی هر متر ملک",
+    "category": "آگهی و خودرو",
+    "caps": [
+      "kilid-scraper"
+    ],
+    "description": "آگهی‌های فروش را فیلتر کنید و محاسبهٔ قیمت هر متر و توزیع محله‌ها را ببینید.",
+    "method": "قیمت کل به تومان تقسیم بر مساحت به مترمربع می‌شود. ردیف بدون قیمت یا مساحت معتبر از توزیع کنار می‌رود.",
+    "columns": [
+      "title",
+      "area",
+      "size",
+      "price"
+    ],
+    "controls": [
+      "pick:area",
+      "min:size",
+      "max:size"
+    ],
+    "kind": "distribution",
+    "adapt": "Show quartiles by neighborhood and the count of excluded rows with missing area or price."
+  },
+  {
+    "id": 31,
+    "slug": "persian-job-watch",
+    "title": "جست‌وجوی مشترک آگهی شغلی فارسی",
+    "category": "استخدام",
+    "caps": [
+      "jobvision-scraper",
+      "jobinja-scraper"
+    ],
+    "description": "عنوان، شهر و شیوهٔ همکاری را در نمونهٔ ترکیبی جست‌وجو کنید و آگهی اصلی را باز کنید.",
+    "method": "برچسب منبع هر آگهی حفظ می‌شود. نامشخص یعنی اطلاعات کافی در ردیف نمونه وجود ندارد.",
+    "columns": [
+      "title",
+      "city",
+      "work",
+      "source",
+      "link"
+    ],
+    "controls": [
+      "text:title",
+      "pick:city",
+      "pick:work"
+    ],
+    "kind": "rows",
+    "adapt": "Add a remote-work filter preset and retain the source URL when merging listings."
+  },
+  {
+    "id": 32,
+    "slug": "job-role-skills",
+    "title": "مهارت‌های پرتکرار یک نقش شغلی",
+    "category": "استخدام",
+    "caps": [
+      "jobvision-scraper"
+    ],
+    "description": "نقش را انتخاب کنید و تعداد آگهی‌های حاوی هر مهارت را همراه شواهد ببینید.",
+    "method": "هر مهارت در هر آگهی یک بار شمرده می‌شود. مخرج، تعداد آگهی‌های همان نقش در همین نمونه است.",
+    "columns": [
+      "role",
+      "title",
+      "skills",
+      "link"
+    ],
+    "controls": [
+      "one:role"
+    ],
+    "kind": "skills",
+    "adapt": "Add skill aliases and show a link to every listing counted for an alias."
+  },
+  {
+    "id": 41,
+    "slug": "currency-gold-board",
+    "title": "تابلوی نرخ ارز، سکه و طلا",
+    "category": "مالی",
+    "caps": [
+      "bonbast-rates",
+      "tgju-price-scraper"
+    ],
+    "description": "قلم، منبع و تاریخ را انتخاب کنید تا نرخ همراه واحد و زمان مشاهده نمایش داده شود.",
+    "method": "نرخ‌های منابع با واحد گزارش‌شده می‌آیند. مقایسهٔ ریال با تومان مستلزم تبدیل واحد است.",
+    "columns": [
+      "item",
+      "source",
+      "date",
+      "time",
+      "amount",
+      "currency"
+    ],
+    "controls": [
+      "one:item",
+      "pick:source",
+      "pick:date"
+    ],
+    "kind": "rows",
+    "adapt": "Add an explicit rial-to-toman display toggle that preserves the original quote alongside it."
+  },
+  {
+    "id": 45,
+    "slug": "flight-price-watch",
+    "title": "پایش قیمت پرواز یک مسیر",
+    "category": "سفر",
+    "caps": [
+      "alibaba-travel-scraper"
+    ],
+    "description": "مسیر و روز سفر را انتخاب کنید و نرخ شرکت‌ها را در نوبت‌های برداشت قابل قیاس ببینید.",
+    "method": "هر پیشنهاد برای یک بزرگسال، سفر یک‌طرفه و کابین اکونومی است. روز سفر و زمان مشاهده دو چیز متفاوت‌اند.",
+    "columns": [
+      "route",
+      "travelDate",
+      "cabin",
+      "airline",
+      "time",
+      "price"
+    ],
+    "controls": [
+      "one:route",
+      "one:travelDate",
+      "sort:price,-price"
+    ],
+    "kind": "rows",
+    "adapt": "Add a departure-time filter and compare only the same route, date and cabin."
+  },
+  {
+    "id": 48,
+    "slug": "city-hotel-shortlist",
+    "title": "فهرست کوتاه هتل‌های یک شهر",
+    "category": "سفر",
+    "caps": [
+      "snapptrip-hotel-scraper"
+    ],
+    "description": "شهر را تعیین کنید، هتل‌ها را مرتب کنید و گزینه‌های مناسب را برای بعد نگه دارید.",
+    "method": "نرخ نمایش‌داده‌شده برای بازهٔ جست‌وجوی درج‌شده و یک اتاق است. در منبع زنده ممکن است فقط بازهٔ پیش‌فرض سایت در دسترس باشد.",
+    "columns": [
+      "id",
+      "hotel",
+      "city",
+      "stars",
+      "night",
+      "window"
+    ],
+    "controls": [
+      "one:city",
+      "sort:night,-stars"
+    ],
+    "kind": "rows",
+    "save": true,
+    "adapt": "Add notes to the shortlist and attach the original rate window to each saved hotel."
+  },
+  {
+    "id": 50,
+    "slug": "stay-by-amenity",
+    "title": "انتخاب اقامتگاه با امکانات و بودجه",
+    "category": "سفر",
+    "caps": [
+      "jabama-scraper",
+      "jajiga-scraper"
+    ],
+    "description": "شهر، امکانات و سقف بودجه را تعیین کنید و قیمت‌های نامعلوم و تاریخ‌های تأییدنشده را ببینید.",
+    "method": "قیمت به تومان برای یک شب است. وجود قیمت در نمونه تأیید ظرفیت در تاریخ سفر نیست.",
+    "columns": [
+      "stay",
+      "city",
+      "amenities",
+      "night",
+      "dates",
+      "source"
+    ],
+    "controls": [
+      "pick:city",
+      "has:amenities",
+      "max:night"
+    ],
+    "kind": "rows",
+    "adapt": "Add a required-amenities checklist and a separate view for unconfirmed availability."
+  },
+  {
+    "id": 51,
+    "slug": "neighborhood-business-map",
+    "title": "نقشهٔ کسب‌وکارهای یک محله",
+    "category": "نقشه",
+    "caps": [
+      "neshan-search-scraper"
+    ],
+    "description": "صنف و محدوده را انتخاب کنید و از نقطهٔ نقشه به ردیف همان مکان بروید.",
+    "method": "نقشه، مختصات نمونه را روی شبکهٔ طول و عرض جغرافیایی نشان می‌دهد. نقاط و نام‌های این دمو فرضی‌اند.",
+    "columns": [
+      "name",
+      "category",
+      "area",
+      "lat",
+      "lon"
+    ],
+    "controls": [
+      "pick:category",
+      "pick:area"
+    ],
+    "kind": "map",
+    "adapt": "Add selection from the table back to the map and show the selected coordinates."
+  },
+  {
+    "id": 53,
+    "slug": "neshan-balad-coverage",
+    "title": "مقایسهٔ پوشش مکان‌ها در نشان و بلد",
+    "category": "نقشه",
+    "caps": [
+      "neshan-search-scraper",
+      "balad-places-scraper"
+    ],
+    "description": "صنف و محدودهٔ مشترک را فیلتر کنید و مکان‌های مشترک، تک‌منبع و مبهم را ببینید.",
+    "method": "نام، محله و صنف باید یکسان باشند. فقط یک جفت یکتا با فاصلهٔ تقریبی حداکثر ۱۵۰ متر تطبیق می‌گیرد. فاصله در این محدودهٔ کوچک به‌صورت محلی برآورد می‌شود.",
+    "columns": [
+      "name",
+      "category",
+      "area",
+      "lat",
+      "lon",
+      "source"
+    ],
+    "controls": [
+      "pick:category",
+      "pick:area"
+    ],
+    "kind": "match",
+    "adapt": "Expose the distance threshold and let a reviewer resolve ambiguous candidates."
+  },
+  {
+    "id": 61,
+    "slug": "persian-news-digest",
+    "title": "خبرنامهٔ روزانهٔ فارسی",
+    "category": "محتوا",
+    "caps": [
+      "persian-news-scraper"
+    ],
+    "description": "موضوع و روز انتشار را انتخاب کنید، خلاصهٔ پوشش هر موضوع را بخوانید و به خبر اصلی بروید.",
+    "method": "گروه‌بندی تحریری بر پایهٔ موضوع است. هر جمله به یک خبر مشخص پیوند دارد. زمان هر خبر، زمان انتشار ناشر است.",
+    "columns": [
+      "topic",
+      "date",
+      "story",
+      "summary",
+      "source",
+      "published",
+      "link"
+    ],
+    "controls": [
+      "pick:topic",
+      "pick:date"
+    ],
+    "kind": "digest",
+    "adapt": "Add a second publisher to a story group and export the digest with its original links."
+  },
+  {
+    "id": 65,
+    "slug": "instagram-format-comparison",
+    "title": "مقایسهٔ پست و ریل اینستاگرام",
+    "category": "محتوا",
+    "caps": [
+      "instagram-insights"
+    ],
+    "description": "محتوای نمونه را انتخاب کنید و قالب، تاریخ انتشار و شمارنده‌های موجود را کنار هم ببینید.",
+    "method": "نمایش ثبت‌نشده نامشخص می‌ماند. تعداد پخش ریل و پسند پست دو معیار متفاوت‌اند.",
+    "columns": [
+      "title",
+      "format",
+      "published",
+      "views",
+      "likes",
+      "comments"
+    ],
+    "controls": [
+      "multi:title",
+      "pick:format"
+    ],
+    "kind": "rows",
+    "adapt": "Add an observation window and count how many items actually report each metric."
+  },
+  {
+    "id": 66,
+    "slug": "instagram-comment-faq",
+    "title": "ساخت پیش‌نویس پرسش‌های متداول",
+    "category": "محتوا",
+    "caps": [
+      "instagram-comments"
+    ],
+    "description": "پرسش‌های هم‌موضوع را مرور کنید، پاسخ پیشنهادی را ویرایش کنید و FAQ را دریافت کنید.",
+    "method": "نظرها و پاسخ‌ها برای این دمو نوشته شده‌اند. هر ردیف تعداد پرسش‌های گروه و نمونهٔ عبارت‌های آن را نشان می‌دهد. پاسخ پیش از انتشار نیاز به بررسی دارد.",
+    "columns": [
+      "id",
+      "topic",
+      "question",
+      "evidence",
+      "count",
+      "answer"
+    ],
+    "controls": [
+      "pick:topic"
+    ],
+    "kind": "faq",
+    "csv": false,
+    "adapt": "Add approval status to each edited answer and export approved questions only."
+  },
+  {
+    "id": 67,
+    "slug": "telegram-weekly-digest",
+    "title": "خلاصهٔ هفتگی کانال‌های تلگرام",
+    "category": "محتوا",
+    "caps": [
+      "telegram-channel-scraper"
+    ],
+    "description": "کانال‌ها و هفته را انتخاب کنید و خلاصهٔ هر موضوع را با لینک پست‌های عمومی بخوانید.",
+    "method": "هفته از دوشنبه به وقت UTC گروه‌بندی شده است. متن‌ها خلاصهٔ تألیفی پست‌های منتخب‌اند و کل فعالیت کانال را پوشش نمی‌دهند.",
+    "columns": [
+      "channel",
+      "week",
+      "story",
+      "summary",
+      "published",
+      "link"
+    ],
+    "controls": [
+      "multi:channel",
+      "pick:week"
+    ],
+    "kind": "digest",
+    "adapt": "Add another channel and calculate weekly coverage by topic while preserving post links."
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "provenance": "گزیدهٔ دادهٔ عمومی آگهی‌ها از نمونه‌های ثبت‌شدهٔ اکتورهای برچین؛ فقط عنوان، فیلدهای لازم و لینک اصلی حفظ شده‌اند. آگهی ممکن است منقضی شود.",
+  "time": "2026-11-24T21:28+00:00",
+  "rows": [
+    {
+      "role": "رسانه",
+      "title": "خبرنگار - خانم",
+      "skills": [
+        "Adobe Indesign",
+        "Adobe Photoshop"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1506033"
+    },
+    {
+      "role": "توسعهٔ وب",
+      "title": "کارآموز برنامه‌نویسی · 1479989",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Angular",
+        "TypeScript",
+        "SQL",
+        "C#"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1479989"
+    },
+    {
+      "role": "توسعهٔ وب",
+      "title": "کارآموز برنامه‌نویسی · 1530650",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Angular",
+        "TypeScript",
+        "SQL",
+        "C#"
+      ],
+      "link": "https://www.jobvision.ir/jobs/1530650"
+    }
+  ]
+}

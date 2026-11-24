@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "provenance": "نمونهٔ آموزشی تألیفی برچین؛ نام‌ها، اعداد و زمان‌ها برای نمایش رفتار برنامه ساخته شده‌اند.",
+  "time": "2026-11-24T21:28+00:00",
+  "rows": [
+    {
+      "url": "https://shop.example/p/cup",
+      "product": "ماگ",
+      "original": 500000,
+      "discounted": 400000
+    },
+    {
+      "url": "https://shop.example/p/box",
+      "product": "جعبه",
+      "original": 250000,
+      "discounted": 230000
+    },
+    {
+      "url": "https://shop.example/p/pen",
+      "product": "خودنویس",
+      "original": null,
+      "discounted": 320000
+    },
+    {
+      "url": "https://shop.example/p/lamp",
+      "product": "چراغ",
+      "original": 680000,
+      "discounted": null
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "columns": [
+    "id",
+    "hotel",
+    "city",
+    "stars",
+    "night",
+    "window"
+  ],
+  "rows": [
+    {
+      "id": "0",
+      "hotel": "هتل یک",
+      "city": "شیراز",
+      "stars": 3,
+      "night": 1550000,
+      "window": "۲۰ تا ۲۱ نوامبر ۲۰۲۶ · ۱ شب"
+    },
+    {
+      "id": "1",
+      "hotel": "هتل دو",
+      "city": "شیراز",
+      "stars": 4,
+      "night": 2300000,
+      "window": "۲۰ تا ۲۱ نوامبر ۲۰۲۶ · ۱ شب"
+    }
+  ],
+  "groups": [],
+  "note": ""
+}

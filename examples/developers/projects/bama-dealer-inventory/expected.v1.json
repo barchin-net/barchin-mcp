@@ -1,0 +1,41 @@
+{
+  "columns": [
+    "id",
+    "title",
+    "before",
+    "after",
+    "change"
+  ],
+  "rows": [
+    {
+      "id": "A",
+      "title": "نمایشگاه سرو · مدل یک",
+      "before": 630000000,
+      "after": null,
+      "change": "حذف از نمونه"
+    },
+    {
+      "id": "B",
+      "title": "نمایشگاه سرو · مدل دو",
+      "before": 525000000,
+      "after": null,
+      "change": "حذف از نمونه"
+    },
+    {
+      "id": "C",
+      "title": "نمایشگاه سرو · مدل سه",
+      "before": null,
+      "after": 553000000,
+      "change": "اضافه شده"
+    },
+    {
+      "id": "D",
+      "title": "نمایشگاه سرو · مدل چهار",
+      "before": null,
+      "after": 665000000,
+      "change": "اضافه شده"
+    }
+  ],
+  "groups": [],
+  "note": ""
+}

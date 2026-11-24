@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "provenance": "نمونهٔ آموزشی تألیفی برچین؛ نام‌ها، اعداد و زمان‌ها برای نمایش رفتار برنامه ساخته شده‌اند.",
+  "time": "2026-11-24T21:28+00:00",
+  "rows": [
+    {
+      "url": "https://shop.example/catalog/cup",
+      "product": "فنجان لعابی",
+      "amount": 290000,
+      "currency": "تومان",
+      "stock": "موجود",
+      "attributes": "جنس لعاب‌دار، ۲۵۰ میلی‌لیتر"
+    },
+    {
+      "url": "https://shop.example/catalog/lamp",
+      "product": "چراغ مطالعه",
+      "amount": 7800000,
+      "currency": "ریال",
+      "stock": "موجود",
+      "attributes": "رنگ سبز، ۹ وات"
+    },
+    {
+      "url": "https://shop.example/catalog/bag",
+      "product": "کیف پارچه‌ای",
+      "amount": null,
+      "currency": "تومان",
+      "stock": "نامشخص",
+      "attributes": "پنبه، بند بلند"
+    }
+  ]
+}

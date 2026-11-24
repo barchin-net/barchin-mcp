@@ -1,0 +1,34 @@
+{
+  "columns": [
+    "product",
+    "seller",
+    "date",
+    "price",
+    "stock"
+  ],
+  "rows": [
+    {
+      "product": "آسیاب دستی",
+      "seller": "فروشگاه الف",
+      "date": "2026-11-20",
+      "price": 850000,
+      "stock": "موجود"
+    },
+    {
+      "product": "آسیاب دستی",
+      "seller": "فروشگاه الف",
+      "date": "2026-11-22",
+      "price": null,
+      "stock": "مشاهده نشده"
+    },
+    {
+      "product": "آسیاب دستی",
+      "seller": "فروشگاه الف",
+      "date": "2026-11-24",
+      "price": 875000,
+      "stock": "موجود"
+    }
+  ],
+  "groups": [],
+  "note": ""
+}

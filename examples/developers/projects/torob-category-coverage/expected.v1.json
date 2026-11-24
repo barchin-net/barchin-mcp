@@ -1,0 +1,30 @@
+{
+  "columns": [
+    "category",
+    "product",
+    "sellers",
+    "floorPrice"
+  ],
+  "rows": [
+    {
+      "category": "قهوه",
+      "product": "آسیاب دستی",
+      "sellers": 8,
+      "floorPrice": 850000
+    },
+    {
+      "category": "قهوه",
+      "product": "موکاپات",
+      "sellers": 4,
+      "floorPrice": 690000
+    },
+    {
+      "category": "قهوه",
+      "product": "فیلتر کاغذی",
+      "sellers": 2,
+      "floorPrice": 180000
+    }
+  ],
+  "groups": [],
+  "note": ""
+}

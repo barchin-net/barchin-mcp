@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "provenance": "نمونهٔ آموزشی تألیفی برچین؛ نام‌ها، اعداد و زمان‌ها برای نمایش رفتار برنامه ساخته شده‌اند.",
+  "time": "2026-11-24T21:28+00:00",
+  "rows": [
+    {
+      "category": "قهوه",
+      "product": "آسیاب دستی",
+      "sellers": 8,
+      "floorPrice": 850000
+    },
+    {
+      "category": "قهوه",
+      "product": "موکاپات",
+      "sellers": 4,
+      "floorPrice": 690000
+    },
+    {
+      "category": "قهوه",
+      "product": "فیلتر کاغذی",
+      "sellers": 2,
+      "floorPrice": 180000
+    },
+    {
+      "category": "چراغ",
+      "product": "چراغ رومیزی",
+      "sellers": 6,
+      "floorPrice": 970000
+    },
+    {
+      "category": "چراغ",
+      "product": "چراغ شارژی",
+      "sellers": 3,
+      "floorPrice": 620000
+    }
+  ]
+}
